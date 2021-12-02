@@ -1,9 +1,9 @@
 ---
 user-guide-title: Vídeos e Tutorials
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Commerce e do Magento Open Source.
-source-git-commit: fe3f7c31f35435eb8e131e84b3028cb9faa1e9c9
+source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -14,14 +14,14 @@ ht-degree: 0%
 + [[!DNL Commerce] Vídeos e Tutorials](overview.md)
 
 + Introdução {#getting-started}
-   + [!DNL Commerce] na infraestrutura em nuvem  {#cloud}
+   + [!DNL Commerce] na infraestrutura em nuvem {#cloud}
       + [1 - Visão geral](./cloud/1-overview.md)
       + [2 - Contas hospedadas](./cloud/2-accounts.md)
       + [3 - Projetos do Cloud](./cloud/3-projects.md)
       + [4 - Implantação](./cloud/4-deployment.md)
       + [5 - Desenvolvimento](./cloud/5-dev-config.md)
       + [6 - Serviços e DNS](./cloud/6-launch.md)
-   + [!DNL Commerce] para desenvolvedores  {#development}
+   + [!DNL Commerce] para desenvolvedores {#development}
       + [1.1 - Visão geral](./developer/backend-1-1-overview.md)
       + [1.2 - Fluxo de trabalho de desenvolvimento](./developer/backend-1-2-workflow.md)
       + [2 - Instalação](./developer/backend-2-install.md)
@@ -30,9 +30,9 @@ ht-degree: 0%
       + [5.1 - Noções básicas sobre desenvolvimento](./developer/backend-5-1-dev-basics.md)
       + [5.2 - Esquema declarativo](./developer/backend-5-2-declarative-schema.md)
       + [5.3 - Roteamento](./developer/backend-5-3-routing.md)
-      + [5.4 - Criar uma página  [!DNL Admin] ](./developer/backend-5-4-admin-page.md)
+      + [5.4 - Criar um [!DNL Admin] página](./developer/backend-5-4-admin-page.md)
       + [6 - Exercícios](./developer/backend-6-practice.md)
-   + [!DNL Commerce] para usuários empresariais  {#merchants}
+   + [!DNL Commerce] para usuários empresariais {#merchants}
       + [1.1 - [!DNL Admin] menus](./merchant/introduction/1-1-menus.md)
       + [1.2 - Grades de dados](./merchant/introduction/1-2-data-grids.md)
       + [1.3 - Escopos, sites e lojas](./merchant/introduction/1-3-apps-scopes-sites-stores.md)
@@ -55,6 +55,19 @@ ht-degree: 0%
       + [5.1 - Experiência de vitrine](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 - Gerenciamento do cliente](./merchant/introduction/5-2-customer-management.md)
       + [5.3 - Comunicações por email](./merchant/introduction/5-3-store-communications.md)
+   + [!DNL Business Intelligence] {#business-intelligence}
+      + [1 - Visão geral](./merchant/business-intelligence/1-overview.md)
+      + [2 - Data warehouse](./merchant/business-intelligence/2-data-warehousing.md)
+      + [3 - Criar relatórios](./merchant/business-intelligence/3-build-reports.md)
+      + [4 - Métricas](./merchant/business-intelligence/4-metrics.md)
+      + [5 - Relatórios padrão](./merchant/business-intelligence/5-standard-reports.md)
+      + [6 - Resumo executivo](./merchant/business-intelligence/6-executive-summary-dashboard.md)
+      + [7 - Painel de pedidos](./merchant/business-intelligence/7-orders-dashboard.md)
+      + [8 - Painéis focados no cliente](./merchant/business-intelligence/8-customer-focused-dashboards.md)
+      + [9 - Análise de categoria](./merchant/business-intelligence/9-category-analysis.md)
+      + [10 - Rastreamento do retorno do investimento](./merchant/business-intelligence/10-roi-tracking.md)
+      + [11 - Compartilhar resultados e exportar dados](./merchant/business-intelligence/11-share-results-export-data.md)
+      + [12 - Histórias de sucesso do cliente](./merchant/business-intelligence/12-customer-success.md)
 
 + Desenvolvimento de backend {#backend-development}
    + [Adicionar uma nova tabela a um banco de dados](./developer/add-new-db-table.md)
