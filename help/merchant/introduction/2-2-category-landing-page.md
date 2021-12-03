@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: 6bde407baafa262a5f82d7780e993c90463e62c5
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -30,12 +30,14 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as notas de versão [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de versão.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388/?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Conteúdo de categoria -  [!DNL Commerce] ](https://docs.magento.com/user-guide/catalog/categories-content-settings.html)
-[guia do usuárioConfigurações de exibição -  [!DNL Commerce] guia ](https://docs.magento.com/user-guide/catalog/categories-display-settings.html)
-[do usuárioConfigurações de design - Guia  [!DNL Commerce] do usuário](https://docs.magento.com/user-guide/catalog/categories-custom-design.html)
+[Conteúdo da categoria - [!DNL Commerce] guia do usuário](https://docs.magento.com/user-guide/catalog/categories-content-settings.html)
+
+[Configurações de exibição - [!DNL Commerce] guia do usuário](https://docs.magento.com/user-guide/catalog/categories-display-settings.html)
+
+[Configurações de design - [!DNL Commerce] guia do usuário](https://docs.magento.com/user-guide/catalog/categories-custom-design.html)
