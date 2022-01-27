@@ -1,9 +1,9 @@
 ---
 user-guide-title: Vídeos e Tutorials
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Commerce e do Magento Open Source.
-source-git-commit: 493b06415253fa1e79e18001c8c9f35efcec630d
+source-git-commit: 4b95e23e63895f52a5437eb7ce58146e91f23ebf
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
@@ -105,3 +105,5 @@ ht-degree: 0%
       + [6 - Peregrino](./pwa/introduction/6-peregrine.md)
    + [Desenvolvimento de docking station PWA](./pwa/pwa-docker-development.md)
    + [Criar Venia para desenvolvimento](pwa/set-up-venia-for-dev.md)
+
++ [Workshop de atualização do Adobe Commerce 2.4](./upgrade-workshop.md)
