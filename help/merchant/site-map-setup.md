@@ -5,9 +5,9 @@ kt: 5592
 doc-type: feature video
 audience: all
 activity: use
-source-git-commit: fbafe35c45ff36d847d4db05cc29aea115ba1125
+source-git-commit: 1ee953388ea164cc1ab179b783f56aa8cac0feea
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -33,3 +33,4 @@ Um mapa do site melhora a maneira como sua loja é indexada por mecanismos de pe
 
 - [Usar um mapa de site](https://docs.magento.com/user-guide/marketing/sitemap-xml.html)
 - [Mapa do Site XML](https://docs.magento.com/user-guide/configuration/catalog/xml-sitemap.html)
+
