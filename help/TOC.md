@@ -1,9 +1,9 @@
 ---
 user-guide-title: Vídeos e Tutorials
 user-guide-description: Uma coleção de vídeos e tutoriais do Adobe Commerce e do Magento Open Source.
-source-git-commit: 4b95e23e63895f52a5437eb7ce58146e91f23ebf
+source-git-commit: 9587c25b1b87de8fd46b7011577cbaa008b2260f
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---
@@ -107,3 +107,4 @@ ht-degree: 0%
    + [Criar Venia para desenvolvimento](pwa/set-up-venia-for-dev.md)
 
 + [Workshop de atualização do Adobe Commerce 2.4](./upgrade-workshop.md)
++ [Usar a ferramenta de compatibilidade de atualização no PhpStorm](./upgrade/uct-phpstorm.md)
