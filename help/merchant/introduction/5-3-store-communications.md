@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] para usuários empresariais - Comunicações de email'
+title: '"[!DNL Commerce] para usuários empresariais - Comunicações por email"'
 description: Comunique-se com seus clientes usando emails transacionais acionados por suas ações na loja. Personalize e configure os modelos de email para sua loja.
 topic: Commerce
 kt: 5780
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 91530766-07be-4466-879b-1b7bfc14ac10
-source-git-commit: 0342ad31cbae1dd5af211ea90784a08e7568e9ca
+source-git-commit: 084cb6e106a50658044115751fedb63e36f8832e
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

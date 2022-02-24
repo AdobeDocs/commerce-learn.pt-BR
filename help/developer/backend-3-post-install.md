@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] para desenvolvedores - Pós-instalação'
+title: '"[!DNL Commerce] para desenvolvedores - Pós-instalação"'
 description: Verifique e configure sua instância, defina a máscara de u, instale os dados de amostra, defina o modo de execução adequado
 kt: 5693
 doc-type: video
@@ -9,7 +9,7 @@ level: Beginner
 thumbnail: 36195.jpeg
 activity: use
 exl-id: c0401c9f-d0f4-437e-be4c-358c3381f766
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -29,7 +29,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as notas de versão [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de versão.
 >
 >O recurso de banco de dados dividido foi descontinuado na versão 2.4.2.
 

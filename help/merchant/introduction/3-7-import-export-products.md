@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Commerce] para usuários empresariais - Importar e exportar produtos'
+title: '"[!DNL Commerce] para usuários empresariais - Importar e exportar produtos"'
 description: Saiba como importar e exportar produtos de catálogo.
 topic: Commerce
 kt: 5773
@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 109aeab1-a3a4-4e47-99e4-21dabd23d605
-source-git-commit: 141069accee3a91abaec15a22ee1628de03d64e4
+source-git-commit: 084cb6e106a50658044115751fedb63e36f8832e
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 0%

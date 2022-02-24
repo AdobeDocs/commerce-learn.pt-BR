@@ -1,14 +1,14 @@
 ---
 title: Page Builder para desenvolvedores - Modelos e estilos
-description: '[!DNL Admin] and stage theming tasks. Create [!DNL Admin] modelos ​. Aplique estilos a tipos de conteúdo no palco (visualização ao vivo).'
+description: '"[!DNL Admin] e tarefas de encenação. Criar [!DNL Admin] modelos ​. Aplique estilos a tipos de conteúdo no palco (visualização ao vivo)."'
 topic: Commerce, Development
 kt: 5653
 doc-type: video
 activity: use
 exl-id: 80f2b14e-41b6-4059-b070-80fe19bb31e0
-source-git-commit: 9d76bbb28e982a62ddff8b6f541299e372dfc124
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---

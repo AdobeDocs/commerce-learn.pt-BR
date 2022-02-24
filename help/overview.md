@@ -1,8 +1,8 @@
 ---
-title: '[!DNL Commerce] Vídeos e Tutorials'
+title: '"[!DNL Commerce] Vídeos e Tutorials"'
 description: Uma coleção de vídeos e tutoriais do Adobe Commerce e do Magento Open Source
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: de19943b401343664da468d65844ec10ee8670fb
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%

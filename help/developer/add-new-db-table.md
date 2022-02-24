@@ -1,12 +1,12 @@
 ---
 title: Adicionar uma tabela a um banco de dados
-description: '[!DNL Commerce] O tem um mecanismo especial que permite criar tabelas de banco de dados, modificar as existentes e até mesmo adicionar alguns dados a elas.'
+description: '"[!DNL Commerce] O tem um mecanismo especial que permite criar tabelas de banco de dados, modificar as existentes e até mesmo adicionar alguns dados a elas."'
 topic: Development
 kt: 5613
 doc-type: video
 activity: use
 exl-id: fb222752-5689-4f87-94cf-a61ed7005e6b
-source-git-commit: 1eb2cd22f9bded77032ad0ed43c3f2ca84879a69
+source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
