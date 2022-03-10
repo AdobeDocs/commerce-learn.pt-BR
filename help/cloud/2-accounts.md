@@ -18,7 +18,7 @@ ht-degree: 0%
 Neste vídeo:
 
 - Saiba mais sobre as soluções de hospedagem de nuvem existentes &#x200B; para o Adobe Commerce
-- Entender as diferenças entre as contas Inicial e Pró &#x200B;
+- Entender as diferenças entre as contas Starter e Pro &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/35813?quality=12&learn=on)
 

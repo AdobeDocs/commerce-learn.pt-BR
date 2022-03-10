@@ -6,13 +6,13 @@ doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
-source-git-commit: 493b06415253fa1e79e18001c8c9f35efcec630d
+exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
+source-git-commit: dcac0e9bd415ca2c78c62e664797e4abc5ffd95f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
-
 
 # Adicionar sites, lojas e visualizações de loja
 

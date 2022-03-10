@@ -6,13 +6,13 @@ doc-type: feature video
 audience: all
 role: Admin, Leader, User
 activity: use
-source-git-commit: 1ee953388ea164cc1ab179b783f56aa8cac0feea
+exl-id: 33d17977-f02e-492a-ac95-a84f2db3b4d0
+source-git-commit: 57273cea54ad0d1ec55dd23b2033eec74bb1c3b4
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
-
 
 # Autenticação de dois fatores
 
@@ -35,4 +35,3 @@ Para impedir o acesso não autorizado aos seus dados, todos os usuários que ten
 
 - [Autenticação de dois fatores - Guia do usuário](https://docs.magento.com/user-guide/stores/security-two-factor-authentication.html)
 - [Autenticação de dois fatores - Guia do desenvolvedor](https://devdocs.magento.com/guides/v2.4/security/two-factor-authentication.html)
-

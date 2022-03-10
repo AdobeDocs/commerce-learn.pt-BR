@@ -5,13 +5,13 @@ kt: 5607
 doc-type: feature video
 audience: all
 activity: use
-source-git-commit: 1ee953388ea164cc1ab179b783f56aa8cac0feea
+exl-id: 8d9ba8dd-32db-41e5-a8c8-28a52166f6e0
+source-git-commit: 57273cea54ad0d1ec55dd23b2033eec74bb1c3b4
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # Regras de preços promocionais
 
@@ -39,4 +39,3 @@ No Administrador, configure os relacionamentos do produto e use as regras de pre
 - [Promoções](https://docs.magento.com/user-guide/marketing/promotions.html)
 - [Regras de preço do catálogo](https://docs.magento.com/user-guide/marketing/price-rules-catalog.html)
 - [Regras de preço do carrinho](https://docs.magento.com/user-guide/marketing/price-rules-cart.html)
-

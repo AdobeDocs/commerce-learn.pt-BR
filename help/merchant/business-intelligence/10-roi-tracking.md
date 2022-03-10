@@ -6,13 +6,13 @@ doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
+exl-id: ceef67fa-f2a6-4acb-8eb5-a7571fc1d920
+source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
-
 
 # Business Intelligence - Rastreamento do retorno do investimento
 

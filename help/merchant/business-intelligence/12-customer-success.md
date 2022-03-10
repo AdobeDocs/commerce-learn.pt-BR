@@ -6,13 +6,13 @@ doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 579a7049f269527e6bdda215a80d12ddebbdfe29
+exl-id: 118e4d29-2064-465c-89f7-00bc7427f383
+source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
 
 ---
-
 
 # Business Intelligence - Histórias de sucesso do cliente
 

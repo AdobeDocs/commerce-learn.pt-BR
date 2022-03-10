@@ -6,13 +6,13 @@ doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: fb684287e45698251e501cfc4efdaa7a187417b5
+exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
+source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # Business Intelligence - Data warehouse
 

@@ -6,13 +6,13 @@ doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 579a7049f269527e6bdda215a80d12ddebbdfe29
+exl-id: c678cf95-7bd2-4c16-8df4-46e256a83f2c
+source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Business Intelligence - Criar relatórios
 
