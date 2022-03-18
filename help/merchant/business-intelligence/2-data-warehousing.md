@@ -3,11 +3,11 @@ title: Business Intelligence - Data warehouse
 description: Saiba mais sobre o Gerenciador de Data Warehouse, que está disponível para usuários administradores no Business Intelligence.
 kt: 5729
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce,Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%

@@ -2,13 +2,13 @@
 cloud: Experience Cloud
 solution-title: Commerce
 mini-toc-levels: 2
-git-repo: https://git.corp.adobe.com/AdobeDocs/commerce-learn.pt-BR
+git-repo: https://github.com/AdobeDocs/commerce-learn.pt-BR
 index: y
 type: Tutorial
-solution: Adobe Commerce
-source-git-commit: 60502e6941ccb4a35880363ff0cdaac7c88c4472
+solution: Commerce,Adobe Commerce
+source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
