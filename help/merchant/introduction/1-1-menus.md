@@ -1,7 +1,7 @@
 ---
 title: '"[!DNL Commerce] para usuários empresariais - [!DNL Admin] menus"'
 description: Visão geral dos menus funcionais na [!DNL Commerce] v2.3 [!DNL Admin].
-landing-page-description: Assista a esta série de vídeos para começar a usar os conceitos básicos do Adobe Commerce e trabalhar no Administrador.
+landing-page-description: Assista a esta série de vídeos para obter uma introdução dos conceitos básicos do Adobe Commerce e do trabalho como Administrador.
 topic: Commerce
 kt: 5758
 doc-type: video
@@ -11,7 +11,7 @@ exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
 source-git-commit: e540bc1e1c8ae5c34c16503a381f6bd5c674f824
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 0%
+ht-degree: 15%
 
 ---
 

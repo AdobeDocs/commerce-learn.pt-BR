@@ -4,13 +4,13 @@ description: Saiba mais sobre os três componentes principais do produto Busines
 landing-page-description: Assista a esta série de vídeo para saber como você pode gerar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
 kt: 5724
 doc-type: feature video
-solution: Commerce,Adobe Commerce, Magento Business Intelligence
+solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 97115316-bce9-406a-a3f7-24474cf8e030
-source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
+source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
