@@ -5,10 +5,10 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/commerce-learn.pt-BR
 index: y
 type: Tutorial
-solution: Commerce,Adobe Commerce
-source-git-commit: 779d8472749ddef6325dd7d0e1acf123c23e418e
+solution: Commerce
+source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---

@@ -3,11 +3,11 @@ title: Business Intelligence - Compartilhar resultados e exportar dados
 description: Saiba mais sobre como compartilhar os resultados do Business Intelligence e exportar dados para integração com outras ferramentas comerciais.
 kt: 5728
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 4f54f92b-329f-48b8-a14e-d6d8423446aa
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
