@@ -8,7 +8,7 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 97115316-bce9-406a-a3f7-24474cf8e030
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: deefe69f89d08f1138a4d77e206ff41ea3918b9d
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Com essas três principais tecnologias integradas em uma solução, os comercian
 
 >[!VIDEO](https://video.tv.adobe.com/v/35979?quality=12&learn=on)
 
-## Recursos adicionais
+## Recursos úteis
 
 - [Introdução ao Business Intelligence](https://docs.magento.com/mbi/getting-started/getting-started.html)
-- [MBI Pro demo](https://support.magento.com/hc/en-us/articles/360016729571)
+- [Suporte a Business Intelligence](https://support.magento.com/hc/en-us/articles/360016730811)
