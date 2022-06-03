@@ -1,20 +1,21 @@
 ---
-title: Business Intelligence - Report Builder SQL
-description: Saiba como usar o Business Intelligence SQL Report Builder para consultar diretamente o data warehouse, visualizar os resultados e transformá-los rapidamente em um gráfico.
-landing-page-description: Assista a este vídeo para saber como usar o Business Intelligence SQL Report Builder para consultar diretamente seu data warehouse, visualizar os resultados e transformá-los rapidamente em um gráfico.
+title: MBI - Report Builder SQL
+description: Saiba como usar o Report Builder do MBI SQL para consultar diretamente o data warehouse, visualizar os resultados e transformá-los rapidamente em um gráfico.
+landing-page-description: Assista a este vídeo para saber como usar o Report Builder do MBI SQL para consultar diretamente seu data warehouse, visualizar os resultados e transformá-los rapidamente em um gráfico.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: 3f8fce7e058a697baf2dfbb794c7dcbad00042dc
+exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Report Builder SQL
+# MBI - Report Builder SQL
 
 O Report Builder SQL permite consultar diretamente seu data warehouse, exibir os resultados e transformá-los rapidamente em um gráfico. A melhor parte do uso do SQL para criar relatórios é que você não precisa esperar pelos ciclos de atualização para iterar nas colunas criadas. Se os resultados não parecerem corretos, você poderá editar e executar novamente o query rapidamente até que as coisas correspondam às suas expectativas.
 
@@ -30,7 +31,7 @@ Neste vídeo:
 
 >[!TIP]
 >
->Se você for novo no Business Intelligence, a variável [Série de vídeos Introdução](1-overview.md) O fornece uma visão geral completa para obter melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
+>Se você é novo no MBI, a variável [Série de vídeos Introdução](1-overview.md) O fornece uma visão geral completa para obter melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
 
 ## Para quem é este vídeo?
 

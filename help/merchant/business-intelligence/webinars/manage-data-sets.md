@@ -1,28 +1,29 @@
 ---
-title: Business Intelligence - Gerenciar conjuntos de dados
-description: Assista a este webinário para saber mais sobre alguns dos recursos avançados do Business Intelligence Data Warehouse Manager.
-landing-page-description: Assista a este webinário para saber mais sobre alguns dos recursos avançados do Business Intelligence Data Warehouse Manager.
+title: Gerenciar conjuntos de dados no MBI
+description: Assista a este webinário para saber mais sobre alguns dos recursos avançados do Gerenciador de Datas Warehouse de MBI.
+landing-page-description: Assista a este webinário para saber mais sobre alguns dos recursos avançados do Gerenciador de Datas Warehouse de MBI.
 kt: 10410
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: c86f3520823ee41b668ad6595a859c554572d69b
+exl-id: d73758b0-37bf-4be8-8e25-01d3d983fd43
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Gerenciar conjuntos de dados
+# Gerenciar conjuntos de dados no MBI
 
-Saiba mais sobre alguns dos recursos avançados do Business Intelligence Data Warehouse Manager, diretamente da equipe de produtos da Adobe Commerce. Vá além da criação básica de relatórios e saiba como fazer mais com seus dados.
+Saiba mais sobre alguns dos recursos avançados do Gerenciador de Datas Warehouse de MBI, diretamente da equipe de produtos da Adobe Commerce. Vá além da criação básica de relatórios e saiba como fazer mais com seus dados.
 
 Durante esse webinar gravado, você aprenderá a calcular o retorno sobre o investimento de suas campanhas de publicidade, unindo dados do Adobe Commerce, Google Ecommerce e Google AdWords.
 
 >[!TIP]
 >
->Se você for novo no Business Intelligence, a variável [Série de vídeos Introdução](./../1-overview.md) O fornece uma visão geral completa para obter melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
+>Se você é novo no MBI, a variável [Série de vídeos Introdução](./../1-overview.md) O fornece uma visão geral completa para obter melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
 
 ## Para quem é este vídeo?
 

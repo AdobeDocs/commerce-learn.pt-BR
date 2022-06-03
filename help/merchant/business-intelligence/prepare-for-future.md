@@ -1,5 +1,5 @@
 ---
-title: Business Intelligence - Preparando para o futuro
+title: MBI - Preparando para o futuro
 description: Assista a esta série de vídeos para esclarecer sua compreensão das mudanças sem precedentes que moldam o futuro do comércio digital.
 landing-page-description: Assista a esta série de vídeos para esclarecer sua compreensão das mudanças sem precedentes que moldam o futuro do comércio digital.
 kt: 10411
@@ -7,24 +7,25 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: deefe69f89d08f1138a4d77e206ff41ea3918b9d
+exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Preparando para o futuro
+# MBI - Preparando para o futuro
 
 Enquanto Covid-19 circula pelo mundo, milhões confiam no comércio digital para atender às suas necessidades mais essenciais. À medida que as empresas trabalham horas extras para acomodar a demanda histórica do consumidor, colocar o futuro em foco nunca foi tão importante.
 
-Nesta série de vídeos de três partes, a equipe de analistas do Business Intelligence destaca as práticas fundamentais de comércio eletrônico orientadas por dados para ajudar sua empresa a crescer nesses tempos desafiadores, com suporte em estatísticas agregadas que abrangem vários setores comerciais.
+Nesta série de vídeo de três partes, a equipe de analistas de MBI destaca práticas fundamentais de comércio eletrônico orientadas por dados para ajudar sua empresa a prosperar nesses tempos desafiadores, com suporte em estatísticas agregadas que abrangem vários setores comerciais.
 
 Assista a esta série de vídeos para esclarecer sua compreensão sobre as mudanças sem precedentes que moldam o futuro do comércio digital - e como se preparar para o que está por vir.
 
 >[!TIP]
 >
->Se você for novo no Business Intelligence, a variável [Série de vídeos Introdução](1-overview.md) O fornece uma visão geral completa para obter melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
+>Se você é novo no MBI, a variável [Série de vídeos Introdução](1-overview.md) O fornece uma visão geral completa para obter melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
 
 ## Para quem é este vídeo?
 

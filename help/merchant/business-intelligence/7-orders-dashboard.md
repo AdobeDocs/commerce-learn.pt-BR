@@ -1,5 +1,5 @@
 ---
-title: Business Intelligence - Painel de pedidos
+title: MBI - Painel de pedidos
 description: Saiba mais sobre o painel Pedidos e relatórios que facilitam o gerenciamento de pedidos e vendas de produtos.
 kt: 5735
 doc-type: feature video
@@ -7,14 +7,14 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 44a41664-8ebd-4ec1-9ea0-433717e196e9
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Painel de pedidos
+# MBI - Painel de pedidos
 
 No painel Pedidos, você pode exibir valores médios de pedidos, pedidos por status, uso de cupom e detalhamentos de entrega e imposto coletados pela região de faturamento e entrega. Se você abrir o relatório Pedidos por Status e vir um pico no status de processamento ou pendente, você poderá criar um relatório para todos os pedidos nesse status durante esse período. Em seguida, você pode analisá-lo e detalhá-lo por email e ID de pedido e gerar um resumo de email a ser enviado automaticamente para o gerente do depósito para acompanhamento.
 
@@ -28,7 +28,7 @@ No painel Pedidos, você pode exibir valores médios de pedidos, pedidos por sta
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.2. Consulte a [Guia do usuário do Business Intelligence](https://docs.magento.com/mbi/) para obter as informações mais atualizadas.
+>O conteúdo do vídeo reflete a versão 2.2. Consulte a [Guia do usuário do MBI](https://docs.magento.com/mbi/) para obter as informações mais atualizadas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35989?quality=12&learn=on)
 

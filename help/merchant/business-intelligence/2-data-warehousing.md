@@ -1,20 +1,20 @@
 ---
-title: Business Intelligence - Data warehouse
-description: Saiba mais sobre o Gerenciador de Data Warehouse, que está disponível para usuários administradores no Business Intelligence.
+title: MBI - Data warehouse
+description: Saiba mais sobre o Gerenciador de Datas Warehouse, que está disponível para usuários administradores no MBI.
 kt: 5729
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 9c266205-3c04-400c-a94d-e3f9818e1b58
-source-git-commit: 491e3621370b1e3e5ee510eda62868b89dc362b1
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Data warehouse
+# MBI - Data warehouse
 
 Um data warehouse é um banco de dados relacional configurado para consolidar e armazenar dados para executar análises comerciais. Os data warehouses permitem o acesso aos dados para desnormalizar os bancos de dados de produção e organizá-los para executar análises de forma mais eficiente.
 
@@ -29,7 +29,7 @@ Usando o Gerenciador de Datas Warehouse, os usuários com acesso de nível admin
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.2. Consulte a [Guia do usuário do Business Intelligence](https://docs.magento.com/mbi/) para obter as informações mais atualizadas.
+>O conteúdo do vídeo reflete a versão 2.2. Consulte a [Guia do usuário do MBI](https://docs.magento.com/mbi/) para obter as informações mais atualizadas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35984?quality=12&learn=on)
 

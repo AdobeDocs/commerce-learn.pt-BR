@@ -1,20 +1,20 @@
 ---
-title: Business Intelligence - Painel de visão geral executivo
-description: Veja uma demonstração do painel Visão geral executiva fornecido pelo Business Intelligence.
+title: MBI - Painel de visão geral executivo
+description: Ver uma demonstração do painel de Visão geral executiva fornecido pela BI.
 kt: 5731
 doc-type: feature video
 solution: Adobe Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa
-source-git-commit: 7a93a60fc0f0b82636b669f0b9300fe1de94ec53
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Painel de visão geral executivo
+# MBI - Painel de visão geral executivo
 
 O painel Visão geral executiva fornece informações de alto nível sobre receita, pedidos e valores médios de pedidos. Os relatórios são divididos como valores estáticos e ao longo do tempo. Você pode compartilhar esse painel com outros membros de sua equipe, dando a eles acesso para editar e colaborar com você ou acesso somente para visualização.
 
@@ -27,7 +27,7 @@ O painel Visão geral executiva fornece informações de alto nível sobre recei
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.2. Consulte a [Guia do usuário do Business Intelligence](https://docs.magento.com/mbi/) para obter as informações mais atualizadas.
+>O conteúdo do vídeo reflete a versão 2.2. Consulte a [Guia do usuário do MBI](https://docs.magento.com/mbi/) para obter as informações mais atualizadas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35986?quality=12&learn=on)
 

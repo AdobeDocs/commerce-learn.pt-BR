@@ -1,20 +1,21 @@
 ---
-title: Business Intelligence - Otimizar sua Data Warehouse
+title: Otimizar sua Data Warehouse de MBI
 description: Assista a este webinário para saber mais sobre o Data Warehouse Manager.
-landing-page-description: 'Assista a este webinário gravado '
+landing-page-description: Assista a este webinário gravado
 kt: 10403
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
-source-git-commit: c86f3520823ee41b668ad6595a859c554572d69b
+exl-id: 022df5f9-0333-464d-a985-177071a8aa04
+source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '145'
 ht-degree: 0%
 
 ---
 
-# Business Intelligence - Otimizar sua Data Warehouse
+# Otimizar sua Data Warehouse de MBI
 
 Usando o Gerenciador de Datas Warehouse, é possível gerenciar configurações de sincronização de tabela e coluna, detalhar o esquema de uma tabela e criar colunas calculadas a serem usadas nos relatórios.
 
@@ -32,7 +33,7 @@ Neste webinário:
 
 >[!TIP]
 >
->Se você for novo no Business Intelligence, a variável [Série de vídeos Introdução](./../1-overview.md) O fornece uma visão geral completa para obter melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
+>Se você é novo no MBI, a variável [Série de vídeos Introdução](./../1-overview.md) O fornece uma visão geral completa para obter melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
 
 ## Para quem é este vídeo?
 

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Vídeos e tutoriais
 user-guide-description: Uma coleção de vídeos e tutoriais para o Adobe Commerce e para o Magento Open Source.
-source-git-commit: deefe69f89d08f1138a4d77e206ff41ea3918b9d
+source-git-commit: 4c8f9de0e88d5406c09568c594ccf954777fa370
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -55,19 +55,6 @@ ht-degree: 6%
       + [5.1 - Experiência de vitrine](./merchant/introduction/5-1-storefront-experience.md)
       + [5.2 - Gerenciamento do cliente](./merchant/introduction/5-2-customer-management.md)
       + [5.3 - Comunicações por email](./merchant/introduction/5-3-store-communications.md)
-   + [!DNL Business Intelligence] {#business-intelligence}
-      + [1 - Visão geral](./merchant/business-intelligence/1-overview.md)
-      + [2 - Data warehouse](./merchant/business-intelligence/2-data-warehousing.md)
-      + [3 - Criar relatórios](./merchant/business-intelligence/3-build-reports.md)
-      + [4 - Métricas](./merchant/business-intelligence/4-metrics.md)
-      + [5 - Relatórios padrão](./merchant/business-intelligence/5-standard-reports.md)
-      + [6 - Resumo executivo](./merchant/business-intelligence/6-executive-summary-dashboard.md)
-      + [7 - Painel de pedidos](./merchant/business-intelligence/7-orders-dashboard.md)
-      + [8 - Painéis focados no cliente](./merchant/business-intelligence/8-customer-focused-dashboards.md)
-      + [9 - Análise de categoria](./merchant/business-intelligence/9-category-analysis.md)
-      + [10 - Rastreamento do retorno do investimento](./merchant/business-intelligence/10-roi-tracking.md)
-      + [11 - Compartilhar resultados e exportar dados](./merchant/business-intelligence/11-share-results-export-data.md)
-      + [12 - Histórias de sucesso do cliente](./merchant/business-intelligence/12-customer-success.md)
 
 + Trabalhar no Administrador {#admin}
    + [Usuários, funções e permissões](./merchant/users-roles-permissions.md)
@@ -78,18 +65,31 @@ ht-degree: 6%
    + [Regras de preços promocionais](./merchant/promotions-price-rules.md)
    + [Visão geral do Page Builder](./merchant/page-builder-overview.md)
 
-+ Business Intelligence {#business-intelligence}
++ MBI {#mbi}
    + [Conjuntos de filtros](./merchant/business-intelligence/filter-sets.md)
    + [Report Builder de coorte](./merchant/business-intelligence/cohort-report-builder.md)
    + [Report Builder SQL](./merchant/business-intelligence/sql-report-builder.md)
-   + [Preparando para o futuro](./merchant/business-intelligence/prepare-for-future.md)
-   + Webinars {#webinars}
-      + [Introdução ao Business Intelligence](merchant/business-intelligence/webinars/getting-started.md)
-      + [Gerenciamento de conjuntos de dados](merchant/business-intelligence/webinars/manage-data-sets.md)
-      + [Otimizar sua Data Warehouse](merchant/business-intelligence/webinars/optimize-data-warehouse.md)
-      + [Preparação para Feriado](merchant/business-intelligence/webinars/holiday-readiness.md)
-      + [Pergunte a um especialista, sessão 1](merchant/business-intelligence/webinars/ask-expert-1.md)
-      + [Pergunte a um especialista, sessão 2](merchant/business-intelligence/webinars/ask-expert-2.md)
+   + Webinars gravados {#webinars}
+      + [Introdução ao MBI](./merchant/business-intelligence/webinars/getting-started.md)
+      + [Gerenciamento de conjuntos de dados no MBI](./merchant/business-intelligence/webinars/manage-data-sets.md)
+      + [Otimizar sua Data Warehouse de MBI](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)
+      + [Aprofundamento de painéis do MBI](./merchant/business-intelligence/webinars/dashboards-deep-dive.md)
+      + [Preparação para feriados com MBI](./merchant/business-intelligence/webinars/holiday-readiness.md)
+      + [Preparando para o futuro](./merchant/business-intelligence/prepare-for-future.md)
+      + [MBI - Pergunte a um especialista](./merchant/business-intelligence/webinars/ask-expert.md)
+   + Introdução à série de vídeo MBI {#introduction}
+      + [Visão geral](./merchant/business-intelligence/1-overview.md)
+      + [Armazenamento de dados](./merchant/business-intelligence/2-data-warehousing.md)
+      + [Criar relatórios](./merchant/business-intelligence/3-build-reports.md)
+      + [Métricas](./merchant/business-intelligence/4-metrics.md)
+      + [Relatórios padrão](./merchant/business-intelligence/5-standard-reports.md)
+      + [Resumo executivo](./merchant/business-intelligence/6-executive-summary-dashboard.md)
+      + [Painel de pedidos](./merchant/business-intelligence/7-orders-dashboard.md)
+      + [Painéis focados no cliente](./merchant/business-intelligence/8-customer-focused-dashboards.md)
+      + [Análise de categoria](./merchant/business-intelligence/9-category-analysis.md)
+      + [Rastreamento do retorno do investimento](./merchant/business-intelligence/10-roi-tracking.md)
+      + [Compartilhar resultados e exportar dados](./merchant/business-intelligence/11-share-results-export-data.md)
+      + [Histórias de sucesso do cliente](./merchant/business-intelligence/12-customer-success.md)
 
 + Atualizações {#upgrade}
    + [Workshop de atualização do Adobe Commerce 2.4](./upgrade/2.4-upgrade-workshop.md)
