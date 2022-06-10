@@ -1,14 +1,14 @@
 ---
-title: Usuários, funções e permissões
+title: Gerenciar funções e permissões do usuário
 description: Saiba mais sobre as contas de usuário e permissões usadas para controlar o acesso ao [!DNL Commerce] site e armazene dados no Administrador.
 kt: 5610
 doc-type: feature video
 audience: all
 activity: use
 exl-id: d06815c2-4b2a-4219-8c4e-7aa41a2be25d
-source-git-commit: 57273cea54ad0d1ec55dd23b2033eec74bb1c3b4
+source-git-commit: b1ba5497d30326e4355a6da81f33d8451362b896
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -23,11 +23,7 @@ Se houver outros na sua equipe ou provedores de serviços que precisem de acesso
 
 ## Conteúdo de vídeo
 
->[!NOTE]
->
->O conteúdo do vídeo reflete a versão 2.0. Para obter informações sobre atualizações em versões posteriores, consulte o [2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de versão.
-
->[!VIDEO](https://video.tv.adobe.com/v/35788?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343654?quality=12&learn=on)
 
 ## Recursos adicionais
 
