@@ -8,9 +8,9 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: d73758b0-37bf-4be8-8e25-01d3d983fd43
-source-git-commit: 64df684fb23ad37912728f53a7da73d16d7781d8
+source-git-commit: 1c619c377a37b2e20b58f05fcfe28abbfaa72d2b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Durante esse webinar gravado, você aprenderá a calcular o retorno sobre o inve
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/342408?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342497?quality=12&learn=on)
 
 ## Recursos úteis
 
