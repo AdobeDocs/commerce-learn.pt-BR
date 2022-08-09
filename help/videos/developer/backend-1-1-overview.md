@@ -9,10 +9,10 @@ level: Beginner
 thumbnail: 36191.jpeg
 activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: 3b938c6d440db4db52f4b85ec885475f61b28153
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '200'
+ht-degree: 16%
 
 ---
 
@@ -30,7 +30,7 @@ Neste vídeo:
 >
 >Esse conteúdo reflete a versão Adobe Commerce e Magento Open Source 2.3.1.
 >
->- PWA e [PWA Studio](http://pwastudio.io/) agora está disponível como um _impiedoso_ implementação do frontend.
+>- PWA e [PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) agora estão disponíveis como _impiedoso_ implementação do frontend.
 >- A pilha de tecnologia mudou em versões posteriores da linha de versão 2.3.x e da linha de versão 2.4.x. Verifique a [requisitos do sistema](https://devdocs.magento.com/guides/v2.4/install-gde/system-requirements.html) para garantir que você tenha os componentes corretos do sistema.
 >- Devido ao encerramento iminente de Temando, o Magento Shipping não está mais disponível. Para obter informações detalhadas sobre o status e recomendações para novas implementações de envio no Commerce, consulte [página de informações do produto](https://magento.com/shipping).
 
