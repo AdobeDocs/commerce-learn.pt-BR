@@ -1,10 +1,10 @@
 ---
-title: '"[!DNL Commerce] Vídeos e tutoriais"'
+title: "[!DNL Commerce] Vídeos e tutoriais"
 description: Uma coleção de vídeos e tutoriais para o Adobe Commerce e para o Magento Open Source
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 867c5dbfdf5c2701d59655363e8ac3d94e97ece6
+source-git-commit: feaba6797569ab027f0b3d122039b3e0d16054b1
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '283'
 ht-degree: 5%
 
 ---
@@ -27,7 +27,10 @@ Explore as adições e atualizações mais recentes:
 | Pedidos e cumprimento | [Visão geral do cumprimento da loja](./merchant/store-fulfillment.md) <br>[Gerenciar status do pedido](./merchant/order-status.md) |
 | B2B para Adobe Commerce | [Gerenciar contas da empresa](./merchant/b2b/company-accounts.md)  <br>[Gerenciar catálogos compartilhados](./merchant/b2b/shared-catalogs.md) <br>[Gerenciar crédito da empresa](./merchant/b2b/company-credit.md) <br>[Pedidos e aprovações de compra](./merchant/b2b/purchase-orders.md) |
 | Ferramentas do sistema | [Painel da ferramenta de análise do site](./tools/site-wide-analysis-tool.md) <br>[Observação para o Adobe Commerce](./tools/observation-tool.md) <br>[Usar a ferramenta Correção de qualidade](./tools/quality-patch-tool.md) |
-| MBI | [Introdução ao MBI](./merchant/business-intelligence/webinars/getting-started.md) <br>[Gerenciamento de conjuntos de dados no MBI](./merchant/business-intelligence/webinars/manage-data-sets.md) <br>[Otimizar sua Data Warehouse de MBI](./merchant/business-intelligence/webinars/optimize-data-warehouse.md)<br>[Aprofundamento de painéis do MBI](./merchant/business-intelligence/webinars/dashboards-deep-dive.md) <br>[Preparação para feriados com MBI](./merchant/business-intelligence/webinars/holiday-readiness.md) <br>[Preparando para o futuro](./merchant/business-intelligence/prepare-for-future.md) <br>[MBI - Pergunte a um especialista](./merchant/business-intelligence/webinars/ask-expert.md) |
+
+>[!TIP]
+>
+>O [Eventos de comércio](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) O espaço fornece acesso ao conteúdo do evento gravado que você pode assistir sob demanda.
 
 ## Recursos adicionais
 
