@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: 4229e78b-d1b7-4784-ac87-42d45a3d8ef7
-source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
+source-git-commit: 70056db15bcae20171fb152ab69d54d5a0d298e9
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ Para pequenas empresas, concorrentes de médio mercado ou grandes empresas, os S
 ## Recursos adicionais
 
 - [Guia dos serviços de pagamento](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-- [Conector do Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/saas.html)
+- [Conector do Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
