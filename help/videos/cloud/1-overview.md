@@ -10,7 +10,7 @@ exl-id: 13ebcc7f-c0ed-4e8f-8344-1d1adb4249db
 source-git-commit: acee5ba84ea32e14a743cd269f77ced821548ad6
 workflow-type: tm+mt
 source-wordcount: '93'
-ht-degree: 53%
+ht-degree: 61%
 
 ---
 
@@ -26,4 +26,4 @@ Neste vídeo:
 
 ## Recursos adicionais
 
-[Guia da nuvem para [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html)
+[Guia da nuvem do [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html)
