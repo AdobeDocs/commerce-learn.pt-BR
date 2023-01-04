@@ -1,23 +1,23 @@
 ---
-title: Usar Live Search
-description: Saiba como adicionar o Live Search à sua loja e produzir experiências de compras altamente envolventes, relevantes e personalizadas.
+title: "Introdução ao [!DNL Live Search]"
+description: "Saiba como adicionar [!DNL Live Search] para sua loja e produzir experiências de compras altamente envolventes, relevantes e personalizadas."
 doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: 1d92f5bc2e2eb4b06515ca611d4c41df56b4246f
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
 
-# Usar Live Search
+# Introdução ao [!DNL Live Search]
 
 {{ee-feature}}
 
-A Live Search da Adobe Commerce oferece uma experiência de pesquisa rápida, superrelevante e intuitiva para o Adobe Commerce sem custos adicionais. O Live Search desenvolvido pela Adobe Sensei usa inteligência artificial e algoritmos de aprendizado de máquina para realizar uma análise profunda dos dados agregados dos visitantes. Esses dados, quando combinados ao seu catálogo do Adobe Commerce, resultam em experiências de compras altamente envolventes, relevantes e personalizadas.
+Esta é uma introdução ao [!DNL Live Search] do Adobe Commerce. [!DNL Live Search] Com a tecnologia Adobe Sensei, a inteligência artificial e os algoritmos de aprendizado automatizado executam uma análise profunda dos dados agregados dos visitantes.
 
 ## Para quem é este vídeo?
 
@@ -28,7 +28,9 @@ A Live Search da Adobe Commerce oferece uma experiência de pesquisa rápida, su
 
 >[!VIDEO](https://video.tv.adobe.com/v/337365?quality=12&learn=on)
 
+
 ## Recursos adicionais
 
-- [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+- [[!DNL Live Search] para recomendações](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html)
+- [[!DNL Live Search] visão geral](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
 - [Conector do Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
