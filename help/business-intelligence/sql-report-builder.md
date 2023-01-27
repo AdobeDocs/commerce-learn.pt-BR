@@ -8,9 +8,9 @@ solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,6 @@ Neste vídeo:
 
 ## Recursos úteis
 
-[Usando o Report Builder SQL](https://docs.magento.com/mbi/data-analyst/dev-reports/sql-rpt-bldr.html)
+[Usando o Guia do Usuário do SQL Report Builder - MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
-[Criando Visualizações de Consultas SQL](https://docs.magento.com/mbi/tutorials/create-visuals-from-sql.html)
+[Criação de Visualizações de Consultas SQL - Guia do Usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)

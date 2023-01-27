@@ -7,9 +7,9 @@ doc-type: videos
 role: Admin, Leader, User
 activity: use
 exl-id: 3d35891b-d85a-4e91-877a-a375f047892d
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -30,4 +30,4 @@ Neste vídeo:
 
 ## Recursos adicionais
 
-[Categorias - [!DNL Commerce] guia do usuário](https://docs.magento.com/user-guide/catalog/categories.html)
+[Categorias - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/categories.html)

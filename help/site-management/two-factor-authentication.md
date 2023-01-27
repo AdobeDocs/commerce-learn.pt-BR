@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 33d17977-f02e-492a-ac95-a84f2db3b4d0
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,11 @@ Para impedir o acesso não autorizado aos seus dados, todos os usuários que ten
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.4.0. Para obter informações sobre atualizações em versões posteriores, consulte o [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de versão.
+>O conteúdo do vídeo reflete a versão 2.4.0. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## Recursos adicionais
 
-- [Autenticação de dois fatores - Guia do usuário](https://docs.magento.com/user-guide/stores/security-two-factor-authentication.html)
-- [Autenticação de dois fatores - Guia do desenvolvedor](https://devdocs.magento.com/guides/v2.4/security/two-factor-authentication.html)
+- [Autenticação de dois fatores (2FA) - Guia dos sistemas de administração](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+- [Configuração da autenticação de dois fatores (2FA) - Documentação do desenvolvedor](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

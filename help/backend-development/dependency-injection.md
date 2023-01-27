@@ -6,7 +6,7 @@ doc-type: video
 topic: Development
 activity: use
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -27,5 +27,5 @@ A injeção de dependência é um padrão de design que permite ao objeto A decl
 
 ## Recursos úteis
 
-- [Injeção de dependência](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/depend-inj.html)
-- [Guia do desenvolvedor do PHP](https://devdocs.magento.com/guides/v2.4/extension-dev-guide/bk-extension-dev-guide.html)
+- [Injeção de dependência](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
+- [Guia do desenvolvedor do PHP](https://developer.adobe.com/commerce/php/development/)

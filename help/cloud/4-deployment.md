@@ -6,9 +6,9 @@ doc-type: video
 audience: all
 activity: use
 exl-id: 548b87ff-1fd8-4486-b28a-40f28f3ababd
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Neste vídeo:
 
 ## Recursos adicionais
 
-[Processo de implantação na nuvem](https://devdocs.magento.com/cloud/deploy/cloud-deployment-process.html)
+[Processo de implantação do Cloud - [!DNL Commerce] no Guia do Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)

@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 75a8213a-145b-4fb2-898c-1ae7ba272748
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ Os atributos do cliente fornecem as informações necessárias para suportar os 
 
 ## Recursos adicionais
 
-- [Atributos do cliente](https://docs.magento.com/user-guide/stores/attributes-customer.html)
-- [Criação de uma conta de cliente individual](https://docs.magento.com/user-guide/customers/account-create.html)
+- [Propriedades do atributo do cliente - [!DNL Commerce] Guia de gerenciamento do cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+- [Criar uma conta de cliente individual - [!DNL Commerce] Guia de gerenciamento do cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

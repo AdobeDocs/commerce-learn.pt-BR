@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 44a41664-8ebd-4ec1-9ea0-433717e196e9
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,11 @@ No painel Pedidos, você pode exibir valores médios de pedidos, pedidos por sta
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.2. Consulte a [Guia do usuário do MBI](https://docs.magento.com/mbi/) para obter as informações mais atualizadas.
+>O conteúdo do vídeo reflete a versão 2.2. Consulte a [Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) para obter as informações mais atualizadas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35989?quality=12&learn=on)
 
 ## Recursos adicionais
 
-- [Painel de pedidos](https://docs.magento.com/mbi/data-user/dashboards/dashboards-pro.html#orders)
-- [Criação de resumos de email automatizados](https://docs.magento.com/mbi/data-user/export-data/email-summaries.html)
+- [Painel de pedidos - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#orders)
+- [Criar resumos de email automatizados - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)

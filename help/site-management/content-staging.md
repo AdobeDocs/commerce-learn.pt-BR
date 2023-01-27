@@ -6,9 +6,9 @@ role: Admin, User
 audience: all
 activity: use
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -30,5 +30,5 @@ O armazenamento temporário de conteúdo oferece à sua equipe de negócios a ca
 
 ## Recursos adicionais
 
-- [Preparação de conteúdo](https://docs.magento.com/user-guide/cms/content-staging.html)
-- [Pré-visualização de uma Campanha](https://docs.magento.com/user-guide/cms/content-staging-preview.html)
+- [Armazenamento temporário de conteúdo - [!DNL Commerce] Guia de conteúdo e design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html)
+- [Visualizar uma campanha - [!DNL Commerce] Guia de conteúdo e design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html)

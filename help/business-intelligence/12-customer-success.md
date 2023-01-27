@@ -7,9 +7,9 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 118e4d29-2064-465c-89f7-00bc7427f383
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '79'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ Quando você estiver familiarizado com alguns dos tipos mais úteis de comercian
 
 ## Recursos adicionais
 
-- [Análise de desempenho da empresa](https://docs.magento.com/mbi/data-analyst/analysis/bus-perf-analysis.html)
-- [Marcação de UTM no Google Analytics](https://docs.magento.com/mbi/best-practices/utm-tagging-google.html)
+- [Business Performance Analysis - Guia do usuário MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)
+- [Marcação de UTM no Google Analytics - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/utm-tagging-google.html)

@@ -7,9 +7,9 @@ role: Admin, User
 audience: all
 activity: use
 exl-id: ffb1312c-2686-48a4-945e-e6f58cb0ad18
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '76'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ Os widgets são componentes reutilizáveis que podem ser criados e modificados f
 
 ## Recursos adicionais
 
-- [Widgets](https://docs.magento.com/user-guide/cms/widgets.html)
-- [Criação e gerenciamento de widgets](https://docs.magento.com/user-guide/cms/widget-create.html)
+- [Widgets - [!DNL Commerce] Guia de conteúdo e design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
+- [Criar e gerenciar widgets - [!DNL Commerce] Guia de conteúdo e design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)

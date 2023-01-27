@@ -6,9 +6,9 @@ doc-type: video
 audience: all
 activity: use
 exl-id: 1bf5cf70-47d0-4e48-92e2-3892216cd749
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '84'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Neste vídeo:
 
 ## Recursos adicionais
 
-[Inicialização do site](https://devdocs.magento.com/cloud/live/live.html)
+[Inicialização do site - [!DNL Commerce] no Guia do Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)

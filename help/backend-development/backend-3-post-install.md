@@ -9,9 +9,9 @@ level: Beginner
 thumbnail: 36195.jpeg
 activity: use
 exl-id: c0401c9f-d0f4-437e-be4c-358c3381f766
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de versão.
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 >
 >O recurso de banco de dados dividido foi descontinuado na versão 2.4.2.
 
@@ -37,7 +37,7 @@ Neste vídeo:
 
 ## Recursos adicionais
 
-- [Verifique a instalação](https://devdocs.magento.com/guides/v2.4/install-gde/install/verify.html)
-- [Opcionalmente, defina uma máscara](https://devdocs.magento.com/guides/v2.4/install-gde/install/post-install-umask.html)
-- [Instalar dados de amostra](https://devdocs.magento.com/guides/v2.4/install-gde/install/sample-data-after-magento.html)
-- [Sobre os modos de aplicativo](https://devdocs.magento.com/guides/v2.4/config-guide/bootstrap/magento-modes.html)
+- [Verifique a instalação](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/verify.html)
+- [Opcionalmente, defina uma máscara](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
+- [Instalar dados de amostra](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/sample-data/overview.html)
+- [Sobre os modos de aplicativo](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/setup/application-modes.html)

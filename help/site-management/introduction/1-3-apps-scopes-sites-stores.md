@@ -7,7 +7,7 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 858451cc-cbc3-471e-a2f1-148f879aba82
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -30,12 +30,12 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de versão.
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35945?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Sites, lojas e visualizações - [!DNL Commerce] guia do usuário](https://docs.magento.com/user-guide/stores/websites-stores-views.html)
+[Sites, lojas e visualizações - [!DNL Commerce] Guia de Introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[Escopo - [!DNL Commerce] guia do usuário](https://docs.magento.com/user-guide/configuration/scope.html)
+[Configurações de escopo- [!DNL Commerce] Guia de Introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)

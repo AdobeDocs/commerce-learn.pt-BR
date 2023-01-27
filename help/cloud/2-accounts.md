@@ -6,9 +6,9 @@ doc-type: video
 audience: all
 activity: use
 exl-id: 89e117ae-b504-42ac-b3cb-8fbbe398b027
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '65'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Neste vídeo:
 
 ## Recursos adicionais
 
-[Arquitetura em nuvem para [!DNL Commerce]](https://devdocs.magento.com/cloud/architecture/cloud-architecture.html)
+[Arquitetura da nuvem - [!DNL Commerce] no Guia do Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html)

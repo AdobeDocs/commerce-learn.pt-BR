@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 17d68833-eb86-49a8-80e7-16b20e435626
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -31,5 +31,5 @@ Os segmentos do cliente permitem exibir dinamicamente o conteúdo e as promoçõ
 
 ## Recursos adicionais
 
-- [Segmentos do cliente](https://docs.magento.com/user-guide/marketing/customer-segments.html)
-- [Segmentos de clientes em regras de preço](https://docs.magento.com/user-guide/marketing/customer-segment-price-rule.html)
+- [Segmentos do cliente - [!DNL Commerce] Guia de gerenciamento do cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
+- [Segmentos do cliente em regras de preço - [!DNL Commerce] Guia de gerenciamento do cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)

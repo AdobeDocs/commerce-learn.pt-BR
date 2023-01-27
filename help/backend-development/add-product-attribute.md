@@ -6,9 +6,9 @@ kt: 5602
 doc-type: video
 activity: use
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 4b72cf5e0c49690fe44776a6e4c682eb3c316e47
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -34,6 +34,6 @@ Neste vídeo:
 
 ## Recursos úteis
 
-[Adicionar um novo atributo do produto](https://devdocs.magento.com/videos/fundamentals/add-new-product-attribute/)
+[Criar um atributo de produto](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
-[Atributos personalizados](https://devdocs.magento.com/guides/v2.4/howdoi/custom-attributes/introduction.html)
+[Adicionar um atributo de campo de texto personalizado](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)

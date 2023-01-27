@@ -7,9 +7,9 @@ audience: all
 role: Admin, Leader, User
 activity: use
 exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,5 @@ Organizar seus produtos em categorias é fundamental para gerenciar seus catálo
 
 ## Recursos adicionais
 
-- [Produtos da categoria](https://docs.magento.com/user-guide/catalog/categories-category-products.html)
-- [Criando Regras de Categoria](https://docs.magento.com/user-guide/catalog/category-product-rules.html)
+- [Atribuições de produto da categoria - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+- [Regras de categoria para merchandising - [!DNL Commerce] Guia de comercialização e promoção](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

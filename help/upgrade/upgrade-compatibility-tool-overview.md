@@ -8,10 +8,10 @@ role: Admin, Leader, Developer
 audience: all
 activity: use
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 19%
+source-wordcount: '223'
+ht-degree: 18%
 
 ---
 
@@ -40,5 +40,5 @@ Para saber mais sobre a ferramenta, consulte a [Atualizar a documentação da Fe
 
 - [Atualizar a documentação da Ferramenta de Compatibilidade](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
 - [Guia de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-- [Versões lançadas](https://devdocs.magento.com/release/released-versions.html)
-- [Próximas versões](https://devdocs.magento.com/release/)
+- [Versões lançadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+- [Programação de lançamento](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: 894523ce-5855-447a-be3b-aa751fb366f2
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -30,5 +30,4 @@ As regras de produto relacionadas oferecem a capacidade de direcionar a seleçã
 
 ## Recursos adicionais
 
-- [Regras de produto relacionadas](https://docs.magento.com/user-guide/marketing/product-related-rules.html)
-- [Referência de configuração de Relações de produto com base em regras](https://docs.magento.com/user-guide/configuration/catalog/catalog.html#rule-based-product-relations)
+[Regras de produto relacionadas - [!DNL Commerce] Guia de comercialização e promoção](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)

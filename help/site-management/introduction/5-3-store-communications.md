@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 exl-id: 91530766-07be-4466-879b-1b7bfc14ac10
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -29,12 +29,12 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [ 2.3.x](https://devdocs.magento.com/guides/v2.3/release-notes/bk-release-notes.html) e [2.4.x](https://devdocs.magento.com/guides/v2.4/release-notes/bk-release-notes.html) notas de versão.
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36190?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Email - [!DNL Commerce] guia do usuário](https://docs.magento.com/user-guide/marketing/email-templates.html)
+[Modelos de email - [!DNL Commerce] Guia de sistemas de administração](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
 
-[Uso de variáveis - [!DNL Commerce] guia do usuário](https://docs.magento.com/user-guide/marketing/variables.html)
+[Variáveis e comunicações do cliente - [!DNL Commerce] Guia de sistemas de administração](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)

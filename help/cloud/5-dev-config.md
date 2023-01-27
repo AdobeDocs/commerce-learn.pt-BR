@@ -6,10 +6,10 @@ doc-type: video
 audience: all
 activity: use
 exl-id: 62aa37a0-1e34-4915-b16e-6c6a9803a967
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '37'
-ht-degree: 18%
+source-wordcount: '40'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ Neste vídeo:
 
 ## Recursos adicionais
 
-[Guia da nuvem do [!DNL Commerce]](https://devdocs.magento.com/cloud/bk-cloud.html)
+[[!DNL Commerce] no Guia do Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)

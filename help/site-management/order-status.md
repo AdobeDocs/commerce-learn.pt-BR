@@ -6,9 +6,9 @@ audience: all
 role: Admin, User
 activity: use
 exl-id: 0ce9960e-00e2-4602-9a12-4e12883b92e1
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '143'
 ht-degree: 0%
 
 ---
@@ -28,5 +28,5 @@ Quando um cliente faz um pedido, uma ordem de venda é criada como um registro t
 
 ## Recursos adicionais
 
-- [Processamento de um pedido](https://docs.magento.com/user-guide/sales/order-processing.html)
-- [Status do pedido](https://docs.magento.com/user-guide/sales/order-status.html)
+- [Processar um pedido - [!DNL Commerce] Guia de experiência de loja e compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [Status do pedido - [!DNL Commerce] Guia de experiência de loja e compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
