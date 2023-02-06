@@ -6,15 +6,15 @@ kt: 11762
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 155cc49232ab739fe78443b1e5fb2691759a23ee
+source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 
-# Demonstração funcional do App Builder para Adobe Commerce
+# Demonstração funcional para o App Builder
 
 Para saber mais sobre como usar o Adobe Commerce com o App Builder, assista ao vídeo abaixo que mostra como conectar o Adobe Commerce ao Amazon Sales Channel. Essa demonstração usa um evento do Adobe Commerce e um observador de eventos do Adobe App Builder. Esta demonstração funcional descreve como essa integração funciona e explora o potencial do Adobe App Builder.
 
