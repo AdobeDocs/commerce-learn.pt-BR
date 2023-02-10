@@ -1,12 +1,12 @@
 ---
-title: '[!DNL Commerce] Vídeos e tutoriais'
-description: Uma coleção de vídeos e tutoriais para o Adobe Commerce e para o Magento Open Source
+title: '''[!DNL Commerce] Vídeos e Tutorials'
+description: Uma coleção de vídeos e tutoriais do Adobe Commerce e do Magento Open Source
 last-substantial-update: 2023-01-19T00:00:00Z
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: f36aa9dd69ce107b1dd9afb66b976391a1ff7ece
+source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 11%
+source-wordcount: '146'
+ht-degree: 0%
 
 ---
 
@@ -18,6 +18,8 @@ Bem-vindo ao [!DNL Commerce] coleção de vídeos e tutoriais. Uso desses recurs
 
 ## Novidades
 
+- [Adobe Developer App Builder](../app-builder/introduction-to-app-builder.md)
+- [Introdução à malha da API](../api-mesh/getting-started-api-mesh.md)
 - [Introdução ao GraphQL](../graphql-rest/intro-graphql.md)
 - [Localizar um IP mal-intencionado](../new-relic/malicious-ip.md)
 

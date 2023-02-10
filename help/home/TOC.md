@@ -2,7 +2,7 @@
 user-guide-title: Vídeos e Tutorials
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e Tutorials
-source-git-commit: 10f2a00922ccb9582081852885ef63e5cf297482
+source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
 workflow-type: tm+mt
 source-wordcount: '573'
 ht-degree: 0%
@@ -67,10 +67,10 @@ ht-degree: 0%
    + [Estrutura de extensibilidade do App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Demonstração funcional para o App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Visão geral técnica do App Builder](../app-builder/app-builder-technical-overview.md)
-   + [Tutoriais de malha da API](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
+   + [Tutoriais de malha da API](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
 
 + Malha da API {#api-mesh}
-   + [Tutoriais de malha da API](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/installing-aio-mesh-plugin.html)
+   + [Tutoriais de malha da API](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
 
 + Administração de armazenamento {#admin}
    + [Gerenciar funções e permissões do usuário](../site-management/users-roles-permissions.md)
