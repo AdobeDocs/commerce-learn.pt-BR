@@ -5,10 +5,10 @@ landing-page-description: Saiba mais sobre a Unified Extensibility Framework e a
 kt: 11740
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-01-24T00:00:00Z
-source-git-commit: 336581ac6b695d8b847d88daadeb3784ece97ae7
+last-substantial-update: 2023-02-16T00:00:00Z
+source-git-commit: f4c092b4534587f5656bbf298dbf94f783d93be7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -22,8 +22,4 @@ Para saber como usar o Adobe Commerce com o Adobe Developer App Builder, assista
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413328)
 
-## Tutoriais relacionados adicionais
-
-- [introdução ao App Builder](../app-builder/introduction-to-app-builder.md)
-- [demonstração funcional App Builder](../app-builder/app-builder-functional-demonstration.md)
-- [visão geral técnica do App Builder](../app-builder/app-builder-technical-overview.md)
+{{$include /help/_includes/app-builder-related-links.md}}
