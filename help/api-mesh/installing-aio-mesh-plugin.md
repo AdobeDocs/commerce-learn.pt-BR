@@ -1,39 +1,48 @@
 ---
-title: Instalação da interface de linha de comando do Adobe Developer IO e do plug-in de malha da API
-description: Saiba como instalar a interface de linha de comando do Adobe Developer IO e o plug-in de malha da API
-landing-page-description: Descubra como usar o Adobe App Builder e instalar o Adobe Developer IO com o plug-in de malha de API.
+title: Instalação da interface de linha de comando do Adobe I/O Runtime e do plug-in de malha da API
+description: Saiba como instalar a interface de linha de comando do Adobe I/O Runtime e o plug-in de malha da API
+landing-page-description: Descubra como usar o Adobe App Builder e instalar o Adobe I/O Runtime com o plug-in de malha de API.
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b6d501c5c852e1cc2cf1f05f91b5a9d96ac7d036
+source-git-commit: a6fb3810f34246df73ae5557240eaaa0f4407eb1
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
 
-# Instalação do plug-in Adobe Developer IO e Mesh
+# Instalação do plug-in Adobe I/O Runtime CLI e Mesh
 
-Antes de começar, há algumas coisas que precisam ser configuradas. Primeiro, a configuração da interface da linha de comando do Adobe Developer IO. Em seguida, verifique se o plug-in de malha de API está configurado em cada ambiente.
-Para obter instruções sobre como configurar seu ambiente local para executar o Nó, o nvm e instalar o Adobe Developer IO, certifique-se de visitar [Introdução ao GraphQL Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/).
+Antes de começar a usar a Mensagem de API para o Adobe Developer App Builder, é necessário instalar o `aio` CLI e o plug-in de malha da API.
+Para obter instruções de instalação e pré-requisitos, visite a malha da API [Introdução](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/) página.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novos no Adobe App Builder ou [!DNL Magento Open Source] com experiência limitada com Adobe Developer IO e malha de API.
+* Desenvolvedores novos na malha de API ou [!DNL Adobe Commerce] com experiência limitada [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/) e a malha da API.
 
 ## Conteúdo de vídeo
 
 * Introdução à malha da API
-* Instalação da interface de linha de comando do Adobe Developer IO
-* Adicionar o plug-in de malha de API à linha de comando da AIO
+* Instalação da CLI do Adobe I/O Runtime (interface de linha de comando)
+* Instalação do plug-in de malha da API
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122/)
 
-## Exemplo de comandos usando NPM e AIO
+## Instalar o `aio` Plug-in de malha de CLI e API
 
-Instalar a interface da linha de comando do Adobe Developer é muito simples. Depois que o Nó estiver instalado, execute este comando `npm install -g @adobe/aio-cli`
-Depois que a cli do Adobe Developer é instalada, é possível instalar o plug-in de malha. Execute este comando para fazer isso `aio plugins:install @adobe/aio-cli-plugin-api-mesh`
+Depois de instalar `node` e `npm`, execute o seguinte comando para instalar o `aio` CLI:
+
+```bash
+npm install -g @adobe/aio-cli
+```
+
+Depois que a CLI do Adobe I/O Runtime estiver instalada, use o seguinte comando para instalar o plug-in da malha da API:
+
+```bash
+aio plugins:install @adobe/aio-cli-plugin-api-mesh
+```
 
 {{$include /help/_includes/api-mesh-related-links.md}}
