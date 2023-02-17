@@ -2,9 +2,9 @@
 user-guide-title: Vídeos e Tutorials
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e Tutorials
-source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
+source-git-commit: d26282acb27a09344197f393ed2fe465afda022a
 workflow-type: tm+mt
-source-wordcount: '573'
+source-wordcount: '583'
 ht-degree: 0%
 
 ---
@@ -67,10 +67,13 @@ ht-degree: 0%
    + [Estrutura de extensibilidade do App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Demonstração funcional para o App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Visão geral técnica do App Builder](../app-builder/app-builder-technical-overview.md)
-   + [Tutoriais de malha da API](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
 
 + Malha da API {#api-mesh}
-   + [Tutoriais de malha da API](https://experienceleague.adobe.com/docs/commerce-learn/api-mesh/getting-started-api-mesh.html)
+   + [Introdução à malha da API](../api-mesh/getting-started-api-mesh.md)
+   + [Instalação do plugin Adobe IO e mesh](../api-mesh/installing-aio-mesh-plugin.md)
+   + [Trabalhar com projetos e espaços de trabalho](../api-mesh/aio-projects-workspaces.md)
+   + [Criar malha de API do GraphQL de origem única](../api-mesh/graphql-single-source.md)
+   + [Criar malha de API GraphQL de várias fontes](../api-mesh/graphql-multiple-source.md)
 
 + Administração de armazenamento {#admin}
    + [Gerenciar funções e permissões do usuário](../site-management/users-roles-permissions.md)
