@@ -2,7 +2,7 @@
 user-guide-title: Vídeos e Tutorials
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e Tutorials
-source-git-commit: 894accd205cdaa796405d979e324ec4d19f65c51
+source-git-commit: afd88a8996e941e9e6c00ef86d960318b8dcaee6
 workflow-type: tm+mt
 source-wordcount: '610'
 ht-degree: 0%
@@ -31,7 +31,7 @@ ht-degree: 0%
       + [5.2 - Esquema Declarativo](../backend-development/backend-5-2-declarative-schema.md)
       + [5.3 - Roteamento](../backend-development/backend-5-3-routing.md)
       + [5.4 - Criar um [!DNL Admin] Página](../backend-development/backend-5-4-admin-page.md)
-   + [6 - Exercícios](../backend-development/backend-6-practice.md)
+      + [6 - Exercícios](../backend-development/backend-6-practice.md)
    + [!DNL Commerce] para usuários empresariais {#merchants}
       + [1.1 - [!DNL Admin] Menus](../site-management/introduction/1-1-menus.md)
       + [1.2 - Grades de dados](../site-management/introduction/1-2-data-grids.md)
