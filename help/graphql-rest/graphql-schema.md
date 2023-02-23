@@ -7,16 +7,16 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
+source-git-commit: 0fa7ba038f542172c47bea859f8712759fcc52f7
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
 
 # Idioma do esquema
 
-As consultas e mutações com as quais trabalhamos dependem de um gráfico de dados específico sendo implementado no servidor, que o tempo de execução do GraphQL consome e usa para resolver a consulta. A especificação do GraphQL define uma linguagem agnóstica para expressar os tipos e as relações do seu gráfico de dados.
+As consultas e mutações usadas dependem de um gráfico de dados específico que está sendo implementado no servidor, que o tempo de execução do GraphQL consome e usa para resolver a consulta. A especificação do GraphQL define uma linguagem agnóstica para expressar os tipos e as relações do seu gráfico de dados.
 
 Este é um schema do tipo abreviado que suporta as consultas e mutações que você já viu:
 
@@ -98,6 +98,6 @@ A sintaxe `[CartItemInput!]!` parece complicado, mas é bastante intuitivo no fi
 
 >[!NOTE]
 >
->A lógica de como os dados são buscados e formatados de acordo com um esquema e como essa lógica é mapeada para tipos específicos depende da implementação do tempo de execução do GraphQL. No entanto, as implementações devem seguir um fluxo conceitual que faça sentido à luz da compreensão de campos aninhados: Uma operação de resolução associada à raiz `Query` ou `Mutation` é executado, que examina cada campo especificado na solicitação. Para cada campo que é resolvido para um tipo complexo, uma resolução semelhante é feita para esse tipo e assim por diante, até que tudo tenha sido resolvido em valores escalares.
+>A lógica de como os dados são buscados e formatados de acordo com um esquema e como essa lógica é mapeada para tipos específicos depende da implementação do tempo de execução do GraphQL. No entanto, as implementações devem seguir um fluxo conceitual que faça sentido à luz de uma compreensão em torno de campos aninhados: Uma operação de resolução associada à raiz `Query` ou `Mutation` é executado, que examina cada campo especificado na solicitação. Para cada campo que é resolvido para um tipo complexo, uma resolução semelhante é feita para esse tipo e assim por diante, até que tudo tenha sido resolvido em valores escalares.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}
