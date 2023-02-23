@@ -6,13 +6,13 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
-source-git-commit: 52738be67e20cc2048bbc04afc5c01c9c5478a98
+exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
+source-git-commit: ef3dd7aaa409d9c1bc30d3d9c225966d8c1ace9e
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 0%
 
 ---
-
 
 # Idioma do esquema
 
@@ -90,7 +90,7 @@ type Mutation {
 }
 ```
 
-Você pode se aprofundar em [a documentação do GraphQL](https://graphql.org/learn/schema/) para saber mais sobre os detalhes do tipo de sistema, incluindo sintaxe para alguns conceitos não representados aqui. No entanto, o exemplo acima é autoexplicativo. (Além disso, observe como a sintaxe é semelhante à sintaxe de consulta.) A definição de um schema GraphQL é simplesmente uma questão de expressar os argumentos e campos disponíveis de um determinado tipo, juntamente com os tipos desses campos. Cada tipo de campo complexo deve ter uma definição, e assim por diante, por meio da árvore, até chegar a tipos escalares simples como `String`.
+Você pode se aprofundar em [a documentação do GraphQL](https://graphql.org/learn/schema/){target="_blank"} para saber mais sobre os detalhes do tipo de sistema, incluindo sintaxe para alguns conceitos não representados aqui. No entanto, o exemplo acima é autoexplicativo. (Além disso, observe como a sintaxe é semelhante à sintaxe de consulta.) A definição de um schema GraphQL é simplesmente uma questão de expressar os argumentos e campos disponíveis de um determinado tipo, juntamente com os tipos desses campos. Cada tipo de campo complexo deve ter uma definição, e assim por diante, por meio da árvore, até chegar a tipos escalares simples como `String`.
 
 O `input` declaração é, em todos os aspectos, como uma `type` mas define um tipo que pode ser usado como entrada para um argumento. Observe também a `interface` declaração. Isso serve uma função mais ou menos a mesma que interfaces no PHP. Outros tipos herdam dessa interface.
 
@@ -100,4 +100,4 @@ A sintaxe `[CartItemInput!]!` parece complicado, mas é bastante intuitivo no fi
 >
 >A lógica de como os dados são buscados e formatados de acordo com um esquema e como essa lógica é mapeada para tipos específicos depende da implementação do tempo de execução do GraphQL. No entanto, as implementações devem seguir um fluxo conceitual que faça sentido à luz da compreensão de campos aninhados: Uma operação de resolução associada à raiz `Query` ou `Mutation` é executado, que examina cada campo especificado na solicitação. Para cada campo que é resolvido para um tipo complexo, uma resolução semelhante é feita para esse tipo e assim por diante, até que tudo tenha sido resolvido em valores escalares.
 
-
+{{$include /help/_includes/graphql-rest-related-links.md}}

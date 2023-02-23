@@ -7,9 +7,9 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: b799bd7b-11a4-4a1c-b2f4-893f6ff2994d
-source-git-commit: a034e15f913c06fcad54e669f43fe6acc8fb3f8f
+source-git-commit: 894accd205cdaa796405d979e324ec4d19f65c51
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -32,11 +32,4 @@ Se você nunca usou o GraphQL, o Adobe recomenda começar com este vídeo de int
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412302/graphql)
 
-## Recursos úteis
-
-Use esses links depois de assistir ao vídeo ou se desejar que as páginas de tutoriais sejam representadas no vídeo
-
-* [Visão geral da GraphQL](./intro-graphql.md)
-* [Queries](./graphql-queries.md)
-* [Infecções e infestações](./graphql-mutations.md)
-* [Esquema](./graphql-schema.md)
+{{$include /help/_includes/graphql-rest-related-links.md}}
