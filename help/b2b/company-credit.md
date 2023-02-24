@@ -5,10 +5,11 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="B2B para Adobe Commerce" type="Positive"
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: 4f98e97eda8426fac9ea453e95fedf126e4a4113
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
