@@ -6,8 +6,10 @@ kt: 5774
 doc-type: video
 role: Admin, Leader, User
 activity: use
+badge1: "Adobe Commerce 2.3.1"
+badge2: "Only on Adobe Commerce"
 exl-id: e643ee2a-776b-4840-8bff-6ad99ee98fda
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 41391482386043eadbe1801c0423fe5c8950b0bd
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
