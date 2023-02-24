@@ -7,9 +7,9 @@ doc-type: video
 role: Admin, Leader, User
 activity: use
 badge1: "Adobe Commerce 2.3.1"
-badge2: "Only on Adobe Commerce"
+badge2: label="Only on Adobe Commerce" type="Positive"
 exl-id: e643ee2a-776b-4840-8bff-6ad99ee98fda
-source-git-commit: 41391482386043eadbe1801c0423fe5c8950b0bd
+source-git-commit: 32e47eba9e4787cc157613f1efdf89d0517fa3b5
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
