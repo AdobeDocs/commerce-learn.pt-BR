@@ -3,7 +3,7 @@ title: '''[!DNL Commerce] Vídeos e Tutorials'
 description: Uma coleção de vídeos e tutoriais do Adobe Commerce e do Magento Open Source
 last-substantial-update: 2023-01-19T00:00:00Z
 exl-id: e6bed3a4-4078-40df-88b0-3bad6c144aeb
-source-git-commit: 5cdc7c15eb792879e66cda39abafcbbd61d807dc
+source-git-commit: 748b2c03cd64cf2764087040943e4d37ea6daf0e
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -24,6 +24,12 @@ Bem-vindo ao [!DNL Commerce] coleção de vídeos e tutoriais. Uso desses recurs
 - [Localizar um IP mal-intencionado](../new-relic/malicious-ip.md)
 
 </div>
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
 >[!TIP]
 >
