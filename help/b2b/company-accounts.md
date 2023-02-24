@@ -5,10 +5,11 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="B2B para Adobe Commerce" type="Positive"
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: 7e09ceadf377bf5ed15988cf0db493af1c0ead0a
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -31,5 +32,5 @@ Para comerciantes B2B, a variável _[!UICONTROL Companies]_lista todas as contas
 
 ## Recursos adicionais
 
-- [Contas da Empresa](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html)
-- [Gerenciar contas da empresa](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html)
+- [Contas da Empresa](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-companies.html){target="_blank"}
+- [Gerenciar contas da empresa](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/account-company-manage.html){target="_blank"}
