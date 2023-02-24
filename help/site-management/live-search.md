@@ -5,10 +5,11 @@ doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
+badge: label="Somente em Adobe Commerce" type="Positive"
 exl-id: a2a65242-9510-447d-8e35-4b9698ddd7b2
-source-git-commit: 1d92f5bc2e2eb4b06515ca611d4c41df56b4246f
+source-git-commit: bffa9c7d6e3465a622fcf2d868d11c1f1aade54e
 workflow-type: tm+mt
-source-wordcount: '86'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -31,6 +32,6 @@ Esta é uma introdução ao [!DNL Live Search] do Adobe Commerce. [!DNL Live Sea
 
 ## Recursos adicionais
 
-- [[!DNL Live Search] para recomendações](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html)
-- [[!DNL Live Search] visão geral](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
-- [Conector do Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [[!DNL Live Search] para recomendações](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search-recommendations.html){target="_blank"}
+- [[!DNL Live Search] visão geral](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html){target="_blank"}
+- [Conector do Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
