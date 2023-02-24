@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
+source-git-commit: fba55cd605c4b17d87af5e8e2919bd400e6ebf55
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Criar uma malha com uma única fonte
 
-Este vídeo ajuda os desenvolvedores a entender como criar uma malha com uma única fonte na malha da API para o Adobe Developer App Builder. Para que esse exemplo básico funcione conforme o esperado, é necessário uma API acessível publicamente ou um terminal GraphQL. O vídeo também explica como criar um `mesh.json` para usar com sua instância do Commerce. Para obter mais detalhes e amostras de código, visite [Criar uma malha](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+Este vídeo ajuda os desenvolvedores a entender como criar uma malha com uma única fonte na malha da API para o Adobe Developer App Builder. Para que esse exemplo básico funcione conforme o esperado, é necessário uma API acessível publicamente ou um terminal GraphQL. O vídeo também explica como criar um `mesh.json` para usar com sua instância do Commerce. Para obter mais detalhes e amostras de código, visite [Criar uma malha](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Para quem é este vídeo?
 

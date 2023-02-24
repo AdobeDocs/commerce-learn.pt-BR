@@ -6,7 +6,7 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 25e10b1acc4c868711f08b0de4997df1e376a0af
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Se você não estiver familiarizado com a malha de API do Adobe Developer App Bu
 
 A API Mesh combina várias fontes de dados para obter uma única resposta para o seu aplicativo consumir.
 
-[Exibir a documentação completa da malha de API](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/)
+[Exibir a documentação completa da malha de API](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
 
 ## Exemplo de casos de uso
 
@@ -31,7 +31,7 @@ Seu aplicativo Commerce tem uma REST API e um terminal GraphQL. Por exemplo, voc
 
 Como desenvolvedor usando o Adobe App Builder e a malha da API, não é necessário entender o que é um proxy reverso. No entanto, se você estiver interessado na funcionalidade geral, pois ela diz respeito ao Adobe App Builder, use os seguintes recursos:
 
-* [O que é um proxy reverso](https://www.imperva.com/learn/performance/reverse-proxy/)
-* [O que é um proxy reverso e por que ele é importante](https://blog.hubspot.com/website/reverse-proxy)
+* [O que é um proxy reverso](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
+* [O que é um proxy reverso e por que ele é importante](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}

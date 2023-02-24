@@ -6,7 +6,7 @@ kt: 11803
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 2cf7eb4d04f874ec42ca5f6d58ec841680376a41
+source-git-commit: 48d96994571ced0b8219ace9178d068481a39573
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Trabalhar com projetos e espaços de trabalho
 
-Este tutorial discute a criação de um projeto e um espaço de trabalho para conter sua malha. Esse trabalho acontece predominantemente na [Console do Adobe Developer](https://developer.adobe.com/console) IU.
+Este tutorial discute a criação de um projeto e um espaço de trabalho para conter sua malha. Esse trabalho acontece predominantemente na [Console do Adobe Developer](https://developer.adobe.com/console){target="_blank"} IU.
 
 ## Para quem é este vídeo?
 
@@ -35,12 +35,12 @@ Este tutorial discute a criação de um projeto e um espaço de trabalho para co
 
 ## Saiba mais sobre o Adobe Developer Console
 
-No console Adobe Developer, a seguinte hierarquia representa como as APIs se encaixam na organização: `Organization > Project > Workspace > [API]`. Para saber mais sobre o Adobe App Builder, fazer logon no console e solucionar problemas básicos, visite [Criar seu primeiro aplicativo do App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/).
+No console Adobe Developer, a seguinte hierarquia representa como as APIs se encaixam na organização: `Organization > Project > Workspace > [API]`. Para saber mais sobre o Adobe App Builder, fazer logon no console e solucionar problemas básicos, visite [Criar seu primeiro aplicativo do App Builder](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}.
 
 ## Introdução a projetos no console Adobe Developer
 
-Todo o trabalho de desenvolvimento no Adobe Developer Console é feito como parte de um projeto. Um projeto pode incluir um ou vários produtos e uma combinação de APIs, eventos, tempos de execução e plug-ins. Para obter mais detalhes sobre projetos no console Adobe Developer, visite [Projetos](https://developer.adobe.com/developer-console/docs/guides/projects/).
+Todo o trabalho de desenvolvimento no Adobe Developer Console é feito como parte de um projeto. Um projeto pode incluir um ou vários produtos e uma combinação de APIs, eventos, tempos de execução e plug-ins. Para obter mais detalhes sobre projetos no console Adobe Developer, visite [Projetos](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
 
-Para obter mais informações sobre o uso de projetos e espaços de trabalho no contexto da malha de API, consulte [Modificar projetos e espaços de trabalho](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces).
+Para obter mais informações sobre o uso de projetos e espaços de trabalho no contexto da malha de API, consulte [Modificar projetos e espaços de trabalho](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#modify-projects-and-workspaces){target="_blank"}.
 
 {{$include /help/_includes/api-mesh-related-links.md}}

@@ -6,7 +6,7 @@ kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: a6fb3810f34246df73ae5557240eaaa0f4407eb1
+source-git-commit: f365e4cbf3f9bd8a0364acb9d28f8d9479809011
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
@@ -17,11 +17,11 @@ ht-degree: 0%
 # Instalação do plug-in Adobe I/O Runtime CLI e Mesh
 
 Antes de começar a usar a Mensagem de API para o Adobe Developer App Builder, é necessário instalar o `aio` CLI e o plug-in de malha da API.
-Para obter instruções de instalação e pré-requisitos, visite a malha da API [Introdução](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/) página.
+Para obter instruções de instalação e pré-requisitos, visite a malha da API [Introdução](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} página.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novos na malha de API ou [!DNL Adobe Commerce] com experiência limitada [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/) e a malha da API.
+* Desenvolvedores novos na malha de API ou [!DNL Adobe Commerce] com experiência limitada [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e a malha da API.
 
 ## Conteúdo de vídeo
 

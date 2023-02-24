@@ -6,7 +6,7 @@ kt: 11804
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: b3d5b22a597b342df6bf9846346d656dd4ce1383
+source-git-commit: 6b2a66ed3b4de8e633d5b3c6bce86eb0507a9ac7
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Criar uma malha com várias fontes
 
-Este vídeo ajuda os desenvolvedores a entender como criar uma malha com várias fontes na malha da API para o Adobe Developer App Builder. Este vídeo mostra como criar uma malha com várias fontes e identificar erros. Para obter mais detalhes e amostras de código, visite [Criar uma malha](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1).
+Este vídeo ajuda os desenvolvedores a entender como criar uma malha com várias fontes na malha da API para o Adobe Developer App Builder. Este vídeo mostra como criar uma malha com várias fontes e identificar erros. Para obter mais detalhes e amostras de código, visite [Criar uma malha](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Para quem é este vídeo?
 
@@ -24,7 +24,7 @@ Este vídeo ajuda os desenvolvedores a entender como criar uma malha com várias
 
 ## Conteúdo de vídeo
 
-* Como utilizar [transformações](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/) para modificar o schema de origem padrão
+* Como utilizar [transformações](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} para modificar o schema de origem padrão
 * Como solucionar erros, como conflitos de nome, disponibilidade de esquema e outros problemas de sintaxe de esquema
 * Atualizar sua malha com uma configuração modificada
 
