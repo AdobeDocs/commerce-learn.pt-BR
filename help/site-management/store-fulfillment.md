@@ -3,11 +3,11 @@ title: Visão geral do cumprimento da loja
 description: Saiba mais sobre o fornecimento de armazenamento para Adobe Commerce pela Walmart Commerce Technologies, uma solução avançada de cumprimento de omnicanal que oferece uma experiência completa de compra online e compra na loja (BOPIS).
 landing-page-description: Assista a este vídeo para saber como a solução Store Fulfillment oferece aos clientes a conveniência de coletar e armazenar funcionários mais eficientes e prontos para dispositivos móveis para coletar, preparar e entregar pedidos de retirada de loja aos clientes.
 doc-type: feature video
-solution: Adobe Commerce
+solution: Commerce
 audience: all
 activity: use
 exl-id: 53f45eb4-29e0-426d-8e9a-784838e37e03
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: f614fbd70ed58fd3a8177700e4c118d4f17bf349
 workflow-type: tm+mt
 source-wordcount: '251'
 ht-degree: 0%

@@ -3,11 +3,11 @@ title: MBI - Painel de visão geral executivo
 description: Ver uma demonstração do painel de Visão geral executiva fornecido pela BI.
 kt: 5731
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 7a601fcd-e41f-4918-81a3-392995be39fa
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f614fbd70ed58fd3a8177700e4c118d4f17bf349
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%

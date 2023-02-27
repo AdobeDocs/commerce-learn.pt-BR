@@ -3,11 +3,11 @@ title: MBI - Relatórios padrão
 description: Saiba mais sobre os relatórios MBI padrão, disponíveis prontos para uso.
 kt: 5733
 doc-type: feature video
-solution: Adobe Commerce, Magento Business Intelligence
+solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: b8c1f7c6-e645-40fc-977f-29b8cd79637c
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f614fbd70ed58fd3a8177700e4c118d4f17bf349
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
