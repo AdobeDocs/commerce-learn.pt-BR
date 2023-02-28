@@ -6,9 +6,9 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: f4c092b4534587f5656bbf298dbf94f783d93be7
+source-git-commit: 662c755b69e399448ce7f4984105a556386f027c
 workflow-type: tm+mt
-source-wordcount: '746'
+source-wordcount: '782'
 ht-degree: 0%
 
 ---
@@ -60,6 +60,10 @@ O diagrama a seguir ilustra como um aplicativo padrão criado no App Builder usa
 Para obter mais detalhes sobre a arquitetura do App Builder, consulte a [Visão geral da arquitetura](https://developer.adobe.com/app-builder/docs/guides/).
 
 ## Extensão Sales Channel do Amazon {#amazon-sales-channel-extension}
+
+>[!IMPORTANT]
+>
+>A extensão do Sales Channel do Amazon ainda está em desenvolvimento e não foi lançada oficialmente.  Esses vídeos e tutoriais são destinados a mostrar como usar o Adobe Developer App Builder para obter um caso de uso prático.
 
 Os seguintes tutoriais demonstram como se conectar ao Adobe Commerce ao Amazon Sales Channel usando uma extensão do App Builder.
 
