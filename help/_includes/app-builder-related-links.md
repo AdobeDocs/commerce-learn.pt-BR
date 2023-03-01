@@ -1,18 +1,18 @@
 ---
-title: Páginas relacionadas à malha da API
+title: Páginas relacionadas à Malha de API
 description: Links para páginas relacionadas no App Builder
-source-git-commit: 4e5538c925e449552ba2d9ac5f4c7a63b632e595
+source-git-commit: a12b90b62e83a3c1b5668dbf31a2609b731d292f
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
 # Links relacionados ao App Builder
 
-## Tutoriais relacionados adicionais
+## Tutoriais adicionais relacionados
 
-* [Introdução ao App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/introduction-to-app-builder.md)
-* [Estrutura de extensibilidade do App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/extensibility-framework-commerce-eventing.md)
-* [Demonstração funcional para o App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-functional-demonstration.md)
-* [Visão geral técnica do App Builder](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.md)
+* [Introdução ao App Builder](../app-builder/introduction-to-app-builder.md)
+* [Estrutura de extensibilidade do App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+* [Demonstração funcional do App Builder](../app-builder/app-builder-functional-demonstration.md)
+* [Visão geral técnica do App Builder](../app-builder/app-builder-technical-overview.md)
