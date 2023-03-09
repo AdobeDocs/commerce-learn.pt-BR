@@ -6,7 +6,7 @@ kt: 11433
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: 8726d58abbf6ac0fb1e403a0ece335978d4d7eac
+source-git-commit: 82ccecf2789e1eedf447af2705a3840d0302fdba
 workflow-type: tm+mt
 source-wordcount: '819'
 ht-degree: 0%
@@ -57,7 +57,7 @@ O diagrama a seguir ilustra como um aplicativo padrão criado no App Builder usa
 
 ![Arquitetura](/help/assets/app-builder/firefly-architecture.jpeg)
 
-Para obter mais detalhes sobre a arquitetura do App Builder, consulte [Visão geral da arquitetura](https://developer.adobe.com/app-builder/docs/guides/).
+Para obter mais detalhes sobre a arquitetura do App Builder, consulte [Visão geral da arquitetura](https://developer.adobe.com/app-builder/docs/guides/){target="_blank"}.
 
 ## Extensão Sales Channel do Amazon {#amazon-sales-channel-extension}
 
@@ -75,27 +75,27 @@ Os tutoriais a seguir demonstram como conectar o Adobe Commerce ao Amazon Sales 
 
 Uma visão geral da estratégia de comércio combinável, que inclui a configuração inicial, pode ser encontrada lendo a seguinte publicação do blog:
 
-[Como o App Builder ajuda a impulsionar a agilidade comercial para sua plataforma de comércio](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy)
+[Como o App Builder ajuda a impulsionar a agilidade comercial para sua plataforma de comércio](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 Para ajudar você a começar a usar o App Builder, o Adobe criou a seguinte documentação:
 
-* [Introdução ao App Builder](https://developer.adobe.com/app-builder/docs/getting_started/)
+* [Introdução ao App Builder](https://developer.adobe.com/app-builder/docs/getting_started/){target="_blank"}
 
 ## Continue aprendendo com a documentação {#appbuilder-documentation}
 
 O App Builder fornece vídeos e documentação para desenvolvedores, incluindo guias e documentação de referência para ajudar a desenvolver seus próprios aplicativos personalizados:
 
-* [Documentação do App Builder](https://developer.adobe.com/app-builder/docs/overview/)
-* [Vídeos do Construtor de aplicativos](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o)
+* [Documentação do App Builder](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [Vídeos do Construtor de aplicativos](https://www.youtube.com/playlist?list=PLcVEYUqU7VRfDij-Jbjyw8S8EzW073F_o){target="_blank"}
 
 ## Experimente um dos aplicativos de amostra {#appbuilder-codesamples}
 
 Pronto para começar a desenvolver? O link a seguir contém aplicativos de exemplo para ajudar você a começar:
 
-* [Laboratórios de código do App Builder no site da Adobe Developer](https://developer.adobe.com/app-builder/docs/resources/)
+* [Laboratórios de código do App Builder no site da Adobe Developer](https://developer.adobe.com/app-builder/docs/resources/){target="_blank"}
 
 ## Suporte {#support}
 
-Para solicitações de suporte do desenvolvedor, use o [fórum do Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly) para obter assistência.
+Para solicitações de suporte do desenvolvedor, use o [fórum do Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} para obter assistência.
 
 {{$include /help/_includes/app-builder-related-links.md}}
