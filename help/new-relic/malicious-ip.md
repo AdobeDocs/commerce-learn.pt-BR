@@ -2,13 +2,14 @@
 title: Saiba como usar o New Relic para identificar um IP que precisa ser bloqueado
 description: Usando o New Relic, identifique um endereço ip que possa ser malicioso.  Depois que o IP é determinado, ele é usado no Fastly para bloqueá-lo de acessar o aplicativo
 landing-page-description: Este vídeo instrui um usuário do New Relic a encontrar possíveis endereços IP que podem precisar ser bloqueados ao acessar o site.
+short-description: This video instructs a user of New Relic to find potential IP addresses that may need to be blocked form accessing the site.
 kt: 11566
 doc-type: video
 audience: all
 activity: use
 last-substantial-update: 2022-12-9
 exl-id: 2bd28c6f-5139-485b-a439-dd7dbf2b6f62
-source-git-commit: a034e15f913c06fcad54e669f43fe6acc8fb3f8f
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%

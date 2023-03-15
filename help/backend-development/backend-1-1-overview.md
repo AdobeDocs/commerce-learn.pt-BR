@@ -1,7 +1,8 @@
 ---
 title: "[!DNL Commerce] para desenvolvedores - Visão geral"
-description: 'Conheça os conceitos básicos da plataforma sob a perspectiva de vários públicos-alvo: estabelecimentos comerciais, desenvolvedores de lojas na Web e integradores.'
+description: 'Saiba mais sobre os conceitos básicos da plataforma na perspectiva de vários públicos-alvo: comerciantes, desenvolvedores de web store e integradores.'
 landing-page-description: Assista a esta série de vídeos para começar a usar o projeto de desenvolvimento de back-end do Commerce.
+short-description: Watch this video series to get started on your backend development project for Commerce.
 doc-type: video
 topic: Development
 audience: developer
@@ -9,10 +10,10 @@ level: Beginner
 thumbnail: 36191.jpeg
 activity: use
 exl-id: d9049f03-537a-4e0e-8f17-ad392ac63d84
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '200'
-ht-degree: 16%
+ht-degree: 0%
 
 ---
 

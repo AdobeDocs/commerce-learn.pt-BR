@@ -2,11 +2,12 @@
 title: Estrutura de extensibilidade e eventos comerciais
 description: Saiba mais sobre a Unified Extensibility Framework e a noite comercial
 landing-page-description: Saiba mais sobre a Unified Extensibility Framework e a noite comercial
+short-description: Learn about Unified Extensibility Framework and commerce evening
 kt: 11740
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-16T00:00:00Z
-source-git-commit: f78364ba093b27c9395cba0b99483fa803251f58
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%

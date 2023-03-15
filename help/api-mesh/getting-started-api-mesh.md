@@ -2,11 +2,12 @@
 title: Introdução à malha da API
 description: Descubra como usar a malha de API no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como instalar o Adobe App Builder, trabalhar com projetos, criar um proxy reverso em gráfico e muito mais.
 landing-page-description: Descubra como usar a malha de API no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como instalar o Adobe IO, trabalhar com projetos, criar um proxy reverso em gráfico e muito mais.
+short-description: Discover how to use API Mesh on Adobe Commerce and [!DNL Adobe App Builder]. Learn about installing Adobe IO, working with projects, creating a graphql reverse proxy and much more.
 kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 25e10b1acc4c868711f08b0de4997df1e376a0af
+source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 0%
