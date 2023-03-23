@@ -6,15 +6,15 @@ kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
 
-# O `.env` arquivo {#env-file}
+# Gerar e configurar o arquivo .env {#env-file}
 
 O `.env` O é um arquivo especial que não faz parte do módulo de amostra, mas é importante para o uso no aplicativo Adobe Developer App Builder. Este arquivo contém segredos e outras informações. Evite confirmar esse arquivo em qualquer repositório de código.
 

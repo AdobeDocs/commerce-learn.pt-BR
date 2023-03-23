@@ -6,15 +6,15 @@ kt: 12425
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
 
-# O `web-src` pasta {#web-src-folder}
+# Descubra a finalidade da pasta web-src {#web-src-folder}
 
 A pasta web-src deste aplicativo de amostra contém muitos arquivos e pastas JavaScript. Essa pasta é usada para aplicativos com interface de usuário. Nem todos os aplicativos usam esse recurso. Por exemplo, uma integração do Commerce com um sistema externo de gerenciamento de inventário pode não exigir uma interface de primeiro plano e um código.
 

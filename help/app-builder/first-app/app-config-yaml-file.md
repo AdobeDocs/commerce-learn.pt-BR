@@ -6,15 +6,15 @@ kt: 12426
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
 
 
-# O `app.config.yaml` arquivo {#app-config-yaml}
+# Descrição e uso do arquivo app.config.yaml {#app-config-yaml}
 
 Esse arquivo determina a configuração do aplicativo.
 

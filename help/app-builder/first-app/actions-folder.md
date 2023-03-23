@@ -6,15 +6,15 @@ kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 037a7571c87f328dde0f39dd830c7379bd2230b6
+source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
 
-# `actions` pasta {#actions-folder}
+# Saiba mais sobre a pasta de ações {#actions-folder}
 
 O `actions` A pasta deste aplicativo de amostra contém alguns arquivos JavaScript e uma pasta chamada `commerce`. O JavaScript mostrado é um excelente arquivo de exemplo que pode ser reutilizado se for relevante para o seu trabalho. Essa pasta pode economizar tempo em esforços de desenvolvimento ao se conectar ao aplicativo do Adobe Commerce usando OAuth e REST.
 
