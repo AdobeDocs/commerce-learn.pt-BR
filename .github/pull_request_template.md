@@ -1,7 +1,7 @@
 ---
-source-git-commit: b89fe908caa88a154481d21ff6170234dde794c1
+source-git-commit: 4a43dd7151e2ad7bd66ed3c062f94e6d9c6a58fe
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -44,10 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] [Padrões de nomenclatura seguidos]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)).
-- [ ] O TOC e o H1 correspondem a cada página que está sendo criada ou atualizada?
-- [ ] O TOC e o H1 têm um exemplo de ação: Saiba como criar uma PR
+- [ ] [Padrões de nomenclatura seguidos]([https://opensource.adobe.com/cla.html](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)){target="_blank"}
+- [ ] O TOC e o H1 correspondem a cada página que está sendo criada ou atualizada.
+- [ ] O TOC e o H1 têm uma ação associada a ele, por exemplo: Saiba como criar uma solicitação de pull do GutHub
 - [ ] Nada deve ser monoespaçado em H1
-- [ ] Cada título de página deve começar com uma letra maiúscula
-- [ ] Vídeos têm capítulos
-- [ ] Vídeos com pôster atribuído para representar o vídeo corretamente
+- [ ] Cada título de página deve começar com uma ***C**carta-título
+- [ ] Verifiquei se algum vídeo deveria ter capítulos
+- [ ] Todos os vídeos têm pôster atribuído para representar o vídeo corretamente
+- [ ] Você usou [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html){target="_blank"}
