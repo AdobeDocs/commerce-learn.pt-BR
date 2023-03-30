@@ -7,9 +7,9 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 01947a4f81409e6f08da9e7feca3e73b724f285e
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,19 @@ Se você não estiver familiarizado com a malha de API do Adobe Developer App Bu
 A API Mesh combina várias fontes de dados para obter uma única resposta para o seu aplicativo consumir.
 
 [Exibir a documentação completa da malha de API](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+
+## Para quem é este vídeo?
+
+* Desenvolvedores novos na malha de API ou [!DNL Adobe Commerce] com experiência limitada [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e a malha da API.
+
+## Conteúdo de vídeo
+
+* Visão geral da malha da API
+* Links para a documentação do fornecedor
+* Caso de uso para fazer a verificação de inventário em tempo real no check-out
+* Transferir esforços de desenvolvimento e uso de recursos do aplicativo de comércio
+
+>[!VIDEO](https://video.tv.adobe.com/v/3417534/)
 
 ## Exemplo de casos de uso
 
