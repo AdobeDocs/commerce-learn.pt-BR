@@ -2,9 +2,9 @@
 user-guide-title: Vídeos e Tutorials
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e Tutorials
-source-git-commit: e0371a8cefab0141318daa0e1be42bfbb9e5b608
+source-git-commit: 424f0581e9f2c452fdbf4512e19139fec3c88940
 workflow-type: tm+mt
-source-wordcount: '659'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ ht-degree: 0%
    + [Estrutura de extensibilidade do App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Demonstração funcional para o App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Visão geral técnica do App Builder](../app-builder/app-builder-technical-overview.md)
-   + Primeiro aplicativo {#first-app}
+   + Criar seu primeiro aplicativo do construtor de aplicativos {#first-app}
       + [Visão geral](../app-builder/first-app/overview.md)
       + [Gerar e configurar o arquivo .env](../app-builder/first-app/env-file.md)
       + [Descrição e uso do arquivo app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
