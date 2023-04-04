@@ -8,7 +8,7 @@ doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: b799bd7b-11a4-4a1c-b2f4-893f6ff2994d
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -31,6 +31,6 @@ Se você nunca usou o GraphQL, o Adobe recomenda começar com este vídeo de int
 * Mutações do GraphQL
 * Esquema do GraphQL
 
->[!VIDEO](https://video.tv.adobe.com/v/3412302/graphql)
+>[!VIDEO](https://video.tv.adobe.com/v/3412302?quality=12&learn=on)
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

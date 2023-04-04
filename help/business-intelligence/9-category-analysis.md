@@ -7,7 +7,7 @@ solution: Commerce, Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 479f1c86-75dc-44f3-b183-9b83993c4b2c
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -29,7 +29,7 @@ A análise de categoria foi projetada para fornecer uma visão geral de alto ní
 >
 >O conteúdo do vídeo reflete a versão 2.2. Consulte a [Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html) para obter as informações mais atualizadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/37904/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/37904?quality=12&learn=on)
 
 ## Recursos adicionais
 

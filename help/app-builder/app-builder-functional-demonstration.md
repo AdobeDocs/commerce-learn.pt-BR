@@ -7,7 +7,7 @@ kt: 11762
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: 8b1cc586b83cc8c5339b488228f3ae716f738aa8
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -25,6 +25,6 @@ Para saber mais sobre como usar o Adobe Commerce com o App Builder, assista ao v
 
 ## App Builder para Adobe Commerce {#app-builder-functional-demonstration}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413502)
+>[!VIDEO](https://video.tv.adobe.com/v/3413502?quality=12&learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}

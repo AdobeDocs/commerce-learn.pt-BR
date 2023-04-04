@@ -7,7 +7,7 @@ kt: 11802
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: 01947a4f81409e6f08da9e7feca3e73b724f285e
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -35,7 +35,7 @@ A API Mesh combina várias fontes de dados para obter uma única resposta para o
 * Caso de uso para fazer a verificação de inventário em tempo real no check-out
 * Transferir esforços de desenvolvimento e uso de recursos do aplicativo de comércio
 
->[!VIDEO](https://video.tv.adobe.com/v/3417534/)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
 
 ## Exemplo de casos de uso
 

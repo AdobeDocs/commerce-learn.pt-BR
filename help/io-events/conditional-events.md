@@ -7,7 +7,7 @@ kt: 11890
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Saiba mais sobre eventos condicionais no Adobe Commerce que podem ser usados no 
 * Definição de regras para uso em eventos condicionais
 * Saiba como registrar eventos nas instâncias de Comércio `app/etc/config.php`
 
->[!VIDEO](https://video.tv.adobe.com/v/3415806)
+>[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
 
 ## Comandos úteis {#useful-commands}
 

@@ -9,7 +9,7 @@ audience: all
 activity: use
 last-substantial-update: 2022-12-9
 exl-id: 2bd28c6f-5139-485b-a439-dd7dbf2b6f62
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -22,4 +22,4 @@ Neste vídeo:
 
 - Identifique um IP potencial que seja suspeito ou mal-intencionado &#x200B; ser usado de forma rápida para bloqueá-lo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412088/)
+>[!VIDEO](https://video.tv.adobe.com/v/3412088?quality=12&learn=on)
