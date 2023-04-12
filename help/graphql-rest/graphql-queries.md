@@ -2,7 +2,7 @@
 title: Realizar um query usando o GraphQL
 description: Saiba como executar um query usando o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Esta é uma introdução ao GraphQL usando chamadas GET e POST.
 landing-page-description: Saiba como executar um query usando o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Esta é uma introdução ao GraphQL usando chamadas GET e POST.
-short-description: Learn how to perform a query using GraphQL on Adobe Commerce and [!DNL Magento Open Source]. This is an introduction to GraphQL using GET and POST calls.
+short-description: Saiba como executar um query usando o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Esta é uma introdução ao GraphQL usando chamadas GET e POST.
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -10,7 +10,7 @@ last-substantial-update: 2022-12-13T00:00:00Z
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
 source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---

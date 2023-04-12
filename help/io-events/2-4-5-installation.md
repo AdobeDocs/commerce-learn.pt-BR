@@ -2,19 +2,19 @@
 title: Saiba como instalar eventos de E/S para o Adobe Commerce 2.4.5
 description: Saiba como instalar módulos necessários para eventos de E/S no Adobe Commerce 2.4.5 para uso no Adobe Developer App Builder
 landing-page-description: Saiba como instalar vários módulos necessários para o Adobe Commerce 2.4.5 usando o composer.
-short-description: Learn how to install several modules needed for Adobe Commerce 2.4.5 using composer.
+short-description: Saiba como instalar vários módulos necessários para o Adobe Commerce 2.4.5 usando o composer.
 kt: 11886
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-badge: "Adobe Commerce 2.4.5"
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+badge: Adobe Commerce 2.4.5
+exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
-
 
 # Instalação do Adobe Commerce 2.4.5
 

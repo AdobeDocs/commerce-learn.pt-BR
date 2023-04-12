@@ -2,19 +2,19 @@
 title: Saiba como instalar eventos de E/S para o Adobe Commerce 2.4.6
 description: Saiba como instalar módulos necessários para eventos de E/S no Adobe Commerce 2.4.6 para uso no Adobe Developer App Builder
 landing-page-description: Saiba como instalar vários módulos necessários para o Adobe Commerce 2.4.6.
-short-description: Learn how to install several modules needed for Adobe Commerce 2.4.6.
+short-description: Saiba como instalar vários módulos necessários para o Adobe Commerce 2.4.6.
 kt: 11887
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-22T00:00:00Z
-badge: "Adobe Commerce 2.4.6"
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+badge: Adobe Commerce 2.4.6
+exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
-
 
 # Instalação do Adobe Commerce 2.4.6
 

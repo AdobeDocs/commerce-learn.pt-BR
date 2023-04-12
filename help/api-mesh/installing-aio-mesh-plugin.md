@@ -2,18 +2,18 @@
 title: Instalação da interface de linha de comando do Adobe I/O Runtime e do plug-in de malha da API
 description: Saiba como instalar a interface de linha de comando do Adobe I/O Runtime e o plug-in de malha da API
 landing-page-description: Descubra como usar o Adobe App Builder e instalar o Adobe I/O Runtime com o plug-in de malha de API.
-short-description: Discover how to use Adobe App Builder and install the Adobe I/O Runtime with API Mesh plugin.
+short-description: Descubra como usar o Adobe App Builder e instalar o Adobe I/O Runtime com o plug-in de malha de API.
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '195'
 ht-degree: 0%
 
 ---
-
 
 # Instalação do plug-in Adobe I/O Runtime CLI e Mesh
 
