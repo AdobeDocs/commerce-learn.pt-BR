@@ -1,6 +1,6 @@
 ---
-title: Alterar um URL de loja
-description: Saiba como alterar seu [!DNL Commerce] armazene o URL de base no Admin.
+title: Alterar uma URL de loja
+description: Saiba como alterar o [!DNL Commerce] armazenar o URL base no Administrador.
 kt: 5605
 doc-type: feature video
 role: Admin, Leader
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# Alterar um URL de loja
+# Alterar uma URL de loja
 
-Cada site em uma instalação do Adobe Commerce ou Magento Open Source tem um URL básico atribuído à loja e outro URL atribuído ao Administrador. Você pode seguir algumas etapas simples para alterar o URL básico da sua loja.
+Cada site em uma instalação Adobe Commerce ou Magento Open Source tem um URL base atribuído à loja e outro URL atribuído ao administrador. Você pode seguir algumas etapas simples para alterar o URL de base da sua loja.
 
 ## Para quem é este vídeo?
 
-- Administradores da loja
-- Gerentes de site
+- Administradores de armazenamento
+- Gerenciadores de sites
 
 ## Conteúdo de vídeo
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.1.0. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.1.0. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?quality=12&learn=on)
 
 ## Recursos adicionais
 
-- [Armazenar URLs - [!DNL Commerce] Guia de experiência de loja e compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
-- [Usar um URL de administrador personalizado - [!DNL Commerce] Guia de experiência de loja e compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)
+- [Armazenar URLs - [!DNL Commerce] Guia de experiência de compras e lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html)
+- [Usar um URL de administração personalizado - [!DNL Commerce] Guia de experiência de compras e lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/store-urls.html#use-a-custom-admin-url)

@@ -1,6 +1,6 @@
 ---
 title: MBI - Análise de categoria
-description: Saiba mais sobre a análise básica de categoria e o valor vitalício do cliente.
+description: Saiba mais sobre a análise básica de categorias e o valor vitalício do cliente.
 kt: 5734
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # MBI - Análise de categoria
 
-A análise de categoria foi projetada para fornecer uma visão geral de alto nível de determinadas categorias de produtos. Ela destaca a combinação de categorias compradas pelos mesmos clientes durante sua vida útil.
+A análise de categorias foi projetada para fornecer uma visão geral de alto nível de categorias de produtos selecionados. Ela destaca a combinação de categorias que são compradas pelos mesmos clientes ao longo da vida útil.
 
 ## Para quem é este vídeo?
 
@@ -33,5 +33,5 @@ A análise de categoria foi projetada para fornecer uma visão geral de alto ní
 
 ## Recursos adicionais
 
-- [Segmentos do produto - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html#product-segments)
-- [Business Performance Analysis - Guia do usuário MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)
+- [Segmentos de produto - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/segment-filter.html#product-segments)
+- [Análise de desempenho de negócios - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)

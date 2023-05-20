@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para usuários empresariais - Navegação em camadas"
-description: Habilite a navegação em camadas no [!DNL Commerce] armazenar para que os clientes possam encontrar produtos fácil e rapidamente.
+description: Ativar a navegação em camadas no [!DNL Commerce] armazenar para que os clientes possam encontrar produtos de forma fácil e rápida.
 topic: Commerce
 kt: 5775
 doc-type: video
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Neste vídeo:
 
-- Habilitar navegação em camadas
+- Ativar navegação em camadas
 
 ## Para quem é este vídeo?
 
@@ -28,7 +28,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36186?quality=12&learn=on)
 

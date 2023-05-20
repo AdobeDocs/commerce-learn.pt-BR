@@ -1,6 +1,6 @@
 ---
 title: Criar widgets
-description: Saiba como criar widgets e modificar existentes para atualizar automaticamente o conteúdo na loja.
+description: Saiba como criar widgets e modificar os existentes para atualizar automaticamente o conteúdo na sua loja.
 kt: null
 doc-type: feature video
 role: Admin, User
@@ -20,8 +20,8 @@ Os widgets são componentes reutilizáveis que podem ser criados e modificados f
 
 ## Para quem é este vídeo?
 
-- Gestores do site
-- Designer de conteúdo
+- Gerentes de sites
+- Designers de conteúdo
 
 ## Conteúdo de vídeo
 
@@ -29,5 +29,5 @@ Os widgets são componentes reutilizáveis que podem ser criados e modificados f
 
 ## Recursos adicionais
 
-- [Widgets - [!DNL Commerce] Guia de conteúdo e design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
-- [Criar e gerenciar widgets - [!DNL Commerce] Guia de conteúdo e design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)
+- [Widgets - [!DNL Commerce] Guia de design e conteúdo](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widgets.html)
+- [Criar e gerenciar dispositivos - [!DNL Commerce] Guia de design e conteúdo](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/widgets/widget-create.html)

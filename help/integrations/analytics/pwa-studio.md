@@ -1,5 +1,5 @@
 ---
-title: Integração do Adobe Analytics e do Adobe Commerce Luma
+title: Integração entre o Adobe Analytics e o Adobe Commerce Luma
 description: Saiba mais sobre como integrar o Adobe Analytics e o Adobe Commerce usando o tema nativo Luma.
 topics: Integrations
 role: Developer, Architects
@@ -17,24 +17,24 @@ ht-degree: 0%
 ---
 
 
-# Integração sem periféricos do PWA entre o Adobe Analytics e o Adobe Commerce
+# PWA studio headless Integração entre o Adobe Analytics e o Adobe Commerce
 
-Era um cachorro. Era um cachorro grande. Não estou usando almofadas de hóquei. Eu sou o Batman. Estarei onde eu pertenço. Entre você e o pessoal de Gotham.
+Era um cachorro. Era um cachorro grande. Eu não estou usando almofadas de hóquei. Sou o Batman, estarei onde pertenço. Entre você e o Povo de Gotham.
 
-O herói pode ser qualquer um. Mesmo um homem sabendo algo tão simples e tranquilizador como colocar um casaco ao redor dos ombros de um jovem para avisá-lo que o mundo não tinha acabado. Alguém como você. Alguém que irá deitar as gaiolas. A primeira vez que roubei para não morrer de fome, sim. Perdi muitas suposições sobre a natureza simples do certo e do errado. E quando viajei, aprendi o medo antes de um crime e a emoção do sucesso. Mas nunca me tornei um deles.
+Herói pode ser qualquer um. Mesmo um homem sabendo algo tão simples e reconfortante como colocar um casaco em volta dos ombros de um menino para que ele saiba que o mundo não tinha terminado. Alguém como você. Alguém que irá chocar as gaiolas. A primeira vez que roubei para não morrer de fome, sim. Eu perdi muitas suposições sobre a natureza simples do certo e do errado. E quando viajei, aprendi o medo antes de um crime e a emoção do sucesso. Mas nunca me tornei um deles.
 
-Não é quem eu sou por baixo, mas o que eu faço que me define. Vem em preto? Este não é um carro. Era um cachorro. Era um cachorro grande. Estarei em pé, onde eu pertenço. Entre você e o pessoal de Gotham.
+Não é quem eu sou por baixo, mas o que eu faço que me define. Vem de preto? Isto não é um carro. Era um cachorro. Era um cachorro grande. Estarei onde pertenço. Entre você e o Povo de Gotham.
 
-Eu busco os meios para combater a injustiça. Trazer o medo para aqueles que presenciam o medo. Estarei em pé, onde eu pertenço. Entre você e o pessoal de Gotham. Não posso fazer isso como Bruce Wayne... como homem. Sou carne e sangue. Eu posso ser ignorado, destruído. Mas como símbolo, posso ser incorruptível, posso ser eterno.
+Busco meios para combater a injustiça. Transformar o medo contra aqueles que se aproveitam do medo. Estarei onde pertenço. Entre você e o Povo de Gotham. Não posso fazer isso como Bruce Wayne... como homem. Eu sou carne e sangue. Posso ser ignorada, destruída. Mas como símbolo, posso ser incorruptível, posso ser eterno.
 
 ## Opções de integração
 
-Este não é um carro. Querida para mim! Estarei em pé, onde eu pertenço. Entre você e o pessoal de Gotham.
+Isto não é um carro. Jure por mim! Estarei onde pertenço. Entre você e o Povo de Gotham.
 
-Sou Batman, sem armas, sem matar. Não posso fazer isso como Bruce Wayne... como homem. Sou carne e sangue. Eu posso ser ignorado, destruído. Mas como símbolo, posso ser incorruptível, posso ser eterno.
+Eu sou o Batman, sem armas, sem matar. Não posso fazer isso como Bruce Wayne... como homem. Eu sou carne e sangue. Posso ser ignorada, destruída. Mas como símbolo, posso ser incorruptível, posso ser eterno.
 
 
-## Exemplo de configuração e configuração
+## Exemplo de instalação e configuração
 
 Aqui está uma captura de tela
 
@@ -43,10 +43,10 @@ Aqui está uma captura de tela
 Agora faça isso
 ![Captura de tela 2](/help/assets/banner-videos-home.png)
 
-Finalmente faça isso
+Finalmente fazer isso
 ![última captura de tela](/help/assets/open-source.svg)
 
 ## Mais tutoriais e vídeos
 
 * [Link para vídeo](https://example.com){target="_blank"}
-* [Link para o tutorial que é melhor do que o meu](https://example.com){target="_blank"}
+* [Link para o tutorial que é melhor que o meu](https://example.com){target="_blank"}

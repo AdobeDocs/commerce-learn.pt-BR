@@ -1,6 +1,6 @@
 ---
-title: Saiba como instalar eventos de E/S para o Adobe Commerce 2.4.6
-description: Saiba como instalar módulos necessários para eventos de E/S no Adobe Commerce 2.4.6 para uso no Adobe Developer App Builder
+title: Saiba como instalar eventos de IO para o Adobe Commerce 2.4.6
+description: Saiba como instalar módulos necessários para eventos de E/S no Adobe Commerce 2.4.6 para uso no Construtor de aplicativos do Adobe Developer
 landing-page-description: Saiba como instalar vários módulos necessários para o Adobe Commerce 2.4.6.
 short-description: Saiba como instalar vários módulos necessários para o Adobe Commerce 2.4.6.
 kt: 11887
@@ -18,17 +18,17 @@ ht-degree: 0%
 
 # Instalação do Adobe Commerce 2.4.6
 
-Saiba como instalar vários novos módulos no Adobe Commerce usando o Composer para a versão 2.4.6. Documentação adicional encontrada em [Instalar eventos do Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Saiba como instalar vários módulos novos no Adobe Commerce usando o Composer para versão 2.4.6. Documentação adicional encontrada em [Instalar eventos do Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novos no Adobe Commerce e no Adobe Developer App Builder usando Eventos de E/S.
+* Desenvolvedores novatos no Adobe Commerce e no Construtor de aplicativos da Adobe Developer usando eventos de E/S.
 
 ## Conteúdo de vídeo {#video-content}
 
-* Comandos para execução na hospedagem local
-* Comandos para executar o Adobe Commerce Cloud
-* Edição necessária do Adobe Commerce Cloud Yaml
+* Comandos a serem executados para hospedagem local
+* Comandos a serem executados para o Adobe Commerce Cloud
+* Edição do yaml Adobe Commerce Cloud necessária
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
 
@@ -36,7 +36,7 @@ Saiba como instalar vários novos módulos no Adobe Commerce usando o Composer p
 
 Há vários comandos que diferem um pouco, dependendo se você está em um ambiente auto-hospedado ou usando o Adobe Commerce Cloud.
 
-### Hospedagem local {#on-premise}
+### Hospedagem no local {#on-premise}
 
 ```bash
 bin/magento events:generate:module

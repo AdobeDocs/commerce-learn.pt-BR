@@ -1,6 +1,6 @@
 ---
 title: MBI - Compartilhar resultados e exportar dados
-description: Saiba mais sobre como compartilhar resultados de MBI e exportar dados para integração com outras ferramentas de negócios.
+description: Saiba mais sobre como compartilhar os resultados do MBI e exportar dados para integração com outras ferramentas comerciais.
 kt: 5728
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # MBI - Compartilhar resultados e exportar dados
 
-Os usuários da MBI podem receber níveis de permissão de somente leitura, padrão ou administrador para controlar quem vê partes específicas dos dados comerciais. E os benefícios não estão limitados a usuários de MBI — agende e envie resumos de e-mail para quantos endereços de e-mail forem necessários. Os dados do data warehouse podem ser exportados usando a API de exportação.
+Os usuários do MBI podem receber níveis de permissão somente leitura, padrão ou de administrador para controlar quem visualiza partes específicas dos dados corporativos. E os benefícios não estão limitados aos usuários do MBI — agende e envie resumos de e-mail para quantos endereços forem necessários. Os dados do data warehouse podem ser exportados usando a API de exportação.
 
 ## Para quem é este vídeo?
 
@@ -34,4 +34,4 @@ Os usuários da MBI podem receber níveis de permissão de somente leitura, padr
 ## Recursos adicionais
 
 - [Exportar dados do gráfico - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/exp-chart-dash.html)
-- [Criar resumos de email automatizados - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)
+- [Criar resumos automatizados de email - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)

@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Configurações de loja"
-description: Saiba mais sobre configurações de localidade, informações de armazenamento, URLs seguros e inseguros, título do site, logotipo, informações de copyright, logotipos de email de comunicação, endereços de email de loja, opções de moeda e taxas de moeda.
+title: "[!DNL Commerce] para usuários empresariais - Configurações da loja"
+description: Saiba mais sobre configurações de local, informações de loja, URLs seguros e não seguros, título do site, logotipo, informações de direitos autorais, logotipos de email de comunicação, endereços de email de loja, opções de moeda e taxas de moeda.
 topic: Commerce
 kt: 5764
 doc-type: video
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuários empresariais - Configurações de loja
+# [!DNL Commerce] para usuários empresariais - Configurações da loja
 
 Neste vídeo:
 
-- Configurações de localidade
+- Configurações de local
 - Armazenar informações
-- URLs seguros e inseguros
-- Título do site, logotipo e informações de direitos autorais
+- URLs seguros e não seguros
+- Título do site, logotipo e informações de copyright
 - Armazenar logotipos de email de comunicação
 - Armazenar endereços de email
-- Logotipos de fatura, remessa e aviso de crédito
+- Logotipos de nota fiscal, remessa e aviso de crédito
 - Opções de moeda
 - Taxas de câmbio
 
@@ -36,10 +36,10 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Detalhes da loja - [!DNL Commerce] Guia de Introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)
+[Detalhes da loja - [!DNL Commerce] Guia de introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

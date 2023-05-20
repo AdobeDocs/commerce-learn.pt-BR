@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para usuários empresariais - Importar e exportar produtos"
-description: Saiba como importar e exportar produtos de catálogo.
+description: Saiba como importar e exportar seus produtos de catálogo.
 topic: Commerce
 kt: 5773
 doc-type: video
@@ -19,7 +19,7 @@ ht-degree: 0%
 Neste vídeo:
 
 - Importação de produtos
-- Exportar produtos
+- Exportação de produtos
 
 ## Para quem é este vídeo?
 
@@ -29,12 +29,12 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35958?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Importar - [!DNL Commerce] Guia de sistemas de administração](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html)
+[Importar - [!DNL Commerce] Guia de sistemas do administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html)
 
-[Exportar - [!DNL Commerce] Guia de sistemas de administração](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html)
+[Exportar - [!DNL Commerce] Guia de sistemas do administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html)

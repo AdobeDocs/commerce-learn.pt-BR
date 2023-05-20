@@ -15,13 +15,13 @@ ht-degree: 0%
 
 # Criar um atributo de produto
 
-A adição de um atributo de produto é uma das operações mais populares no [!DNL Commerce]. Os atributos são uma maneira poderosa de resolver muitas tarefas práticas relacionadas a um produto. Há um processo simples de adicionar um atributo de tipo suspenso a um produto.
+A adição de um atributo de produto é uma das operações mais populares no [!DNL Commerce]. Os atributos são uma maneira avançada de resolver muitas tarefas práticas relacionadas a um produto. Há um processo simples de adicionar um atributo do tipo suspenso a um produto.
 
 Neste vídeo:
 
-- Adicione um atributo chamado roupas_material com os valores possíveis: Algodão, Couro, Seda, Denim, Pele e Lã
-- Tornar esse atributo visível na página de exibição do produto, em texto em negrito
-- Atribua-o ao conjunto de atributos Padrão e adicione uma restrição
+- Adicione um atributo chamado Clothes_Material com os valores possíveis: Algodão, Couro, Seda, Denim, Pele e Lã
+- Tornar este atributo visível na página de exibição do produto, em negrito
+- Atribuir ao conjunto de atributos padrão e adicionar uma restrição
 - Adicionar o novo atributo
 
 ## Para quem é este vídeo?

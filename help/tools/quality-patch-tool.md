@@ -1,6 +1,6 @@
 ---
-title: Usar a ferramenta Correção de qualidade
-description: Assista a este vídeo técnico e saiba como usar a ferramenta de correção de qualidade para Adobe Commerce e Magento Open Source.
+title: Usar a Ferramenta Correção de qualidade
+description: Assista a este vídeo técnico e aprenda a usar o Ferramenta Correção de qualidade para Adobe Systems Comércio e Magento Open Source.
 doc-type: technical video
 role: Developer
 audience: all
@@ -13,26 +13,26 @@ ht-degree: 0%
 
 ---
 
-# Usar a ferramenta Correção de qualidade
+# Usar a Ferramenta Correção de qualidade
 
-A ferramenta Patch de qualidade é uma ferramenta de linha de comando que fornece patches de qualidade para Adobe Commerce e Magento Open Source. Ele permite:
+A Ferramenta Correção de qualidade é uma ferramenta de linha de comando que fornece patches de qualidade para Adobe Systems Comércio e Magento Open Source. Ele permite:
 
 - Exibir informações gerais sobre os patches de qualidade mais recentes
-- Aplicar patches de qualidade
-- Reverter patches aplicados
+- Patches de qualidade do Aplicar
+- Reverter os patches aplicados
 
-A equipe de suporte da Adobe Commerce e a comunidade de Magento Open Source desenvolvem os patches de qualidade.
+O Adobe Systems Comércio suporte equipe e o Magento Open Source comunidade desenvolver os patches de qualidade.
 
-## Para quem é este vídeo?
+## Para quem é esse vídeo?
 
 - Desenvolvedores de backend
 - Gerentes de site
 
-## Conteúdo de vídeo
+## Vídeo conteúdo
 
 >[!VIDEO](https://video.tv.adobe.com/v/344000?quality=12&learn=on)
 
 ## Recursos adicionais
 
-- [Ferramenta Correção de Qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-- [Ferramenta de correção de qualidade no GitHub](https://github.com/magento/quality-patches)
+- [Ferramenta Correção de qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+- [correção de qualidade ferramenta no GitHub](https://github.com/magento/quality-patches)

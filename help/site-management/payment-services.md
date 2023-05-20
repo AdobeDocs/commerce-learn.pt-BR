@@ -1,6 +1,6 @@
 ---
 title: Usar serviços de pagamento
-description: Saiba como adicionar serviços de pagamento à sua loja e reduzir a sobrecarga operacional, aumentar a receita e melhorar toda a experiência do comprador.
+description: Saiba como adicionar Serviços de pagamento à sua loja e reduzir a sobrecarga operacional, aumentar a receita e melhorar toda a experiência do comprador.
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 # Usar serviços de pagamento
 
-Para pequenas empresas, concorrentes de médio mercado ou grandes empresas, os Serviços de Pagamento para Adobe Commerce e Magento Open Source ajudam a reduzir a sobrecarga operacional, aumentar a receita. Ele fornece ferramentas que melhoram toda a experiência do comprador. Os Serviços de Pagamento são:
+Para pequenas empresas, empresas de médio porte ou grandes empresas, os Payment Services for Adobe Commerce e Magento Open Source ajudam a reduzir a sobrecarga operacional e aumentar a receita. Ele fornece ferramentas que melhoram toda a experiência do comprador. Os serviços de pagamento são:
 
 - Fácil de configurar e manter
 - Projetado para maximizar seu lucro
 - Seguro
-- Concebido para satisfazer todas as suas necessidades de pagamentos
+- Projetado para atender a todas as suas necessidades de pagamento
 - Autocontido no Administrador
 
 ## Para quem é este vídeo?
 
 - Engenheiros operacionais
-- Gestores do site
+- Gerentes de sites
 
 ## Conteúdo de vídeo
 
@@ -35,4 +35,4 @@ Para pequenas empresas, concorrentes de médio mercado ou grandes empresas, os S
 ## Recursos adicionais
 
 - [Guia dos serviços de pagamento](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-- [Conector do Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [Conector dos Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)

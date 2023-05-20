@@ -1,6 +1,6 @@
 ---
-title: Page Builder para desenvolvedores - Temas
-description: Saiba mais sobre práticas e ​ de convenções de tema, incluindo o local para cada parte do tema do Construtor de páginas.
+title: Page Builder para desenvolvedores-temas
+description: Saiba mais sobre práticas e convenções de ti, incluindo o local de cada parte do tema do Page Builder.
 kt: 5652
 doc-type: video
 activity: use
@@ -12,24 +12,24 @@ ht-degree: 0%
 
 ---
 
-# Page Builder para desenvolvedores - Temas
+# Page Builder para desenvolvedores-temas
 
 Neste vídeo:
 
-- Visão geral das práticas temáticas
-- Descrição das convenções temáticas &#x200B;
-- Onde cada parte do tema do Page Builder está localizada &#x200B;
+- Visão geral das práticas de ti
+- Descrição das convenções de tema
+- Em que cada parte do tema do Page Builder está localizada
 
-## Para quem é este vídeo?
+## Para quem é esse vídeo?
 
 - Criadores de conteúdo
-- Desenvolvedores de fronteira
+- Desenvolvedores de front-end
 
-## Conteúdo de vídeo
+## Vídeo conteúdo
 
 >[!NOTE]
 >
->Este conteúdo reflete a versão 1.0.0 do Page Builder para o Adobe Commerce 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [Notas de versão do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Esta conteúdo reflete a versão do Page Builder 1.0.0 para Adobe Systems Comércio 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [ notas de versão ](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html) Page Builder.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35711?quality=12&learn=on)
 
@@ -37,4 +37,4 @@ Neste vídeo:
 
 [Documentação do desenvolvedor do Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guia do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Guia de Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)

@@ -1,6 +1,6 @@
 ---
 title: MBI - Painel de pedidos
-description: Saiba mais sobre o painel Pedidos e relatórios que facilitam o gerenciamento de pedidos e vendas de produtos.
+description: Saiba mais sobre o painel de Pedidos e os relatórios que facilitam o gerenciamento de pedidos e as vendas de produtos.
 kt: 5735
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # MBI - Painel de pedidos
 
-No painel Pedidos, você pode exibir valores médios de pedidos, pedidos por status, uso de cupom e detalhamentos de entrega e imposto coletados pela região de faturamento e entrega. Se você abrir o relatório Pedidos por Status e vir um pico no status de processamento ou pendente, você poderá criar um relatório para todos os pedidos nesse status durante esse período. Em seguida, você pode analisá-lo e detalhá-lo por email e ID de pedido e gerar um resumo de email a ser enviado automaticamente para o gerente do depósito para acompanhamento.
+No painel Ordens, você pode exibir valores médios da ordem, ordens por status, uso de cupom e detalhamentos de entrega e imposto coletado por região de faturamento e entrega. Se você abrir o relatório Pedidos por status e vir um pico no status de processamento ou pendente, poderá criar um relatório para todos os pedidos nesse status durante esse período. Em seguida, você pode separá-los por email e ID do pedido e gerar um resumo de email que será enviado automaticamente para o gerente do depósito para acompanhamento.
 
 
 ## Para quem é este vídeo?
@@ -35,4 +35,4 @@ No painel Pedidos, você pode exibir valores médios de pedidos, pedidos por sta
 ## Recursos adicionais
 
 - [Painel de pedidos - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#orders)
-- [Criar resumos de email automatizados - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)
+- [Criar resumos automatizados de email - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/share/email-summaries.html)

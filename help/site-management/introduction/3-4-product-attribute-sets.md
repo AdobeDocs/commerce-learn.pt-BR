@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para usuários empresariais - Conjuntos de atributos"
-description: Saiba mais sobre conjuntos de atributos de produto e como usá-los em seu catálogo.
+description: Saiba mais sobre conjuntos de atributos de produto e como usá-los no catálogo.
 topic: Commerce
 kt: 5770
 doc-type: video
@@ -28,7 +28,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35955?quality=12&learn=on)
 

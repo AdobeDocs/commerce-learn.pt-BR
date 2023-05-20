@@ -1,18 +1,18 @@
 ---
 title: O arquivo app.config.yaml
-description: Saiba mais sobre os tipos de arquivos no arquivo app.config.yaml para este aplicativo de exemplo.
-landing-page-description: Saiba mais sobre o Adobe Developer App Builder usado com o Adobe Commerce e quais tipos de arquivos estão no app.config.yaml.
+description: Saiba mais sobre os tipos de arquivos no arquivo app.config.yaml para este aplicativo de amostra.
+landing-page-description: Saiba mais sobre o Construtor de aplicativos da Adobe Developer usado com o Adobe Commerce e quais tipos de arquivos são inseridos no app.config.yaml.
 kt: 12426
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
 
 ---
-
 
 # Descrição e uso do arquivo app.config.yaml {#app-config-yaml}
 
@@ -20,12 +20,12 @@ Esse arquivo determina a configuração do aplicativo.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novos no Adobe Commerce com experiência limitada com o Adobe App Builder que estão aprendendo sobre o `app.config.yaml` no aplicativo de amostra.
+* Desenvolvedores novatos no Adobe Commerce com experiência limitada no Adobe App Builder que estão aprendendo sobre o `app.config.yaml` no aplicativo de amostra.
 
 ## Conteúdo de vídeo
 
-* O `app.config.yaml` arquivo discutido
-* Como as definições estão vinculadas a outras `.js` arquivos
+* A variável `app.config.yaml` arquivo discutido
+* Como as definições são vinculadas a outras `.js` arquivos
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 

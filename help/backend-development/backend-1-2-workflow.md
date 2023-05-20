@@ -26,7 +26,7 @@ Neste vídeo:
 
 >[!IMPORTANT]
 >
->O Commerce Marketplace não inclui mais a variável **Baixar** botão. Você deve usar a linha de comando para instalar ou atualizar extensões. Consulte a [Instalar uma extensão](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) na página _Guia de instalação_ para obter mais informações.
+>O Commerce Marketplace não inclui mais o **Baixar** botão. Você deve usar a linha de comando para instalar ou atualizar extensões. Consulte a [Instalar uma extensão](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/tutorials/extensions.html) página no _Guia de instalação_ para obter mais informações.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36193?quality=12&learn=on)
 

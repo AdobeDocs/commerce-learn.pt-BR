@@ -1,5 +1,5 @@
 ---
-title: título da guia
+title: título do guia
 seo-title: seo title
 description: descrição do guia
 seo-description: seo-description
@@ -13,36 +13,36 @@ ht-degree: 0%
 
 # Visão geral {#overview}
 
-Uma visão geral de 1 a 2 frases do produto centrado neste guia do usuário. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e características do *xyz*.
+Uma visão geral de uma a duas frases do produto no qual este guia do usuário se concentra. Este guia do usuário contém vídeos e tutoriais sobre os vários recursos e funcionalidades do *xyz*.
 
 ## Novidades
 
 * **[Um novo vídeo em destaque (Vídeo)](README.md)**
 
    <br>
-   *Saiba mais sobre este novo recurso divertido.*
+   *Saiba mais sobre esse novo recurso interessante.*
 
 * **[Um novo vídeo em destaque (Vídeo)](README.md)**
 
    <br>
-   *Saiba mais sobre este novo recurso divertido.*
+   *Saiba mais sobre esse novo recurso interessante.*
 
-* **[Um novo artigo (artigo](README.md)**
+* **[Um novo artigo (Artigo)](README.md)**
 
    <br>
    *Clique aqui para ler mais sobre o recurso xyz!*
 
-## Pessoal
+## Escolhas de pessoal
 
 <table>
 <tr>
   <td>
     <a href="#">
-      <img alt="400 x 225 px" src="myimage.png" />
+      <img alt="400 x 225px" src="myimage.png" />
     </a>
     <div>
       <a href="#">
-    <strong>Ativar conteúdo 1</strong>
+    <strong>Conteúdo de ativação 1</strong>
     </a>
     </div>
     <p>
@@ -51,11 +51,11 @@ Uma visão geral de 1 a 2 frases do produto centrado neste guia do usuário. Est
   </td>
    <td>
     <a href="#">
-      <img alt="400 x 225 px" src="myimage.png" />
+      <img alt="400 x 225px" src="myimage.png" />
     </a>
     <div>
       <a href="#">
-    <strong>Ativar conteúdo 1</strong>
+    <strong>Conteúdo de ativação 1</strong>
     </a>
     </div>
     <p>
@@ -64,11 +64,11 @@ Uma visão geral de 1 a 2 frases do produto centrado neste guia do usuário. Est
   </td>
   <td>
     <a href="#">
-      <img alt="400 x 225 px" src="myimage.png" />
+      <img alt="400 x 225px" src="myimage.png" />
     </a>
     <div>
       <a href="#">
-    <strong>Ativar conteúdo 1</strong>
+    <strong>Conteúdo de ativação 1</strong>
     </a>
     </div>
     <p>
@@ -80,6 +80,6 @@ Uma visão geral de 1 a 2 frases do produto centrado neste guia do usuário. Est
 
 ## Recursos adicionais
 
-* [Recurso nº 1](README.md)
-* [Recurso nº 2](README.md)
-* [Recurso nº 3](README.md)
+* [Recurso #1](README.md)
+* [Recurso #2](README.md)
+* [Recurso #3](README.md)

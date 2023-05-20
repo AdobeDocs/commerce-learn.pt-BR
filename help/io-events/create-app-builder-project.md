@@ -1,8 +1,8 @@
 ---
-title: Saiba como criar um projeto do App Builder usando eventos comerciais
-description: Saiba como criar um projeto do App Builder para usar com eventos do Commerce
-landing-page-description: Saiba como criar um projeto do Adobe App Builder para usar eventos do Adobe Commerce
-short-description: Saiba como criar um projeto do Adobe App Builder para usar eventos do Adobe Commerce
+title: Aprenda a criar um projeto do aplicativo Builder usando eventos do Comércio
+description: Aprenda a criar um projeto do aplicativo Builder para uso com Comércio eventos
+landing-page-description: Aprenda a criar um projeto Adobe Systems aplicativo Builder para usar Adobe Systems eventos Comércio
+short-description: Aprenda a criar um projeto Adobe Systems aplicativo Builder para usar Adobe Systems eventos Comércio
 kt: 11888
 doc-type: tutorial
 audience: all
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 ---
 
-# Criar um projeto do App Builder
+# Criar um projeto do aplicativo Builder
 
-Saiba como criar um projeto do Adobe Developer App Builder para consumir eventos do Adobe Commerce. Documentação adicional encontrada em [Instalar eventos do Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Aprenda a criar um projeto Adobe Systems desenvolvedor aplicativo Builder para consumir eventos de Adobe Systems Comércio. Documentação adicional encontrada na [ instalação Adobe Systems eventos de e/s para Adobe Systems comércio ](https://developer.adobe.com/commerce/events/get-started/installation/) {target="_blank"} .
 
-## Para quem é este vídeo?
+## Para quem é esse vídeo?
 
-* Desenvolvedores novos no Adobe Commerce e no Adobe Developer App Builder usando eventos de E/S e precisam criar um projeto do Adobe App Builder.
+* Desenvolvedores novos para Adobe Systems Comércio e Adobe Systems desenvolvedor aplicativo Builder usando eventos de e/s e precisam criar um projeto Adobe Systems aplicativo Builder.
 
-## Conteúdo de vídeo {#video-content}
+## Vídeo conteúdo {#video-content}
 
-* Criação de um projeto do App Builder
-* Uso do console Adobe Developer
-* Uso do Adobe I/O
+* Criação de um projeto do aplicativo Builder
+* Uso do Adobe Systems Developer console
+* Uso do Adobe Systems I/O
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415797?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce na infraestrutura de nuvem - Configurações de desenvolvimento
-description: Saiba mais sobre configurações de desenvolvimento para projetos em nuvem.
+title: Adobe Commerce na infraestrutura em nuvem — configurações de desenvolvimento
+description: Saiba mais sobre as configurações de desenvolvimento para projetos em nuvem.
 kt: 5660
 doc-type: video
 audience: all
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce na infraestrutura de nuvem - Configurações de desenvolvimento
+# Adobe Commerce na infraestrutura em nuvem — configurações de desenvolvimento
 
 Neste vídeo:
 
@@ -23,4 +23,4 @@ Neste vídeo:
 
 ## Recursos adicionais
 
-[[!DNL Commerce] no Guia do Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)
+[[!DNL Commerce] no Guia de infraestrutura na nuvem](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)

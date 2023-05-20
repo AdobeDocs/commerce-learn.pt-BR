@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce na infraestrutura de nuvem - Hospedagem e contas
-description: Saiba mais sobre as soluções de hospedagem existentes para o Adobe Commerce ​. Entenda as diferenças entre as ​ de contas Starter e Pro.
+title: Adobe Commerce na infraestrutura em nuvem — hospedagem e contas
+description: Saiba mais sobre as soluções de hospedagem existentes para o Adobe Commerce​. Entenda as diferenças entre as contas Starter e Pro​.
 kt: 5657
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce na infraestrutura de nuvem - Hospedagem e contas
+# Adobe Commerce na infraestrutura em nuvem — hospedagem e contas
 
 Neste vídeo:
 
-- Saiba mais sobre as soluções de hospedagem de nuvem existentes &#x200B; para o Adobe Commerce
-- Entender as diferenças entre as contas Starter e Pro &#x200B;
+- Saiba mais sobre as soluções de hospedagem em nuvem existentes&#x200B; para Adobe Commerce
+- Entenda as diferenças entre as contas Starter e Pro&#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/35813?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Arquitetura da nuvem - [!DNL Commerce] no Guia do Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html)
+[Arquitetura em nuvem - [!DNL Commerce] no Guia de infraestrutura na nuvem](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/architecture/cloud-architecture.html)

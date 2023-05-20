@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Tipos de produto"
+title: "[!DNL Commerce] para usuários empresariais - Tipos de produtos"
 description: Saiba mais sobre o [!DNL Commerce] tipos de produto e as opções para cada um.
 topic: Commerce
 kt: 5767
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuários empresariais - Tipos de produto
+# [!DNL Commerce] para usuários empresariais - Tipos de produtos
 
 Neste vídeo:
 
-- Tipos de produtos
+- Tipos de produto
 - Opções para cada tipo de produto
 
 ## Para quem é este vídeo?
@@ -29,7 +29,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35952?quality=12&learn=on)
 

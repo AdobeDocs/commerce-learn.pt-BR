@@ -1,8 +1,8 @@
 ---
-title: Criar um GraphQL de várias origens para ser usado na malha da API
-description: Descubra como usar várias fontes para a malha de API no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre alguns erros comuns e como resolvê-los.
-landing-page-description: Descubra como usar a malha de API no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha que tenha várias fontes e como resolver alguns erros comuns.
-short-description: Descubra como usar a malha de API no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha que tenha várias fontes e como resolver alguns erros comuns.
+title: Criar um GraphQL de várias origens para ser usado na API Mesh
+description: Saiba como usar várias fontes para a API Mesh no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre alguns erros comuns e como resolvê-los.
+landing-page-description: Saiba como usar a API Mesh no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com várias fontes e como resolver alguns erros comuns.
+short-description: Saiba como usar a API Mesh no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com várias fontes e como resolver alguns erros comuns.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -17,24 +17,24 @@ ht-degree: 0%
 
 # Criar uma malha com várias fontes
 
-Este vídeo ajuda os desenvolvedores a entender como criar uma malha com várias fontes na malha da API para o Adobe Developer App Builder. Este vídeo mostra como criar uma malha com várias fontes e identificar erros. Para obter mais detalhes e amostras de código, visite [Criar uma malha](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+Este vídeo ajuda os desenvolvedores a entender como criar uma malha com várias fontes na API Mesh para o Construtor de aplicativos do Adobe Developer. Este vídeo mostra como criar uma malha com várias fontes e identificar erros. Para obter mais detalhes e exemplos de código, visite [Criar uma malha](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
 
 ## Para quem é este vídeo?
 
-* Qualquer pessoa que seja nova na malha da API
+* Qualquer pessoa nova na malha da API
 * Desenvolvedores interessados em combinar várias fontes de API e GraphQL
 
 ## Conteúdo de vídeo
 
-* Como utilizar [transformações](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} para modificar o schema de origem padrão
+* Como usar [transformações](https://developer.adobe.com/graphql-mesh-gateway/gateway/transforms/){target="_blank"} para modificar o esquema de origem padrão
 * Como solucionar erros, como conflitos de nome, disponibilidade de esquema e outros problemas de sintaxe de esquema
-* Atualizar sua malha com uma configuração modificada
+* Atualização da malha com uma configuração modificada
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
 
 ## Criar o arquivo de configuração json
 
-A malha de API usa um arquivo de configuração JSON para definir seus manipuladores de origem. O arquivo JSON contém um `sources` matriz que contém as origens da sua malha. Este é um exemplo de uma malha com várias fontes.
+A API Mesh usa um arquivo de configuração JSON para definir os manipuladores de origem. O arquivo JSON contém um `sources` matriz que contém as fontes da malha. Este é um exemplo de uma malha com múltiplas fontes.
 
 ```json
 {

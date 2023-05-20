@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # Criar blocos estáticos e dinâmicos
 
-Um bloco é uma unidade modular de conteúdo que pode ser posicionada mais em qualquer lugar da página. Os blocos de conteúdo às vezes são chamados de blocos estáticos ou blocos CMS. Eles podem ser usados para exibir informações fixas, como texto, imagens e vídeo incorporado, e informações dinâmicas fornecidas por um widget ou originadas em um banco de dados ou outra fonte. A maioria dos elementos na página inicial são blocos que podem ser facilmente gerenciados. Neste vídeo, saiba como criar blocos estáticos e dinâmicos.
+Um bloco é uma unidade modular de conteúdo que pode ser posicionada em qualquer lugar da página. Os blocos de conteúdo às vezes são chamados de blocos estáticos ou blocos CMS. Eles podem ser usados para exibir informações fixas, como texto, imagens e vídeo incorporado, e informações dinâmicas fornecidas por um widget ou originárias de um banco de dados ou outra fonte. A maioria dos elementos na página inicial são blocos que podem ser facilmente gerenciados. Neste vídeo, saiba como criar blocos estáticos e dinâmicos.
 
 ## Para quem é este vídeo?
 
-- Gestores do site
-- Designer de conteúdo
+- Gerentes de sites
+- Designers de conteúdo
 
 ## Conteúdo de vídeo
 
@@ -29,5 +29,5 @@ Um bloco é uma unidade modular de conteúdo que pode ser posicionada mais em qu
 
 ## Recursos adicionais
 
-- [Blocos - [!DNL Commerce] Guia de conteúdo e design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-- [Blocos dinâmicos - [!DNL Commerce] Guia de conteúdo e design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+- [Blocos - [!DNL Commerce] Guia de design e conteúdo](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+- [Blocos dinâmicos - [!DNL Commerce] Guia de design e conteúdo](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)

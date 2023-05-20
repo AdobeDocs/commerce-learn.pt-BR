@@ -1,8 +1,8 @@
 ---
-title: Adobe Commerce na infraestrutura de nuvem - Visão geral
-description: Identifique as principais tecnologias no ​ de pilha de nuvem. Descreva a estratégia de entrega de conteúdo para o Adobe Commerce. Entenda o valor do sistema de arquivos somente leitura.
-landing-page-description: Assista a esta série de vídeo para começar a usar a infraestrutura de nuvem usada para implantar e gerenciar o Adobe Commerce.
-short-description: Assista a esta série de vídeo para começar a usar a infraestrutura de nuvem usada para implantar e gerenciar o Adobe Commerce.
+title: Adobe Commerce na infraestrutura em nuvem — visão geral
+description: Identifique as principais tecnologias na pilha de nuvem​. Descreva a estratégia de entrega de conteúdo do Adobe Commerce. Entenda o valor do sistema de arquivos somente leitura.
+landing-page-description: Assista a esta série de vídeos para obter uma introdução sobre a infraestrutura em nuvem usada para implantar e gerenciar o Adobe Commerce.
+short-description: Assista a esta série de vídeos para obter uma introdução sobre a infraestrutura em nuvem usada para implantar e gerenciar o Adobe Commerce.
 kt: 5656
 doc-type: video
 audience: all
@@ -15,16 +15,16 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce na infraestrutura de nuvem - Visão geral
+# Adobe Commerce na infraestrutura em nuvem — visão geral
 
 Neste vídeo:
 
-- Identificar as principais tecnologias no &#x200B; de pilha de nuvem
-- Descreva a estratégia de entrega de conteúdo para o Adobe Commerce na infraestrutura de nuvem
-- Entender o valor do sistema de arquivos somente leitura
+- Identifique as principais tecnologias na pilha de nuvem&#x200B;
+- Descrever a estratégia de entrega de conteúdo do Adobe Commerce na infraestrutura em nuvem
+- Compreender o valor do sistema de arquivos somente leitura
 
 >[!VIDEO](https://video.tv.adobe.com/v/35298?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[[!DNL Commerce] no Guia do Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)
+[[!DNL Commerce] no Guia de infraestrutura na nuvem](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/overview.html)

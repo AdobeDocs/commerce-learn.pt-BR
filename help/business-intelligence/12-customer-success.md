@@ -1,6 +1,6 @@
 ---
-title: MBI - Histórias de sucesso do cliente
-description: Saiba mais sobre histórias de sucesso de clientes usando a MBI.
+title: MBI - Histórias de sucesso de clientes
+description: Saiba mais sobre as histórias de sucesso de clientes usando o MBI.
 kt: 5738
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# MBI - Histórias de sucesso do cliente
+# MBI - Histórias de sucesso de clientes
 
-Quando você estiver familiarizado com alguns dos tipos mais úteis de comerciantes de análise no MBI, analise algumas histórias de sucesso de clientes e como eles usaram sua análise para obter resultados reais.
+Quando você estiver familiarizado com alguns dos tipos mais úteis de análise que os comerciantes fazem no MBI, revise algumas histórias de sucesso de clientes e como eles usaram sua análise para obter resultados reais.
 
 ## Para quem é este vídeo?
 
@@ -29,5 +29,5 @@ Quando você estiver familiarizado com alguns dos tipos mais úteis de comercian
 
 ## Recursos adicionais
 
-- [Business Performance Analysis - Guia do usuário MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)
-- [Marcação de UTM no Google Analytics - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/utm-tagging-google.html)
+- [Análise de desempenho de negócios - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/customers/rfm-analysis.html)
+- [Marcação UTM no Google Analytics - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/best-practices/data/utm-tagging-google.html)

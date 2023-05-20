@@ -16,13 +16,13 @@ ht-degree: 0%
 
 # Gerenciar metadados de SEO
 
-Sua loja é carregada com locais onde você pode inserir metadados ricos em palavras-chave para melhorar a maneira como os mecanismos de pesquisa indexam seu site. Com o tempo, você pode ajustar os metadados para direcionar os padrões e preferências de compra dos clientes.
+Sua loja está carregada com locais onde você pode inserir metadados ricos em palavras-chave para melhorar a maneira como os mecanismos de pesquisa indexam seu site. Com o tempo, você pode ajustar os metadados para direcionar os padrões de compra e as preferências dos clientes.
 
 ## Para quem é este vídeo?
 
-- Gestores do site
-- Comerciantes de eCommerce
-- Comerciantes de eCommerce
+- Gerentes de sites
+- Merchandisers de comércio eletrônico
+- Profissionais de marketing de comércio eletrônico
 
 ## Conteúdo de vídeo
 
@@ -30,4 +30,4 @@ Sua loja é carregada com locais onde você pode inserir metadados ricos em pala
 
 ## Recursos adicionais
 
-[Metadados - [!DNL Commerce] Guia de comercialização e promoção](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Metadados - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)

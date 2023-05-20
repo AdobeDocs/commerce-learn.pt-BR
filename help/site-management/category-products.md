@@ -1,6 +1,6 @@
 ---
 title: Gerenciar produtos em uma categoria
-description: Saiba mais sobre como criar um produto em uma categoria, merchandising visual e usar a funcionalidade de classificação de categoria automatizada.
+description: Saiba mais sobre como criar um produto em uma categoria, merchandising visual e usar a funcionalidade de classificação automatizada de categorias.
 kt: 10550
 doc-type: feature videos
 audience: all
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # Gerenciar produtos em uma categoria
 
-Organizar seus produtos em categorias é fundamental para gerenciar seus catálogos. Neste vídeo, você aprenderá sobre como criar um produto em uma categoria, merchandising visual e usar a funcionalidade de classificação de categoria automatizada.
+Organizar seus produtos em categorias é fundamental para gerenciar seus catálogos. Neste vídeo, você aprenderá a criar um produto em uma categoria, comercialização visual e usar a funcionalidade de classificação de categoria automatizada.
 
 ## Para quem é este vídeo?
 
-- Gestores do site
-- Comerciantes de eCommerce
+- Gerentes de sites
+- Merchandisers de comércio eletrônico
 
 ## Conteúdo de vídeo
 
@@ -29,5 +29,5 @@ Organizar seus produtos em categorias é fundamental para gerenciar seus catálo
 
 ## Recursos adicionais
 
-- [Atribuições de produto da categoria - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
-- [Regras de categoria para merchandising - [!DNL Commerce] Guia de comercialização e promoção](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)
+- [Atribuições de produto de categoria - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/products-in-category/categories-product-assignments.html)
+- [Regras de categoria para merchandising - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/merchandising/visual-merch/category-product-rules.html)

@@ -1,6 +1,6 @@
 ---
-title: Infraestrutura de nuvem do Adobe Commerce - Serviços e inicialização do site
-description: Revise os serviços Go live, DNS, TLS e Fastly . Saiba como configurar o DNS para apontar para o domínio de produção da instância do Adobe Commerce.
+title: Adobe Commerce na infraestrutura em nuvem — serviços e lançamento do site
+description: Revise os serviços Go live, DNS, TLS e Fastly. Saiba como configurar o DNS para apontar para o domínio de produção da instância do Adobe Commerce.
 kt: 5661
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# Infraestrutura de nuvem do Adobe Commerce - Serviços e inicialização do site
+# Adobe Commerce na infraestrutura em nuvem — serviços e lançamento do site
 
 Neste vídeo:
 
-- Análise de ativação, DNS, TLS e Fastly
+- Revisão da ativação, DNS, TLS e Fastly
 - Como configurar o DNS para apontar para o domínio de produção da instância do Adobe Commerce
 
 >[!VIDEO](https://video.tv.adobe.com/v/35697?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Inicialização do site - [!DNL Commerce] no Guia do Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)
+[Lançamento do site - [!DNL Commerce] no Guia de infraestrutura na nuvem](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/overview.html)

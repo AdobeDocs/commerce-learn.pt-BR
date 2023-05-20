@@ -5,7 +5,8 @@ kt: 13168
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-04-27T00:00:00Z
-source-git-commit: eda066240960ae7c0b36bd7c22f8598e613a2d73
+exl-id: 92f57e62-5a60-484f-9b79-27c824708619
+source-git-commit: d284364b8132db6864483d3bd6c49f8c953a2144
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -16,23 +17,23 @@ ht-degree: 0%
 
 Uma demonstração completa do Adobe Live Search.
 
-## O que esperar assistir a este vídeo
+## O que esperar de assistir a este vídeo
 
-Saiba como usar configurações e configurações do Adobe Live Search. Saiba mais sobre aspectos, relatórios e sinônimos.
+Saiba como usar as configurações do Adobe Live Search. Entenda melhor os aspectos, os relatórios e os sinônimos.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores e proprietários de lojas novos no Adobe Live Search e que desejam saber mais.
+* Desenvolvedores e proprietários de lojas novos no Adobe Live Search e desejam saber mais.
 
 ## Conteúdo de vídeo
 
-* Saiba mais sobre as facetas voltadas para o cliente
+* Saiba mais sobre os aspectos voltados para o cliente
 * O que é uma API
 * Relatórios do Live Search
-* Saiba mais sobre a configuração de back-office para facetas e como elas são usadas
+* Saiba mais sobre a configuração de back-office para aspectos e como eles são usados
 * Saiba mais sobre sinônimos
-* Comercialização inteligente
-* Explicação dos tipos de classificação baseados em regras
+* Merchandising inteligente
+* Explicação dos tipos de classificação com base em regras
 * Introdução à API do GraphQL
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)

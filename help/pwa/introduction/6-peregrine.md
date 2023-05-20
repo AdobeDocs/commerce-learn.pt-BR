@@ -1,6 +1,6 @@
 ---
-title: PWA Studio para desenvolvedores - Integrante
-description: Saiba mais sobre o Peregrine, incluindo a biblioteca Peregrine. Entender a motivação por trás de Peregrine ​ as diferenças entre os ganchos e os talões peregrinos.
+title: PWA Studio para desenvolvedores - Peregrine
+description: Saiba mais sobre Peregrine, incluindo a biblioteca Peregrine. Entenda a motivação por trás de Peregrine​ as diferenças entre ganchos Peregrine e talões.
 topic: Development
 kt: 5649
 doc-type: video
@@ -13,19 +13,19 @@ ht-degree: 0%
 
 ---
 
-# PWA Studio para desenvolvedores - Integrante
+# PWA Studio para desenvolvedores - Peregrine
 
 Neste vídeo:
 
-- Introdução ao Peregrine
-- A biblioteca do Peregrine
-- Entender a motivação por trás da Peregrina
-- Distinção entre ganchos e talões peregrinos
+- Introdução à Peregrine
+- A biblioteca Peregrine
+- Compreender a motivação por trás de Peregrine
+- Distinguir entre ganchos e talões Peregrinos
 
 ## Para quem é este vídeo?
 
-- Desenvolvedores de fronteira
-- Gestores de projeto
+- Desenvolvedores de front-end
+- Gerentes de projeto
 
 ## Conteúdo de vídeo
 

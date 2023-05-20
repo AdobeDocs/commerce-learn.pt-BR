@@ -17,11 +17,11 @@ ht-degree: 0%
 
 # Serviço de catálogo do Adobe Commerce
 
-O Serviço de catálogo para Adobe Commerce é um recurso SaaS de vários locatários que fornece dados de catálogo somente leitura para potencializar experiências de compras da loja. Consumível por meio de APIs do GraphQL, ele fornece novas consultas de API para melhorar o desempenho e a escalabilidade da recuperação de dados do catálogo.
+O Serviço de catálogo para Adobe Commerce é um recurso SaaS multilocatário que fornece dados de catálogo somente leitura para potencializar as experiências de compra da loja. Consumível por meio de APIs do GraphQL, fornece novas consultas de API para aumentar o desempenho e melhorar a escalabilidade da recuperação de dados de catálogo.
 
 Neste vídeo:
 
-- Como baixar e instalar o serviço de catálogo
+- Como baixar e instalar o Serviço de catálogo
 - Como testar a funcionalidade
 
 ## Para quem é este vídeo?
@@ -42,4 +42,4 @@ Parte 2:
 ## Recursos adicionais
 
 - [Guia do Serviço de catálogo do Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/catalog-service/guide-overview.html)
-- [#storefront-services comunidade Slack channel](https://magentocommeng.slack.com/?redir=%2Farchives%2FC03HVPG8RS4)
+- [#storefront-services community Slack channel](https://magentocommeng.slack.com/?redir=%2Farchives%2FC03HVPG8RS4)

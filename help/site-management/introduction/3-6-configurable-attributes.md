@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para usuários empresariais - Atributos configuráveis"
-description: Saiba como configurar atributos de produto configuráveis.
+description: Saiba como definir atributos de produto configuráveis.
 topic: Commerce
 kt: 5772
 doc-type: video
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Neste vídeo:
 
-- Atributos configuráveis do produto
+- Atributos de produto configuráveis
 
 ## Para quem é este vídeo?
 
@@ -28,7 +28,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35957?quality=12&learn=on)
 

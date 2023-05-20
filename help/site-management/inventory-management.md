@@ -1,6 +1,6 @@
 ---
 title: Inventory management
-description: Saiba mais sobre os recursos do Inventory management e como usá-los para trabalhar em um único depósito ou em uma rede de entrega complexa.
+description: Saiba mais sobre os recursos do Inventory management e como você pode usá-los para trabalhar em um único warehouse ou em uma rede de entrega complexa.
 kt: 10551
 doc-type: feature video
 audience: all
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # Inventory management
 
-Os comerciantes com uma única loja para vários depósitos, lojas, locais de retirada, carregadores de devolução e muito mais podem usar os recursos de gerenciamento de inventário para manter quantidades para vendas e manipular entregas para concluir pedidos. Você pode rastrear as quantidades do seu inventário, fornecer valores exatos do estoque que pode ser vendido aos clientes para todos os seus sites e enviar de acordo com as recomendações baseadas na distância ou prioridade. Você também pode configurar as configurações de produto preferidas globalmente (para todas as lojas e produtos), por fonte e por produto. Esses recursos crescem com sua empresa, permitindo que você trabalhe em um único depósito ou em uma rede de remessa complexa.
+Comerciantes com uma única loja para vários depósitos, lojas, locais de retirada, entregadores diretos e muito mais podem usar os recursos de gerenciamento de inventário para manter quantidades para vendas e controlar entregas para ordens completas. Você pode rastrear as quantidades de seu inventário, fornecer quantidades precisas de estoque comercializável aos clientes para todos os seus sites e entregar de acordo com as recomendações com base na distância ou na prioridade. Você também pode definir as configurações de produto de sua preferência globalmente (para todas as lojas e produtos), por origem e por produto. Esses recursos crescem junto com a sua empresa, permitindo que você trabalhe a partir de um único warehouse ou de uma rede de transporte complexa.
 
 ## Para quem é este vídeo?
 
-- Gestores do site
-- Comerciantes de eCommerce
+- Gerentes de sites
+- Merchandisers de comércio eletrônico
 
 ## Conteúdo de vídeo
 

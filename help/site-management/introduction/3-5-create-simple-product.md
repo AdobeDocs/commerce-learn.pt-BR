@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para usuários empresariais - Produtos simples"
-description: Saiba como criar um produto simples usando conjuntos de atributos do produto.
+description: Saiba como criar um produto simples usando conjuntos de atributos de produto.
 topic: Commerce
 kt: 5771
 doc-type: video
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Neste vídeo:
 
-- Criar um produto simples usando conjuntos de atributos de produto
+- Criação de um produto simples usando conjuntos de atributos de produto
 
 ## Para quem é este vídeo?
 
@@ -28,7 +28,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35956?quality=12&learn=on)
 

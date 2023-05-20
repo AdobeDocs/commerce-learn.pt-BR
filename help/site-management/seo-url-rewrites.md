@@ -1,6 +1,6 @@
 ---
 title: Gerenciar substituições de URL para SEO
-description: Saiba mais sobre como usar a ferramenta de Reescrita de URL para alterar qualquer URL associado a um produto, categoria ou página CMS.
+description: Saiba mais sobre como usar a ferramenta Reescrita de URL para alterar qualquer URL associado a um produto, categoria ou página do CMS.
 kt: 10554
 doc-type: feature video
 audience: all
@@ -16,13 +16,13 @@ ht-degree: 0%
 
 # Gerenciar substituições de URL para SEO
 
-A ferramenta de Reescrita de URL permite que você altere qualquer URL associado a um produto, categoria ou página CMS. Quando a regravação entrar em vigor, qualquer link que aponte para o URL anterior será redirecionado para o novo endereço.
+A ferramenta de regravação de URL permite alterar qualquer URL associado a um produto, categoria ou página do CMS. Quando a regravação entrar em vigor, os links que apontarem para o URL anterior serão redirecionados para o novo endereço.
 
 ## Para quem é este vídeo?
 
-- Gerente do site
-- Comerciantes de eCommerce
-- Comerciantes de eCommerce
+- Gerente de site
+- Merchandisers de comércio eletrônico
+- Profissionais de marketing de comércio eletrônico
 
 ## Conteúdo de vídeo
 
@@ -30,5 +30,5 @@ A ferramenta de Reescrita de URL permite que você altere qualquer URL associado
 
 ## Recursos adicionais
 
-- [Substituições de URL - [!DNL Commerce] Guia de comercialização e promoção](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
+- [Substituições de URL - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
 - [Geral > Web - [!DNL Commerce] Guia de referência de configuração](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

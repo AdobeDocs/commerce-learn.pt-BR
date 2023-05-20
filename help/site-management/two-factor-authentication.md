@@ -1,6 +1,6 @@
 ---
 title: Autenticação de dois fatores
-description: O Adobe Commerce e o Magento Open Source suportam métodos de autenticação de dois fatores (2FA) de vários provedores. Saiba como os recursos de autenticação de dois fatores ajudam a proteger o Administrador da sua loja.
+description: O Adobe Commerce e o Magento Open Source suportam métodos de autenticação de dois fatores (2FA) de vários provedores. Saiba como os recursos de autenticação de dois fatores ajudam a proteger o administrador da sua loja.
 kt: 9443
 doc-type: feature video
 audience: all
@@ -20,18 +20,18 @@ Para impedir o acesso não autorizado aos seus dados, todos os usuários que ten
 
 ## Para quem é este vídeo?
 
-- Administradores da loja
-- Gerentes de site
+- Administradores de armazenamento
+- Gerenciadores de sites
 
 ## Conteúdo de vídeo
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.4.0. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.4.0. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## Recursos adicionais
 
-- [Autenticação de dois fatores (2FA) - Guia dos sistemas de administração](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+- [Autenticação de dois fatores (2FA) - Guia de sistemas do administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
 - [Configuração da autenticação de dois fatores (2FA) - Documentação do desenvolvedor](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

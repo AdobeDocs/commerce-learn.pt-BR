@@ -1,6 +1,6 @@
 ---
 title: Criar atributos do cliente
-description: Saiba como adicionar atributos personalizados às seções Informações da conta, Catálogo de endereços e Informações de faturamento da conta de um cliente.
+description: Saiba como adicionar atributos personalizados às seções informações de conta, catálogo de endereços e informações de faturamento da conta do cliente.
 kt: 10547
 doc-type: feature video
 audience: all
@@ -16,18 +16,18 @@ ht-degree: 0%
 
 # Criar atributos do cliente
 
-Os atributos do cliente fornecem as informações necessárias para suportar os processos de pedido, atendimento e gerenciamento de clientes. Como sua empresa é exclusiva, talvez você precise de campos além dos campos padrão fornecidos pelo sistema. Você pode adicionar atributos personalizados às seções Informações da conta, Catálogo de endereços e Informações de faturamento da conta do cliente.
+Os atributos do cliente fornecem as informações necessárias para oferecer suporte aos processos de solicitar, cumprimento e gerenciamento de clientes. Como sua empresa é única, você pode precisar de campos além dos campos padrão fornecidos pelo sistema. Você pode adicionar atributos personalizados às seções informações de conta, catálogo de endereços e informações de cobrança da conta do cliente.
 
-## Para quem é este vídeo?
+## Para quem é esse vídeo?
 
 - Administradores da loja
-- Comerciantes de eCommerce
+- profissionais de marketing comércio eletrônico
 
-## Conteúdo de vídeo
+## Vídeo conteúdo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343661?quality=12&learn=on)
 
 ## Recursos adicionais
 
-- [Propriedades do atributo do cliente - [!DNL Commerce] Guia de gerenciamento do cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
-- [Criar uma conta de cliente individual - [!DNL Commerce] Guia de gerenciamento do cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+- [Propriedades de atributos do cliente-guia de gerenciamento de  [!DNL Commerce]  clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/attributes/attribute-properties.html)
+- [Criar uma conta de cliente individual-guia de gerenciamento de  [!DNL Commerce]  clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)

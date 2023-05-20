@@ -1,6 +1,6 @@
 ---
-title: Criar segmentos de cliente
-description: Saiba como exibir dinamicamente o conteúdo e as promoções para clientes específicos, com base em propriedades como endereço do cliente, histórico de pedidos, conteúdo do carrinho de compras.
+title: Criar segmentos de clientes
+description: Saiba como exibir dinamicamente conteúdo e promoções para clientes específicos, com base em propriedades como endereço do cliente, histórico de pedidos e conteúdo do carrinho de compras.
 kt: 10545
 doc-type: feature video
 audience: all
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 ---
 
-# Criar segmentos de cliente
+# Criar segmentos de clientes
 
 {{ee-feature}}
 
-Os segmentos do cliente permitem exibir dinamicamente o conteúdo e as promoções para clientes específicos, com base em propriedades como endereço do cliente, histórico do pedido, conteúdo do carrinho de compras. Você pode otimizar iniciativas de marketing com base em segmentos direcionados com regras de preço do carrinho de compras. Você também pode gerar relatórios e exportar a lista de clientes alvos.
+Os segmentos de clientes permitem exibir dinamicamente conteúdo e promoções para clientes específicos, com base em propriedades como endereço do cliente, histórico de pedidos e conteúdo do carrinho de compras. Você pode otimizar iniciativas de marketing com base em segmentos direcionados com regras de preço de carrinho de compras. Você também pode gerar relatórios e exportar a lista de clientes direcionados.
 
 ## Para quem é este vídeo?
 
-- Administradores da loja
-- Comerciantes de eCommerce
+- Administradores de armazenamento
+- Profissionais de marketing de comércio eletrônico
 
 ## Conteúdo de vídeo
 
@@ -31,5 +31,5 @@ Os segmentos do cliente permitem exibir dinamicamente o conteúdo e as promoçõ
 
 ## Recursos adicionais
 
-- [Segmentos do cliente - [!DNL Commerce] Guia de gerenciamento do cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
-- [Segmentos do cliente em regras de preço - [!DNL Commerce] Guia de gerenciamento do cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)
+- [Segmentos do cliente - [!DNL Commerce] Guia de gerenciamento de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
+- [Segmentos do Cliente em Regras de Preço - [!DNL Commerce] Guia de gerenciamento de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)

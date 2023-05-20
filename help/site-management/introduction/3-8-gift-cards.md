@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - cartões-presente"
-description: Saiba como incluir cartões-presente em seu [!DNL Commerce] armazenar.
+title: "[!DNL Commerce] para usuários empresariais - Cartões-presente"
+description: Saiba como incluir cartões-presente no [!DNL Commerce] armazenamento.
 topic: Commerce
 kt: 5774
 doc-type: video
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuários empresariais - Cartões de presentes
+# [!DNL Commerce] para usuários empresariais - Cartões-presente
 
 Neste vídeo:
 
-- Cartões de presente
+- Cartões-presente
 
 ## Para quem é este vídeo?
 
@@ -30,12 +30,12 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35959?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Produto do cartão-presente - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html)
-[Compra e resgate do cartão-presente - [!DNL Commerce] Guia de experiência de loja e compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html)
+[Produto de cartão-presente - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html)
+[Compra e resgate de cartão-presente - [!DNL Commerce] Guia de experiência de compras e lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/point-of-purchase/gift-cards/product-gift-card-workflow.html)
 

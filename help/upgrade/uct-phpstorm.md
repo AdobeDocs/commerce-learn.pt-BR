@@ -1,8 +1,8 @@
 ---
-title: Usar a ferramenta de compatibilidade de atualização no PHP Storm
+title: Utilização da ferramenta de compatibilidade de atualização no PHP Storm
 description: Assista a este vídeo técnico para saber como usar a Ferramenta de compatibilidade de atualização com o plug-in PHP Storm.
-landing-page-description: Saiba mais sobre como usar a Ferramenta de compatibilidade de atualização com o plug-in PHP Storm que facilita a identificação e o tratamento de incompatibilidades.
-short-description: Saiba mais sobre como usar a Ferramenta de compatibilidade de atualização com o plug-in PHP Storm que facilita a identificação e o tratamento de incompatibilidades.
+landing-page-description: Saiba mais sobre como usar a ferramenta Compatibilidade de atualização com o plug-in PHP Storm que facilita a identificação e o tratamento de incompatibilidades.
+short-description: Saiba mais sobre como usar a ferramenta Compatibilidade de atualização com o plug-in PHP Storm que facilita a identificação e o tratamento de incompatibilidades.
 kt: 9651
 doc-type: technical video
 role: Developer
@@ -16,15 +16,15 @@ ht-degree: 0%
 
 ---
 
-# Usar a ferramenta de compatibilidade de atualização no PHP Storm
+# Utilização da ferramenta de compatibilidade de atualização no PHP Storm
 
-A Ferramenta de compatibilidade de atualização (UCT) é uma ferramenta gratuita que analisa as incompatibilidades entre a versão atual e a versão de atualização do público alvo em apenas minutos. O plug-in PHP Storm torna essa ferramenta ainda mais fácil de usar.
+A Ferramenta de compatibilidade de atualização (UCT, na sigla em inglês) é uma ferramenta gratuita que analisa em poucos minutos as incompatibilidades entre a sua versão atual e a versão de atualização desejada. O plug-in PHP Storm facilita ainda mais o uso dessa ferramenta.
 
 Neste vídeo:
 
 - O que é a Ferramenta de compatibilidade de atualização?
-- Como usá-lo com o plugin Magento PHP Storm
-- Como acessar os resultados do HTML para ajudar a visualizar módulos por gravidade e número de incompatibilidades
+- Como usá-lo com o plug-in Magento PHP Storm
+- Como acessar os resultados de HTML para ajudar a visualizar módulos por gravidade e número de incompatibilidades
 
 ## Para quem é este vídeo?
 

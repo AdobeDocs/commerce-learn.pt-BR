@@ -15,12 +15,12 @@ ht-degree: 0%
 
 # Usar atributos de produto com o PWA Studio
 
-Neste vídeo, saiba como gerenciar atributos de produto quando tiver uma loja criada com o PWA Studio.
+Neste vídeo, saiba como gerenciar atributos de produto quando você tem uma loja criada com o PWA Studio.
 
 ## Para quem é este vídeo?
 
-- Desenvolvedores de fronteira
-- Gestores de projeto
+- Desenvolvedores de front-end
+- Gerentes de projeto
 
 ## Conteúdo de vídeo
 

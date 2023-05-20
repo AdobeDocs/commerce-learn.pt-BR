@@ -1,6 +1,6 @@
 ---
-title: Usar observação para Adobe Commerce
-description: Assista a este vídeo técnico e saiba como usar a Ferramenta de observação para Adobe Commerce.
+title: Usar observação para o Adobe Commerce
+description: Assista a este vídeo técnico e saiba como usar a ferramenta de observação para Adobe Commerce.
 doc-type: technical video
 role: Developer, Admin
 audience: all
@@ -13,13 +13,13 @@ ht-degree: 0%
 
 ---
 
-# Usar observação para Adobe Commerce
+# Usar observação para o Adobe Commerce
 
-Neste vídeo, saiba mais sobre a Ferramenta de observação do Adobe Commerce, que é um nervo do New Relic para ver o estado do site do Adobe Commerce, as visualizações atuais ou passadas. Um nerdlet é um aplicativo personalizado criado com a programabilidade do New Relic One.
+Neste vídeo, saiba mais sobre a Ferramenta de observação para o Adobe Commerce, que é um nerdlet do New Relic para ver o estado do site do Adobe Commerce, as visualizações de tempo atuais ou anteriores. Um nerdlet é um aplicativo personalizado criado com capacidade de programação do New Relic One.
 
 ## Para quem é este vídeo?
 
-- Gestores do site
+- Gerentes de sites
 - Desenvolvedores
 
 ## Conteúdo de vídeo
@@ -29,4 +29,4 @@ Neste vídeo, saiba mais sobre a Ferramenta de observação do Adobe Commerce, q
 ## Recursos adicionais
 
 - [Observação para o Adobe Commerce - Artigo de suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
-- [Usar observação para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+- [Usar observação para o Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)

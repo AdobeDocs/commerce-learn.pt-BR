@@ -1,6 +1,6 @@
 ---
 title: Adicionar uma tabela a um banco de dados
-description: "[!DNL Commerce] O tem um mecanismo especial que permite criar tabelas de banco de dados, modificar as existentes e até mesmo adicionar alguns dados a elas."
+description: "[!DNL Commerce] O tem um mecanismo especial que permite criar tabelas de banco de dados, modificar tabelas existentes e até mesmo adicionar alguns dados a elas."
 topic: Development
 kt: 5613
 doc-type: video
@@ -20,9 +20,9 @@ ht-degree: 0%
 >Isso não é mais recomendado, consulte https://developer.adobe.com/commerce/php/development/components/declarative-schema/
 
 
-[!DNL Commerce] O tem um mecanismo especial que permite criar tabelas de banco de dados, modificar as existentes e até mesmo adicionar alguns dados a elas, como dados de configuração, que devem ser adicionados quando um módulo é instalado. Este mecanismo permite que essas alterações sejam transferíveis entre diferentes instalações.
+[!DNL Commerce] O tem um mecanismo especial que permite criar tabelas de banco de dados, modificar tabelas existentes e até mesmo adicionar alguns dados a elas, como dados de configuração, que devem ser adicionados quando um módulo é instalado. Esse mecanismo permite que essas alterações sejam transferíveis entre diferentes instalações.
 
-Em vez de realizar operações manuais do SQL repetidamente ao reinstalar o sistema, os desenvolvedores criam um script de instalação (ou atualização) que contém os dados. O script é executado sempre que um módulo é instalado.
+Em vez de realizar operações SQL manuais repetidamente ao reinstalar o sistema, os desenvolvedores criam um script de instalação (ou atualização) que contém os dados. O script é executado sempre que um módulo é instalado.
 
 ## Para quem é este vídeo?
 
@@ -42,4 +42,4 @@ Em vez de realizar operações manuais do SQL repetidamente ao reinstalar o sist
 
 ## Recursos úteis
 
-- [Migrar scripts de instalação/atualização para o esquema declarativo](https://developer.adobe.com/commerce/php/development/components/declarative-schema/migration-scripts/)
+- [Migrar scripts de instalação/atualização para esquema declarativo](https://developer.adobe.com/commerce/php/development/components/declarative-schema/migration-scripts/)

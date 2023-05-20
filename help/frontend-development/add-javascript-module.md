@@ -1,6 +1,6 @@
 ---
-title: Adicionar um módulo JavaScript
-description: Este vídeo fornece uma apresentação para desenvolver um módulo JS simples que fornece a saudação "Hello World".
+title: Adicionar uma módulo de JavaScript
+description: Este vídeo fornece orientações para desenvolver uma módulo JS simples que fornece a saudação "Hello World".
 topic: Development
 kt: 5612
 doc-type: video
@@ -13,27 +13,27 @@ ht-degree: 0%
 
 ---
 
-# Adicionar um módulo JavaScript
+# Adicionar uma módulo de JavaScript
 
-Este vídeo fornece uma apresentação para desenvolver um módulo JS simples que fornece a saudação &quot;Hello World&quot;.
+Este vídeo fornece orientações para desenvolver uma módulo JS simples que fornece a saudação &quot;Hello World&quot;.
 
-## Para quem é este vídeo?
+## Para quem é esse vídeo?
 
 - Desenvolvedores
 
-## Etapas
+## Passos
 
 - Criar um módulo
-- Crie um `requirejs-config.js` e um arquivo de módulo JavaScript
-- Criar atualização de layout para adicionar um modelo que ative o módulo JS
-- Criar arquivo de modelo
-- Adicione o módulo e teste-o
+- Criar um `requirejs-config.js` JavaScript módulo arquivo
+- Criar atualização de layout para adicionar uma modelo que permite ao JS módulo
+- Criar modelo arquivo
+- Adicione a módulo e a teste
 
-## Conteúdo de vídeo
+## Vídeo conteúdo
 
 >[!VIDEO](https://video.tv.adobe.com/v/35790?quality=12&learn=on)
 
 ## Recursos úteis
 
 - [Guia do desenvolvedor do JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/)
-- [Chamada e inicialização do JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+- [Chamando e inicializando JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)

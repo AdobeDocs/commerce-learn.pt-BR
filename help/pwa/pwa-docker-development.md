@@ -1,5 +1,5 @@
 ---
-title: Desenvolvimento de docking station PWA
+title: Desenvolvimento do Docker PWA
 description: Saiba mais sobre o desenvolvimento de PWA no Docker.
 topic: Development
 kt: 5564
@@ -13,11 +13,11 @@ ht-degree: 0%
 
 ---
 
-# Desenvolvimento do PWA Docker
+# Desenvolvimento do Docker PWA
 
 ## Para quem é este vídeo?
 
-- Desenvolvedores de fronteira
+- Desenvolvedores de front-end
 
 ## Conteúdo de vídeo
 
@@ -25,4 +25,4 @@ ht-degree: 0%
 
 ## Recursos úteis
 
-[Guia de PWA Studio](https://developer.adobe.com/commerce/pwa-studio/)
+[Guia do PWA Studio](https://developer.adobe.com/commerce/pwa-studio/)

@@ -1,6 +1,6 @@
 ---
 title: Criar uma regra de preço do catálogo
-description: Saiba como criar regras de preço de catálogo que oferecem produtos aos compradores a um preço com desconto com base em um conjunto de condições definidas.
+description: Aprenda a criar regras de preço de catálogo que oferta produtos a compradores com um preço com desconto com base em um conjunto de condições definidas.
 doc-type: feature video
 audience: all
 role: Admin, User
@@ -15,18 +15,18 @@ ht-degree: 0%
 
 # Criar uma regra de preço do catálogo
 
-As regras de preço do catálogo podem ser usadas para oferecer produtos aos compradores a um preço com desconto, com base em um conjunto de condições definidas. As regras de preço do catálogo não usam códigos de cupom porque são acionados antes que um produto seja colocado no carrinho de compras. Por exemplo, você pode definir e definir as condições para uma regra de preço que, quando atendida, exibe automaticamente produtos com um preço especial ou promocional.
+As regras de preço do catálogo podem ser usadas para oferta produtos aos compradores com um preço com desconto, com base em um conjunto de condições definidas. As regras de preço do catálogo não usam códigos de cupom porque são acionados antes que um produto seja colocado no carrinho de compras. Por exemplo, você pode definir e definir as condições para um preço regra que, quando atendidos, exibir automaticamente produtos com um preço especial ou promocional.
 
-## Para quem é este vídeo?
+## Para quem é esse vídeo?
 
-- Comerciantes de eCommerce
-- Gestores do site
+- profissionais de marketing comércio eletrônico
+- Gerentes de site
 
-## Conteúdo de vídeo
+## Vídeo conteúdo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343834?quality=12&learn=on)
 
 ## Recursos adicionais
 
-- [Criar uma regra de preço do catálogo - [!DNL Commerce] Guia de comercialização e promoção](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
-- [Regra de preço de catálogo com vários SKUs - [!DNL Commerce] Guia de comercialização e promoção](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)
+- [Criar uma regra de preço do catálogo-  [!DNL Commerce]  Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+- [Preço do catálogo regra com vários SKUs-  [!DNL Commerce]  Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)

@@ -15,12 +15,12 @@ ht-degree: 0%
 
 # Gerenciar status do pedido
 
-Quando um cliente faz um pedido, uma ordem de venda é criada como um registro temporário da transação. A ordem de venda tem um status de _Pending_ até ao pagamento. Enquanto estiver no status Pending , os pedidos podem ser editados ou cancelados até o momento em que o pagamento é recebido e uma fatura é gerada. Neste vídeo, saiba como verificar o status do pedido e seus detalhes e como alterar o status de um pedido, se necessário.
+Quando um cliente coloca um pedido, uma ordem de venda é criada como um registro temporário da transação. A ordem de venda tem um status de _Pending_ até que o pagamento seja recebido. Enquanto estiver no status Pendente, os pedidos podem ser editados ou cancelados até o momento em que o pagamento é recebido e uma fatura é gerada. Neste vídeo, saiba como verificar o status do pedido e seus detalhes e como alterar o status de um pedido, se necessário.
 
 ## Para quem é este vídeo?
 
 - Vendas
-- Representantes do Atendimento ao cliente
+- Representantes do atendimento ao cliente
 
 ## Conteúdo de vídeo
 
@@ -28,5 +28,5 @@ Quando um cliente faz um pedido, uma ordem de venda é criada como um registro t
 
 ## Recursos adicionais
 
-- [Processar um pedido - [!DNL Commerce] Guia de experiência de loja e compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
-- [Status do pedido - [!DNL Commerce] Guia de experiência de loja e compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)
+- [Processar um pedido - [!DNL Commerce] Guia de experiência de compras e lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+- [Status do pedido - [!DNL Commerce] Guia de experiência de compras e lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

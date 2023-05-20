@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce na infraestrutura de nuvem - Projetos e arquivos
-description: Saiba mais sobre a estrutura do projeto e os arquivos de email. Entenda a estrutura de arquivos do projeto do Cloud e todos os repositórios necessários.
+title: Adobe Commerce na infraestrutura em nuvem - Projetos e arquivos
+description: Saiba mais sobre a estrutura do projeto e os arquivos yaml. Entenda a estrutura de arquivo do projeto na nuvem e todos os repositórios necessários.
 kt: 5658
 doc-type: video
 audience: all
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce na infraestrutura de nuvem - Projetos e arquivos
+# Adobe Commerce na infraestrutura em nuvem - Projetos e arquivos
 
 Neste vídeo:
 
-- Entenda a estrutura de arquivos do projeto de nuvem e os repositórios de código relacionados
-- Saiba mais sobre os quatro arquivos principais de configuração
+- Entender a estrutura de arquivo do projeto de nuvem e os repositórios de código relacionados
+- Saiba mais sobre os quatro arquivos de configuração principais
 
 >[!VIDEO](https://video.tv.adobe.com/v/35694?quality=12&learn=on)
 
 ## Recursos adicionais
 
-- [Estrutura do projeto - [!DNL Commerce] no Guia do Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
-- [Configurar ambientes - [!DNL Commerce] no Guia do Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)
+- [Estrutura do projeto - [!DNL Commerce] no Guia de infraestrutura na nuvem](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/project/file-structure.html)
+- [Configurar ambientes - [!DNL Commerce] no Guia de infraestrutura na nuvem](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html)

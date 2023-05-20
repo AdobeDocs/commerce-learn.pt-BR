@@ -1,6 +1,6 @@
 ---
-title: MBI - Retorno do rastreamento de investimento
-description: Saiba mais sobre os insights do MBI que ajudam a acompanhar seu retorno sobre o investimento.
+title: MBI - Rastreamento do retorno do investimento
+description: Saiba mais sobre os insights do MBI que ajudam a rastrear o retorno sobre o investimento.
 kt: 5737
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# MBI - Retorno do rastreamento de investimento
+# MBI - Rastreamento do retorno do investimento
 
-A MBI fornece informações que ajudam a monitorar e gerenciar seu retorno sobre o investimento. Por exemplo, se você está investindo em publicidade on-line, deseja acompanhar seu retorno sobre o investimento para tomar decisões orientadas por dados sobre outros investimentos.
+O MBI fornece insights que ajudam a monitorar e gerenciar o retorno sobre o investimento. Por exemplo, se estiver investindo em publicidade online, você quer monitorar seu retorno sobre o investimento para tomar decisões orientadas por dados sobre investimentos adicionais.
 
 ## Para quem é este vídeo?
 
@@ -34,4 +34,4 @@ A MBI fornece informações que ajudam a monitorar e gerenciar seu retorno sobre
 ## Recursos adicionais
 
 - [Análise de campanha - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/ess-coupon-code-analysis.html)
-- [ROI de marketing - Guia do usuário de MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/marketing-roi.html)
+- [ROI de marketing - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/campaigns/marketing-roi.html)

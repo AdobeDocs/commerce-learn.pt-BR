@@ -1,8 +1,8 @@
 ---
-title: MBI - Report Builder SQL
-description: Saiba como usar o Report Builder do MBI SQL para consultar diretamente o data warehouse, visualizar os resultados e transformá-los rapidamente em um gráfico.
-landing-page-description: Assista a este vídeo para saber como usar o Report Builder do MBI SQL para consultar diretamente seu data warehouse, visualizar os resultados e transformá-los rapidamente em um gráfico.
-short-description: Assista a este vídeo para saber como usar o Report Builder do MBI SQL para consultar diretamente seu data warehouse, visualizar os resultados e transformá-los rapidamente em um gráfico.
+title: MBI - REPORT BUILDER SQL
+description: Saiba como usar o Report Builder SQL do MBI para consultar diretamente seu data warehouse, exibir os resultados e transformá-los rapidamente em um gráfico.
+landing-page-description: Assista a este vídeo para saber como usar o Report Builder SQL do MBI para consultar diretamente seu data warehouse, exibir os resultados e transformá-los rapidamente em um gráfico.
+short-description: Assista a este vídeo para saber como usar o Report Builder SQL do MBI para consultar diretamente seu data warehouse, exibir os resultados e transformá-los rapidamente em um gráfico.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 ---
 
-# MBI - Report Builder SQL
+# MBI - REPORT BUILDER SQL
 
-O Report Builder SQL permite consultar diretamente seu data warehouse, exibir os resultados e transformá-los rapidamente em um gráfico. A melhor parte do uso do SQL para criar relatórios é que você não precisa esperar pelos ciclos de atualização para iterar nas colunas criadas. Se os resultados não parecerem corretos, você poderá editar e executar novamente o query rapidamente até que as coisas correspondam às suas expectativas.
+O Report Builder SQL permite consultar diretamente o data warehouse, visualizar os resultados e transformá-los rapidamente em um gráfico. A melhor parte sobre o uso do SQL para criar relatórios é que você não precisa esperar pelos ciclos de atualização para iterar nas colunas criadas. Se os resultados não parecerem corretos, você poderá editar e executar novamente a query rapidamente até que tudo corresponda às suas expectativas.
 
 >[!IMPORTANT]
 >
@@ -27,12 +27,12 @@ O Report Builder SQL permite consultar diretamente seu data warehouse, exibir os
 Neste vídeo:
 
 - Executar uma consulta SQL
-- Visualizar os resultados
+- Visualizar seus resultados
 - Salvar o relatório em um painel
 
 >[!TIP]
 >
->Se você é novo no MBI, a variável [Série de vídeos Introdução](1-overview.md) O fornece uma visão geral completa para obter melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
+>Se você é novo no MBI, a variável [Introdução à série de vídeos](1-overview.md) O fornece uma visão geral completa para gerar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
 
 ## Para quem é este vídeo?
 
@@ -45,6 +45,6 @@ Neste vídeo:
 
 ## Recursos úteis
 
-[Usando o Guia do Usuário do SQL Report Builder - MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[Usando o Report Builder SQL - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
-[Criação de Visualizações de Consultas SQL - Guia do Usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
+[Criar visualizações de consultas SQL - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)

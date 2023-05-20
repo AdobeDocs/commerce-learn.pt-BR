@@ -1,6 +1,6 @@
 ---
-title: Adobe Commerce na infraestrutura de nuvem - Implantação
-description: Saiba mais sobre fases e scripts de implantação. Entenda como o processo de implantação funciona a partir da ​ de infraestrutura.
+title: Adobe Commerce na infraestrutura em nuvem — implantação
+description: Saiba mais sobre fases e scripts de implantação. Entenda como o processo de implantação funciona do lado da infraestrutura​.
 kt: 5659
 doc-type: video
 audience: all
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 ---
 
-# Adobe Commerce na infraestrutura de nuvem - Implantação
+# Adobe Commerce na infraestrutura em nuvem — implantação
 
 Neste vídeo:
 
 - Saiba mais sobre fases e scripts de implantação
-- Entenda como o processo de implantação funciona do lado da infraestrutura &#x200B;
+- Entenda como o processo de implantação funciona do lado da infraestrutura&#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/35695?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Processo de implantação do Cloud - [!DNL Commerce] no Guia do Cloud Infrastructure](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+[Processo de implantação na nuvem - [!DNL Commerce] no Guia de infraestrutura na nuvem](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)

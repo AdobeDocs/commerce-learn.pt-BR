@@ -1,11 +1,11 @@
 ---
-title: Configurar o Recommendations do produto
-description: Saiba como usar as recomendações de produto na sua loja da Adobe Commerce.
+title: Configurar recomendações de produto
+description: Aprenda a usar as recomendações do produto no Adobe Systems Comércio armazenamento.
 doc-type: feature video
 audience: all
 role: Admin, User
 activity: use
-badge: label="Somente em Adobe Commerce" type="Positive"
+badge: Label = "somente no Adobe Systems Comércio" Type = "positivo"
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
 source-git-commit: dc2e8aa92feda8f5243621a6a1febd38c7ef222f
 workflow-type: tm+mt
@@ -14,24 +14,24 @@ ht-degree: 0%
 
 ---
 
-# Configurar o Recommendations do produto
+# Configurar recomendações de produto
 
 {{ee-feature}}
 
-As recomendações de produto são uma poderosa ferramenta de marketing que pode ser usada para aumentar as conversões, aumentar a receita e estimular o envolvimento do comprador. As recomendações de produtos do Adobe Commerce são fornecidas pela Adobe Sensei, que usa inteligência artificial e algoritmos de aprendizado automatizado para realizar uma análise profunda dos dados agregados dos visitantes. Esses dados, quando combinados ao seu catálogo do Adobe Commerce, resultam em uma experiência altamente envolvente, relevante e personalizada.
+As recomendações do produto são um poderoso marketing ferramenta que você pode usar para aumentar as conversões, aumentar receita e Stimulate consumidor envolvimento. Adobe Systems Comércio recomendações do produto são alimentadas por Adobe Sensei, que usa algoritmos de inteligência e de aprendizagem de máquina artificial para executar um profundo análise de dados do visitante agregado. Esses dados, quando combinados com seu Adobe Systems catálogo Comércio, resultam em uma experiência altamente engajada, relevante e personalizada.
 
-Neste vídeo, saiba como configurar recomendações de produto.
+Neste vídeo, aprenda a configurar as recomendações do produto.
 
-## Para quem é este vídeo?
+## Para quem é esse vídeo?
 
-- Comerciantes de eCommerce
-- Gestores do site
+- profissionais de marketing comércio eletrônico
+- Gerentes de site
 
-## Conteúdo de vídeo
+## Vídeo conteúdo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343991?quality=12&learn=on)
 
 ## Recursos adicionais
 
-- [Guia do Recommendations do produto](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
-- [Conector do Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+- [Guia do produto recomendações](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
+- [Conector de serviços Comércio](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

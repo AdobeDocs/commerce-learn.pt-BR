@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Criar um módulo
 
-O módulo é um elemento estrutural do [!DNL Commerce] - todo o sistema é construído a partir de módulos. Normalmente, a primeira etapa na criação de uma personalização é criar um módulo.
+O módulo é um elemento estrutural de [!DNL Commerce] - todo o sistema se baseia em módulos. Normalmente, a primeira etapa na criação de uma personalização é criar um módulo.
 
 ## Para quem é este vídeo?
 
@@ -27,11 +27,11 @@ O módulo é um elemento estrutural do [!DNL Commerce] - todo o sistema é const
 - Crie o arquivo etc/module.xml.
 - Crie o arquivo registration.php.
 - Execute a configuração bin/magento.
-- Atualize o script para instalar o novo módulo.
+- Atualizar script para instalar o novo módulo.
 - Verifique se o módulo está funcionando.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35792?quality=12&learn=on)
 
 ## Recursos úteis
 
-- [Guia de referência do módulo](https://developer.adobe.com/commerce/php/module-reference/)
+- [Guia de referência de módulo](https://developer.adobe.com/commerce/php/module-reference/)

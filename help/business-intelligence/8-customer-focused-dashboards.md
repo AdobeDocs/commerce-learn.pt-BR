@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # MBI - Painéis focados no cliente
 
-Para permitir decisões comerciais informadas, os painéis focados no cliente fornecem muitos insights para seus clientes. Os exemplos são clientes novos versus registrados, valor do ciclo de vida do cliente, receita dividida por grupos de clientes e uso de cupom pelos clientes.
+Para permitir decisões de negócios bem fundamentadas, os painéis focados no cliente fornecem muitos insights para seus clientes. Os exemplos são clientes novos versus registrados, valor vitalício do cliente, receita dividida por grupos de clientes e uso de cupom pelos clientes.
 
 ## Para quem é este vídeo?
 
@@ -33,5 +33,5 @@ Para permitir decisões comerciais informadas, os painéis focados no cliente fo
 
 ## Recursos adicionais
 
-- [Clientes (check-out de convidado permitido) - Guia do Usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(guest-checkout-allowed))
-- [Clientes (sem check-out de convidado permitido) - Guia do Usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(no-guest-checkout-allowed))
+- [Clientes (checkout de convidado permitido) - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(guest-checkout-allowed))
+- [Clientes (não é permitido check-out de convidado) - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/build/dashboards/dashboards-pro.html#customers-(no-guest-checkout-allowed))

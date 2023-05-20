@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para desenvolvedores - Roteamento"
-description: Saiba mais sobre roteamento, criação de um controlador de primeiro plano simples, objetos de resultado, classe de ação.
+description: Saiba mais sobre roteamento, criação de um controlador de front-end simples, objetos de resultado, classe de ação.
 kt: 5697
 doc-type: video
 topic: Development
@@ -21,7 +21,7 @@ ht-degree: 0%
 Neste vídeo:
 
 - Roteamento
-- Criação de um controlador frontal simples
+- Criação de um controlador de front-end simples
 - Objetos de resultado
 - Classe de ação
 
@@ -29,7 +29,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36199?quality=12&learn=on)
 

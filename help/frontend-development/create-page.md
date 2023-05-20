@@ -24,7 +24,7 @@ Crie uma página que retorne json com um parâmetro.
 ## Etapas para adicionar uma página
 
 - Criar um módulo
-- Adicione um **route.xml** arquivo
+- Adicionar um **rotas.xml** arquivo
 - Adicionar um arquivo de controlador (ação)
 
 ## Etapas para criar um módulo
@@ -41,4 +41,4 @@ Crie uma página que retorne json com um parâmetro.
 
 ## Recursos úteis
 
-[Guia do desenvolvedor de fronteira](https://developer.adobe.com/commerce/frontend-core/guide/)
+[Guia do desenvolvedor de front-end](https://developer.adobe.com/commerce/frontend-core/guide/)

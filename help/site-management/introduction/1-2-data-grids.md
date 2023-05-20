@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para usuários empresariais - grades de dados"
-description: Saiba como trabalhar com grades de dados no [!DNL Commerce Admin].
+description: Saiba como trabalhar com grades de dados na [!DNL Commerce Admin].
 topic: Commerce
 kt: 5759
 doc-type: video
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Neste vídeo:
 
-- Trabalho com grades de dados no [!DNL Commerce Admin]
+- Trabalhar com grades de dados na [!DNL Commerce Admin]
 
 ## Para quem é este vídeo?
 
@@ -28,10 +28,10 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35960?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Controles de grade do administrador - [!DNL Commerce] Guia de Introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)
+[Controles de Grade de Administração - [!DNL Commerce] Guia de introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/admin/tools/admin-grid-controls.html)

@@ -1,35 +1,35 @@
 ---
 title: A pasta de ações
-description: Saiba mais sobre os tipos de arquivos na pasta de ações deste aplicativo de amostra.
-landing-page-description: Saiba mais sobre o Adobe Developer App Builder usado com o Adobe Commerce e quais tipos de arquivos estão na pasta de ações.
+description: Saiba mais sobre os tipos de arquivos na pasta de ações para este aplicativo de amostra.
+landing-page-description: Saiba mais sobre o Construtor de aplicativos do Adobe Developer usado com o Adobe Commerce e quais tipos de arquivos são inseridos na pasta de ações.
 kt: 12422
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-
 # Saiba mais sobre a pasta de ações {#actions-folder}
 
-O `actions` A pasta deste aplicativo de amostra contém alguns arquivos JavaScript e uma pasta chamada `commerce`. O JavaScript mostrado é um excelente arquivo de exemplo que pode ser reutilizado se for relevante para o seu trabalho. Essa pasta pode economizar tempo em esforços de desenvolvimento ao se conectar ao aplicativo do Adobe Commerce usando OAuth e REST.
+A variável `actions` pasta para este aplicativo de amostra contém alguns arquivos JavaScript e uma pasta chamada `commerce`. O JavaScript mostrado é um excelente arquivo de exemplo que pode ser reutilizado se for relevante para o seu trabalho. Esta pasta pode economizar seu tempo em esforços de desenvolvimento ao se conectar ao aplicativo do Adobe Commerce usando OAuth e REST.
 
-Os nomes reais das pastas neste exemplo são arbitrários, mas conhecer seus nomes pode ajudar a interpretar o código de amostra. Ao usar uma convenção de nomenclatura significativa, você pode evitar confusão se o aplicativo se tornar mais complexo.
+Os nomes reais das pastas neste exemplo são arbitrários, mas conhecer seus nomes pode ajudar a interpretar o código de amostra. Ao usar uma convenção de nomenclatura significativa, é possível evitar confusão se o aplicativo se tornar mais complexo.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novos no Adobe Commerce com experiência limitada com o Adobe App Builder que estão aprendendo sobre a pasta de ações no aplicativo de amostra.
+* Desenvolvedores novatos no Adobe Commerce com experiência limitada no Adobe App Builder que estão aprendendo sobre a pasta de ações no aplicativo de amostra.
 
 ## Conteúdo de vídeo
 
 * Introdução ao App Builder e ao módulo de amostra com foco no `actions` pasta
-* Como usar a pasta &quot;ações&quot;
+* Como usar a pasta &quot;actions&quot;
 * A finalidade do arquivo JavaScript encontrado no `actions` e `commerce` pastas
-* Uma visão geral rápida dos arquivos de autenticação OAuth
+* Uma visão geral rápida dos arquivos de autenticação do OAuth
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
 

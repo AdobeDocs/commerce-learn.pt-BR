@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para usuários empresariais - Loja"
-description: Saiba mais sobre a experiência do cliente na loja, incluindo criação de conta, listas de desejos e adição de itens da lista de desejos ao carrinho
+description: Saiba mais sobre a experiência do cliente na loja, incluindo criação de conta, listas de desejos e adição de itens à lista de desejos ao carrinho
 topic: Commerce
 kt: 5778
 doc-type: video
@@ -14,12 +14,12 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuários empresariais - Loja
+# [!DNL Commerce] para usuários empresariais - Storefront
 
 Neste vídeo:
 
 - Experiência do cliente na loja
-- Criação da conta
+- Criação de conta
 - Listas de desejos
 - Adicionar itens da lista de desejos ao carrinho
 
@@ -31,12 +31,12 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36188?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Escopo da conta do cliente - [!DNL Commerce] Guia de gerenciamento do cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
+[Escopo da conta do cliente - [!DNL Commerce] Guia de gerenciamento de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/customer-account-scope.html)
 
-[Experiência de vitrine da lista de desejos - [!DNL Commerce] Guia de experiência de loja e compra](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)
+[Experiência da vitrine da lista de desejos - [!DNL Commerce] Guia de experiência de compras e lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/shopper-tools/wish-lists/wishlist-storefront.html)

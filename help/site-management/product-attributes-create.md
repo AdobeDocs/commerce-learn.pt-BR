@@ -1,6 +1,6 @@
 ---
 title: Criar atributos de produto
-description: Saiba como criar atributos de produto usados para gerenciar informações associadas a produtos, clientes e classificações de produtos.
+description: Saiba como criar os atributos de produto usados para gerenciar as informações associadas a produtos, clientes e classificações de produtos.
 kt: 10552
 doc-type: feature video
 audience: all
@@ -16,12 +16,12 @@ ht-degree: 0%
 
 # Criar atributos de produto
 
-A Adobe Commerce usa atributos para gerenciar as informações associadas a produtos, clientes e classificações de produtos. Atributos são partes de informações que podem aparecer como campos em formulários, relatórios, revisões de produtos, navegação em camadas e mensagens de email. Eles são os componentes do catálogo de produtos e descrevem características específicas de um produto.
+A Adobe Commerce usa atributos para gerenciar as informações associadas a produtos, clientes e classificações de produtos. Os atributos são informações que podem aparecer como campos em formulários, relatórios, revisões de produtos, navegação em camadas e mensagens de email. Eles são os componentes do catálogo de produtos e descrevem as características específicas de um produto.
 
 ## Para quem é este vídeo?
 
-- Gestores do site
-- Comerciantes de eCommerce
+- Gerentes de sites
+- Merchandisers de comércio eletrônico
 
 ## Conteúdo de vídeo
 

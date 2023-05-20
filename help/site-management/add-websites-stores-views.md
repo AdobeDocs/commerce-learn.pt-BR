@@ -16,22 +16,22 @@ ht-degree: 0%
 
 # Adicionar sites, lojas e visualizações de loja
 
-Cada instalação do Adobe Commerce e do Magento Open Source oferece suporte a uma hierarquia de sites, lojas e visualizações de loja. Crie e expanda essa hierarquia de acordo com as necessidades de sua empresa.
+Cada instalação do Adobe Commerce e do Magento Open Source suporta uma hierarquia de sites, lojas e visualizações de loja. Crie e expanda essa hierarquia de acordo com as necessidades da sua empresa.
 
 ## Para quem é este vídeo?
 
-- Administradores da loja
-- Gerentes de site
+- Administradores de armazenamento
+- Gerenciadores de sites
 
 ## Conteúdo de vídeo
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.1.0. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.1.0. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35787?quality=12&learn=on)
 
 ## Recursos adicionais
 
-- [Sites, lojas e visualizações - [!DNL Commerce] Guia de Introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+- [Sites, lojas e visualizações - [!DNL Commerce] Guia de introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 - [Categoria raiz e hierarquia - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-root.html)

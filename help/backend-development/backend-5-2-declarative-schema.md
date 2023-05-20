@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para desenvolvedores - Esquema declarativo"
-description: Saiba mais sobre o schema Declarativo.
+description: Saiba mais sobre o schema declarativo.
 kt: 5669
 doc-type: video
 topic: Development
@@ -20,13 +20,13 @@ ht-degree: 0%
 
 Neste vídeo:
 
-- Visão geral do schema declarativo
+- Visão geral do esquema declarativo
 
 ## Conteúdo de vídeo
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36198?quality=12&learn=on)
 

@@ -1,8 +1,8 @@
 ---
-title: Criar uma malha de fonte única do GraphQL na malha da API
-description: Descubra como usar a malha de API no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha que tenha uma fonte.
-landing-page-description: Descubra como usar a malha de API no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha que tenha uma fonte.
-short-description: Descubra como usar a malha de API no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha que tenha uma fonte.
+title: Criar uma malha de origem única do GraphQL na malha de API
+description: Discover como usar a malha de API no Adobe Systems Comércio e  [!DNL Adobe App Builder] . Aprenda a criar uma malha com uma fonte.
+landing-page-description: Discover como usar a malha de API no Adobe Systems Comércio e  [!DNL Adobe App Builder] . Aprenda a criar uma malha com uma fonte.
+short-description: Discover como usar a malha de API no Adobe Systems Comércio e  [!DNL Adobe App Builder] . Aprenda a criar uma malha com uma fonte.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -17,25 +17,25 @@ ht-degree: 0%
 
 # Criar uma malha com uma única fonte
 
-Este vídeo ajuda os desenvolvedores a entender como criar uma malha com uma única fonte na malha da API para o Adobe Developer App Builder. Para que esse exemplo básico funcione conforme o esperado, é necessário uma API acessível publicamente ou um terminal GraphQL. O vídeo também explica como criar um `mesh.json` para usar com sua instância do Commerce. Para obter mais detalhes e amostras de código, visite [Criar uma malha](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1){target="_blank"}.
+Este vídeo ajuda os desenvolvedores a entender como criar uma malha com uma única fonte na malha de API para Adobe Systems desenvolvedor aplicativo Builder. Para que esse exemplo básico funcione como esperado, você precisa de uma API acessível publicamente ou uma GraphQL Endpoint. O vídeo também explica como criar um arquivo simples `mesh.json` para usar com o Comércio instância. Para obter mais detalhes e amostras de código, visita [ criar uma malha ](https://developer.adobe.com/graphql-mesh-gateway/gateway/create-mesh/#create-a-mesh-1) {target="_blank"} .
 
-## Para quem é este vídeo?
+## Para quem é esse vídeo?
 
-* Qualquer novo na malha da API
-* Desenvolvedores interessados em combinar várias fontes de GraphQL e API
-* Qualquer pessoa que precise saber como filtrar a guia de rede e filtrar pelo GraphQL
+* Qualquer um novo na malha de API
+* Desenvolvedores interessados em combinar vários GraphQL e fontes de API
+* Qualquer pessoa que precise saber como filtrar a guia de rede e filtrar por GraphQL
 
-## Conteúdo de vídeo
+## Vídeo conteúdo
 
-* Uso da malha de API como proxy reverso
+* Uso da malha de API como um proxy reverso
 * Criação de uma malha a partir de um arquivo de configuração JSON
-* Acesso ao endpoint recém-criado da GraphQL
+* Acesso ao ponto de extremidade GraphQL recém-criado
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
 
-## Criar o arquivo de configuração json
+## Criar o arquivo de configuração JSON
 
-A malha de API usa um arquivo de configuração JSON para definir seus manipuladores de origem. O arquivo JSON contém um `sources` matriz que contém as origens da sua malha. Este é um exemplo de malha com uma única fonte.
+A malha de API usa um arquivo de configuração JSON para definir seus manipuladores de origem. O arquivo JSON contém uma `sources` matriz que contém as fontes da sua malha. Aqui está um exemplo de uma malha com uma única fonte.
 
 ```json
 {

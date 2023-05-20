@@ -22,13 +22,13 @@ Neste vídeo:
 ## Para quem é este vídeo?
 
 - Criadores de conteúdo
-- Desenvolvedores de fronteira
+- Desenvolvedores de front-end
 
 ## Conteúdo de vídeo
 
 >[!NOTE]
 >
->Este conteúdo reflete a versão 1.0.0 do Page Builder para o Adobe Commerce 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [Notas de versão do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Este conteúdo reflete a versão 1.0.0 do Page Builder para Adobe Commerce 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [Notas de versão do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35713?quality=12&learn=on)
 

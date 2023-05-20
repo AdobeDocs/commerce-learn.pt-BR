@@ -1,5 +1,5 @@
 ---
-title: Gerenciar regras de produto relacionadas
+title: Gerenciar Regras de Produto Relacionadas
 description: Saiba como apresentar uma seleção direcionada de produtos para armazenar clientes como produtos relacionados, vendas adicionais e vendas cruzadas.
 doc-type: feature video
 audience: all
@@ -13,16 +13,16 @@ ht-degree: 0%
 
 ---
 
-# Gerenciar regras de produto relacionadas
+# Gerenciar Regras de Produto Relacionadas
 
 {{ee-feature}}
 
-As regras de produto relacionadas oferecem a capacidade de direcionar a seleção de produtos que são apresentados aos clientes como produtos relacionados, vendas adicionais e vendas cruzadas. Cada regra de produto pode ser associada a um segmento de cliente para produzir uma exibição dinâmica de merchandising direcionado.
+As regras de produtos relacionados permitem direcionar a seleção de produtos apresentados aos clientes como produtos relacionados, vendas adicionais e vendas cruzadas. Cada regra de produto pode ser associada a um segmento de cliente para produzir uma exibição dinâmica de merchandising direcionado.
 
 ## Para quem é este vídeo?
 
-- Comerciantes de eCommerce
-- Gestores do site
+- Profissionais de marketing de comércio eletrônico
+- Gerentes de sites
 
 ## Conteúdo de vídeo
 
@@ -30,4 +30,4 @@ As regras de produto relacionadas oferecem a capacidade de direcionar a seleçã
 
 ## Recursos adicionais
 
-[Regras de produto relacionadas - [!DNL Commerce] Guia de comercialização e promoção](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[Regras de produto relacionadas - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)

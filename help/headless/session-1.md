@@ -1,36 +1,37 @@
 ---
-title: Sessão 1 da arquitetura sem periféricos
-description: Saiba o que é arquitetura sem periféricos, comércio compível e experiências personalizadas
+title: Sessão 1 da arquitetura headless
+description: Saiba o que é arquitetura headless, comércio combinável e experiências personalizadas
 kt: 13144
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-04-25T00:00:00Z
-source-git-commit: e5b69467c59b7814867091d69bc71349a4763166
+exl-id: 49dd1397-7b94-43d8-b8e1-96d654f68b64
+source-git-commit: 6eff6d65a70156c6ca46eae3fc435d625feb44be
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# Arquitetura sem periféricos da Adobe Commerce
+# Arquitetura do Adobe Commerce sem periféricos
 
-Visão geral de alto nível do histórico do Adobe Commerce e como as coisas estão se movendo para oferecer suporte total e sem periféricos.  Os benefícios da arquitetura sem periféricos incluem paridade entre pontos de contato, separação de atividades de desenvolvimento, melhor escalabilidade e muito mais.
+Visão geral de alto nível da história do Adobe Commerce e de como as coisas estão evoluindo para um suporte total ao headless.  Os benefícios da arquitetura headless incluem paridade entre pontos de contato, separação de atividades de desenvolvimento, escalabilidade aprimorada e muito mais.
 
-## O que esperar assistir a este vídeo
+## O que esperar de assistir a este vídeo
 
-Saiba o que não tem periféricos e como o Adobe Commerce suporta uma arquitetura totalmente sem periféricos.
+Saiba o que é headless e como o Adobe Commerce oferece suporte à arquitetura totalmente headless.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores e proprietários de lojas que são novos no Adobe Commerce e desejam aprender mais sobre a arquitetura sem periféricos e algumas estratégias básicas.
+* Desenvolvedores e proprietários de lojas novatos no Adobe Commerce que desejam aprender mais sobre a arquitetura headless e algumas estratégias básicas.
 
 ## Conteúdo de vídeo
 
 * Front-end dissociado do back-end
 * O que é uma API
 * Várias abordagens headless
-* Explicação do comércio compostável
+* Explicação do comércio combinável
 * O Adobe Commerce é a API primeiro, mas não somente a API
-* Qualificações a serem consideradas antes de ir com comércio sem periféricos
+* Qualificações a serem consideradas antes de seguir com o comércio headless
 
 >[!VIDEO](https://video.tv.adobe.com/v/3418862?learn=on)

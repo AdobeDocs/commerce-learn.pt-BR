@@ -1,8 +1,8 @@
 ---
 title: MBI - Visão geral
-description: Saiba mais sobre os três componentes principais do produto de BI que fornecem uma solução completa de inteligência empresarial.
-landing-page-description: Assista a esta série de vídeo para saber como você pode gerar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
-short-description: Assista a esta série de vídeo para saber como você pode gerar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
+description: Saiba mais sobre os três componentes principais do produto MBI que fornecem uma solução completa de business intelligence.
+landing-page-description: Assista a esta série de vídeos para saber como você pode impulsionar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
+short-description: Assista a esta série de vídeos para saber como você pode impulsionar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
 kt: 5724
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
@@ -18,17 +18,17 @@ ht-degree: 0%
 
 # MBI - Visão geral
 
-O MBI é uma solução completa que foi otimizada para todos os comerciantes Adobe Commerce e Magento Open Source. Existem três componentes principais que fazem dela uma solução completa de inteligência empresarial:
+A MBI é uma solução completa que foi otimizada para todos os usuários da Adobe Commerce e da Magento Open Source. Há três componentes principais que a tornam uma solução completa de business intelligence:
 
-- _Replicação e consolidação de dados_: Tudo começa com a conexão de várias fontes de dados e a reuni-las em um local central.
-- _Data Warehouse_: Para aproveitar todos os seus dados, eles precisam ser armazenados e acessíveis de forma otimizada para análises. BI inclui um componente de data warehouse hospedado.
-- _Painel e visualização_: Quando todos os seus dados tiverem sido conectados, centralizados e armazenados, o MBI oferecerá uma interface de primeiro plano para você analisá-los.
+- _Replicação e consolidação de dados_: tudo começa com a conexão das várias fontes de dados e a reunião delas em um local central.
+- _Data Warehouse_: para aproveitar todos os seus dados, eles precisam ser armazenados e acessíveis de uma forma otimizada para análises. O BI inclui um componente de data warehouse hospedado.
+- _Painel e visualização_: Quando todos os dados tiverem sido conectados, centralizados e armazenados, o MBI fornecerá uma interface de front-end para que você os analise.
 
-Com essas três principais tecnologias integradas em uma solução, os comerciantes estão usando a MBI para:
+Com essas três tecnologias principais integradas em uma única solução, os comerciantes estão usando a MBI para:
 
-- Salvar tempo
-- Obter insights de seus dados de negócios
-- Capacitar equipes em toda a organização
+- Economize tempo
+- Obter insights dos dados de negócios
+- Capacite equipes em toda a organização
 
 ## Para quem é este vídeo?
 
@@ -46,4 +46,4 @@ Com essas três principais tecnologias integradas em uma solução, os comercian
 ## Recursos úteis
 
 - [Introdução ao MBI - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/getting-started.html)
-- [Suporte a MBI](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)
+- [Suporte MBI](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/mbi-service-policies.html)

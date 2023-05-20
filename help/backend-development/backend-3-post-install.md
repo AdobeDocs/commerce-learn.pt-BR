@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] para desenvolvedores - Pós-instalação"
-description: Verifique e configure sua instância, defina a máscara de u, instale os dados de amostra, defina o modo de execução adequado
+title: "[!DNL Commerce] for developers - Post install"
+description: Verifique e configure sua instância, configure u-mask, instale dados de amostra, defina o modo de execução correto
 kt: 5693
 doc-type: video
 topic: Development
@@ -20,8 +20,8 @@ ht-degree: 0%
 
 Neste vídeo:
 
-- Verifique e configure sua instância
-- Definir máscara de menu
+- Verificar e configurar sua instância
+- Definir u-mask
 - Instalar dados de amostra
 - Definir o modo de execução
 
@@ -29,7 +29,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 >
 >O recurso de banco de dados dividido foi descontinuado na versão 2.4.2.
 
@@ -37,7 +37,7 @@ Neste vídeo:
 
 ## Recursos adicionais
 
-- [Verifique a instalação](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/verify.html)
-- [Opcionalmente, defina uma máscara](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
+- [Verificar a instalação](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/verify.html)
+- [Opcionalmente, definir uma máscara](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/set-umask.html)
 - [Instalar dados de amostra](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/sample-data/overview.html)
-- [Sobre os modos de aplicativo](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/setup/application-modes.html)
+- [Sobre os modos de aplicação](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/setup/application-modes.html)

@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # MBI - Data warehouse
 
-Um data warehouse é um banco de dados relacional configurado para consolidar e armazenar dados para executar análises comerciais. Os data warehouses permitem o acesso aos dados para desnormalizar os bancos de dados de produção e organizá-los para executar análises de forma mais eficiente.
+Um data warehouse é um banco de dados relacional configurado para consolidar e armazenar dados para executar análises de negócios. Os data warehouses permitem o acesso aos dados para desnormalizar os bancos de dados de produção e organizá-los para executar a análise com mais eficiência.
 
-Usando o Gerenciador de Datas Warehouse, os usuários com acesso de nível administrativo podem gerenciar configurações de sincronização de tabela e coluna, detalhar o esquema de uma tabela e criar colunas calculadas para usar em relatórios.
+Usando o Gerenciador de Datas Warehouse, os usuários com acesso de nível administrativo podem gerenciar configurações de sincronização de tabela e coluna, detalhar um esquema de tabela e criar colunas calculadas para usar em relatórios.
 
 ## Para quem é este vídeo?
 
@@ -35,5 +35,5 @@ Usando o Gerenciador de Datas Warehouse, os usuários com acesso de nível admin
 
 ## Recursos adicionais
 
-- [Um tour pelo Gerenciador de Datas Warehouse - Guia do Usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
-- [Conecte seus dados - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)
+- [Um tour pelo Gerenciador de Datas Warehouse - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/warehouse-manager/tour-dwm.html)
+- [Conectar seus dados - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/connecting/connecting-data.html)

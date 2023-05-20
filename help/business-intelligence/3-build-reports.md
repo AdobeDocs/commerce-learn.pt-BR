@@ -1,6 +1,6 @@
 ---
 title: MBI - Criar relatórios
-description: Saiba mais sobre as opções de criação de relatórios disponíveis na MBI.
+description: Saiba mais sobre as opções de criação de relatórios disponíveis no MBI.
 kt: 5726
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # MBI - Criar relatórios
 
-Há duas opções para criar relatórios e análises no MBI: o construtor de relatórios visual e o construtor de relatórios SQL.
+Há duas opções para criar relatórios e análises no MBI: o construtor de relatórios visuais e o construtor de relatórios SQL.
 
 ## Para quem é este vídeo?
 

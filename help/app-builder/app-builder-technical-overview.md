@@ -1,8 +1,8 @@
 ---
 title: Visão geral técnica do App Builder
-description: Saiba mais sobre o Adobe Developer App Builder usado no Adobe Commerce com uma visão geral técnica
-landing-page-description: Saiba mais sobre o Adobe Developer App Builder usado no Adobe Commerce com uma visão geral técnica
-short-description: Saiba mais sobre o Adobe Developer App Builder usado no Adobe Commerce com uma visão geral técnica
+description: Saiba mais sobre o Construtor de aplicativos do Adobe Developer usado no Adobe Commerce com uma visão geral técnica
+landing-page-description: Saiba mais sobre o Construtor de aplicativos do Adobe Developer usado no Adobe Commerce com uma visão geral técnica
+short-description: Saiba mais sobre o Construtor de aplicativos do Adobe Developer usado no Adobe Commerce com uma visão geral técnica
 kt: 11763
 doc-type: tutorial
 audience: all
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 # Visão geral técnica do App Builder
 
-O vídeo a seguir fornece uma visão geral técnica sobre como conectar o Adobe Commerce e o Amazon Sales Channel. Este tutorial também explica como você pode usar o Adobe App Builder para funcionalidades e integrações personalizadas.
+O vídeo a seguir fornece uma visão geral técnica sobre como conectar o Adobe Commerce e o Amazon Sales Channel. Este tutorial também explica como usar o Construtor de aplicativos Adobe para funcionalidade e integrações personalizadas.
 
 >[!IMPORTANT]
 >
->A extensão do Sales Channel do Amazon ainda está em desenvolvimento e não foi lançada oficialmente.  Esses vídeos e tutoriais são destinados a mostrar como usar o Adobe Developer App Builder para obter um caso de uso prático.
+>A extensão Amazon Sales Channel ainda está em desenvolvimento e não foi lançada oficialmente.  Esses vídeos e tutoriais têm como objetivo mostrar como usar o Construtor de aplicativos da Adobe Developer para um caso de uso prático.
 
 
-## App Builder para Adobe Commerce {#app-builder-technical-overview}
+## Construtor de aplicativos para Adobe Commerce {#app-builder-technical-overview}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
 

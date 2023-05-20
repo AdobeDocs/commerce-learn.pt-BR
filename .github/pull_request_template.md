@@ -1,7 +1,7 @@
 ---
 source-git-commit: 2c20b58f285f116cd9ddfaa82df98c5f24ebeb47
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -34,9 +34,9 @@ ht-degree: 0%
 
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 
-- [ ] Correção de erros (alteração sem quebra, que corrige um problema)
-- [ ] Novo recurso (alteração sem quebra que adiciona funcionalidade)
-- [ ] Breaking change (correção ou recurso que faria com que a funcionalidade existente fosse alterada)
+- [ ] Correção de erros (alteração ininterrupta que corrige um problema)
+- [ ] Novo recurso (alteração ininterrupta que adiciona funcionalidade)
+- [ ] Quebra de alteração (correção ou recurso que faria com que a funcionalidade existente fosse alterada)
 
 ## Lista de verificação:
 
@@ -45,10 +45,10 @@ ht-degree: 0%
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
 - [ ] Você seguiu o [Padrões de nomenclatura](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
-- [ ] O TOC e o H1 correspondem a cada página que está sendo criada ou atualizada.
-- [ ] O TOC e o H1 têm uma ação associada a ele, por exemplo: Saiba como criar uma solicitação de pull do GutHub
+- [ ] O índice e a correspondência H1 de cada página que está sendo criada ou atualizada.
+- [ ] O índice e o H1 têm uma ação associada a ele, por exemplo: Saiba como criar uma solicitação de pull do GutHub
 - [ ] Nada deve ser monoespaçado em H1
-- [ ] Cada título de página deve começar com uma ***C**carta-título
-- [ ] Verifiquei se algum vídeo deveria ter capítulos
-- [ ] Todos os vídeos têm pôster atribuído para representar o vídeo corretamente
+- [ ] Cada título de página deve começar com uma letra ***C***apitol
+- [ ] Eu verifiquei se algum vídeo deveria ter capítulos
+- [ ] Todos os vídeos têm um pôster atribuído para representar o vídeo corretamente
 - [ ] Você usou [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)

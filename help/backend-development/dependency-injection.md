@@ -15,7 +15,7 @@ ht-degree: 0%
 
 # Exemplo de injeção de dependência
 
-A injeção de dependência é um padrão de design que permite ao objeto A declarar suas dependências para um objeto externo B que fornece essas dependências. As dependências declaradas por A geralmente são interfaces de classe e as dependências B fornecidas são implementações concretas para essas interfaces.
+A injeção de dependência é um padrão de design que permite que um objeto A declare suas dependências a um objeto externo B que fornece essas dependências. As dependências declaradas pelo A geralmente são interfaces de classe e as dependências fornecidas pelo B são implementações concretas para essas interfaces.
 
 ## Para quem é este vídeo?
 

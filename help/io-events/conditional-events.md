@@ -1,6 +1,6 @@
 ---
 title: Saiba como usar eventos condicionais no Adobe Commerce
-description: Saiba como usar eventos condicionais a serem usados no Adobe Developer App Builder.
+description: Saiba como usar eventos condicionais a serem usados no App Builder do Adobe Developer.
 landing-page-description: Saiba como usar eventos condicionais do Adobe Commerce.
 short-description: Saiba como usar eventos condicionais do Adobe Commerce.
 kt: 11890
@@ -17,11 +17,11 @@ ht-degree: 0%
 
 # Eventos condicionais do Adobe Commerce
 
-Saiba mais sobre eventos condicionais no Adobe Commerce que podem ser usados no Adobe Developer App Builder. Documentação adicional encontrada em [Instalar eventos do Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
+Saiba mais sobre eventos condicionais no Adobe Commerce que podem ser usados no Construtor de aplicativos do Adobe Developer. Documentação adicional encontrada em [Instalar eventos do Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/conditional-events/){target="_blank"}.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novos no Adobe Commerce e no Adobe Developer App Builder usando eventos de E/S e precisam criar um projeto do Adobe App Builder.
+* Desenvolvedores novatos no Adobe Commerce e no Construtor de aplicativos da Adobe Developer que usam eventos de E/S precisam criar um projeto do Construtor de aplicativos Adobe.
 
 ## Conteúdo de vídeo {#video-content}
 
@@ -29,7 +29,7 @@ Saiba mais sobre eventos condicionais no Adobe Commerce que podem ser usados no 
 * Saiba mais sobre o uso adequado do novo arquivo XML io_events.xml
 * Saiba como configurar eventos condicionais
 * Definição de regras para uso em eventos condicionais
-* Saiba como registrar eventos nas instâncias de Comércio `app/etc/config.php`
+* Saiba como registrar eventos nas instâncias do Commerce `app/etc/config.php`
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415806?quality=12&learn=on)
 

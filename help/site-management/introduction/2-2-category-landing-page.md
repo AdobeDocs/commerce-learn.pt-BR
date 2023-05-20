@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Landing pages"
-description: Saiba como configurar a landing page de categoria e controlar a aparência.
+title: " [!DNL Commerce] para usuários empresariais-páginas iniciais"
+description: Saiba como configurar categoria landing page e controlar a aparência.
 topic: Commerce
 kt: 5766
 doc-type: video
@@ -14,30 +14,30 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuários empresariais - Landing pages
+# [!DNL Commerce] para usuários empresariais-páginas iniciais
 
 Neste vídeo:
 
 - Páginas de aterrissagem para categorias de produtos
-- Opções de exibição de página
-- Configurações de vitrine
+- Página visualização opções
+- Configurações de lojas
 
-## Para quem é este vídeo?
+## Para quem é esse vídeo?
 
-- Usuários empresariais
+- Empresas usuários
 
-## Conteúdo de vídeo
+## Vídeo conteúdo
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>A conteúdo no vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [ notas de versão ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) .
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Conteúdo da categoria - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
+[Categoria conteúdo-guia de gerenciamento de  [!DNL Commerce]  Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
 
-[Configurações de exibição - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
+[Configurações de exibição-guia de  [!DNL Commerce]  Gerenciamento do catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
 
-[Configurações de design - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)
+[Configurações de Design-guia de  [!DNL Commerce]  Gerenciamento do catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)

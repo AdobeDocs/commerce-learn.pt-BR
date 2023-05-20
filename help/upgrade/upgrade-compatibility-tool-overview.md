@@ -1,5 +1,5 @@
 ---
-title: Visão geral da ferramenta Compatibilidade de atualização
+title: Visão geral da Ferramenta de compatibilidade de atualização
 description: Assista a este vídeo técnico para saber como a Ferramenta de compatibilidade de atualização pode tornar sua próxima atualização mais fácil, barata e rápida.
 landing-page-description: Assista a este vídeo técnico para saber como a Ferramenta de compatibilidade de atualização pode tornar sua próxima atualização mais fácil, barata e rápida.
 short-description: Assista a este vídeo técnico para saber como a Ferramenta de compatibilidade de atualização pode tornar sua próxima atualização mais fácil, barata e rápida.
@@ -16,21 +16,21 @@ ht-degree: 0%
 
 ---
 
-# Visão geral da ferramenta Compatibilidade de atualização
+# Visão geral da Ferramenta de compatibilidade de atualização
 
-A Ferramenta de compatibilidade de atualização (UCT) é uma ferramenta gratuita que analisa as incompatibilidades entre a versão atual e a versão de atualização do público alvo em apenas minutos. Usar essa ferramenta torna o processo de atualização mais rápido e fácil de executar.
+A Ferramenta de compatibilidade de atualização (UCT, na sigla em inglês) é uma ferramenta gratuita que analisa em poucos minutos as incompatibilidades entre a sua versão atual e a versão de atualização desejada. Usar essa ferramenta torna o processo de atualização mais rápido e fácil de executar.
 
 Neste vídeo:
 
 - O que é a Ferramenta de compatibilidade de atualização
-- Como ele pode ajudá-lo a identificar rapidamente os erros e correções necessários para atualizar para uma versão mais recente do Adobe Commerce
-- Como acessar os resultados do HTML para ajudar a visualizar módulos por gravidade e número de incompatibilidades
+- Como ele pode ajudar você a identificar rapidamente os erros e as correções necessárias para atualizar para uma versão mais recente do Adobe Commerce
+- Como acessar os resultados de HTML para ajudar a visualizar módulos por gravidade e número de incompatibilidades
 
-Para saber mais sobre a ferramenta, consulte a [Atualizar a documentação da Ferramenta de Compatibilidade](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Se quiser saber mais sobre como executar e simplificar suas atualizações, consulte o [Guia de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
+Para saber mais sobre a ferramenta, consulte a [Documentação da Ferramenta de compatibilidade de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). Se quiser saber mais sobre como executar e simplificar suas atualizações, consulte [Guia de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
 
 ## Para quem é este vídeo?
 
-- Gerentes de site
+- Gerenciadores de sites
 - Desenvolvedores
 
 ## Conteúdo de vídeo
@@ -39,7 +39,7 @@ Para saber mais sobre a ferramenta, consulte a [Atualizar a documentação da Fe
 
 ## Recursos adicionais
 
-- [Atualizar a documentação da Ferramenta de Compatibilidade](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
+- [Documentação da Ferramenta de compatibilidade de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
 - [Guia de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
 - [Versões lançadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
 - [Programação de lançamento](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

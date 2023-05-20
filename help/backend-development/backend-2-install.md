@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para desenvolvedores - Instalação"
-description: Saiba mais sobre a instalação do Composer e os dados de amostra.
+description: Saiba mais sobre a instalação do Composer e dados de amostra.
 kt: 5692
 doc-type: video
 topic: Development
@@ -26,7 +26,7 @@ Neste vídeo:
 
 >[!IMPORTANT]
 >
->O assistente de configuração da Web foi descontinuado no Adobe Commerce e no Magento Open Source 2.3.6 e removido em 2.3.7 e 2.4.0. Você deve usar a linha de comando para instalar ou atualizar sua instância, bem como módulos e extensões.
+>O assistente de configuração da Web foi descontinuado no Adobe Commerce e no Magento Open Source 2.3.6 e removido nas versões 2.3.7 e 2.4.0. Você deve usar a linha de comando para instalar ou atualizar sua instância, bem como módulos e extensões.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36194?quality=12&learn=on)
 

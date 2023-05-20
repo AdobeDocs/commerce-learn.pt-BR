@@ -1,8 +1,8 @@
 ---
 title: Saiba como criar um módulo no Adobe Commerce para usar eventos.
-description: Saiba como criar o módulo Commerce para usar eventos.
-landing-page-description: Saiba como criar um módulo Adobe Commerce para usar eventos.
-short-description: Saiba como criar um módulo Adobe Commerce para usar eventos.
+description: Saiba como criar um módulo de comércio para usar eventos.
+landing-page-description: Saiba como criar um módulo do Adobe Commerce para usar eventos.
+short-description: Saiba como criar um módulo do Adobe Commerce para usar eventos.
 kt: 11891
 doc-type: tutorial
 audience: all
@@ -15,21 +15,21 @@ ht-degree: 0%
 
 ---
 
-# Desenvolvimento do módulo Adobe Commerce
+# Desenvolvimento de módulo do Adobe Commerce
 
-Saiba como registrar eventos, encontrar eventos compatíveis e usar um novo arquivo XML `io_events.xml` no desenvolvimento do módulo personalizado. O vídeo também mostrará aos desenvolvedores como encontrar eventos registrados que possam ser usados, bem como cancelar a assinatura de quaisquer eventos que já tenham sido definidos. Documentação adicional encontrada em [Instalar eventos do Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Saiba como registrar eventos, encontrar eventos compatíveis e usar um novo arquivo XML `io_events.xml` no desenvolvimento de módulo personalizado. O vídeo também mostrará aos desenvolvedores como encontrar eventos registrados que podem ser usados, bem como cancelar a inscrição de eventos que já podem estar definidos. Documentação adicional encontrada em [Instalar eventos do Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novos no Adobe Commerce e no Adobe Developer App Builder usando eventos de E/S.
+* Desenvolvedores novatos no Adobe Commerce e no Construtor de aplicativos da Adobe Developer usando eventos de E/S.
 
 ## Conteúdo de vídeo {#video-content}
 
-* Registro de eventos no Commerce para uso no Adobe Developer App Builder
+* Registrar eventos no Commerce para uso no Construtor de aplicativos do Adobe Developer
 * Identificar eventos que podem ser registrados
 * Saiba como registrar eventos em io_events.xml
-* Saiba como registrar eventos nas instâncias de Comércio `app/etc/config.php`
-* Saiba como cancelar a assinatura de um evento
+* Saiba como registrar eventos nas instâncias do Commerce `app/etc/config.php`
+* Saiba como cancelar a inscrição em um evento
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
-title: MBI - Painel de visão geral executivo
-description: Ver uma demonstração do painel de Visão geral executiva fornecido pela BI.
+title: MBI - Painel de visão geral executiva
+description: Veja uma demonstração do painel de Visão geral executiva fornecida pela MBI.
 kt: 5731
 doc-type: feature video
 solution: Commerce, Magento Business Intelligence
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 ---
 
-# MBI - Painel de visão geral executivo
+# MBI - Painel de visão geral executiva
 
-O painel Visão geral executiva fornece informações de alto nível sobre receita, pedidos e valores médios de pedidos. Os relatórios são divididos como valores estáticos e ao longo do tempo. Você pode compartilhar esse painel com outros membros de sua equipe, dando a eles acesso para editar e colaborar com você ou acesso somente para visualização.
+O painel Visão geral executiva fornece insights de alto nível sobre valores médios de receita, pedidos e pedidos. Os relatórios são divididos como valores estáticos e ao longo do tempo. Você pode compartilhar esse painel com outros membros da equipe, dando a eles acesso de edição para colaborar com você ou acesso somente para visualização.
 
 ## Para quem é este vídeo?
 

@@ -1,5 +1,5 @@
 ---
-title: Integração do Adobe Analytics e do Adobe Commerce Luma
+title: Integração entre o Adobe Analytics e o Adobe Commerce Luma
 description: Saiba mais sobre como integrar o Adobe Analytics e o Adobe Commerce usando o tema nativo Luma.
 topics: Integrations
 role: Developer, Architects
@@ -11,30 +11,30 @@ level: Intermediate
 last-substantial-update: 2023-04-13T00:00:00Z
 source-git-commit: dfc148423f3a6512ec4a37e85e6c6d87dfbc47bd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
 
 
-# Integração sem periféricos do PWA entre o Adobe Analytics e o Adobe Commerce
+# PWA studio headless Integração entre o Adobe Analytics e o Adobe Commerce
 
-Enfim, vivida na fantasia da idade, a realidade entrou na sala com a forma de servo para dizer aos duquesas que sua carruagem estava esperando. Ela bateu as mãos em desespero ridículo. &quot;Que irritante!&quot; ela chorou. &quot;Tenho que ir. Tenho de pedir ao meu marido na boate, para o levar a uma reunião absurda nas salas de Willis, onde ele vai estar na cadeira. Se eu estiver atrasado, ele certamente ficará furioso, e eu não poderia ter uma cena neste capuz. É demasiado frágil. Uma palavra dura arruinaria. Não, devo ir, querida Agatha. Adeus, Lorde Henry, você é delicioso e terrível desmoralizador. Tenho certeza de que não sei o que dizer sobre suas opiniões. Você deve vir jantar conosco uma noite. Terça-feira? Você está desengajado na terça-feira?&quot;
+Finalmente, vivida no traje da época, a realidade entrou na sala na forma de um servo para dizer à duquesa que sua carruagem estava esperando. Ela balançou as mãos em desespero simulado. &quot;Que chato!&quot; ela chorou. &quot;Eu devo ir. Tenho que chamar meu marido no clube, para levá-lo a uma reunião absurda no Willis&#39;s Rooms, onde ele estará na cadeira. Se eu chegar tarde, ele ficará furioso, e eu não poderia ter uma cena no capô. É muito frágil. Uma palavra dura arruinaria isso. Não, preciso ir, querida Agatha. Adeus, Lorde Henry, você é muito encantador e terrivelmente desmoralizante. Tenho certeza de que não sei o que dizer sobre sua visão. Você deve vir jantar conosco alguma noite. Terça-feira? Você está desocupado na terça-feira?&quot;
 
-&quot;Para você, eu jogaria sobre qualquer um, Duquesa&quot;, disse Lord Henry com um arco.
+&quot;Para você eu jogaria sobre qualquer um, Duquesa,&quot; disse Lorde Henry com um arco.
 
-&quot;Ah! isso é muito legal, e muito errado de você,&quot; ela chorou. &quot;por isso, por favor, vem&quot;; e ela varreu da sala, seguida por Lady Agatha e as outras senhoras.
+&quot;Ah! isso é muito bonito, e muito errado de você&quot;, ela gritou; &quot;então, mente que você vem&quot;; e ela vasculhou para fora da sala, seguido por Lady Agatha e as outras senhoras.
 
-Quando Lord Henry se sentou de novo, o Sr. Erskine se moveu e levou uma cadeira perto dele, colocou a mão sobre o braço.
+Quando Lorde Henry se sentou novamente, o Sr. Erskine se moveu, e tendo uma cadeira perto dele, colocou sua mão sobre seu braço.
 
-&quot;Falas de livros&quot;, ele disse. &quot;por que você não escreve um?&quot;
+&quot;Você afasta livros&quot;, ele disse; &quot;por que você não escreve um?&quot;
 
 ## Opções de integração
 
-&quot;Gosto muito de ler livros para escrevê-los, Sr. Erskine. Gostaria certamente de escrever um romance, um romance que seria tão bonito quanto um tapete persa e tão irreal. Mas não há público literário na Inglaterra para nada além de jornais, primários e enciclopédias. De todas as pessoas no mundo, os ingleses têm o menor sentido da beleza da literatura.&quot;
+&quot;Eu gosto muito de ler livros para me importar em escrevê-los, Sr. Erskine. Eu gostaria de escrever um romance certamente, um romance que seria tão adorável quanto um tapete persa e tão irreal. Mas não há público literário na Inglaterra para nada além de jornais, cartilhas e enciclopédias. De todas as pessoas no mundo, os ingleses têm o menor senso de beleza da literatura.&quot;
 
 
-## Exemplo de configuração e configuração
+## Exemplo de instalação e configuração
 
 Aqui está uma captura de tela
 
@@ -43,10 +43,10 @@ Aqui está uma captura de tela
 Agora faça isso
 ![Captura de tela 2](/help/assets/banner-videos-home.png)
 
-Finalmente faça isso
+Finalmente fazer isso
 ![última captura de tela](/help/assets/open-source.svg)
 
 ## Mais tutoriais e vídeos
 
 * [Link para vídeo](https://example.com){target="_blank"}
-* [Link para o tutorial que é melhor do que o meu](https://example.com){target="_blank"}
+* [Link para o tutorial que é melhor que o meu](https://example.com){target="_blank"}

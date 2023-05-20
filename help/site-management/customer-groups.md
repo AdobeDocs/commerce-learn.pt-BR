@@ -1,6 +1,6 @@
 ---
-title: Criar grupos de clientes
-description: Saiba como criar um grupo de clientes e como atribuir clientes a grupos específicos, que determinam os descontos disponíveis e a classe fiscal associada.
+title: Criar Grupos de Clientes
+description: Saiba como criar um grupo de clientes e como atribuir clientes a grupos específicos, que determinam os descontos disponíveis e a classe de imposto associada.
 kt: 10546
 doc-type: feature video
 audience: all
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# Criar grupos de clientes
+# Criar Grupos de Clientes
 
-Os grupos de clientes determinam quais descontos estão disponíveis e a classe de imposto associada ao grupo. Os grupos padrão de clientes são _Geral_, _Não conectado_ e _Comércio por grosso_. Neste vídeo, você aprenderá a criar um grupo de clientes e a atribuir clientes a grupos específicos.
+Os grupos de clientes determinam quais descontos estão disponíveis e a classe de imposto associada ao grupo. Os grupos de clientes padrão são _Geral_, _Não conectado_, e _Atacado_. Neste vídeo, você aprenderá a criar um grupo de clientes e atribuir clientes a grupos específicos.
 
 ## Para quem é este vídeo?
 
-- Administradores da loja
-- Comerciantes de eCommerce
+- Administradores de armazenamento
+- Profissionais de marketing de comércio eletrônico
 
 ## Conteúdo de vídeo
 
@@ -29,5 +29,5 @@ Os grupos de clientes determinam quais descontos estão disponíveis e a classe 
 
 ## Recursos adicionais
 
-- [Grupos de clientes - [!DNL Commerce] Guia de gerenciamento do cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
-- [Limitações do grupo de clientes por sites - [!DNL Commerce] Guia de gerenciamento do cliente](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)
+- [Grupos de Clientes - [!DNL Commerce] Guia de gerenciamento de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+- [Limitações de grupo de clientes por sites - [!DNL Commerce] Guia de gerenciamento de clientes](https://developer.adobe.com/commerce/php/development/components/indexing/optimization/#customer-group-limitations-by-websites)

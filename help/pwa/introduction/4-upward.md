@@ -1,6 +1,6 @@
 ---
 title: PWA Studio para desenvolvedores - UPWARD
-description: Saiba mais sobre o UPWARD (Unified Progressive Web App Response Definition).
+description: Saiba mais sobre o UPWARD (Definição de resposta unificada progressiva do aplicativo Web).
 topic: Development
 kt: 5647
 doc-type: video
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 Neste vídeo:
 
-- Visão geral de UPWARD (Unified Progressive Web App Response Definition)
+- Visão geral ASCENDENTE (Definição de resposta do aplicativo web progressivo unificado)
 
 ## Para quem é este vídeo?
 
-- Desenvolvedores de fronteira
-- Gestores de projeto
+- Desenvolvedores de front-end
+- Gerentes de projeto
 
 ## Conteúdo de vídeo
 

@@ -1,33 +1,33 @@
 ---
 title: O arquivo .env
 description: Saiba mais sobre os tipos de arquivos no arquivo .env para este aplicativo de amostra
-landing-page-description: Saiba mais sobre o Adobe Developer App Builder usado com o Adobe Commerce e quais tipos de conteúdo são usados no arquivo .env
+landing-page-description: Saiba mais sobre o Construtor de aplicativos do Adobe Developer usado com o Adobe Commerce e que tipos de conteúdo é usado no arquivo .env
 kt: 12423
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-03-13T00:00:00Z
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+exl-id: 934fcdd1-ee61-4914-89ce-f6f04b1bc763
+source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
 workflow-type: tm+mt
 source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
-
 # Gerar e configurar o arquivo .env {#env-file}
 
-O `.env` O é um arquivo especial que não faz parte do módulo de amostra, mas é importante para o uso no aplicativo Adobe Developer App Builder. Este arquivo contém segredos e outras informações. Evite confirmar esse arquivo em qualquer repositório de código.
+A variável `.env` é um arquivo especial que não faz parte do módulo de amostra, mas é importante para o uso no aplicativo Adobe Developer App Builder. Esse arquivo contém segredos e outras informações. Evite confirmar esse arquivo em qualquer repositório de código.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novos no Adobe Commerce com experiência limitada usando o Adobe App Builder que desejam aprender mais sobre o `.env` arquivo.
+* Desenvolvedores novatos no Adobe Commerce com experiência limitada que usam o Adobe App Builder e que desejam saber mais sobre o `.env` arquivo.
 
 ## Conteúdo de vídeo
 
 * Introdução ao arquivo .env e sua finalidade
 * Como gerar o arquivo .env
 * Como anexar o arquivo para adicionar novos segredos
-* Evite confirmar esse arquivo porque ele contém informações confidenciais
+* Evite confirmar este arquivo porque ele contém informações confidenciais
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416593?quality=12&learn=on)
 

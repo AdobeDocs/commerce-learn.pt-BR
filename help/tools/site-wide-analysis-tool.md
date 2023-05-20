@@ -1,6 +1,6 @@
 ---
 title: O painel da ferramenta de análise do site
-description: Assista a este vídeo técnico e saiba como usar o painel da Ferramenta de análise do site para acessar informações e recomendações detalhadas do sistema para garantir a segurança e a operabilidade da instalação do Adobe Commerce.
+description: Assista a este vídeo técnico e saiba como usar o painel da Ferramenta de análise do site para acessar insights e recomendações detalhados do sistema e garantir a segurança e a operabilidade da instalação do Adobe Commerce.
 doc-type: technical video
 role: Developer, Admin
 audience: all
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 # O painel da ferramenta de análise do site
 
-A Ferramenta de análise do site é uma ferramenta de autoatendimento proativa e um repositório central que inclui informações e recomendações detalhadas do sistema para garantir a segurança e a operabilidade de sua instalação do Adobe Commerce. Ele fornece monitoramento de desempenho 24 horas por dia, 7 dias por semana, relatórios e conselhos para identificar possíveis problemas. Use essa ferramenta para obter melhor visibilidade sobre a integridade do site, a segurança e as configurações de aplicativos, ajudar a reduzir o tempo de resolução e melhorar a estabilidade e o desempenho do site.
+A Ferramenta de análise do site é uma ferramenta de autoatendimento proativa e um repositório central que inclui insights e recomendações detalhados do sistema para garantir a segurança e a operabilidade da instalação do Adobe Commerce. Ele fornece monitoramento de desempenho em tempo real, relatórios e conselhos 24 horas por dia, 7 dias por semana, para identificar possíveis problemas. Use esta ferramenta para obter melhor visibilidade sobre a integridade do site, a segurança e as configurações do aplicativo, ajudar a reduzir o tempo de resolução e melhorar a estabilidade e o desempenho do site.
 
 ## Para quem é este vídeo?
 
-- Gestores do site
+- Gerentes de sites
 - Desenvolvedores
 
 ## Conteúdo de vídeo
@@ -29,4 +29,4 @@ A Ferramenta de análise do site é uma ferramenta de autoatendimento proativa e
 ## Recursos adicionais
 
 - [Ferramenta de análise do site](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [Visualizar e gerenciar logs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)
+- [Exibir e gerenciar logs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

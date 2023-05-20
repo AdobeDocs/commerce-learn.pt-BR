@@ -1,6 +1,6 @@
 ---
 title: PWA Studio para desenvolvedores - Iniciar e carregar
-description: Saiba mais sobre as etapas necessárias antes do lançamento do PWA ​, a linha de base para ​ do tempo de carregamento e como o desempenho melhora as conversões.
+description: Saiba mais sobre as etapas necessárias antes do lançamento do seu PWA​, a linha de base para o tempo de carregamento​ e como o desempenho melhora as conversões.
 topic: Development
 kt: 5646
 doc-type: video
@@ -17,14 +17,14 @@ ht-degree: 0%
 
 Neste vídeo:
 
-- Etapas necessárias para iniciar o PWA &#x200B;
-- Linha de base para &#x200B; do tempo de carga
+- Etapas necessárias para iniciar o PWA&#x200B;
+- Linha de base para tempo de carregamento&#x200B;
 - Como o desempenho melhora as conversões
 
 ## Para quem é este vídeo?
 
-- Desenvolvedores de fronteira
-- Gestores de projeto
+- Desenvolvedores de front-end
+- Gerentes de projeto
 
 ## Conteúdo de vídeo
 

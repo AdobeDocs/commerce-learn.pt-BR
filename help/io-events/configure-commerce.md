@@ -1,8 +1,8 @@
 ---
-title: Configurar o Adobe Commerce
-description: Saiba como configurar o Adobe Commerce para permitir que os eventos sejam usados no Adobe Developer App Builder.
-landing-page-description: Saiba como configurar o Adobe Commerce para usar o mecanismo de evento para consumo pelo Adobe Developer App Builder.
-short-description: Saiba como configurar o Adobe Commerce para usar o mecanismo de evento para consumo pelo Adobe Developer App Builder.
+title: Configurar Adobe Commerce
+description: Saiba como configurar o Adobe Commerce para permitir que eventos sejam usados no Construtor de aplicativos do Adobe Developer.
+landing-page-description: Saiba como configurar o Adobe Commerce para usar o mecanismo de evento para consumo pelo Construtor de aplicativos do Adobe Developer.
+short-description: Saiba como configurar o Adobe Commerce para usar o mecanismo de evento para consumo pelo Construtor de aplicativos do Adobe Developer.
 kt: 11889
 doc-type: tutorial
 audience: all
@@ -15,19 +15,19 @@ ht-degree: 0%
 
 ---
 
-# Configurar o Adobe Commerce
+# Configurar Adobe Commerce
 
 Saiba como configurar o Adobe Commerce para expor os eventos. Documentação adicional encontrada em [Instalar eventos do Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novos no Adobe Commerce e no Adobe Developer App Builder usando eventos de E/S e precisam criar um projeto do Adobe App Builder.
+* Desenvolvedores novatos no Adobe Commerce e no Construtor de aplicativos da Adobe Developer que usam eventos de E/S precisam criar um projeto do Construtor de aplicativos Adobe.
 
 ## Conteúdo de vídeo {#video-content}
 
-* Configuração dos eventos do Adobe I/O no administrador do Commerce
-* Salvar uma chave privada no administrador do Commerce
-* Como salvar o identificador exclusivo no administrador do Commerce
+* Configuração dos eventos de Adobe I/O no administrador de comércio
+* Salvamento de uma chave privada no administrador do Commerce
+* Salvamento do identificador exclusivo no administrador do Commerce
 * Criar um provedor de eventos
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)

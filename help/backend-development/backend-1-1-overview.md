@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para desenvolvedores - Visão geral"
-description: 'Saiba mais sobre os conceitos básicos da plataforma na perspectiva de vários públicos-alvo: comerciantes, desenvolvedores de web store e integradores.'
+description: 'Aprenda os conceitos básicos da plataforma sob a perspectiva de vários públicos-alvo: estabelecimentos comerciais, desenvolvedores de lojas na Web e integradores.'
 landing-page-description: Assista a esta série de vídeos para começar a usar o projeto de desenvolvimento de back-end do Commerce.
 short-description: Assista a esta série de vídeos para começar a usar o projeto de desenvolvimento de back-end do Commerce.
 doc-type: video
@@ -23,17 +23,17 @@ ht-degree: 0%
 
 Neste vídeo:
 
-- Noções básicas da plataforma da perspectiva de vários públicos-alvo: comerciantes, desenvolvedores da web store e integradores
+- Noções básicas da plataforma sob a perspectiva de vários públicos-alvo: estabelecimentos comerciais, desenvolvedores de lojas na Web e integradores
 
 ## Conteúdo de vídeo
 
 >[!NOTE]
 >
->Esse conteúdo reflete a versão Adobe Commerce e Magento Open Source 2.3.1.
+>Este conteúdo reflete o Adobe Commerce e o Magento Open Source versão 2.3.1.
 >
->- PWA e [PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) agora estão disponíveis como _impiedoso_ implementação do frontend.
->- A pilha de tecnologia mudou em versões posteriores da linha de versão 2.3.x e da linha de versão 2.4.x. Verifique a [requisitos do sistema](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/system-requirements.html) para garantir que você tenha os componentes corretos do sistema.
->- Devido ao encerramento iminente de Temando, o Magento Shipping não está mais disponível. Para obter informações detalhadas sobre o status e recomendações para novas implementações de envio no Commerce, consulte [página de informações do produto](https://business.adobe.com/products/magento/shipping.html).
+>- PWA e [PWA Studio](https://developer.adobe.com/commerce/pwa-studio/) agora estão disponíveis como _headless_ implementação do front-end.
+>- A pilha de tecnologia foi alterada nas versões posteriores da linha de versão 2.3.x e da linha de versão 2.4.x. Verifique a [requisitos do sistema](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/system-requirements.html) para garantir que você tenha os componentes corretos do sistema.
+>- Devido ao encerramento iminente do Temando, o Magento Shipping não está mais disponível. Para obter informações de status detalhadas e recomendações para novas implementações de envio no Commerce, consulte o [página de informações do produto](https://business.adobe.com/products/magento/shipping.html).
 
 
 
