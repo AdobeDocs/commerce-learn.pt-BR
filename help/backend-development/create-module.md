@@ -2,13 +2,14 @@
 title: Criar um módulo
 description: Crie uma página que retorne json com um parâmetro.
 topic: Development
-kt: 5602
+kt: 5614
 doc-type: video
 activity: use
+last-substantial-update: 2023-6-2
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: 32d1366758fa6453a48570cfd08d10a93559a974
+source-git-commit: fb2cb5b844c4156802e8627e71fc18f8e7fa981d
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
