@@ -7,9 +7,9 @@ role: Admin, User
 activity: use
 badge: label="B2B para Adobe Commerce" type="Positivo"
 last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: b11892473580024f2312c0d80102196409888ab8
+source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,4 @@ Saiba como usar as notas de item de linha para uma cotação B2B do Adobe Commer
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420418?learn=on)
 
-## Recursos adicionais
-
-- [Visão Geral de Cotações](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"}
-- [Configurar Cotações](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html){target="_blank"}
-- [Solicitação de cotação](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html){target="_blank"}
-- [Negociar uma cotação](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
-- [Minhas Cotações](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"}
+{{$include /help/_includes/b2b-quote-additional-resources.md}}

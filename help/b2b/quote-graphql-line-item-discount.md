@@ -7,9 +7,9 @@ role: Admin, User
 activity: use
 badge: label="B2B para Adobe Commerce" type="Positivo"
 last-substantial-update: 2023-06-13T00:00:00Z
-source-git-commit: 1e174ef57da1bf00e6f323c3de0d790563c2a54b
+source-git-commit: 2c46232cf16da74c698a5824d678389f89667399
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,4 @@ Saiba como usar o desconto de item de linha e ver os valores usando o GraphQL
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420419?learn=on)
 
-## Recursos adicionais
-
-- [Visão Geral de Cotações](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quotes.html){target="_blank"}
-- [Configurar Cotações](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/configure-quotes.html){target="_blank"}
-- [Solicitação de cotação](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-request.html){target="_blank"}
-- [Negociar uma cotação](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/quote-price-negotiation.html){target="_blank"}
-- [Minhas Cotações](https://experienceleague.adobe.com/docs/commerce-admin/b2b/quotes/account-dashboard-my-quotes.html){target="_blank"}
+{{$include /help/_includes/b2b-quote-additional-resources.md}}
