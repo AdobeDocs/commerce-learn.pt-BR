@@ -1,17 +1,17 @@
 ---
-title: MBI - REPORT BUILDER SQL
-description: Saiba como usar o Report Builder SQL do MBI para consultar diretamente seu data warehouse, exibir os resultados e transformá-los rapidamente em um gráfico.
-landing-page-description: Assista a este vídeo para saber como usar o Report Builder SQL do MBI para consultar diretamente seu data warehouse, exibir os resultados e transformá-los rapidamente em um gráfico.
-short-description: Assista a este vídeo para saber como usar o Report Builder SQL do MBI para consultar diretamente seu data warehouse, exibir os resultados e transformá-los rapidamente em um gráfico.
+title: Commerce Intelligence - Report Builder SQL
+description: Saiba como usar o Commerce Intelligence SQL Report Builder para consultar diretamente o data warehouse, exibir os resultados e transformá-los rapidamente em um gráfico.
+landing-page-description: Assista a este vídeo para saber como usar o Report Builder de Commerce Intelligence SQL para consultar diretamente o data warehouse, exibir os resultados e transformá-los rapidamente em um gráfico.
+short-description: Assista a este vídeo para saber como usar o Report Builder de Commerce Intelligence SQL para consultar diretamente o data warehouse, exibir os resultados e transformá-los rapidamente em um gráfico.
 kt: 10288
 doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Neste vídeo:
 
 >[!TIP]
 >
->Se você é novo no MBI, a variável [Introdução à série de vídeos](1-overview.md) O fornece uma visão geral completa para gerar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
+>Se você é novo no Commerce Intelligence, a variável [Guia do usuário do Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} O fornece uma visão geral completa para gerar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
 
 ## Para quem é este vídeo?
 
@@ -45,6 +45,6 @@ Neste vídeo:
 
 ## Recursos úteis
 
-[Usando o Report Builder SQL - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
+[Utilização do Report Builder SQL - Guia do usuário do Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/sql-rpt-bldr.html)
 
-[Criar visualizações de consultas SQL - Guia do usuário do MBI](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
+[Criação de visualizações a partir de consultas SQL - Guia do usuário do Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/tutorials/create-visuals-from-sql.html)
