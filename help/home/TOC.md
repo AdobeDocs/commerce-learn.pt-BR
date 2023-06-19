@@ -2,9 +2,9 @@
 user-guide-title: Vídeos e Tutorials
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e Tutorials
-source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
+source-git-commit: fcaa2869b09aa0b66152234bb1643d1eb8f72c32
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,6 @@ ht-degree: 0%
    + [Gerenciar Regras de Moeda e Imposto](../site-management/currency-tax-rules.md)
    + [Adicionar sites, lojas e visualizações de loja](../site-management/add-websites-stores-views.md)
    + [Alterar um URL de loja](../site-management/change-store-url.md)
-   + [Configuração do Mapa de Sites de Loja](../site-management/site-map-setup.md)
    + [Métodos de envio e entrega](../site-management/shipping-delivery.md)
    + [Usar serviços de pagamento](../site-management/payment-services.md)
 + Gerenciamento de clientes {#customers}
