@@ -8,8 +8,13 @@ doc-type: feature video
 solution: Commerce,Magento Business Intelligence
 audience: all
 activity: use
+last-substantial-update: 2023-2-10
+feature: Commerce Intelligence
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
-source-git-commit: d72c60ff1626307e904e5258acdff5e1c2497259
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%

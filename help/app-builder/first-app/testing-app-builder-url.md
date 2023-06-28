@@ -1,31 +1,35 @@
 ---
-title: Teste usando o criador de aplicativo do desenvolvedor Adobe Systems URL
-description: Aprenda a teste seu primeiro aplicativo Adobe Systems Developer aplicativo Builder a partir do URL do Construtor aplicativo fornecido para o seu projeto.
-landing-page-description: Aprenda a teste seu primeiro aplicativo Adobe Systems Developer aplicativo Builder a partir do URL fornecido do seu projeto.
+title: Testar usando o URL do Construtor de aplicativos da Adobe Developer
+description: Saiba como testar seu primeiro aplicativo do Adobe Developer App Builder pelo URL do App Builder fornecido para o seu projeto.
+landing-page-description: Saiba como testar seu primeiro aplicativo do Adobe Developer App Builder pelo URL fornecido de seu projeto.
 kt: 12427
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-03-13T00:00:00Z
+last-substantial-update: 2023-3-13
+feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
+topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 120d551d-efb0-4766-b346-1fb55fd868a4
-source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-# Testando usando o aplicativo Builder URL {#testing-app-builder-url}
+# Teste usando o URL do App Builder {#testing-app-builder-url}
 
-Aprenda a teste seu novo Construtor de aplicativo Adobe Systems desenvolvedor aplicativo usando o URL do seu projeto.
+Saiba como testar seu novo aplicativo do Adobe Developer App Builder usando o URL do seu projeto.
 
-## Para quem é esse vídeo?
+## Para quem é este vídeo?
 
-* Os desenvolvedores novos no Adobe Systems Comércio com experiência limitada usando o Adobe Systems aplicativo Builder que estão prontos para teste seu primeiro aplicativo Adobe Systems Developer aplicativo Builder.
+* Desenvolvedores novatos no Adobe Commerce com experiência limitada usando o Adobe App Builder que estão prontos para testar seu primeiro aplicativo do Adobe Developer App Builder.
 
-## Vídeo conteúdo
+## Conteúdo de vídeo
 
 * Como implantar o aplicativo
-* Onde encontrar o URL após implantação
+* Onde encontrar o URL após a implantação
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416664?quality=12&learn=on)
 

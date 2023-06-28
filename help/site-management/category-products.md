@@ -4,10 +4,14 @@ description: Saiba mais sobre como criar um produto em uma categoria, merchandis
 kt: 10550
 doc-type: feature videos
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Search, Site Navigation
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 81a654bf-d09c-4bab-a050-daba6cce2f79
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%

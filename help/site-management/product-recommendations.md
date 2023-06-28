@@ -1,37 +1,41 @@
 ---
-title: Configurar recomendações de produto
-description: Aprenda a usar as recomendações do produto no Adobe Systems Comércio armazenamento.
+title: Configurar o Recommendations do produto
+description: Saiba como usar as recomendações de produto na loja do Adobe Commerce.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
-badge: Label = "somente no Adobe Systems Comércio" Type = "positivo"
+badge: label="Somente no Adobe Commerce" type="Positivo"
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: dc2e8aa92feda8f5243621a6a1febd38c7ef222f
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
-# Configurar recomendações de produto
+# Configurar o Recommendations do produto
 
 {{ee-feature}}
 
-As recomendações do produto são um poderoso marketing ferramenta que você pode usar para aumentar as conversões, aumentar receita e Stimulate consumidor envolvimento. Adobe Systems Comércio recomendações do produto são alimentadas por Adobe Sensei, que usa algoritmos de inteligência e de aprendizagem de máquina artificial para executar um profundo análise de dados do visitante agregado. Esses dados, quando combinados com seu Adobe Systems catálogo Comércio, resultam em uma experiência altamente engajada, relevante e personalizada.
+As recomendações de produto são uma poderosa ferramenta de marketing que pode ser usada para aumentar as conversões, aumentar a receita e estimular o engajamento do comprador. As recomendações de produto do Adobe Commerce são viabilizadas pelo Adobe Sensei, que usa inteligência artificial e algoritmos de aprendizado de máquina para executar uma análise profunda dos dados agregados do visitante. Esses dados, quando combinados com seu catálogo do Adobe Commerce, resultam em uma experiência altamente envolvente, relevante e personalizada.
 
-Neste vídeo, aprenda a configurar as recomendações do produto.
+Neste vídeo, saiba como configurar recomendações de produto.
 
-## Para quem é esse vídeo?
+## Para quem é este vídeo?
 
-- profissionais de marketing comércio eletrônico
-- Gerentes de site
+- Profissionais de marketing de comércio eletrônico
+- Gerentes de sites
 
-## Vídeo conteúdo
+## Conteúdo de vídeo
 
 >[!VIDEO](https://video.tv.adobe.com/v/343991?quality=12&learn=on)
 
 ## Recursos adicionais
 
-- [Guia do produto recomendações](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
-- [Conector de serviços Comércio](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+- [Guia do produto Recommendations](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html){target="_blank"}
+- [Conector dos Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}

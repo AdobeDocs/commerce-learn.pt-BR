@@ -4,10 +4,14 @@ description: Saiba como configurar a moeda e as regras de imposto que [!DNL Comm
 kt: 10542
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Shopping Cart, Taxes
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%

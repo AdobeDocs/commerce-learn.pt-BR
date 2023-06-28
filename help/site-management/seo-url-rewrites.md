@@ -4,10 +4,14 @@ description: Saiba mais sobre como usar a ferramenta Reescrita de URL para alter
 kt: 10554
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Search, Site Navigation
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

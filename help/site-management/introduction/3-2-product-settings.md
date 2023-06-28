@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] para usuários empresariais - Configurações do produto"
 description: Saiba como criar produtos, definir configurações e usar atributos.
-topic: Commerce
 kt: 5768
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Catalogs, Price Rules
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 9022b101-91e1-44a0-819b-507f2c915d95
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%

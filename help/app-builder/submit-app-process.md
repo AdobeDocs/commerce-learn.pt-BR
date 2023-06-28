@@ -5,9 +5,13 @@ landing-page-description: Saiba mais sobre o Construtor de aplicativos da Adobe 
 kt: 13436
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-6-19
+last-substantial-update: 2023-2-16
+feature: API Mesh, App Builder, Extensibility, Tools and External Services
+topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 085b5a67-4a67-4ce0-9da4-c9d4460cd356
-source-git-commit: 0932a1715cccafc0795e6932ab8888a1c53b5b49
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%

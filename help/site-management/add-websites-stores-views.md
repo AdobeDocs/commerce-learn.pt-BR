@@ -4,10 +4,14 @@ description: Saiba como adicionar novos sites, lojas e visualizações de acordo
 kt: 5609
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Customers
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: f9df7bb0-f5fe-41c0-8990-7d9b5db3596d
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%

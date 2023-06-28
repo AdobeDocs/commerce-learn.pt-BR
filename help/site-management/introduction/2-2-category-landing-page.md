@@ -1,43 +1,46 @@
 ---
-title: " [!DNL Commerce] para usuários empresariais-páginas iniciais"
-description: Saiba como configurar categoria landing page e controlar a aparência.
-topic: Commerce
+title: "[!DNL Commerce] para usuários empresariais - Landing pages"
+description: Saiba como configurar uma página de aterrissagem de categoria e controlar a aparência.
 kt: 5766
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Catalogs, Customers
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: c38aa97e-4688-42fa-b39f-1702ef1469be
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuários empresariais-páginas iniciais
+# [!DNL Commerce] para usuários empresariais - Landing pages
 
 Neste vídeo:
 
-- Páginas de aterrissagem para categorias de produtos
-- Página visualização opções
-- Configurações de lojas
+- Páginas de aterrissagem para categorias de produto
+- Opções de exibição de página
+- Configurações da vitrine eletrônica
 
-## Para quem é esse vídeo?
+## Para quem é este vídeo?
 
-- Empresas usuários
+- Usuários empresariais
 
-## Vídeo conteúdo
+## Conteúdo de vídeo
 
 >[!NOTE]
 >
->A conteúdo no vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte o [ notas de versão ](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html) .
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/36388?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Categoria conteúdo-guia de gerenciamento de  [!DNL Commerce]  Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
+[Conteúdo da categoria - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-content-settings.html)
 
-[Configurações de exibição-guia de  [!DNL Commerce]  Gerenciamento do catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
+[Configurações de exibição - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-display-settings.html)
 
-[Configurações de Design-guia de  [!DNL Commerce]  Gerenciamento do catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)
+[Configurações de design - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/categories-custom-design.html)

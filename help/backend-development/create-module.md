@@ -1,13 +1,16 @@
 ---
 title: Criar um módulo
 description: Crie um módulo que registre no registrador PSR
-topic: Development
 kt: 5614
 doc-type: video
 activity: use
 last-substantial-update: 2023-6-2
+feature: Configuration, System, Backend Development
+topic: Commerce, Development
+role: Admin, Developer
+level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: 36f53fab217d114e1d80ada6dda94873356ee421
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 0%

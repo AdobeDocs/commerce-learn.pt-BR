@@ -3,10 +3,14 @@ title: '[!DNL Live Search] para recomendações'
 description: Saiba como adicionar [!DNL Live Search] para obter recomendações de produtos para sua loja e produzir experiências de compra altamente envolventes, relevantes e personalizadas.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Personalization, Search
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
-source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%

@@ -4,10 +4,14 @@ description: O Adobe Commerce e o Magento Open Source suportam métodos de auten
 kt: 9443
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Security
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 33d17977-f02e-492a-ac95-a84f2db3b4d0
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%

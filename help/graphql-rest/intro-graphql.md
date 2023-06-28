@@ -7,8 +7,12 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
+feature: GraphQL
+topic: Commerce, Architecture, Headless
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '493'
 ht-degree: 0%
@@ -40,7 +44,7 @@ Você precisa de um cliente GraphQL GUI para testar amostras de código e tutori
 
 * [Altair](https://altairgraphql.dev/){target="_blank"} O é um cliente excelente e com todos os recursos, criado especificamente para o GraphQL. A Adobe usa Altair em vídeos de apresentação.
 * Se você não quiser instalar o aplicativo de desktop, também há extensões Altair executadas diretamente em seu
-   [Cromo](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} navegador.
+  [Cromo](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja){target="_blank"}, Firefox, or [Edge](https://microsoftedge.microsoft.com/addons/detail/altair-graphql-client/kpggioiimijgcalmnfnalgglgooonopa){target="_blank"} navegador.
 * [GraphiQL](https://github.com/graphql/graphiql/tree/main/packages/graphiql){target="_blank"} é uma implementação do GraphQL IDE da GraphQL Foundation. Essa não é uma ferramenta instalável, mas um pacote que você mesmo pode usar para criar a interface.
 * Se você já estiver familiarizado com [Postman](https://www.postman.com/){target="_blank"}Além disso, oferece suporte adequado para consultas do GraphQL, embora não seja tão completo quanto um cliente dedicado do GraphQL.
 

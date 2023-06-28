@@ -1,46 +1,50 @@
 ---
-title: Instalar Adobe Systems interface de linha de comando de e/s do tempo de execução e a malha de API plug-in
-description: Discover como instalar Adobe Systems interface de linha de comando de e/s do tempo de execução e a malha de API plug-in
-landing-page-description: Discover como usar Adobe Systems aplicativo Builder e instalar o Adobe Systems de tempo de execução de e/s com a malha de API plug-in.
-short-description: Discover como usar Adobe Systems aplicativo Builder e instalar o Adobe Systems de tempo de execução de e/s com a malha de API plug-in.
+title: Instalação da interface de linha de comando do Adobe I/O Runtime e do plug-in do API Mesh
+description: Saiba como instalar a interface de linha de comando do Adobe I/O Runtime e o plug-in da API Mesh
+landing-page-description: Saiba como usar o Construtor de aplicativos Adobe e instalar o Adobe I/O Runtime com o plug-in de malha de API.
+short-description: Saiba como usar o Construtor de aplicativos Adobe e instalar o Adobe I/O Runtime com o plug-in de malha de API.
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
+feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
+topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
-source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
 
 ---
 
-# Instalação do Adobe Systems CLI de tempo de execução e/s e plug-in de malha
+# Instalação do plug-in do Adobe I/O Runtime CLI e do Mesh
 
-Antes de começar a usar a malha de API para Adobe Systems desenvolvedor aplicativo Builder, é necessário instalar a `aio` CLI e a malha de API plug-in.
-Para obter instruções de instalação e pré-requisitos, visita a introdução ](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/) {target="_blank"} à malha [ de API página.
+Antes de começar a usar a API Mesh para o Construtor de aplicativos do Adobe Developer, é necessário instalar o `aio` CLI e o plug-in da API Mesh.
+Para obter instruções de instalação e pré-requisitos, visite a API Mesh [Introdução](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} página.
 
-## Para quem é esse vídeo?
+## Para quem é este vídeo?
 
-* Desenvolvedores novos na malha de API ou [!DNL Adobe Commerce] com experiência limitado usando [ Adobe Systems tempo de execução ](https://developer.adobe.com/runtime/docs/guides/overview/) {target="_blank"} de e/s e malha de API.
+* Desenvolvedores novatos na API Mesh ou [!DNL Adobe Commerce] com experiência limitada usando [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e API Mesh.
 
-## Vídeo conteúdo
+## Conteúdo de vídeo
 
-* Introdução à malha de API
-* Instalação do Adobe Systems CLI de tempo de execução de I/O (interface de linha de comando)
-* Instalação da malha de API plug-in
+* Introdução à API Mesh
+* Instalando a CLI (interface de linha de comando) do Adobe I/O Runtime
+* Instalação do plug-in do API Mesh
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
-## Instalação da CLI e da malha de `aio` API plug-in
+## Instalação do `aio` Plug-in CLI e API Mesh
 
-Após instalar `node` e `npm` , execute o seguinte comando para instalar a `aio` CLI:
+Após a instalação `node` e `npm`, execute o seguinte comando para instalar o `aio` CLI:
 
 ```bash
 npm install -g @adobe/aio-cli
 ```
 
-Quando a Adobe Systems CLI de tempo de execução de e/s estiver instalada, use o seguinte comando para instalar a malha de API plug-in:
+Depois que a CLI do Adobe I/O Runtime estiver instalada, use o seguinte comando para instalar o plug-in do API Mesh:
 
 ```bash
 aio plugins:install @adobe/aio-cli-plugin-api-mesh

@@ -3,11 +3,15 @@ title: '[!DNL Page Builder] visão geral'
 description: Saiba como criar páginas [!DNL Commerce] armazenar páginas no Administrador usando [!DNL Page Builder].
 kt: 5563
 doc-type: feature video
-role: Admin, Leader, User
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Native Luma Frontend Development, Page Content
+topic: Commerce, Administration, Content Management
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: b68e3fef-c392-48ad-af93-ae535f5cdc3c
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%

@@ -1,12 +1,16 @@
 ---
 title: Configurar Venia para desenvolvimento de PWA
 description: Saiba como configurar a loja Venia para seu projeto de desenvolvimento de PWA.
-topic: Development
 kt: 5564
 doc-type: video
 activity: use
+last-substantial-update: 2023-5-28
+feature: GraphQL, REST, Tools and External Services
+topic: Commerce, Headless, Development
+role: Architect, Developer, User
+level: Beginner, Intermediate
 exl-id: 208d096a-139b-4e08-85c9-fad181dc8cdb
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%

@@ -6,9 +6,13 @@ short-description: Saiba mais sobre a Estrutura de extensibilidade unificada e a
 kt: 11740
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-02-16T00:00:00Z
+last-substantial-update: 2023-2-16
+feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development
+topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 9186ba11-180d-45ca-801a-a86547084cca
-source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%

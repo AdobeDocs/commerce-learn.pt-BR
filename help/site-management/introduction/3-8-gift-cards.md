@@ -1,15 +1,18 @@
 ---
 title: "[!DNL Commerce] para usuários empresariais - Cartões-presente"
 description: Saiba como incluir cartões-presente no [!DNL Commerce] armazenamento.
-topic: Commerce
 kt: 5774
 doc-type: video
-role: Admin, Leader, User
 activity: use
 badge1: "Adobe Commerce 2.3.1"
 badge2: label="Only on Adobe Commerce" type="Positive"
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Catalogs, Shopping Cart
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: e643ee2a-776b-4840-8bff-6ad99ee98fda
-source-git-commit: 32e47eba9e4787cc157613f1efdf89d0517fa3b5
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%

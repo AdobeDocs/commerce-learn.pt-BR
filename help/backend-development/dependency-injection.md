@@ -3,10 +3,14 @@ title: Exemplo de injeção de dependência
 description: Veja um exemplo de injeção de dependência.
 kt: 5621
 doc-type: video
-topic: Development
 activity: use
+last-substantial-update: 2023-2-10
+feature: Configuration, System, Backend Development
+topic: Commerce, Development
+role: Admin, Developer
+level: Beginner, Intermediate
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%

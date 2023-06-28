@@ -4,10 +4,14 @@ description: Saiba mais sobre os recursos do Inventory management e como você p
 kt: 10551
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: c2f154e0-c5b3-4fcc-aa7b-20dcaabfadbe
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%

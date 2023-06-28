@@ -3,11 +3,15 @@ title: Ordens de Compra e Aprovações
 description: Saiba como habilitar ordens de compra e regras de aprovação para suas contas da empresa B2B.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
 badge: label="B2B para Adobe Commerce" type="Positivo"
+last-substantial-update: 2023-2-16
+feature: Configuration, System, B2B, Companies
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-source-git-commit: d10020b33cfd86031d8cbd156eb22f788c301743
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%

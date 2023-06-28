@@ -3,11 +3,15 @@ title: Alterar uma URL de loja
 description: Saiba como alterar o [!DNL Commerce] armazenar o URL base no Administrador.
 kt: 5605
 doc-type: feature video
-role: Admin, Leader
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Native Luma Frontend Development
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 6d9562e7-359d-4e82-9c1d-9536ba44df14
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 0%

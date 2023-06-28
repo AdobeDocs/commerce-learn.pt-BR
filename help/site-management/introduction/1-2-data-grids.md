@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] para usuários empresariais - grades de dados"
 description: Saiba como trabalhar com grades de dados na [!DNL Commerce Admin].
-topic: Commerce
 kt: 5759
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Search
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 9834d448-2907-4c7a-8eed-e5c36b96c9c9
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%

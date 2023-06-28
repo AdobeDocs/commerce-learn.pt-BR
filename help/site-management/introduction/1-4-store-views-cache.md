@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] para usuários empresariais - Exibições de loja e limpeza de cache"
 description: Saiba como criar exibições de loja e limpar o cache.
-topic: Commerce
 kt: 5761
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 53c35861-6ad9-4a22-a3e5-6fa2165c26ca
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%

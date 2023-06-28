@@ -7,8 +7,12 @@ kt: 11890
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
+feature: App Builder, Eventing, Backend Development
+topic: Commerce, Architecture
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
-source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%

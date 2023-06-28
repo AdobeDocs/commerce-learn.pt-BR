@@ -1,12 +1,16 @@
 ---
 title: Criar um atributo de produto
 description: Crie uma página que retorne json com um parâmetro.
-topic: Development
 kt: 5602
 doc-type: video
 activity: use
+last-substantial-update: 2023-2-10
+feature: Configuration, System, Backend Development
+topic: Commerce, Development
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%

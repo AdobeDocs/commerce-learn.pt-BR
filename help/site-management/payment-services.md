@@ -3,10 +3,14 @@ title: Usar serviços de pagamento
 description: Saiba como adicionar Serviços de pagamento à sua loja e reduzir a sobrecarga operacional, aumentar a receita e melhorar toda a experiência do comprador.
 doc-type: feature video
 audience: all
-role: Admin, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Shopping Cart
+topic: Commerce, Administration
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 4229e78b-d1b7-4784-ac87-42d45a3d8ef7
-source-git-commit: 42622b18e5738e8cb57f247029c189884698851a
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%

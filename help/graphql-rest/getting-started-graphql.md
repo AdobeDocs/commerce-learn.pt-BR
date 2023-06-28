@@ -7,8 +7,12 @@ kt: 11524
 doc-type: tutorial
 audience: all
 last-substantial-update: 2022-12-13T00:00:00Z
+feature: GraphQL
+topic: Commerce, Architecture, Headless
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: b799bd7b-11a4-4a1c-b2f4-893f6ff2994d
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

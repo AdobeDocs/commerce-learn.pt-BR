@@ -1,38 +1,42 @@
 ---
-title: A pasta Web-src
-description: Saiba mais sobre os tipos de arquivos na pasta Web-src e os arquivos e pastas aninhados desta amostra aplicativo.
-landing-page-description: Saiba mais sobre Adobe Systems desenvolvedor aplicativo Builder usado com Adobe Systems Comércio e quais tipos de arquivos estão localizados na pasta Web-src.
+title: A pasta web-src
+description: Saiba mais sobre os tipos de arquivos na pasta web-src e os arquivos e pastas aninhados para este aplicativo de amostra.
+landing-page-description: Saiba mais sobre o Construtor de aplicativos do Adobe Developer usado com o Adobe Commerce e que tipos de arquivos estão localizados na pasta web-src.
 kt: 12425
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-03-13T00:00:00Z
+last-substantial-update: 2023-3-13
+feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
+topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
+role: Architect, Developer
+level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
-source-git-commit: edb98cf6544954d741c43beb39f4056326c7d26b
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
 
 ---
 
-# Discover o objetivo da pasta Web-src {#web-src-folder}
+# Descubra a finalidade da pasta web-src {#web-src-folder}
 
-A pasta Web-src para este aplicativo de amostra contém muitos arquivos e pastas do JavaScript. Essa pasta é usada para aplicativos com uma interface usuário. Nem todos os aplicativos usam esse recurso. Por exemplo, uma integração Comércio com um sistema de gerenciamento de inventário externo pode não exigir uma interface e um código front-end.
+A pasta web-src para este aplicativo de amostra contém muitos arquivos e pastas JavaScript. Esta pasta é usada para aplicativos que têm uma interface de usuário. Nem todos os aplicativos usam esse recurso. Por exemplo, uma integração do Commerce com um sistema de gerenciamento de inventário externo pode não exigir uma interface de front-end e código.
 
-## Para quem é esse vídeo?
+## Para quem é este vídeo?
 
-* Os desenvolvedores novos no Adobe Systems Comércio com experiência limitada usando o Adobe Systems aplicativo Builder que estão aprendendo sobre a `web-src` pasta e seu conteúdo.
+* Desenvolvedores novatos no Adobe Commerce com experiência limitada que usam o Adobe App Builder que estão aprendendo sobre o `web-src` pasta e seu conteúdo.
 
-## Vídeo conteúdo
+## Conteúdo de vídeo
 
-* Qual é o principal objetivo `web-src` da pasta?
-* Geralmente arquivos e pastas incluídos
-* Como a `web-src` pasta e o conteúdo dentro são usados na aplicativo de amostra
+* Qual é o principal objetivo da `web-src` pasta?
+* Arquivos e pastas normalmente incluídos
+* Como o `web-src` pasta e o conteúdo dentro dela são usados no aplicativo de amostra
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 
-## Amostras de Code
+## Amostras de código
 
-Web-src/src/Components/Orders. js
+web-src/src/components/Orders.js
 
 ```javascript
 /*
@@ -120,11 +124,11 @@ export const Orders = props => {
 }
 ```
 
-Web-src/src/ganchos/useCommerceOrders. js
+web-src/src/hooks/useCommerceOrders.js
 
 {{avoid-400-error}}
 
-No exemplo abaixo, a amostra de código está `not` limitando o solicitação. Para evitar um erro 400, reduza o tamanho da resposta usando `searchCriteria` .
+No exemplo abaixo, a amostra de código é `not` limitando a solicitação. Para evitar um erro 400, reduza o tamanho da resposta usando `searchCriteria`.
 
 `?searchCriteria[filter_groups][0][filters][0][field]=created_at&searchCriteria[filter_groups][0][filters][0][value]=2022-12-01&searchCriteria[filter_groups][0][filters][0][condition_type]=gt`
 

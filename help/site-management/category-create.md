@@ -4,10 +4,14 @@ description: Saiba como definir a estrutura básica de categorias para seu catá
 kt: 10549
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Site Navigation
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

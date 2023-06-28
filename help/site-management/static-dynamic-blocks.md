@@ -3,11 +3,15 @@ title: Criar blocos estáticos e dinâmicos
 description: Saiba como criar blocos estáticos e dinâmicos para suas páginas de loja.
 kt: null
 doc-type: feature video
-role: Admin, User
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Personalization, Native Luma Frontend Development, Page Content
+topic: Commerce, Administration, Content Management
+role: Admin, User
+level: Beginner, Intermediate
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%

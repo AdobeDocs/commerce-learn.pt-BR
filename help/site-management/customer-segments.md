@@ -4,10 +4,14 @@ description: Saiba como exibir dinamicamente conteúdo e promoções para client
 kt: 10545
 doc-type: feature video
 audience: all
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Personalization, Price Rules
+topic: Commerce, Administration, Content Management
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: 17d68833-eb86-49a8-80e7-16b20e435626
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%

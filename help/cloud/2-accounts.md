@@ -5,8 +5,12 @@ kt: 5657
 doc-type: video
 audience: all
 activity: use
+feature: Cloud
+topic: Commerce, Architecture
+role: Admin, Architect, Developer, User
+level: Beginner, Intermediate
 exl-id: 89e117ae-b504-42ac-b3cb-8fbbe398b027
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%

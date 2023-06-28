@@ -1,13 +1,16 @@
 ---
 title: "[!DNL Commerce] para usuários empresariais - Conjuntos de atributos"
 description: Saiba mais sobre conjuntos de atributos de produto e como usá-los no catálogo.
-topic: Commerce
 kt: 5770
 doc-type: video
-role: Admin, Leader, User
 activity: use
+last-substantial-update: 2022-12-28T00:00:00Z
+feature: Configuration, System, Catalogs
+topic: Commerce, Administration
+role: Admin, Leader, User
+level: Beginner, Intermediate
 exl-id: c3cedc33-a5a5-489a-954b-a001a4ea2eb4
-source-git-commit: e8d2631b31319701beb327f42fdf1372d9dad9b7
+source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 0%

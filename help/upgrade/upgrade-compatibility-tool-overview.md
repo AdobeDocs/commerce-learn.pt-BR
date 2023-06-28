@@ -5,11 +5,15 @@ landing-page-description: Assista a este vídeo técnico para saber como a Ferra
 short-description: Assista a este vídeo técnico para saber como a Ferramenta de compatibilidade de atualização pode tornar sua próxima atualização mais fácil, barata e rápida.
 kt: 9983
 doc-type: technical video
-role: Admin, Leader, Developer
 audience: all
 activity: use
+last-substantial-update: 2023-04-27T00:00:00Z
+feature: Configuration, System, Upgrade, Tools and External Services
+topic: Commerce, Administration
+role: Architect, Developer, Admin
+level: Beginner, Intermediate
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%

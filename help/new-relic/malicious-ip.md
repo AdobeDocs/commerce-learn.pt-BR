@@ -8,8 +8,12 @@ doc-type: video
 audience: all
 activity: use
 last-substantial-update: 2022-12-9
+feature: Tools and External Services, Security
+topic: Security
+role: Architect, Developer, User
+level: Beginner, Intermediate
 exl-id: 2bd28c6f-5139-485b-a439-dd7dbf2b6f62
-source-git-commit: d85426bcf3ae0412a433414d70c874964905dda0
+source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '122'
 ht-degree: 0%
