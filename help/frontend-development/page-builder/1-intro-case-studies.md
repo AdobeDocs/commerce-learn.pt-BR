@@ -3,12 +3,15 @@ title: Page Builder para desenvolvedores - Introdução
 description: Introdução ao Page Builder, entenda os recursos do Page Builder
 landing-page-description: Assista a esta série de vídeos para saber mais sobre o Page Builder e como você pode estendê-lo para criar o ideal [!DNL Commerce] experiências da loja.
 short-description: Assista a esta série de vídeos para saber mais sobre o Page Builder e como você pode estendê-lo para criar o ideal [!DNL Commerce] experiências da loja.
-topic: Commerce, Development
 kt: 5650
 doc-type: video
 activity: use
+feature: Page Content, Native Luma Frontend Development
+topic: Commerce, Development
+role: Admin, Developer, User
+level: Beginner, Intermediate
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
-source-git-commit: 67d21ca23cdccc87cdeed4a08a3ebb48e5bd1030
+source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
