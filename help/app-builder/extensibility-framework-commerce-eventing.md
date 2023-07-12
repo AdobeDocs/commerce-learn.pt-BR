@@ -12,23 +12,19 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 9186ba11-180d-45ca-801a-a86547084cca
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 6b1bd8ff86b840cf8c16fcce20249eb547991022
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
 
 # Estrutura de extensibilidade do App Builder
 
-Para saber como usar o Adobe Commerce com o Construtor de aplicativos da Adobe Developer, assista ao vídeo a seguir, que mostra como usar os eventos do Commerce com o Construtor de aplicativos. Esta demonstração funcional descreve como a integração funciona e explora o potencial do App Builder. Esta demonstração fornece uma introdução à estrutura de extensibilidade, ao Evento de comércio e como isso está sendo usado para desenvolver a extensão Sales Channel do Amazon.
-
->[!IMPORTANT]
->
->A extensão Amazon Sales Channel ainda está em desenvolvimento e não foi lançada oficialmente.  Esses vídeos e tutoriais têm como objetivo mostrar como usar o Construtor de aplicativos da Adobe Developer para um caso de uso prático.
+Esta demonstração funcional descreve o App Builder e seus possíveis casos de uso para o Adobe Commerce. Este vídeo fornece uma introdução à estrutura de extensibilidade, aos principais benefícios para o cliente e aos recursos.
 
 ## Construtor de aplicativos para Adobe Commerce {#app-builder-extensibility}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413328?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413328?learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}
