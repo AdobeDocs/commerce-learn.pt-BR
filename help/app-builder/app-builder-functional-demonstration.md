@@ -12,9 +12,9 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: affb077c-5426-4e2d-85c0-3e7ae60b2b99
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9991718a0c619bcf15e9de3102f8e77539bb588b
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,8 @@ ht-degree: 0%
 
 Para saber mais sobre como usar o Adobe Commerce com o App Builder, assista ao vídeo abaixo que mostra como conectar o Adobe Commerce ao Amazon Seller Central. Esta demonstração usa eventos do Adobe Commerce que são consumidos pelo App Builder para permitir a integração contínua com o Amazon Marketplace. Esta demonstração funcional descreve como essa integração funciona e explora o potencial do Construtor de aplicativos Adobe.
 
->[!IMPORTANT]
->
->A extensão Amazon Sales Channel ainda está em desenvolvimento e não foi lançada oficialmente.  Esses vídeos e tutoriais têm como objetivo mostrar como usar o Construtor de aplicativos da Adobe Developer para um caso de uso prático.
-
 ## Construtor de aplicativos para Adobe Commerce {#app-builder-functional-demonstration}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413502?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413502?learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}
