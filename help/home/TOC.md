@@ -3,9 +3,9 @@ user-guide-title: Vídeos e Tutorials
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e Tutorials
 solution: Commerce
-source-git-commit: 38fcf6e2f618fe8014ffa71f937087fe2b39248c
+source-git-commit: 09f807bfb9917e892e53c984e03e63d9ddd277a3
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '526'
 ht-degree: 0%
 
 ---
@@ -133,6 +133,7 @@ ht-degree: 0%
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
    + [Replicação lenta do Galera Cluster](../backend-development/galera-db-slow-replication.md)
+   + [Cache de consulta MySQL](../backend-development/mysql-query-cache.md)
 + Desenvolvimento nativo de front-end Luma {#frontend-development}
    + Page Builder para desenvolvedores {#page-builder}
       + [1 - Introdução](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -143,7 +144,6 @@ ht-degree: 0%
       + [6 - Tipos de conteúdo personalizado](../frontend-development/page-builder/6-custom-content-types.md)
    + [Adicionar um módulo JavaScript](../frontend-development/add-javascript-module.md)
    + [Criar uma página](../frontend-development/create-page.md)
-
 + Arquitetura headless {#headless-architecture}
    + Introdução ao headless {#introduction-to-headless}
       + [Arquitetura headless - sessão 1](../headless/session-1.md)
