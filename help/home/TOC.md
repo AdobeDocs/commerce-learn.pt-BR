@@ -3,9 +3,9 @@ user-guide-title: Vídeos e Tutorials
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e Tutorials
 solution: Commerce
-source-git-commit: 925f3581757548393ada567d523aedab24d1527d
+source-git-commit: 2aa87ee8b350fd134afd44409d5bbc6e514dd4d7
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -79,6 +79,7 @@ ht-degree: 0%
    + [Usar atributos de produto com o PWA Studio](../site-management/product-attributes-pwa.md)
    + [Gerenciar metadados de SEO](../site-management/seo-metadata.md)
    + [Gerenciar substituições de URL para SEO](../site-management/seo-url-rewrites.md)
+   + [Visualizador de AR](../site-management/augmented-reality.md)
 + Gestão de conteúdo {#content}
    + [Visão geral do Page Builder](../site-management/page-builder-overview.md)
    + [Criar blocos estáticos e dinâmicos](../site-management/static-dynamic-blocks.md)
