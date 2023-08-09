@@ -2,7 +2,7 @@
 title: O arquivo app.config.yaml
 description: Saiba mais sobre os tipos de arquivos no arquivo app.config.yaml para este aplicativo de amostra.
 landing-page-description: Saiba mais sobre o Construtor de aplicativos da Adobe Developer usado com o Adobe Commerce e quais tipos de arquivos são inseridos no app.config.yaml.
-kt: 12429
+kt: 12929
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-3-13
@@ -11,7 +11,7 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: ee3e25c0b697f2e434f866932771cb7e4084fd9e
+source-git-commit: 01eb2abc854e7de4b3bbca9c0cd4d09ec43f9bf2
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
