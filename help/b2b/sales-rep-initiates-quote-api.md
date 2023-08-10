@@ -4,16 +4,17 @@ description: Saiba como o representante de vendas pode iniciar a cotação da AP
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B para Adobe Commerce" type="Positivo"
+kt: 13797
+badge: label="B2B para Adobe Commerce" type="Positive"
 last-substantial-update: 2023-6-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 6ec1952f-3c8f-4159-a3a9-d02abcd6c1d4
-source-git-commit: ff0ae0d4df028341967b1e0f186e85d83c56ece4
+source-git-commit: eb39133e0cf36785745b13ae7c11e0ad0ff3bf14
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '67'
 ht-degree: 0%
 
 ---
