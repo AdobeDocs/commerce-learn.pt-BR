@@ -7,7 +7,8 @@ index: y
 type: Tutorial
 solution: Commerce
 feature-set: Commerce
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+product: Magento
+source-git-commit: 757e7746c6000dbe46b3e2b343a65815e87d3ab1
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
