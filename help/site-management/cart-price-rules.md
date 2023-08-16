@@ -75,7 +75,7 @@ Esta é uma captura de tela, como mostraria o administrador para um pedido que t
 
 Mesmo desconto de 10% como acima da regra do carrinho em vigor Adicione 2 produtos ao carrinho que são 19,95
 
-Cada produto deve receber $1.995 em descontos, no entanto, se apenas juntá-los, mostra muito desconto.
+Cada produto deve obter $1.995 em descontos, no entanto, se nós apenas reuni-los, mostra muito desconto.
 
 Produto 1 - 19,95 x 0,1 = 1,995 Produto 2 - 19,95 x 0,1 = 1,995
 

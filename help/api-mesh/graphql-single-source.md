@@ -1,8 +1,8 @@
 ---
 title: Criar uma malha de origem única do GraphQL na malha de API
-description: Saiba como usar a API Mesh no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com uma fonte.
-landing-page-description: Saiba como usar a API Mesh no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com uma fonte.
-short-description: Saiba como usar a API Mesh no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com uma fonte.
+description: Descubra como usar a API de malha no Adobe Commerce e no [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com uma fonte.
+landing-page-description: Descubra como usar a API de malha no Adobe Commerce e no [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com uma fonte.
+short-description: Descubra como usar a API de malha no Adobe Commerce e no [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com uma fonte.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '242'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 

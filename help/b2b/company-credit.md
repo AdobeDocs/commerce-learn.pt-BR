@@ -4,7 +4,7 @@ description: Saiba como fazer compras em sua conta de usuários da conta da empr
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B para Adobe Commerce" type="Positivo"
+badge: label="B2B para Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---

@@ -18,19 +18,16 @@ Uma visão geral de uma a duas frases do produto no qual este guia do usuário s
 ## Novidades
 
 * **[Um novo vídeo em destaque (Vídeo)](README.md)**
-
-   <br>
-   *Saiba mais sobre esse novo recurso interessante.*
+  <br>
+  *Saiba mais sobre esse novo recurso interessante.*
 
 * **[Um novo vídeo em destaque (Vídeo)](README.md)**
-
-   <br>
-   *Saiba mais sobre esse novo recurso interessante.*
+  <br>
+  *Saiba mais sobre esse novo recurso interessante.*
 
 * **[Um novo artigo (Artigo)](README.md)**
-
-   <br>
-   *Clique aqui para ler mais sobre o recurso xyz!*
+  <br>
+  *Clique aqui para ler mais sobre o recurso xyz!*
 
 ## Escolhas de pessoal
 

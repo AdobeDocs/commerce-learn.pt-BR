@@ -1,8 +1,8 @@
 ---
 title: Introdução ao GraphQL
-description: Saiba como usar o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Saiba mais sobre como usar consultas, mutações e esquemas.
-landing-page-description: Saiba como usar o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Saiba mais sobre como usar consultas, mutações e esquemas.
-short-description: Saiba como usar o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Saiba mais sobre como usar consultas, mutações e esquemas.
+description: Descubra como usar o GraphQL no Adobe Commerce e no [!DNL Magento Open Source]. Saiba mais sobre como usar consultas, mutações e esquemas.
+landing-page-description: Descubra como usar o GraphQL no Adobe Commerce e no [!DNL Magento Open Source]. Saiba mais sobre como usar consultas, mutações e esquemas.
+short-description: Descubra como usar o GraphQL no Adobe Commerce e no [!DNL Magento Open Source]. Saiba mais sobre como usar consultas, mutações e esquemas.
 kt: 11524
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: b799bd7b-11a4-4a1c-b2f4-893f6ff2994d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 44%
 
 ---
 

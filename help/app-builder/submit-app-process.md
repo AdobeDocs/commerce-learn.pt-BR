@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Saiba como enviar um aplicativo para o Adobe Commerce Marketplace
 
-O Adobe Commerce Marketplace agora está aceitando envios para a lista de aplicativos do App Builder. O App Builder é nossa plataforma de extensibilidade de próxima geração, fornecendo aos desenvolvedores todas as ferramentas e serviços necessários para criar aplicativos seguros e escalonáveis para o Adobe Commerce. Os desenvolvedores agora podem publicar seus aplicativos no Adobe Commerce Marketplace, a fonte confiável para que as empresas descubram e comprem aplicativos de alta qualidade para atender às suas necessidades. É possível enviar seu aplicativo para revisão acessando [https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"}.
+O Adobe Commerce Marketplace agora está aceitando envios para a lista de aplicativos do App Builder. O App Builder é a nossa plataforma de extensibilidade de próxima geração, fornecendo aos desenvolvedores todas as ferramentas e serviços necessários para criar aplicativos seguros e escalonáveis para o Adobe Commerce. Os desenvolvedores agora podem publicar seus aplicativos no Adobe Commerce Marketplace, a fonte confiável para que as empresas descubram e comprem aplicativos de alta qualidade para atender às suas necessidades. É possível enviar seu aplicativo para revisão acessando [https://commercedeveloper.adobe.com](https://commercedeveloper.adobe.com/){target="blank"}.
 
 ## Para quem é este vídeo?
 

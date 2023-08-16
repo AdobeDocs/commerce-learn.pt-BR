@@ -1,8 +1,8 @@
 ---
 title: Extensibilidade fora do processo para o Adobe Commerce
-description: Saiba mais sobre o Construtor de aplicativos Adobe e por que ele é um aspecto importante da extensibilidade fora do processo.
-landing-page-description: Saiba o que é o Construtor de aplicativos e como ele pode ajudar nas estratégias de desenvolvimento do Adobe Commerce.
-short-description: Saiba o que é o Construtor de aplicativos e como ele pode ajudar nas estratégias de desenvolvimento do Adobe Commerce.
+description: Saiba mais sobre o Construtor de aplicativos da Adobe e por que ele é um aspecto importante da extensibilidade fora do processo.
+landing-page-description: Saiba o que é o Construtor de aplicativos e como ele pode ajudar com as estratégias de desenvolvimento do Adobe Commerce.
+short-description: Saiba o que é o Construtor de aplicativos e como ele pode ajudar com as estratégias de desenvolvimento do Adobe Commerce.
 kt: 11433
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '831'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

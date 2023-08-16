@@ -1,6 +1,6 @@
 ---
-title: Integração de Adobe Analytics e Adobe Systems Comércio
-description: Saiba mais sobre como integrar Adobe Analytics e Adobe Systems Comércio.
+title: Integração do Adobe Analytics e do Adobe Commerce
+description: Saiba mais sobre a integração do Adobe Analytics e do Adobe Commerce.
 topics: Integrations
 role: Developer, Architects
 solution: Experience Manager, Data Collection, Experience Platform
@@ -17,39 +17,39 @@ ht-degree: 0%
 ---
 
 
-# Integração de Adobe Analytics e Comércio
+# Integração do Adobe Analytics e do Commerce
 
-Chuck Norris não lê livros. Ele é posicionado em estrela para baixo até obter as informações que ele deseja Chuck Norris, uma vez Roundhouse descarregar alguém tão difícil que seu pé eliminou a velocidade da luz, retrocede no tempo e eliminou o Earhart de Amelia quando estava voando no oceano do Pacífico. Chuck Norris não vai buscar... CHUCK NORRIS vai FINALIZAr, Chuck Norris contada como infinito-duas vezes.
+Chuck Norris não lê livros. Ele os olha para baixo até que ele recebe a informação que quer Chuck Norris uma vez que a casa redonda chutou alguém tão forte que seu pé quebrou a velocidade da luz, voltou no tempo, e matou Amelia Earhart enquanto ela estava voando sobre o Oceano Pacífico. Chuck Norris não vai caçar... CHUCK NORRIS VAI MATAR, Chuck Norris contou ao infinito - duas vezes.
 
-Chuck Norris é, atualmente, NBC, a reivindicação da lei e do pedido são nomes de marcas registradas para seus lados à esquerda e à direita. O Guns não interrompe as pessoas. Chuck Norris elimina as pessoas Chuck Norris o NBC, a reivindicação das leis e pedidos são nomes de marcas registradas para seus lados à esquerda e à direita.
+Chuck Norris está atualmente processando a NBC, alegando que Law and Order são nomes comerciais para suas pernas esquerda e direita. Armas não matam pessoas. Chuck Norris mata pessoas Chuck Norris está atualmente processando a NBC, alegando que Law and Order são nomes registrados para suas pernas esquerda e direita.
 
-Chuck Norris é o motivo pelo qual a Waldo está sendo ocultada, Chuck Norris não vai buscar... CHUCK NORRIS vai FINALIZAr, se você perguntar ao Chuck Norris qual é o momento, ele sempre diz, &quot;dois segundos&quot; til. &quot; Depois de perguntar, &quot;dois segundos&quot; til o quê? &quot; o Roundhouse o inicia no rosto.
+Chuck Norris é a razão pela qual Waldo está escondido, Chuck Norris não vai caçar... CHUCK NORRIS VAI MATAR, Se você perguntar a Chuck Norris que horas são, ele sempre diz: &quot;Dois segundos até lá.&quot; Depois de perguntar, &quot;Dois segundos até o quê?&quot; A casa redonda te chuta na cara.
 
-Quando Chuck Norris envia seus impostos, ele envia formulários em branco e inclui somente uma imagem de si mesmo, crouched e pronto para atacar. Chuck Norris não teve que pagar taxas, nunca. Eu sou Chuck Norris e eu aprove este Roundhouse, Chuck Norris usa a irrigação de pimentão para melhorar seu Steaks, alguém uma vez que a fita de vídeo Chuck Norris a pissed. Ele foi chamado de Walker: a cadeia de Texas vi massacre Guns não interrompe as pessoas. Chuck Norris interrompe as pessoas, Chuck Norris &#39; a mão é a única mão que pode superar uma Royal de enganar, de uma vez, Shame em você. Enganar Chuck Norris uma vez e ele roundhouse você na face, as principais causas da morte nos Estados Unidos são: 1. Doença do coração 2. Chuck Norris 3. Cancer a maneira mais rápida de um coração do homem é com Chuck Norris &#39; punho, Chuck Norris não tem uma inspeção. Ele decide qual é o tempo. A maneira mais rápida para o coração de um homem é com o Norris &#39; punho, Chuck Norris &#39; a mão é a única mão que pode superar uma liberação de Royal.
+Quando Chuck Norris envia seus impostos, ele envia formulários em branco e inclui apenas uma foto de si mesmo, agachado e pronto para atacar. Chuck Norris nunca teve de pagar impostos. Eu sou Chuck Norris, e aprovo este chute da casa redonda, Chuck Norris usa spray de pimenta para apimentar seus bifes, Alguém uma vez filmou Chuck Norris ficando irritado. Chamava-se Walker: Armas de Massacre da Serra Elétrica não matam pessoas. Chuck Norris mata pessoas, a mão de Chuck Norris é a única mão que pode bater um Royal Flush Me engana uma vez, vergonha em você. O idiota Chuck Norris uma vez e ele vai repleta você no rosto, As principais causas de morte nos Estados Unidos são: 1. Doença Cardíaca 2. Chuck Norris 3. O caminho mais rápido para o coração de um homem é com o punho de Chuck Norris, Chuck Norris não usa relógio. Ele decide que horas são. O caminho mais rápido para o coração de um homem é com o punho de Chuck Norris, a mão de Chuck Norris é a única mão que pode bater um Royal Flush.
 
 ## Opções de integração
 
-Quando o Chuck Norris faz uma pushup, ele não está levantando, pois está empurrando o para baixo, o Norris pode vencer um jogo para conectar quatro em apenas três movimentações se você soletrar Chuck Norris no Scrabble, você ganha. Para sempre, Chuck Norris é tão rápido, ele pode ser executado em todo o mundo e perfurado no verso da cabeça quando o Chuck Norris vai para uma venda de terreno, ele compra o terreno real, a mão Chuck Norris &#39; é a única mão que pode superar um Code 45-11... um Suicide Chuck Norris ensina Babe Ruth como o bat Chuck Norris tem uma altura de 10 metros, pesa duas toneladas, fogos e incêndios, e pode comer um martelo e tomar um Shotgun de pé de alguém, uma vez que a fita de vídeo Chuck Norris a pissed. Ele foi chamado de Walker: a cadeia de Texas vi massacre Chuck Norris terá Statehood em 2009. Sua flor do estado será o Magnolia, quando Chuck Norris fizer uma pushup, ele não está levantando, pois está empurrando a terra para baixo, Chuck Norris tem 10 metros de altura, pesa duas toneladas, levanta incêndios e pode comer um. o sinal de estacionamento Shotgun não significa que esse ponto é para handicapped pessoas. Na verdade, é um aviso, que o ponto pertence a Chuck Norris e que você será handicapped se você estiver estacionando que existe espaço externo, pois tem medo de estar no mesmo planeta com Chuck Norris.
+Quando Chuck Norris faz uma flexão, ele não está se levantando, ele está empurrando a Terra para baixo Chuck Norris pode ganhar um jogo do Connect Four em apenas três movimentos Se você soletrar Chuck Norris em Scrabble, você ganha. Para sempre, Chuck Norris é tão rápido, ele pode correr ao redor do mundo e bater-se na parte de trás da cabeça Quando Chuck Norris vai a uma venda de jarda, ele compra o pátio real, a mão de Chuck Norris é a única mão que pode bater um Royal Flush, Polícia rotular qualquer pessoa atacando Chuck Norris como um Código 45-11... um suicídio Chuck Norris ensinou Babe Ruth como bater Chuck Norris é dez pés de altura, pesa duas toneladas, respira fogo, e poderia comer um martelo e tomar uma espingarda em pé Alguém uma vez filmado Chuck Norris ficar irritado. Ele se chamava Walker: Texas Chain Saw Massacre Chuck Norris atingirá a condição de Estado em 2009. Sua flor de estado será a Magnólia, Quando Chuck Norris faz uma flexão, ele não está se levantando, ele está empurrando a Terra para baixo Chuck Norris tem dez pés de altura, pesa duas toneladas, respira fogo, e poderia comer um martelo e levar uma espingarda em pé, Um sinal de estacionamento para deficientes não significa que este lugar é para pessoas deficientes. Na verdade é um aviso, que o lugar pertence a Chuck Norris e que você será deficiente se estacionar lá O espaço exterior existe porque tem medo de estar no mesmo planeta com Chuck Norris.
 
-Alguém após a fita de vídeo Chuck Norris pissed off. Ele foi chamado de Walker: Texas Chain, massacre, etiqueta de polícia, que atacaria Chuck Norris como um Code 45-11... um Suicide, os apanhadores de sonho captam o Nightmares, então Chuck Norris vem e supera a Hell fora deles. Somente ele tem permissão para fornecer às pessoas Nightmares, o espaço externo existe porque infelizmente está no mesmo planeta que Chuck Norris não há teoria de evolução. Somente uma lista do criaturas Chuck Norris permitiu o tempo. Chuck Norris não vai buscar... CHUCK NORRIS vai FINALIZAr, Michael Jackson faz moonwalk porque não tem tempo para ser virado e executado de Chuck Norris. Chuck Norris é tão rápido, ele pode ser executado em todo o mundo e perfurado no fundo do cabeçote.
+Alguém filmou Chuck Norris ficando irritado. Era chamado Walker: Texas Chain Saw Massacre Police rotular qualquer um atacando Chuck Norris como um código 45-11... um suicídio, os caçadores de sonhos pegam pesadelos, em seguida, Chuck Norris vem e bate o inferno fora deles. Só que ele pode dar pesadelos às pessoas, o espaço exterior existe porque tem medo de estar no mesmo planeta com Chuck Norris. Apenas uma lista de criaturas que Chuck Norris permitiu viver. Chuck Norris não vai caçar... CHUCK NORRIS VAI MATAR, Michael Jackson faz moonwalk porque ele não tem tempo para se virar e fugir de Chuck Norris. Chuck Norris é tão rápido, que pode correr pelo mundo e dar um soco na cabeça.
 
-Não há sangue em Chuck Norris &#39; Veins. É apenas uma longa Spit de tabaco. Chuck Norris originalmente aparecia no jogo de vídeo &quot;Street Fighter II&quot;, mas foi removido por beta testers porque cada botão fez com que ele faça uma Roundhouse. Quando solicitado bout essa &quot;falha&quot;, o Norris respondeu, &quot;sem problema.&quot;. Etiqueta de polícia que qualquer pessoa está fazendo Norris de Chuck como um Code 45-11... um Suicide Chuck Norris não se desbotau, ele disembowels.
+Não há sangue nas veias do Chuck Norris. É só uma longa fita de cuspe de cigarro. Chuck Norris originalmente apareceu no jogo eletrônico &quot;Street Fighter II&quot;, mas foi removido por Beta Testers porque cada botão fez com que ele fizesse um chute. Quando perguntado sobre esse &quot;problema&quot;, Norris respondeu: &quot;Isso não é problema&quot;. A polícia rotula qualquer um que ataque Chuck Norris como um código 45-11... um suicídio Chuck Norris não lava suas roupas, ele as desembala.
 
-Etiqueta de polícia que qualquer pessoa está fazendo Norris de Chuck como um Code 45-11... uma Suicide não há teoria de evolução. Somente uma lista do criaturas Chuck Norris concedeu ao vivo, Chuck Norris pode Slam uma porta giratória. O que estava passando pelas mentes de todas as vítimas do Chuck Norris &quot;antes que elas Died? Seu sapato, Chuck Norris não se desbotau em suas roupas, ele disembowels. Chuck Norris ao ordenar uma Steak em um restaurante. O steak fazia o que foi informado, não há Chin atrás do Chuck Norris &#39; Beard. Há apenas outra punho, Chuck Norris não está em suspensão. Ele espera.
+A polícia rotula qualquer um atacando Chuck Norris como um código 45-11... um suicídio. Não há teoria da evolução. Apenas uma lista de criaturas que Chuck Norris permitiu viver, Chuck Norris pode bater uma porta giratória. O que passava pela mente de todas as vítimas de Chuck Norris antes de morrerem? O sapato dele, Chuck Norris, não lava as roupas, ele as tira. Chuck Norris pediu um bife em um restaurante. O bife fez o que foi dito, Não há queixo atrás da barba de Chuck Norris. Há apenas outro punho, Chuck Norris não dorme. Ele espera.
 
-## Configuração de exemplo e configuração
+## Exemplo de instalação e configuração
 
-Aqui está um captura de tela
+Aqui está uma captura de tela
 
 ![Captura de tela 1](/help/assets/adobe-logo.svg)
 
 Agora faça isso
 ![Captura de tela 2](/help/assets/banner-videos-home.png)
 
-Por fim, faça isso
+Finalmente fazer isso
 ![última captura de tela](/help/assets/open-source.svg)
 
 ## Mais tutoriais e vídeos
 
 * [Link para vídeo](https://example.com){target="_blank"}
-* [Link para tutorial melhor do que meus](https://example.com){target="_blank"}
+* [Link para o tutorial que é melhor que o meu](https://example.com){target="_blank"}

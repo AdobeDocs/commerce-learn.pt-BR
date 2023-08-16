@@ -15,13 +15,13 @@ exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
 source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 0%
+ht-degree: 27%
 
 ---
 
 # [!DNL Commerce] para usuários empresariais - [!DNL Admin] menus
 
-A variável [!DNL Commerce Admin] O é o back office protegido por senha onde você pode configurar produtos e promoções, atender a pedidos de clientes e configurar o [!DNL Commerce] armazenar para atender às necessidades da sua empresa.
+A variável [!DNL Commerce Admin] O é o back office protegido por senha onde você pode configurar produtos e promoções, atender a pedidos de clientes e configurar o [!DNL Commerce] armazenar para atender às suas necessidades comerciais.
 
 Neste vídeo:
 

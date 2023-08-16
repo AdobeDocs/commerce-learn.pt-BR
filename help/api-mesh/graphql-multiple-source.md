@@ -1,8 +1,8 @@
 ---
 title: Criar um GraphQL de várias origens para ser usado na API Mesh
 description: Saiba como usar várias fontes para a API Mesh no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre alguns erros comuns e como resolvê-los.
-landing-page-description: Saiba como usar a API Mesh no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com várias fontes e como resolver alguns erros comuns.
-short-description: Saiba como usar a API Mesh no Adobe Commerce e [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com várias fontes e como resolver alguns erros comuns.
+landing-page-description: Descubra como usar a API de malha no Adobe Commerce e no [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com várias fontes e como resolver alguns erros comuns.
+short-description: Descubra como usar a API de malha no Adobe Commerce e no [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com várias fontes e como resolver alguns erros comuns.
 kt: 11804
 doc-type: tutorial
 audience: all
@@ -15,7 +15,7 @@ exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 

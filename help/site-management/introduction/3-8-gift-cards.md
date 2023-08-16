@@ -5,7 +5,7 @@ kt: 5774
 doc-type: video
 activity: use
 badge1: "Adobe Commerce 2.3.1"
-badge2: label="Only on Adobe Commerce" type="Positive"
+badge2: label="Somente no Adobe Commerce" type="Positive"
 last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Catalogs, Shopping Cart
 topic: Commerce, Administration
@@ -14,7 +14,7 @@ level: Beginner, Intermediate
 exl-id: e643ee2a-776b-4840-8bff-6ad99ee98fda
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
