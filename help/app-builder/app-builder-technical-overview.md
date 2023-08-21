@@ -6,26 +6,22 @@ short-description: Saiba mais sobre o Construtor de aplicativos do Adobe Develop
 kt: 11763
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-2-16
+last-substantial-update: 2023-8-21
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: d7c20134-976b-4b8f-bb48-96884032a5fb
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: d777e440ae1f85a8e67fb257680aeeba71626536
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Visão geral técnica do App Builder
 
-O vídeo a seguir fornece uma visão geral técnica sobre como conectar o Adobe Commerce e o Amazon Sales Channel. Este tutorial também explica como usar o Construtor de aplicativos Adobe para funcionalidade e integrações personalizadas.
-
->[!IMPORTANT]
->
->A extensão Amazon Sales Channel ainda está em desenvolvimento e não foi lançada oficialmente.  Esses vídeos e tutoriais têm como objetivo mostrar como usar o Construtor de aplicativos da Adobe Developer para um caso de uso prático.
+O vídeo a seguir fornece uma visão geral técnica sobre um modelo de padrão de integração que conecta o Adobe Commerce à Central de vendas da Amazon. Este tutorial também explora as diferenças entre o desenvolvimento de extensões PHP tradicionais e aplicativos do App Builder.
 
 
 ## Construtor de aplicativos para Adobe Commerce {#app-builder-technical-overview}
