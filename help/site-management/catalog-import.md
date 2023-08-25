@@ -6,11 +6,11 @@ doc-type: tutorial
 audience: all
 activity: use
 last-substantial-update: 2023-8-15
-feature: Backend Development, Catalogs, Data Import/Export, REST
+feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 0bda6347f2288953c653fe137580ef46384107f8
+source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
 workflow-type: tm+mt
 source-wordcount: '826'
 ht-degree: 0%

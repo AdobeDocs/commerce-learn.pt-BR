@@ -5,12 +5,12 @@ doc-type: feature video
 audience: all
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
-feature: Configuration, System, Catalogs, Customers, Shopping Cart
+feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
 workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 0%
