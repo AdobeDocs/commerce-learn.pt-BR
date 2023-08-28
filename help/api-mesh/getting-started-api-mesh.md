@@ -6,22 +6,22 @@ short-description: Descubra como usar a API de malha no Adobe Commerce e no [!DN
 kt: 11802
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-2-8
+last-substantial-update: 2023-8-28
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2ad0ae2aa7c9c852d300453f27f1be906976d95e
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '332'
 ht-degree: 23%
 
 ---
 
 # Introdução à API Mesh
 
-Se você nunca usou a API Mesh para o Adobe Developer App Builder, a Adobe recomenda começar com este tutorial introdutório antes de prosseguir para os outros vídeos e tutoriais.
+Se você é novo na API Mesh para o Adobe Developer App Builder, o Adobe recomenda começar com este tutorial introdutório, antes de prosseguir para os outros vídeos e tutoriais.
 
 ## O que é a API Mesh
 
