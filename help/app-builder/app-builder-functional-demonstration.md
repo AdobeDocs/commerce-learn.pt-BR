@@ -6,13 +6,13 @@ short-description: Saiba mais sobre o Construtor de aplicativos do Adobe Develop
 kt: 11762
 doc-type: tutorial
 audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-8-31
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: affb077c-5426-4e2d-85c0-3e7ae60b2b99
-source-git-commit: 9991718a0c619bcf15e9de3102f8e77539bb588b
+source-git-commit: d7509ac361d54601d5943ffdb8f9ba4d8643a5fb
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
