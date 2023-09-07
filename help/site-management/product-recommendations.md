@@ -5,16 +5,15 @@ doc-type: feature video
 audience: all
 activity: use
 kt: 13790
-badge: label="Somente no Adobe Commerce" type="Positive"
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: a62f9984-782c-40cf-a140-498b58b24bcd
-source-git-commit: c95d8c7e67c68fe12b245210bc3e2244d9bb9529
+source-git-commit: fa2a12241e194ec1fbadb71333d05a3bb7fd6bb3
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '124'
 ht-degree: 0%
 
 ---
