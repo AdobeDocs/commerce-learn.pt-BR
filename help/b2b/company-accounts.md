@@ -4,25 +4,24 @@ description: Saiba como gerenciar as contas da empresa B2B, incluindo solicitaç
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B para Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 5721286d70d58c3dae979be837924234169b13e8
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
 
 # Gerenciar contas da empresa
 
-{{b2b-feature}}
-
 Para os comerciantes B2B, a _[!UICONTROL Companies]_A página lista todas as contas atuais da empresa e seus status. É possível gerenciar as contas da empresa aqui e qualquer solicitação pendente de aprovação é exibida na parte superior da lista. Os controles padrão do local de trabalho podem ser usados para filtrar a lista, alterar o layout da coluna, salvar visualizações e exportar dados.
+
+{{b2b-feature}}
 
 ## Para quem é este vídeo?
 

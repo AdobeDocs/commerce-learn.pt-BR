@@ -4,23 +4,20 @@ description: Saiba como fazer compras em sua conta de usuários da conta da empr
 doc-type: feature video
 audience: all
 activity: use
-badge: label="B2B para Adobe Commerce" type="Positive"
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 1cb75f809240487f772e33c30e9de33326ec38c2
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
 # Gerenciar Crédito da Empresa
-
-{{b2b-feature}}
 
 Para empresas que têm _[!UICONTROL Payment on Account]_e tiverem crédito da empresa disponível, eles poderão fazer compras em sua conta até o limite de crédito concedido. Com esse recurso, os clientes podem verificar o status do crédito da empresa no painel de conta.
 
@@ -30,6 +27,8 @@ Você pode definir os seguintes parâmetros relacionados a crédito para cada pe
 - Limite de crédito
 - Permitir que o limite de crédito seja excedido
 - Motivo da alteração
+
+{{b2b-feature}}
 
 ## Para quem é este vídeo?
 
