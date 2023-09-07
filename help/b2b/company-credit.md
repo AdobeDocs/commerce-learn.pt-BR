@@ -4,13 +4,14 @@ description: Saiba como fazer compras em sua conta de usuários da conta da empr
 doc-type: feature video
 audience: all
 activity: use
+kt: 13910
 last-substantial-update: 2023-2-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
-source-git-commit: 1cb75f809240487f772e33c30e9de33326ec38c2
+source-git-commit: d6e7cfeca2a3d3e747abf49d4c5b3e3537299507
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
