@@ -4,13 +4,14 @@ description: Saiba como adicionar [!DNL Live Search] para obter recomendações 
 doc-type: feature video
 audience: all
 activity: use
+kt: 13792
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
-source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
+source-git-commit: 4cd68304f60ef6bb0a8f6ba21fc1a8a662225a88
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
