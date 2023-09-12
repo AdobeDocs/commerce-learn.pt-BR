@@ -3,23 +3,35 @@ title: Executar uma consulta usando o GraphQL
 description: Saiba como executar um query usando o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Esta é uma introdução ao GraphQL usando chamadas GET e POST.
 landing-page-description: Saiba como executar um query usando o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Esta é uma introdução ao GraphQL usando chamadas GET e POST.
 short-description: Saiba como executar um query usando o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Esta é uma introdução ao GraphQL usando chamadas GET e POST.
-kt: 11524
-doc-type: tutorial
+kt: 13937
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '986'
 ht-degree: 0%
 
 ---
 
 # consultas do GraphQL
+
+Esta é a parte 2 da série para GraphQL e Adobe Commerce. Neste tutorial e vídeo, saiba mais sobre consultas do GraphQL e como executá-las no Adobe Commerce.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
+
+## Vídeos e tutoriais relacionados ao GraphQL nesta série
+
+* [Parte 1 GraphQL - Introdução](../graphql-rest/intro-graphql.md)
+* [Parte 3 GraphQL - Mutações](../graphql-rest/graphql-mutations.md)
+* [Parte 4 GraphQL - Esquema](../graphql-rest/graphql-schema.md)
+
+## Exemplo de sintaxe do GraphQL
 
 Vamos mergulhar diretamente na sintaxe de consulta do GraphQL com um exemplo completo. (Lembre-se, você pode tentar isso sozinho em https://venia.magento.com/graphql.)
 

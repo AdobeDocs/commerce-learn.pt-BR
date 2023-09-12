@@ -3,25 +3,35 @@ title: Idioma do esquema com o GraphQL
 description: Saiba mais sobre o esquema envolvido com o GraphQL. Leia uma descrição do esquema, juntamente com alguns padrões interessantes e maneiras de ler o esquema.
 landing-page-description: Esta é uma introdução ao GraphQL. Compreender o esquema e como interpretar alguns dos elementos
 short-description: Esta é uma introdução ao GraphQL. Compreender o esquema e como interpretar alguns dos elementos
-kt: 11524
-doc-type: tutorial
+kt: 13939
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
 # Idioma do esquema
 
-As consultas e mutações usadas dependem de um gráfico de dados específico que está sendo implementado no servidor, que o tempo de execução do GraphQL consome e usa para resolver a consulta. A especificação do GraphQL define uma linguagem agnóstica para expressar os tipos e relações do gráfico de dados.
+Esta é a parte 4 da série para GraphQL e Adobe Commerce. As consultas e mutações usadas dependem de um gráfico de dados específico que está sendo implementado no servidor, que o tempo de execução do GraphQL consome e usa para resolver a consulta. A especificação do GraphQL define uma linguagem agnóstica para expressar os tipos e relações do gráfico de dados.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424123?learn=on)
+
+## Vídeos e tutoriais relacionados ao GraphQL nesta série
+
+* [Parte 1 GraphQL - Introdução](../graphql-rest/intro-graphql.md)
+* [Parte 2 GraphQL - Consultas](../graphql-rest/graphql-queries.md)
+* [Parte 3 GraphQL - Mutações](../graphql-rest/graphql-mutations.md)
+
+## Exemplo de esquema
 
 Este é um schema do tipo abreviado que aceita as consultas e mutações que você viu até agora:
 

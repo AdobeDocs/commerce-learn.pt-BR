@@ -4,26 +4,34 @@ description: Saiba como usar o GraphQL no Adobe Commerce e [!DNL Magento Open So
 landing-page-description: Saiba como usar o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Use chamadas de GET e POST do GraphQL para Adobe Commerce e [!DNL Magento Open Source].
 short-description: Saiba como usar o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Use chamadas de GET e POST do GraphQL para Adobe Commerce e [!DNL Magento Open Source].
 kt: 11524
-doc-type: tutorial
+doc-type: video
 audience: all
-last-substantial-update: 2022-12-13T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '493'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---
 
 # Introdução ao GraphQL
 
-O GraphQL tornou-se rapidamente o padrão do setor para a forma como aplicativos avançados do lado do cliente se comunicam com um back-end. É um tópico cada vez mais relevante para desenvolvedores do Adobe Commerce, já que a plataforma continua a expandir seus recursos no domínio de implementações headless.
+Esta é a parte 1 da série para GraphQL e Adobe Commerce. O GraphQL tornou-se rapidamente o padrão do setor para a forma como aplicativos avançados do lado do cliente se comunicam com um back-end. É um tópico cada vez mais relevante para desenvolvedores do Adobe Commerce, já que a plataforma continua a expandir seus recursos no domínio de implementações headless.
 
 Se você é novo no GraphQL, esta seção o orienta para os conceitos e o uso básicos.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
+
+## Vídeos e tutoriais relacionados ao GraphQL nesta série
+
+* [Parte 2 GraphQL - Consultas](../graphql-rest/graphql-queries.md)
+* [Parte 3 GraphQL - Mutações](../graphql-rest/graphql-mutations.md)
+* [Parte 4 GraphQL - Esquema](../graphql-rest/graphql-schema.md)
 
 ## O que é o GraphQL?
 
