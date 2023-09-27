@@ -5,7 +5,7 @@ landing-page-description: Assista a este vídeo para saber como usar o Report Bu
 short-description: Assista a este vídeo para saber como usar o Report Builder de Commerce Intelligence SQL para consultar diretamente o data warehouse, exibir os resultados e transformá-los rapidamente em um gráfico.
 kt: 10288
 doc-type: feature video
-solution: Commerce,Magento Business Intelligence
+solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -14,7 +14,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 3976a91f-96d1-439c-a3c9-973051d17f36
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
 source-wordcount: '268'
 ht-degree: 0%
