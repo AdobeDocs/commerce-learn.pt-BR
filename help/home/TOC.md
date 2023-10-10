@@ -3,7 +3,7 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: fae9666d2850afb5eb79ff174f376c324717d6c4
+source-git-commit: 5f86788f8bd8c0281571ed2cd45c89963be9e98e
 workflow-type: tm+mt
 source-wordcount: '555'
 ht-degree: 3%
@@ -131,7 +131,7 @@ ht-degree: 3%
    + [Workshop de atualização do Adobe Commerce 2.4](../upgrade/2.4-upgrade-workshop.md)
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
-+ Desenvolvimento de backend {#backend-development}
++ Desenvolvimento de back-end {#backend-development}
    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Adicionar uma tabela a um banco de dados](../backend-development/new-db-table.md)
    + [Criar um módulo](../backend-development/create-module.md)
@@ -140,7 +140,7 @@ ht-degree: 3%
    + [Replicação lenta do Galera Cluster](../backend-development/galera-db-slow-replication.md)
    + [Cache de consulta MySQL](../backend-development/mysql-query-cache.md)
    + [Resumo da consulta PT](../backend-development/pt-query-digest.md)
-+ Desenvolvimento nativo de front-end Luma {#frontend-development}
++ Desenvolvimento de front-end Luma nativo {#frontend-development}
    + Page Builder para desenvolvedores {#page-builder}
       + [1 - Introdução](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - Configuração e conteúdo](../frontend-development/page-builder/2-config-create-content.md)
