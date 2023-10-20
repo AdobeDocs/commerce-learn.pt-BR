@@ -1,7 +1,7 @@
 ---
 title: Introdução ao GraphQL
-description: Saiba como usar o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Use chamadas de GET e POST do GraphQL para Adobe Commerce e [!DNL Magento Open Source].
-short-description: Saiba como usar chamadas de GET e POST do GraphQL para Adobe Commerce e [!DNL Magento Open Source].
+description: Saiba como usar o GraphQL no Adobe Commerce e no [!DNL Magento Open Source]. Use chamadas GET e POST do GraphQL para Adobe Commerce e [!DNL Magento Open Source].
+short-description: Saiba como usar chamadas GET e POST do GraphQL para Adobe Commerce e [!DNL Magento Open Source].
 kt: 11524
 doc-type: video
 audience: all
@@ -14,7 +14,7 @@ exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
 source-git-commit: 750c8c9c5c6b3e01b9af8aacae31f3d521c4f7b7
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
