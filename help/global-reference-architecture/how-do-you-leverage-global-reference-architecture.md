@@ -10,9 +10,10 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: eaee7e251c3b55d6d9991f61ddeffc6036725889
+exl-id: 3b733e3c-b292-4b1a-96f2-30c14f35ac67
+source-git-commit: 803b418ec85c907d087f8fe243799b56a281219b
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 Saiba como aproveitar a Global Reference Architecture ou GRA para abreviar. Para preparar melhor um GRA para uma implementação bem-sucedida, os especialistas do Adobe discutem as diferentes fases do projeto e entram em detalhes para a fase de descoberta. Os recursos de controle de qualidade são discutidos e como eles são um recurso valioso para uma implementação de GRA.
 
-## Para quem é este vídeo?
+## Público-alvo
 
 * Qualquer um que precise entender esse conceito.
 * Grandes projetos com várias marcas

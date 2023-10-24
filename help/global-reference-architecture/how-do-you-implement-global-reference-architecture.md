@@ -10,9 +10,10 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: 449445ba629f8db9d0e3535e6bcb5339fab99070
+exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
+source-git-commit: 03e20a42f798bd7eac1971656e2ad9b99a8b784e
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 Saiba como implementar a arquitetura de referência global ou GRA (Global Reference Architecture, arquitetura de referência global) para abreviar. Saiba mais sobre as decisões antecipadas que ajudam a configurar um GRA bem-sucedido. Obtenha ideias sobre como separar sites, chaves para o sucesso e alguns conceitos para desenvolver recursos de maneira organizada.
 
-## Para quem é este vídeo?
+## Público-alvo
 
 * Qualquer um que precise entender esse conceito.
 * Grandes projetos com várias marcas

@@ -10,18 +10,19 @@ feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Beginner, Intermediate
-source-git-commit: ded1cbba7c0fca0c2df4705b34b126857d1e9c76
+exl-id: d83d7bef-3253-43bc-a442-d13b0afbae4e
+source-git-commit: 8ad911f1dad202e6354a7850ef69f8646e1a31f2
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
-# Aproveitando a arquitetura de referência global
+# Arquitetando para GRA
 
 Saiba como arquitetar a Arquitetura de referência global ou GRA para abreviar. Para preparar melhor um GRA para uma implementação bem-sucedida, os especialistas do Adobe discutem o que é e o que não é GRA. Uma discussão profunda sobre o gerenciamento de código usando pacotes separados, git dividido e monorepo. Outros tópicos sobre documentação, ferramentas e expectativas de pessoal são discutidos para detalhar suas partes para uma implementação bem-sucedida da GRA.
 
-## Para quem é este vídeo?
+## Público-alvo
 
 * Qualquer um que precise entender esse conceito.
 * Grandes projetos com várias marcas
