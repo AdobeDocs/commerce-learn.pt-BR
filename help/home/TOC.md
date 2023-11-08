@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 3c020ae0cdf8fd45752dd44bfa4f914371d89549
+source-git-commit: 3f354cbac9d0f64fec509fc06c6cf0d41c7287ae
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '540'
 ht-degree: 3%
 
 ---
@@ -27,6 +27,9 @@ ht-degree: 3%
       + [Aproveitar a arquitetura de referência global](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Arquiteto GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [Implementar a arquitetura de referência global](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
+   + Recursos de comércio {#capabilities}
+      + [Conexão de dados](../capabilities/data-connection.md)
+      + [Demonstração completa do Live Search](../capabilities/live-search-full-demonstration.md)
 + GRAPHQL e REST {#graphql-rest}
    + [Noções básicas do GraphQL](../graphql-rest/intro-graphql.md)
    + [Consultas](../graphql-rest/graphql-queries.md)
@@ -99,7 +102,7 @@ ht-degree: 3%
    + [Configurar o Recommendations do produto](../site-management/product-recommendations.md)
    + [Introdução ao Live Search](../site-management/live-search.md)
    + [Live Search para recomendações](../site-management/live-search-recommendations.md)
-   + [Demonstração completa do Live Search](../site-management/live-search-full-demonstration.md)
+
 + Pedidos e Atendimento {#orders}
    + [Visão geral de fornecimento da loja](../site-management/store-fulfillment.md)
    + [Gerenciar status do pedido](../site-management/order-status.md)
