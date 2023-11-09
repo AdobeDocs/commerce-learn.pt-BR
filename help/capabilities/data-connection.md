@@ -9,9 +9,9 @@ feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-source-git-commit: 2709ca7959de6e2decd1cda9dd0f746421c347de
+source-git-commit: 35bd4f00555f426223de701586d6e12fb329184d
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -30,18 +30,8 @@ Saiba como usar a Conexão de dados do Adobe Commerce juntamente com algumas con
 
 ## Conteúdo de vídeo
 
-* Saiba mais sobre os dados do cliente que podem ser transferidos do Commerce para o Adobe Experience Edge
-* O que é uma API
-* Como usar o Adobe Journey Optimizer para fazer o acompanhamento com um cliente
-* Tipos de eventos de vitrine eletrônica que podem ser capturados
-* Dados do cliente em tempo real avaliados e conteúdo personalizado mostrado enquanto o cliente continua a navegar
-* Segmentos de clientes e como eles podem ser ajustados automaticamente com base no histórico do cliente
-* Perfis unificados únicos
-* Abandonar emails do carrinho, mensagens SMS e como eles podem ser usados com o Adobe Journey Optimizer
-* Configurações básicas e configuração do Conector de dados do Commerce
-* Blocos dinâmicos e regras de preço do carrinho usados para fornecer descontos
-* Perfis, públicos e detalhes do cliente no Adobe Experience Platform
-* Como o Adobe Target pode fornecer conteúdo dinâmico personalizado
-* Painéis de Customer Journey Analytics introduzidos
+* Enviar dados comportamentais do Adobe Commerce para outros produtos DX (por exemplo, AJO, Analytics, Target, Real-Time CDP) para tomada de decisão de segmento, enriquecimento de perfil e experiências personalizadas na jornada do cliente.
+* Públicos-alvo da Real-Time CDP que atualizam e modificam a segmentação em tempo real com base em dados do navegador, dados do lado do servidor (incluindo o histórico de pedidos) e dados de outras fontes (ou seja, dados de fidelidade).
+* Utilização de públicos da Real-Time CDP para personalizar regras de preço do carrinho e blocos dinâmicos no Adobe Commerce.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
