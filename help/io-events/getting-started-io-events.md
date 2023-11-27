@@ -11,27 +11,28 @@ feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: 64bb65c1544d9cdbed3ef220cec4109b94358ff1
+source-git-commit: dee58b3d5cb3e9d37302bd739d6c4c4b42efbb62
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '173'
 ht-degree: 0%
 
 ---
 
 # Introdução a eventos de E/S para Adobe Commerce
 
-Saiba mais sobre eventos de Adobe I/O. Nesta demonstração, um evento do Adobe Commerce é enviado para um canal Slack usando o Construtor de aplicativos Adobe e o evento do Adobe Commerce.
+Saiba mais sobre eventos de Adobe I/O. Nesta demonstração, um evento do Adobe Commerce é enviado para um canal Slack usando o Construtor de aplicativos da Adobe Developer e o evento do Adobe Commerce.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novatos no Adobe Commerce e no Adobe Developer App Builder que usam eventos de E/S devem criar um projeto Adobe App Builder.
+* Desenvolvedores aprendendo a criar aplicativos orientados por eventos com eventos do Adobe Commerce e do Adobe IO.
 
 ## Conteúdo de vídeo {#video-content}
 
-* Saiba mais sobre eventos de ES
-* Possibilidade de enviar eventos para o Amazon Event Bridge
-* Saiba como instalar e configurar o console de Adobe
-* Comandos de Adobe I/O básicos
+* Saiba mais sobre eventos de E/S de Adobe
+* Entenda os diferentes pontos de extremidade para Eventos de E/S de Adobe, incluindo o Amazon EventBridge
+* Saiba como instalar e configurar um projeto do App Builder
+* Usando comandos Adobe I/O na CLI
+* Criar uma ação em tempo de execução para manipular eventos
 * Enviar um evento do Adobe Commerce para um canal Slack
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425834?learn=on)
