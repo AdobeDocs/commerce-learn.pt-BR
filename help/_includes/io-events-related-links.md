@@ -1,9 +1,9 @@
 ---
 title: Páginas relacionadas a eventos de E/S
 description: Links para páginas relacionadas em eventos do IO
-source-git-commit: 050a321cd4b47e2658559c5dc459086788eaf223
+source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,7 @@ ht-degree: 0%
 
 ## Tutoriais adicionais relacionados
 
+* [Introdução a eventos de E/S](../io-events/getting-started-io-events.md)
 * [Instalação do Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
 * [Instalação do Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
 * [Criar um projeto do App Builder](../io-events/create-app-builder-project.md)
