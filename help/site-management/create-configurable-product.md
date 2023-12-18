@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: 76716d4c9530963f198a855e101c76b6374c6d75
+source-git-commit: f3ec375c2332bfae98970d7e10a6a7ad258386e3
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '952'
 ht-degree: 0%
 
 ---
@@ -144,7 +144,6 @@ Antes de enviar a solicitação, atualize o exemplo com os valores do seu ambien
 - Alterar `"attribute_set_id": 10,` e substituir `10` com a id do conjunto de atributos de em seu ambiente.
 - Alterar `"value": "14"` e substituir `14` com o valor do seu ambiente.
 
-
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
@@ -179,7 +178,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Criar o terceiro produto simples usando o cURL
 
-Crie o terceiro produto simples usando a API para enviar a seguinte solicitação de POST usando cURL.
+Crie o terceiro produto simples enviando a seguinte solicitação de POST usando cURL.
 
 Antes de enviar a solicitação, atualize o exemplo com os valores do seu ambiente.
 
@@ -220,7 +219,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Criar um produto configurável vazio usando o cURL
 
-Crie um produto configurável vazio usando a API para enviar a seguinte solicitação de POST usando cURL.
+Crie um produto configurável vazio enviando a seguinte solicitação de POST usando cURL.
 
 Antes de enviar a solicitação, atualize o exemplo com os valores do seu ambiente.
 
@@ -253,7 +252,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Definir as opções disponíveis para o produto configurável
 
-Defina as opções disponíveis para o produto configurável usando a API para enviar a seguinte solicitação de POST usando cURL.
+Defina as opções disponíveis para o produto configurável, enviando a solicitação POST a seguir usando cURL.
 
 Antes de enviar a solicitação, altere `"attribute_id": 93,` para substituir `93` com a id de atributo do seu ambiente.
 
@@ -289,7 +288,7 @@ Agora, você criou três produtos simples:
 - `"Kids-Hawaiian-Ukulele-Blue"`
 - `"Kids-Hawaiian-Ukulele-Green"`
 
-Adicione esses produtos simples como filhos do produto configurável usando a API para enviar a seguinte solicitação de POST para cada produto. Envie uma solicitação separada para cada produto.
+Adicione esses produtos simples como filhos do produto configurável enviando a solicitação POST a seguir. Envie uma solicitação separada para cada produto.
 
 Para cada solicitação, atualize o `childSKU` com o valor do produto filho que você está adicionando. O exemplo a seguir atribui o produto simples `kids-Hawaiian-Ukulele-red` ao produto configurável com o SKU `Kids-Hawaiian-Ukulele-red`.
 
@@ -307,7 +306,7 @@ curl --location '{{your.url.here}}rest/default/V1/configurable-products/Kids-Haw
 
 ## Obter um produto configurável usando o cURL
 
-Agora que você criou um produto configurável com três SKUs secundárias atribuídas. Você pode ver as IDs vinculadas dos produtos atribuídos pela API para enviar a seguinte solicitação do GET usando cURL. Esta solicitação retorna informações detalhadas sobre o produto configurável.
+Agora que você criou um produto configurável com três SKUs secundárias atribuídas. Você pode ver as IDs vinculadas dos produtos atribuídos enviando a seguinte solicitação do GET usando o cURL. Esta solicitação retorna informações detalhadas sobre o produto configurável.
 
 ```json
 ...
@@ -328,7 +327,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## Obter o produto filho associado a um produto configurável
 
-Essa solicitação retorna somente os filhos associados ao produto configurável. Essa resposta tem todos os atributos do produto filho, incluindo SKU e preço.
+Retorne somente os filhos associados ao produto configurável enviando a solicitação GET a seguir. A resposta incluirá todos os atributos do produto secundário, incluindo SKU e preço.
 
 O seguinte usa o método GET
 
@@ -339,9 +338,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-ha
 
 ## Excluir ou remover um produto filho do configurável pai
 
-Você pode remover um produto filho de um produto configurável sem excluir o produto do catálogo usando a API para enviar a seguinte solicitação de DELETE usando cURL.
-
-O seguinte usa o método DELETE
+Você pode remover um produto filho de um produto configurável sem excluir o produto do catálogo enviando a seguinte solicitação de DELETE usando cURL.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
