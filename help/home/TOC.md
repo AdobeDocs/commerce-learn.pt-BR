@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 4d6b9e8fcdd7f544075ff9bb28fd95e28ab3d6a4
+source-git-commit: 7ffd5c0edaa446f8841e15012ff4a0ff4923466b
 workflow-type: tm+mt
-source-wordcount: '569'
+source-wordcount: '578'
 ht-degree: 3%
 
 ---
@@ -79,7 +79,10 @@ ht-degree: 3%
    + [Adicionar sites, lojas e visualizações de loja](../site-management/add-websites-stores-views.md)
    + [Alterar um URL de loja](../site-management/change-store-url.md)
    + [Métodos de envio e entrega](../site-management/shipping-delivery.md)
-   + [Usar serviços de pagamento](../site-management/payment-services.md)
+   + Serviços da Adobe Commerce {#adobe-commerce-services}
+      + [Configurar Conector de Serviço](../site-management/configure-adobe-commerce-services-connector.md)
+      + [Configurar serviços de pagamento](../site-management/configure-adobe-payment-services.md)
+      + [Usar serviços de pagamento](../site-management/payment-services.md)
 + Gerenciamento de clientes {#customers}
    + [Criar segmentos de clientes](../site-management/customer-segments.md)
    + [Criar Grupos de Clientes](../site-management/customer-groups.md)
