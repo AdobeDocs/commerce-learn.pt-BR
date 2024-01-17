@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 07ffd14ee86e8491b883747c80f275deecc97946
+source-git-commit: 762d80791687787c6204160cbd81c9654bc187f6
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '584'
 ht-degree: 3%
 
 ---
@@ -113,7 +113,7 @@ ht-degree: 3%
    + [Configurar o Recommendations do produto](../site-management/product-recommendations.md)
    + [Introdução ao Live Search](../site-management/live-search.md)
    + [Live Search para recomendações](../site-management/live-search-recommendations.md)
-
+   + [Integrar o Commerce ao AJO](../site-management/integrate-commerce-ajo.md)
 + Pedidos e Atendimento {#orders}
    + [Visão geral de fornecimento da loja](../site-management/store-fulfillment.md)
    + [Gerenciar status do pedido](../site-management/order-status.md)
