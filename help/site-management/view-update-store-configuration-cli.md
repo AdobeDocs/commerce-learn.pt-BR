@@ -1,6 +1,6 @@
 ---
-title: Saiba como visualizar e definir configurações do administrador usando a linha de comando
-description: Uma demonstração de como visualizar e definir valores de configuração usando a linha de comando
+title: Exibir e definir as configurações do administrador usando a linha de comando
+description: Saiba como visualizar e definir configurações do administrador usando a linha de comando.
 feature: Configuration,Console,System
 topic: Administration,Commerce
 role: Developer
@@ -10,15 +10,15 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: 9d4b01d383e5492ccc0cbd27636a49581e8ffb5b
+source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
 workflow-type: tm+mt
-source-wordcount: '159'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
 
-# Saiba como visualizar e definir configurações do administrador usando a linha de comando
+# Exibir e definir as configurações do administrador usando a linha de comando
 
 Uma demonstração de como visualizar, definir e encontrar valores de configuração com a CLI do Commerce. Entenda onde os valores são salvos e também de onde vêm os valores padrão.
 
