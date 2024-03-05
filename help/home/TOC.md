@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 34060de13d4d5cbb36d8edddf8033410c0c54da7
+source-git-commit: d8c18fd7ae141739112bebe60edea348802684f9
 workflow-type: tm+mt
-source-wordcount: '609'
+source-wordcount: '614'
 ht-degree: 3%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 3%
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
    + Integração técnica e transferência de hardware {#technical-onboarding-hardware-handoff}
       + [Linha do tempo do processo de inicialização](../cloud/launch-process-timeline.md)
+      + [Práticas recomendadas de infraestrutura e desenvolvimento](../cloud/infrastructure-development-best-practices.md)
 + Introdução {#getting-started}
    + [!DNL Commerce] Nuvem{#cloud}
       + [1 - Visão geral](../cloud/1-overview.md)
