@@ -1,5 +1,5 @@
 ---
-title: Saiba como se conectar e executar consultas no banco de dados do Adobe Commerce
+title: Conectar e executar consultas no banco de dados
 description: Saiba mais sobre vários métodos de conexão com um projeto de nuvem do Adobe Commerce. Saiba como baixar um banco de dados para usar externamente. Saiba mais sobre alguns métodos para mascarar PII e removê-las.
 feature: Backend Development,Console,Cloud
 topic: Commerce,Development
@@ -10,18 +10,17 @@ duration: 0
 last-substantial-update: 2024-02-14T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
-source-git-commit: 8499cae40bc14bfc505f0a84c7f481eddd80589b
+exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
+source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1047'
 ht-degree: 0%
 
 ---
 
-
-# Saiba como se conectar e executar consultas no banco de dados do Adobe Commerce
+# Conectar e executar consultas no banco de dados do Adobe Commerce
 
 Neste tutorial, você aprenderá a se conectar a um projeto do Adobe Commerce na nuvem, despejar um banco de dados para uso externo e mascarar as PII e removê-las.
-
 
 Você pode acessar os dados do Adobe Commerce do seu projeto na nuvem usando um dos seguintes métodos:
 
@@ -378,4 +377,3 @@ MariaDB [main]>
 [Configurar o serviço MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [Configurar uma conexão remota com o banco de dados MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
 [Criar despejo de banco de dados no Adobe Commerce na infraestrutura em nuvem](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
-
