@@ -11,15 +11,15 @@ last-substantial-update: 2024-02-27T00:00:00Z
 jira: KT-14941
 kt: 14941
 thumbnail: KT-14941.jpeg
-source-git-commit: e47331eb080318c164aa7c0f9841ddb47d4e320a
+exl-id: e68a8389-2cdc-495b-829b-24ea7502f66f
+source-git-commit: eae2b8a2eb815ff1b32a80dbd0f29fbfa82a0dc0
 workflow-type: tm+mt
-source-wordcount: '63'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-
-# Integração técnica e transferência de hardware do Adobe Commerce Cloud - Cronograma do processo de inicialização
+# Integração técnica - Cronograma do processo de inicialização
 
 Saiba mais sobre a integração técnica do Adobe Commerce Cloud para a linha do tempo do processo de lançamento.
 
