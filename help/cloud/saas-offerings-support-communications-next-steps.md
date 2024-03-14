@@ -7,15 +7,16 @@ role: Architect, Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2024-03-12T00:00:00Z
+last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
-source-git-commit: 1473a123dcae27b9016d999127de5216e3116441
+source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
 
 ---
+
 
 # Integração técnica - implantações, testes, monitoramento e segurança
 

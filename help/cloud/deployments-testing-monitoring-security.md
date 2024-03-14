@@ -10,12 +10,13 @@ duration: 0
 last-substantial-update: 2024-03-08T00:00:00Z
 jira: KT-15020
 kt: 15020
-source-git-commit: 9be9bd9e00984fc7ba2721ad423b802520906934
+source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
+
 
 # Integração técnica - implantações, testes, monitoramento e segurança
 
