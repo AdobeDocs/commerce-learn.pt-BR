@@ -1,9 +1,9 @@
 ---
 title: Páginas relacionadas à integração técnica do Adobe Commerce Cloud
 description: Links para páginas relacionadas na integração técnica do Adobe Commerce Cloud
-source-git-commit: 4ab9dab5562a9d150c238a6ca3e543e013ad0305
+source-git-commit: b2c29af209b5c45ed2f562cb6eafaffcd96678aa
 workflow-type: tm+mt
-source-wordcount: '53'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,6 @@ ht-degree: 0%
 
 ## Tutoriais adicionais relacionados
 
-- [Iniciar processo de linha do tempo](../cloud/launch-process-timeline.md)
 - [Práticas recomendadas de infraestrutura e desenvolvimento](../cloud/infrastructure-development-best-practices.md)
 - [Fastly](../cloud/fastly.md)
 - [Configuração e depuração](../cloud/configuration-and-debugging.md)
