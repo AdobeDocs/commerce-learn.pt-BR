@@ -9,14 +9,14 @@ doc-type: Technical Video
 duration: 3511
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15465
-source-git-commit: 8dc88a35e720390d60d7b1f6728430dd7e67fbaa
+source-git-commit: fd5b387c1ac8f207d866ae7a3b95c5c28055a744
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '394'
 ht-degree: 0%
 
 ---
 
-# Redução do índice para integrações do Adobe Commerce
+# Planejamento da implementação moderna do Adobe Commerce
 
 Este webinário fornece uma visão geral abrangente de vários tópicos relacionados ao Adobe Commerce, incluindo serviço de catálogo, noções básicas sobre a arquitetura do cliente e Edge Delivery Services. &#x200B;Os tópicos incluem recursos e benefícios novos ou existentes de cada serviço, como pesquisa em tempo real e recomendações de produtos no Catálogo da Adobe Commerce como um serviço, análise de APIs e fluxo de dados para entender a arquitetura do cliente, além do alto desempenho e da baixa latência dos Edge Delivery Services. Além disso, o documento menciona a importância de ter documentos padrão e uma lista de perguntas ao interagir com os clientes, bem como o conceito de arquitetura de referência global (GRA) para a criação eficiente de projetos.
 
