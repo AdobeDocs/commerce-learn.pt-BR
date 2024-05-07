@@ -9,13 +9,14 @@ doc-type: Technical Video
 duration: 0
 last-substantial-update: 2024-04-26T00:00:00Z
 jira: KT-15393
-source-git-commit: 2a3f7c3befeea07099b27906f79f5d9897429500
+auto-video-transcripts: true
+exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
+source-git-commit: ab03d494c259a870c0ce311f904fabd726274ff5
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
 
 ---
-
 
 # Redução do índice para integrações do Adobe Commerce
 
