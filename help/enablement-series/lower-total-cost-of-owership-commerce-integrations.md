@@ -6,12 +6,12 @@ topic: Architecture, Commerce, Integrations, Performance
 role: Architect, Data Architect, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 0
+duration: 3558
 last-substantial-update: 2024-04-26T00:00:00Z
 jira: KT-15393
 auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
-source-git-commit: ab03d494c259a870c0ce311f904fabd726274ff5
+source-git-commit: 32f748b0489f165f43cbebb025709ad4cf929d61
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
