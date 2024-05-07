@@ -1,9 +1,9 @@
 ---
 title: Links relacionados à Série de ativação
 description: Links para páginas relacionadas na série de ativação
-source-git-commit: 8dc88a35e720390d60d7b1f6728430dd7e67fbaa
+source-git-commit: 88a50f1377207b99b524fb29017bc0cfe296d524
 workflow-type: tm+mt
-source-wordcount: '34'
+source-wordcount: '43'
 ht-degree: 0%
 
 ---
@@ -14,3 +14,4 @@ ht-degree: 0%
 
 * [Menor índice para integrações do Adobe Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
 * [Planejamento da implementação moderna do Adobe Commerce](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
+* [Iniciar, pós-lançamento, monitoramento e solução de problemas do Adobe Commerce Cloud](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
