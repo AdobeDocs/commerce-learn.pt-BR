@@ -1,6 +1,6 @@
 ---
 title: Adobe Commerce launch, pós-lançamento e monitoramento e solução de problemas contínuos
-description: Este tutorial fornece práticas recomendadas e dicas para preparar e iniciar um site. Escolher o ambiente de preparo certo, fornecer detalhes relevantes em tíquetes de suporte e usar a mesma ferramenta de monitoramento que a equipe de suporte para melhorar a comunicação. Destaque a necessidade de testes minuciosos dos sistemas periféricos, como processadores de pagamento, e do planejamento de possíveis problemas de produção, como gargalos de desempenho e aquecimento do cache. Também são enfatizados a comunicação eficaz, o planejamento pró-ativo e a compreensão do modelo de responsabilidade compartilhada. Seguindo essas práticas recomendadas, os lançamentos de sites da Web podem ser mais simples e bem-sucedidos.
+description: Conheça as práticas recomendadas e dicas para preparar e iniciar um site. Saiba mais sobre como escolher o ambiente de preparo certo, fornecer detalhes relevantes em tíquetes de suporte e usar a mesma ferramenta de monitoramento que a equipe de suporte para melhorar a comunicação.
 feature: Best Practices, Cloud
 topic: Architecture, Commerce, Performance
 role: Architect, Data Architect, Leader
@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 3483
 last-substantial-update: 2024-05-07T00:00:00Z
 jira: KT-15467
-source-git-commit: 88a50f1377207b99b524fb29017bc0cfe296d524
+exl-id: e3748ec2-b449-4cc2-927d-e7ba4f4dbaf8
+source-git-commit: 0822d94079879592bd88fd0fb318ce5fd143f487
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
