@@ -11,7 +11,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-source-git-commit: 8ef4b0e0a0e4dfffdef8759e4ac7659ed854fae2
+source-git-commit: eba043cd4169cd762653557bf9283b8d6a208ef0
 workflow-type: tm+mt
 source-wordcount: '584'
 ht-degree: 0%
@@ -73,7 +73,7 @@ Este exemplo mostra como criar um produto para download usando cURL quando o arq
 curl --location '{{your.url.here}}/rest/default/V1/products' \
 --header 'Content-Type: application/json' \
 --header 'Authorization: Bearer {{Your Bearer Token}}' \
---header 'Cookie: PHPSESSID=b78cae2338f12d846d233d4e9486607e; private_content_version=564dde2976849891583a9a649073f01e' \
+--header 'Cookie: PHPSESSID=b78cae2338f12d846d233d4e9486607e; private_content_version=564dde2976849891583a9a649073f01' \
 --data '{
   "product": {
     "sku": "POSTMAN-download-product-1",
