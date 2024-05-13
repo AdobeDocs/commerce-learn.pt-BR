@@ -10,22 +10,22 @@ duration: 0
 last-substantial-update: 2024-03-14T00:00:00Z
 jira: KT-15022
 kt: 15022
-source-git-commit: cebfa71f156a77fcfee57d5e9d0048b1326d4e27
+exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
+source-git-commit: d5516a6d22105deab84a5b4c303c55448d156135
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '273'
 ht-degree: 0%
 
 ---
 
-
-# Integração técnica - implantações, testes, monitoramento e segurança
+# Integração técnica - ofertas de SaaS
 
 Saiba mais sobre as ofertas, o suporte e outras comunicações do Adobe Commerce Cloud SaaS e algumas das próximas etapas.
 
 ## Para quem é este vídeo?
 
 - Gerentes de sites
-- Arquitetos comerciais
+- Arquitetos da Commerce
 - Proprietários do site de comércio eletrônico
 
 ## Conteúdo de vídeo
@@ -81,7 +81,7 @@ Saiba mais sobre as ofertas, o suporte e outras comunicações do Adobe Commerce
 - [Construtor de aplicativos](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/adobe-developer-app-builder/app-builder-technical-overview.html)
 - [Responsabilidade compartilhada](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
 - [Acesso aos dados e privacidade do cliente](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
-- [Certificações do Commerce](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
+- [Certificações Commerce](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
 - [Cursos de aprendizado do Commerce](https://learning.adobe.com/catalog.html?products=Commerce)
 - [Fórum da comunidade do Commerce](https://community.magento.com/)
 -= [Configurar o Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
