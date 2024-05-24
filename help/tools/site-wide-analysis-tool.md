@@ -9,10 +9,12 @@ feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
 role: Architect, Developer, Admin
 level: Beginner, Intermediate
+KT: 15599
+duration: 101
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 12cbb2929137778d82b707376da0e0250dae2c8b
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -28,7 +30,7 @@ A Ferramenta de análise do site é uma ferramenta de autoatendimento proativa e
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344001?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
 
 ## Recursos adicionais
 
