@@ -7,20 +7,29 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 0
-last-substantial-update: 2024-02-14T00:00:00Z
+last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
 thumbnail: KT-14910.jpeg
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: a951f61ff71ad3777f8aebfa3c237b2ec1a4b1a5
+source-git-commit: 435364592c0b609b3c379bb58df80e2691c82d40
 workflow-type: tm+mt
-source-wordcount: '1047'
+source-wordcount: '1143'
 ht-degree: 0%
 
 ---
 
 # Conectar e executar consultas no banco de dados do Adobe Commerce
 
-Neste tutorial, você aprenderá a se conectar a um projeto do Adobe Commerce na nuvem, despejar um banco de dados para uso externo e mascarar as PII e removê-las.
+Saiba como se conectar a um projeto do Adobe Commerce na nuvem, criar um despejo de banco de dados para uso externo e lidar com Informações de identificação pessoal (PII) mascarando-as ou removendo-as. Saiba mais sobre como acessar dados do Adobe Commerce usando vários métodos, incluindo despejos de BD local, conexões de DB remota com aplicativos como MySQL Workbench ou TablesPlus e conexões diretas pela ferramenta Magento Cloud CLI.
+
+## Conteúdo do vídeo
+
+* Saiba como se conectar rapidamente a um projeto remoto do Adobe Commerce Cloud usando uma ferramenta como MysqlWorkbench ou TablesPlus.
+* Saiba como se conectar rapidamente ao projeto Adobe Commerce para executar o SQL por meio da linha de comando
+
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+
+Saiba como se conectar a uma Adobe Commerce em um projeto de nuvem, despejar um banco de dados para uso externo e mascarar as PII e removê-las.
 
 Você pode acessar os dados do Adobe Commerce do seu projeto na nuvem usando um dos seguintes métodos:
 
