@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 4165664069b889e015bfc4b993dc9975ce3f5385
+source-git-commit: 0b42ffc1c0b55c75fdb7b25b86ec8049edb5db97
 workflow-type: tm+mt
-source-wordcount: '668'
+source-wordcount: '670'
 ht-degree: 2%
 
 ---
@@ -30,9 +30,10 @@ ht-degree: 2%
       + [Aproveitar a arquitetura de referência global](../global-reference-architecture/how-do-you-leverage-global-reference-architecture.md)
       + [Arquiteto GRA](../global-reference-architecture/how-do-you-architect-global-reference-architecture.md)
       + [Implementar a arquitetura de referência global](../global-reference-architecture/how-do-you-implement-global-reference-architecture.md)
-   + Recursos de comércio {#capabilities}
+   + Recursos do Commerce {#capabilities}
       + [Conexão de dados](../capabilities/data-connection.md)
       + [Demonstração completa do Live Search](../capabilities/live-search-full-demonstration.md)
+      + [Commerce combinável](../capabilities/what-is-composable-commerce.md)
    + Criar produtos {#create-products}
       + [Produto simples](../site-management/create-simple-product.md)
       + [Produto virtual](../site-management/create-virtual-product.md)
@@ -54,10 +55,10 @@ ht-degree: 2%
    + [Consultas](../graphql-rest/graphql-queries.md)
    + [Mutações](../graphql-rest/graphql-mutations.md)
    + [Esquema](../graphql-rest/graphql-schema.md)
-+ Construtor de aplicativos Adobe Developer {#adobe-developer-app-builder}
++ Adobe Developer App Builder {#adobe-developer-app-builder}
    + [Introdução ao App Builder](../app-builder/introduction-to-app-builder.md)
    + [Estrutura de extensibilidade do App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-   + [Demonstração funcional para o App Builder](../app-builder/app-builder-functional-demonstration.md)
+   + [Demonstração funcional do App Builder](../app-builder/app-builder-functional-demonstration.md)
    + [Visão geral técnica do App Builder](../app-builder/app-builder-technical-overview.md)
    + [Enviar aplicativo para o Marketplace](../app-builder/submit-app-process.md)
    + Crie seu primeiro aplicativo App Builder {#first-app}
@@ -126,7 +127,7 @@ ht-degree: 2%
    + [Configurar o Recommendations do produto](../site-management/product-recommendations.md)
    + [Introdução ao Live Search](../site-management/live-search.md)
    + [Live Search para recomendações](../site-management/live-search-recommendations.md)
-   + [Integrar o Commerce ao AJO](../site-management/integrate-commerce-ajo.md)
+   + [Integrar o Commerce com o AJO](../site-management/integrate-commerce-ajo.md)
 + Pedidos e Atendimento {#orders}
    + [Visão geral de fornecimento da loja](../orders-and-fulfillment/store-fulfillment.md)
    + [Gerenciar status do pedido](../orders-and-fulfillment/order-status.md)
