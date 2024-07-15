@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: fc5a7cd3-905a-49ac-86b8-215dd8c36d73
 source-git-commit: 85cd8ab916d2125333d5fe11affeab7620f7f6b1
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -35,5 +35,5 @@ O armazenamento temporário de conteúdo oferece à sua equipe de negócios a ca
 
 ## Recursos adicionais
 
-- [Preparo de conteúdo - [!DNL Commerce] Guia de design e conteúdo](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
-- [Visualizar uma campanha - [!DNL Commerce] Guia de design e conteúdo](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}
+- [Preparo de Conteúdo - [!DNL Commerce] Guia de Conteúdo e Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging.html){target="_blank"}
+- [Visualizar uma Campanha - [!DNL Commerce] Guia de Conteúdo e Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/staging/content-staging-preview.html){target="_blank"}

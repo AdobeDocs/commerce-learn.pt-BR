@@ -23,7 +23,7 @@ ht-degree: 0%
 
 Esta demonstração funcional descreve o App Builder e seus possíveis casos de uso para o Adobe Commerce. Este vídeo fornece uma introdução à estrutura de extensibilidade, aos principais benefícios para o cliente e aos recursos.
 
-## Construtor de aplicativos para Adobe Commerce {#app-builder-extensibility}
+## App Builder para Adobe Commerce {#app-builder-extensibility}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413328?learn=on)
 

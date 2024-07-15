@@ -1,7 +1,7 @@
 ---
 title: Construtores de aplicativos criam seu primeiro aplicativo
-description: Saiba mais sobre o Construtor de aplicativos da Adobe Developer usando o Adobe Commerce e crie seu primeiro aplicativo.
-landing-page-description: Saiba mais sobre o Construtor de aplicativos da Adobe Developer usado com o Adobe Commerce e crie seu primeiro aplicativo.
+description: Saiba mais sobre o Adobe Developer App Builder usando o Adobe Commerce e crie seu primeiro aplicativo.
+landing-page-description: Saiba mais sobre o Adobe Developer App Builder usado com o Adobe Commerce e crie seu primeiro aplicativo.
 kt: 12421
 doc-type: tutorial
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -22,14 +22,14 @@ ht-degree: 0%
 
 Este tutorial tem os seguintes pré-requisitos:
 
-* O acesso ao console do Adobe Developer foi concluído
-* Acesso total ou acesso de avaliação ao App Builder foi concedido
+* O acesso ao Adobe Developer Console foi concluído
+* O acesso total ou de avaliação ao App Builder foi concedido
 * [O aplicativo Adobe Developer App Builder foi criado](https://developer.adobe.com/app-builder/docs/getting_started/first_app/){target="_blank"}
-* [O projeto do App Builder do Adobe Developer foi criado](https://developer.adobe.com/console){target="_blank"}
-* [Os espaços de trabalho do Construtor de aplicativos do Adobe Developer foram criados - Etapa 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
-* [Os comandos da CLI AIO para inicializar o projeto e executar foram executados](https://developer.adobe.com/runtime){target="_blank"}
+* [O projeto do Adobe Developer App Builder foi criado](https://developer.adobe.com/console){target="_blank"}
+* [Os espaços de trabalho do Adobe Developer App Builder foram criados - Etapa 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
+* [Os comandos da CLI do AIO para inicializar o projeto e executar foram executados](https://developer.adobe.com/runtime){target="_blank"}
 
-Para obter mais informações sobre como criar seu primeiro aplicativo App Builder, você pode exibir a seguinte publicação do blog para ajudá-lo com essa configuração e configuração iniciais [Como o App Builder ajuda a impulsionar a agilidade comercial para sua plataforma de comércio](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
+Para obter mais informações sobre como criar seu primeiro aplicativo do App Builder, você pode exibir a seguinte publicação do blog para ajudá-lo com esta configuração e esta configuração iniciais [Como o App Builder ajuda a impulsionar a agilidade comercial para sua plataforma de comércio](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
 
 ## O que esperar da leitura deste tutorial
 
@@ -37,7 +37,7 @@ Quando você concluir este tutorial, deverá ter um aplicativo de página única
 
 ## Como devo seguir este tutorial
 
-Este tutorial foi projetado para que você siga a ordem das páginas na navegação à esquerda. No entanto, isso não é um requisito. Cada página pode ser visualizada individualmente, pois ela discute o conceito geral de criação de um aplicativo inicial do Construtor de aplicativos da Adobe Developer.
+Este tutorial foi projetado para que você siga a ordem das páginas na navegação à esquerda. No entanto, isso não é um requisito. Cada página pode ser visualizada individualmente, pois ela discute o conceito geral de criação de um aplicativo Adobe Developer App Builder inicial.
 
 ## Para quem é este vídeo?
 

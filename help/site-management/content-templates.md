@@ -12,8 +12,8 @@ level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 1%
+source-wordcount: '91'
+ht-degree: 0%
 
 ---
 
@@ -32,5 +32,5 @@ Usar modelos economiza tempo e esforço ao criar conteúdo (ou substituir conte�
 
 ## Recursos adicionais
 
-- [[!DNL Page Builder] Templates - [!DNL Page Builder] Guia do usuário](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
-- [Adicionar modelos - [!DNL Page Builder] Guia do desenvolvedor](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)
+- [[!DNL Page Builder] Modelos - [!DNL Page Builder] Guia do Usuário](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+- [Adicionar modelos - [!DNL Page Builder] Guia do Desenvolvedor](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

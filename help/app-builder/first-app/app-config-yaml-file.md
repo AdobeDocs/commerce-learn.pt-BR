@@ -1,7 +1,7 @@
 ---
 title: O arquivo app.config.yaml
 description: Saiba mais sobre os tipos de arquivos no arquivo app.config.yaml para este aplicativo de amostra.
-landing-page-description: Saiba mais sobre o Construtor de aplicativos da Adobe Developer usado com o Adobe Commerce e quais tipos de arquivos são inseridos no app.config.yaml.
+landing-page-description: Saiba mais sobre o Adobe Developer App Builder usado com o Adobe Commerce e quais tipos de arquivos são inseridos no app.config.yaml.
 kt: 12929
 doc-type: tutorial
 audience: all
@@ -28,8 +28,8 @@ Esse arquivo determina a configuração do aplicativo.
 
 ## Conteúdo de vídeo
 
-* A variável `app.config.yaml` arquivo discutido
-* Como as definições são vinculadas a outras `.js` arquivos
+* O arquivo `app.config.yaml` foi discutido
+* Como as definições estão vinculadas a outros arquivos do `.js`
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416592?quality=12&learn=on)
 
@@ -53,7 +53,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-Você pode ver esses valores estáticos sendo usados no módulo de amostra no arquivo `actions/commerce.index.js`
+Você pode ver esses valores estáticos sendo usados no módulo de exemplo no arquivo `actions/commerce.index.js`
 
 ```javascript
         const oauth = getCommerceOauthClient(

@@ -1,8 +1,8 @@
 ---
 title: Demonstração funcional do App Builder
-description: Saiba mais sobre o Construtor de aplicativos do Adobe Developer usado no Adobe Commerce com uma demonstração técnica
-landing-page-description: Saiba mais sobre o Construtor de aplicativos do Adobe Developer usado no Adobe Commerce com uma demonstração técnica
-short-description: Saiba mais sobre o Construtor de aplicativos do Adobe Developer usado no Adobe Commerce com uma demonstração técnica
+description: Saiba mais sobre o Adobe Developer App Builder usado no Adobe Commerce com uma demonstração técnica
+landing-page-description: Saiba mais sobre o Adobe Developer App Builder usado no Adobe Commerce com uma demonstração técnica
+short-description: Saiba mais sobre o Adobe Developer App Builder usado no Adobe Commerce com uma demonstração técnica
 kt: 11762
 doc-type: tutorial
 audience: all
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 # Demonstração funcional do App Builder
 
-Para saber mais sobre como usar o Adobe Commerce com o App Builder, assista ao vídeo abaixo que mostra como conectar o Adobe Commerce ao Amazon Seller Central. Esta demonstração usa eventos do Adobe Commerce que são consumidos pelo App Builder para permitir a integração contínua com o Amazon Marketplace. Esta demonstração funcional descreve como essa integração funciona e explora o potencial do Construtor de aplicativos Adobe.
+Para saber mais sobre como usar o Adobe Commerce com App Builder, assista ao vídeo abaixo que mostra como conectar o Adobe Commerce à Amazon Seller Central. Esta demonstração usa eventos do Adobe Commerce que são consumidos pelo App Builder para permitir a integração contínua com o Amazon Marketplace. Esta demonstração funcional descreve como essa integração funciona e explora o potencial do Adobe App Builder.
 
-## Construtor de aplicativos para Adobe Commerce {#app-builder-functional-demonstration}
+## App Builder para Adobe Commerce {#app-builder-functional-demonstration}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413502?learn=on)
 

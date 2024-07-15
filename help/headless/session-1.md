@@ -9,10 +9,10 @@ feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
 role: Architect, Developer, User
 level: Beginner, Intermediate
-exl-id: 49dd1397-7b94-43d8-b8e1-96d654f68b64
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---

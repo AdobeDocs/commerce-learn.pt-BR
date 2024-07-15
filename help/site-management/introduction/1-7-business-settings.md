@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Configurações da loja"
+title: "[!DNL Commerce] para usuários empresariais - Configurações de armazenamento"
 description: Saiba mais sobre configurações de local, informações de loja, URLs seguros e não seguros, título do site, logotipo, informações de direitos autorais, logotipos de email de comunicação, endereços de email de loja, opções de moeda e taxas de moeda.
 kt: 5764
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: c4b78f66-26eb-4b7e-950d-f2a8ebab9783
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuários empresariais - Configurações da loja
+# [!DNL Commerce] para usuários empresariais - Configurações de loja
 
 Neste vídeo:
 
@@ -39,10 +39,10 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35949?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Detalhes da loja - [!DNL Commerce] Guia de introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)
+[Detalhes da loja - [!DNL Commerce] Guia de Introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/store-details.html)

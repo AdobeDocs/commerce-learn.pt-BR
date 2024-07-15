@@ -21,7 +21,8 @@ ht-degree: 0%
 
 # Integrações e configurações do Adobe Commerce Intelligence
 
-O tutorial fornece uma visão geral da guia Gerenciar dados no Adobe Commerce Intelligence, explicando como configurar integrações, Data Warehouse e recursos de relatórios. &#x200B;
+O tutorial fornece uma visão geral da guia Gerenciar dados no Adobe Commerce Intelligence, explicando como configurar integrações, Data Warehouse e recursos de relatórios.
+&#x200B;
 Ele discute as opções de integrações, incluindo integrações pré-construídas, integrações padrão, integrações premium e a capacidade de adicionar integrações personalizadas.
 O documento também aborda o processo de sincronização de tabelas com a Data Warehouse, adição de novas tabelas e colunas e criação de métricas e filtros para fins de relatório.
 

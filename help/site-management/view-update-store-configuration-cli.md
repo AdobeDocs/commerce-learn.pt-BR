@@ -10,17 +10,17 @@ duration: 462
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 thumbnail: KT-14877.jpeg
-source-git-commit: a5ddf7591519b89efa2feb20ae601d36f5e5a1a7
+exl-id: 6cecba51-8d39-46f5-9864-80126d8ca3da
+source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
 
 ---
 
-
 # Exibir e definir as configurações do administrador usando a linha de comando
 
-Uma demonstração de como visualizar, definir e encontrar valores de configuração com a CLI do Commerce. Entenda onde os valores são salvos e também de onde vêm os valores padrão.
+Uma demonstração de como visualizar, definir e encontrar valores de configuração com a Commerce CLI. Entenda onde os valores são salvos e também de onde vêm os valores padrão.
 
 ## Para quem é este vídeo?
 
@@ -63,5 +63,5 @@ Para exibir uma página no terminal e mostrar os números de linha `cat -n vendo
 
 ## Recursos adicionais
 
-- [Ferramenta de linha de comando](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+- [Ferramenta de Linha de Comando](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
 - [Configurar a segurança do administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

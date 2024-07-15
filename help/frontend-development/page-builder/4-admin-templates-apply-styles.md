@@ -1,6 +1,6 @@
 ---
 title: Page Builder para desenvolvedores - Modelos e estilos
-description: "[!DNL Admin] e tarefas de temática de preparo. Criar [!DNL Admin] modelos​. Aplique estilos a tipos de conteúdo no palco (visualização ao vivo)."
+description: "[!DNL Admin] e tarefas de temas de estágio. Criar  [!DNL Admin] modelos​. Aplique estilos a tipos de conteúdo no palco (visualização ao vivo)."
 kt: 5653
 doc-type: video
 activity: use
@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: 80f2b14e-41b6-4059-b070-80fe19bb31e0
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Neste vídeo:
 
-- [!DNL Admin] e tarefas de temática de estágio
+- [!DNL Admin] e tarefas de temas de preparo
 - Criar [!DNL Admin] modelos&#x200B;
 - Aplicar estilos a tipos de conteúdo no estágio (visualização em tempo real)
 
@@ -33,7 +33,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->Este conteúdo reflete a versão 1.0.0 do Page Builder para Adobe Commerce 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [Notas de versão do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Este conteúdo reflete a versão 1.0.0 do Page Builder para Adobe Commerce 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35712?quality=12&learn=on)
 

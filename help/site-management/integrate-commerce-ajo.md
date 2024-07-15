@@ -20,13 +20,13 @@ ht-degree: 0%
 
 # Integrar o Adobe Commerce e o Adobe Journey Optimizer
 
-Saiba como usar [Conexão de dados](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} no Adobe Commerce para desbloquear dados do Commerce e fornecer experiências completas e personalizadas de compradores em tempo real com a ajuda da Adobe Journey Optimizer.
+Saiba como você pode usar a [Conexão de Dados](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} no Adobe Commerce para desbloquear dados do Commerce e fornecer experiências completas e personalizadas aos compradores em tempo real com a ajuda da Adobe Journey Optimizer.
 
 ## Para quem é este vídeo?
 
-- Gerentes e operações de comércio eletrônico interessados em compartilhar dados e públicos de comércio eletrônico com equipes de marketing
+- Gerentes e operações de E-Commerce interessados em compartilhar dados e públicos de comércio eletrônico com equipes de marketing
 - Gerentes de marketing que desejam usar os dados do cliente do Commerce para impulsionar ainda mais a personalização em escala
-- Operações de marketing que estão interessadas em aumentar a eficiência com o fluxo de dados automatizado entre o Commerce e o Journey Optimizer
+- Operações de marketing que estão interessadas em aumentar a eficiência com o fluxo de dados automatizado entre o Commerce e a Journey Optimizer
 
 ## Conteúdo de vídeo
 
@@ -41,5 +41,5 @@ Saiba como usar [Conexão de dados](https://experienceleague.adobe.com/docs/comm
 
 ## Recursos adicionais
 
-[Visão geral da conexão de dados](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
+[Visão Geral da Conexão de Dados](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
 [Instalar Conexão de Dados](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}

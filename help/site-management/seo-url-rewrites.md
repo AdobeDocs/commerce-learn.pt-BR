@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ A ferramenta de regravação de URL permite alterar qualquer URL associado a um 
 ## Recursos adicionais
 
 - [Substituições de URL - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
-- [Geral > Web - [!DNL Commerce] Guia de referência de configuração](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)
+- [Geral > Web - [!DNL Commerce] Guia de Referência de Configuração](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)

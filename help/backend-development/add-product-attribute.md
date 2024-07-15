@@ -12,14 +12,14 @@ level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
 workflow-type: tm+mt
-source-wordcount: '287'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
 
 # Criar um atributo de produto
 
-A adição de um atributo de produto é uma das operações mais populares no [!DNL Commerce]. Os atributos são uma maneira avançada de resolver muitas tarefas práticas relacionadas a um produto. Há um processo simples de adicionar um atributo do tipo suspenso a um produto.
+Adicionar um atributo de produto é uma das operações mais populares do [!DNL Commerce]. Os atributos são uma maneira avançada de resolver muitas tarefas práticas relacionadas a um produto. Há um processo simples de adicionar um atributo do tipo suspenso a um produto.
 
 Neste vídeo:
 

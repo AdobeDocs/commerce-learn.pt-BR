@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 74fb5548-a077-4c09-a351-0be830060841
 source-git-commit: abde2b1e7d1fd1fd5387f2564e79b086fb808b2f
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
@@ -36,5 +36,5 @@ Se o recurso Catálogo compartilhado estiver ativado na configuração, o catál
 
 ## Recursos adicionais
 
-- [Trabalhar com catálogos compartilhados](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
-- [Criar um catálogo compartilhado](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}
+- [Trabalhando com Catálogos Compartilhados](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
+- [Criar um Catálogo Compartilhado](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}

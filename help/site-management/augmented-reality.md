@@ -9,13 +9,13 @@ topic: Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Visualizador AR disponível no Commerce Marketplace
-source-git-commit: d1d794a94cc60ad6441d95ff5b372092eeb28402
+exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
-
 
 # Visualizador de realidade aumentada para Adobe Commerce
 
@@ -24,7 +24,7 @@ O Visualizador de AR é uma extensão do Adobe Commerce que traz um novo recurso
 
 O Visualizador AR serve como uma ponte entre o varejo físico e digital, permitindo que os vendedores forneçam uma experiência avançada e interativa ao cliente sem exigir conhecimento técnico extenso ou trabalho manual intensivo. Sua interface amigável é perfeitamente integrada ao administrador do Adobe Commerce, tornando-o uma adição conveniente a qualquer loja online.
 
-O Visualizador de AR serve para [!DNL bridge] a lacuna entre o varejo físico e o digital, permitindo que os vendedores forneçam uma experiência avançada e interativa ao cliente sem exigir extenso conhecimento técnico ou trabalho manual intensivo. Sua interface amigável é perfeitamente integrada ao administrador do Adobe Commerce, tornando-o uma adição conveniente a qualquer loja online.
+O Visualizador AR serve para [!DNL bridge] a lacuna entre o varejo físico e digital, permitindo que os vendedores forneçam uma experiência avançada e interativa ao cliente sem exigir extenso conhecimento técnico ou trabalho manual intensivo. Sua interface amigável é perfeitamente integrada ao administrador do Adobe Commerce, tornando-o uma adição conveniente a qualquer loja online.
 
 ## Recursos
 
@@ -39,7 +39,7 @@ O Visualizador de AR serve para [!DNL bridge] a lacuna entre o varejo físico e 
 ## Adicionar o modelo 3D a um produto
 
 Adicionar um novo modelo 3D ao produto é um processo simples depois que o módulo é instalado na instalação do Adobe Commerce.
-No vídeo a seguir, há uma nova seção que oferece suporte ao upload do `.USDZ` upload de arquivo.
+No vídeo a seguir, há uma nova seção que oferece suporte ao carregamento do arquivo `.USDZ`.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422370?learn=on)
 
@@ -57,10 +57,9 @@ Depois que o visitante digitaliza o código QR com seu dispositivo, o item é so
 
 ## Recursos úteis
 
-[Visualizador de AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[Gerenciar modelos de produto 3D com o Visualizador de AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+[Visualizador AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
+[Gerenciar modelos 3D de produto com o Visualizador de AR do Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Extensão do Adobe Commerce Marketplace
 
 [Visualizador de AR](https://commercemarketplace.adobe.com/magento-module-arviewer.html){target="_blank"}
-

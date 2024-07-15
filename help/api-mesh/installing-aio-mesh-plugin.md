@@ -1,8 +1,8 @@
 ---
 title: Instalação da interface de linha de comando do Adobe I/O Runtime e do plug-in do API Mesh
 description: Saiba como instalar a interface de linha de comando do Adobe I/O Runtime e o plug-in da API Mesh
-landing-page-description: Saiba como usar o Construtor de aplicativos Adobe e instalar o Adobe I/O Runtime com o plug-in de malha de API.
-short-description: Saiba como usar o Construtor de aplicativos Adobe e instalar o Adobe I/O Runtime com o plug-in de malha de API.
+landing-page-description: Saiba como usar o Adobe App Builder e instalar o Adobe I/O Runtime com o plug-in de malha de API.
+short-description: Saiba como usar o Adobe App Builder e instalar o Adobe I/O Runtime com o plug-in de malha de API.
 kt: 11801
 doc-type: tutorial
 audience: all
@@ -14,19 +14,19 @@ level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
 
 # Instalação do plug-in do Adobe I/O Runtime CLI e do Mesh
 
-Antes de começar a usar a API Mesh para o Construtor de aplicativos do Adobe Developer, é necessário instalar o `aio` CLI e o plug-in da API Mesh.
-Para obter instruções de instalação e pré-requisitos, visite a API Mesh [Introdução](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"} página.
+Antes de começar a usar o API Mesh para Adobe Developer App Builder, você precisa instalar o `aio` CLI e o plug-in do API Mesh.
+Para obter instruções de instalação e pré-requisitos, visite a página API Mesh [Introdução](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"}.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novatos na API Mesh ou [!DNL Adobe Commerce] com experiência limitada usando [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e API Mesh.
+* Desenvolvedores novatos na API Mesh ou no [!DNL Adobe Commerce] com experiência limitada usando o [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e a API Mesh.
 
 ## Conteúdo de vídeo
 
@@ -36,9 +36,9 @@ Para obter instruções de instalação e pré-requisitos, visite a API Mesh [In
 
 >[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
-## Instalação do `aio` Plug-in CLI e API Mesh
+## Instalando o plug-in da CLI e da API Mesh do `aio`
 
-Após a instalação `node` e `npm`, execute o seguinte comando para instalar o `aio` CLI:
+Após instalar o `node` e o `npm`, execute o seguinte comando para instalar a CLI do `aio`:
 
 ```bash
 npm install -g @adobe/aio-cli

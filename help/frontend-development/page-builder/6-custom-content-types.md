@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: c5c0c325-9b69-4531-b57d-5d8183f320d8
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->Este conteúdo reflete a versão 1.0.0 do Page Builder para Adobe Commerce 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [Notas de versão do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Este conteúdo reflete a versão 1.0.0 do Page Builder para Adobe Commerce 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35714?quality=12&learn=on)
 

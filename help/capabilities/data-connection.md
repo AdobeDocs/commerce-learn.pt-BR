@@ -9,7 +9,8 @@ feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
-source-git-commit: 35bd4f00555f426223de701586d6e12fb329184d
+exl-id: f17c3be6-8ef2-4972-a8cc-089ff4a2be3b
+source-git-commit: a9712c4354967e8e53c421878be8b83bb6056e6d
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -30,7 +31,7 @@ Saiba como usar a Conexão de dados do Adobe Commerce juntamente com algumas con
 
 ## Conteúdo de vídeo
 
-* Enviar dados comportamentais do Adobe Commerce para outros produtos DX (por exemplo, AJO, Analytics, Target, Real-Time CDP) para tomada de decisão de segmento, enriquecimento de perfil e experiências personalizadas na jornada do cliente.
+* Envio de dados comportamentais do Adobe Commerce para outros produtos DX (por exemplo, AJO, Analytics, Target, Real-Time CDP) para tomada de decisão de segmento, enriquecimento de perfil e experiências personalizadas na jornada do cliente.
 * Públicos-alvo da Real-Time CDP que atualizam e modificam a segmentação em tempo real com base em dados do navegador, dados do lado do servidor (incluindo o histórico de pedidos) e dados de outras fontes (ou seja, dados de fidelidade).
 * Utilização de públicos da Real-Time CDP para personalizar regras de preço do carrinho e blocos dinâmicos no Adobe Commerce.
 

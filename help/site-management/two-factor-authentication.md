@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 33d17977-f02e-492a-ac95-a84f2db3b4d0
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -31,11 +31,11 @@ Para impedir o acesso não autorizado aos seus dados, todos os usuários que ten
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.4.0. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.4.0. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/339104?quality=12&learn=on)
 
 ## Recursos adicionais
 
-- [Autenticação de dois fatores (2FA) - Guia de sistemas do administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
-- [Configuração da autenticação de dois fatores (2FA) - Documentação do desenvolvedor](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)
+- [Autenticação de dois fatores (2FA) - Guia de Sistemas do Administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/2fa/security-two-factor-authentication.html)
+- [Configurando autenticação de dois fatores (2FA) - Documentação para desenvolvedores](https://developer.adobe.com/commerce/testing/functional-testing-framework/two-factor-authentication/)

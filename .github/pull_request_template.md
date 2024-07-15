@@ -1,7 +1,7 @@
 ---
 source-git-commit: 2c20b58f285f116cd9ddfaa82df98c5f24ebeb47
 workflow-type: tm+mt
-source-wordcount: '138'
+source-wordcount: '126'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 - [ ] Correção de erros (alteração ininterrupta que corrige um problema)
 - [ ] Novo recurso (alteração ininterrupta que adiciona funcionalidade)
-- [ ] Quebra de alteração (correção ou recurso que faria com que a funcionalidade existente fosse alterada)
+- [ ] Interrupção de alteração (correção ou recurso que faria com que a funcionalidade existente fosse alterada)
 
 ## Lista de verificação:
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] Você seguiu o [Padrões de nomenclatura](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
+- [ ] Você seguiu os [Padrões de Nomenclatura](https://wiki.corp.adobe.com/display/DMSArchitecture/Naming+Standards)
 - [ ] O índice e a correspondência H1 de cada página que está sendo criada ou atualizada.
 - [ ] O índice e o H1 têm uma ação associada a ele, por exemplo: Saiba como criar uma solicitação de pull do GutHub
 - [ ] Nada deve ser monoespaçado em H1
 - [ ] Cada título de página deve começar com uma letra ***C***apitol
-- [ ] Eu verifiquei se algum vídeo deveria ter capítulos
-- [ ] Todos os vídeos têm um pôster atribuído para representar o vídeo corretamente
-- [ ] Você usou [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)
+- [ ] Verifiquei se algum vídeo deveria ter capítulos
+- [ ] Todos os vídeos possuem um pôster atribuído para representar o vídeo corretamente
+- [ ] Você usou o [Acrolinx](https://experienceleague.corp.adobe.com/docs/authoring-guide-exl/using/style-guide/acrolinx.html)

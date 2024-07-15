@@ -14,7 +14,7 @@ level: Beginner, Intermediate
 exl-id: 6b59db07-b99e-47ae-9ccb-d4904afc8251
 source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -105,14 +105,14 @@ type Mutation {
 }
 ```
 
-Você pode se aprofundar em [a documentação do GraphQL](https://graphql.org/learn/schema/){target="_blank"} para saber mais sobre os detalhes do sistema do tipo, incluindo a sintaxe para alguns conceitos não representados aqui. O exemplo acima, no entanto, é autoexplicativo. (Além disso, observe como a sintaxe é semelhante à sintaxe de consulta.) A definição de um schema GraphQL é simplesmente uma questão de expressar os argumentos e campos disponíveis de um determinado tipo, juntamente com os tipos desses campos. Cada tipo de campo complexo deve ter uma definição e assim por diante, por meio da árvore, até que você chegue a tipos escalares simples como `String`.
+Você pode analisar a [documentação do GraphQL](https://graphql.org/learn/schema/){target="_blank"} para saber mais sobre os detalhes do sistema do tipo, incluindo a sintaxe de alguns conceitos não representados aqui. O exemplo acima, no entanto, é autoexplicativo. (Além disso, observe como a sintaxe é semelhante à sintaxe de consulta.) A definição de um schema GraphQL é simplesmente uma questão de expressar os argumentos e campos disponíveis de um determinado tipo, juntamente com os tipos desses campos. Cada tipo de campo complexo deve ter uma definição e assim por diante, por meio da árvore, até você chegar a tipos escalares simples como `String`.
 
-A variável `input` declaração é, em todos os aspectos, como uma `type` mas define um tipo que pode ser usado como entrada para um argumento. Observe também que `interface` declaração. Isto serve a uma função mais ou menos igual a interfaces no PHP. Outros tipos são herdados dessa interface.
+A declaração `input` é em todos os aspectos como `type`, mas define um tipo que pode ser usado como entrada para um argumento. Observe também a declaração `interface`. Isto serve a uma função mais ou menos igual a interfaces no PHP. Outros tipos são herdados dessa interface.
 
-A sintaxe `[CartItemInput!]!` parece complicado, mas é bastante intuitivo no final. A variável `!` _dentro_ o colchete declara que todos os valores na matriz devem ser não nulos, enquanto o _fora_ declara que o valor da matriz em si deve ser não nulo (por exemplo, uma matriz vazia).
+A sintaxe `[CartItemInput!]!` parece complicada, mas é bastante intuitiva no final. O `!` _dentro_ do colchete declara que todos os valores na matriz devem ser não nulos, enquanto o _fora_ declara que o próprio valor da matriz deve ser não nulo (por exemplo, uma matriz vazia).
 
 >[!NOTE]
 >
->A lógica de como os dados são buscados e formatados de acordo com um esquema e como essa lógica é mapeada para tipos específicos depende da implementação do tempo de execução do GraphQL. As implementações, no entanto, devem seguir um fluxo conceitual que faça sentido à luz de uma compreensão sobre campos aninhados: uma operação de resolução associada à raiz `Query` ou `Mutation` é executado, que examina cada campo especificado na solicitação. Para cada campo que é resolvido para um tipo complexo, uma resolução semelhante é feita para esse tipo e assim por diante, até que tudo tenha sido resolvido em valores escalares.
+>A lógica de como os dados são buscados e formatados de acordo com um esquema e como essa lógica é mapeada para tipos específicos depende da implementação do tempo de execução do GraphQL. As implementações, no entanto, devem seguir um fluxo conceitual que faça sentido à luz de uma compreensão sobre campos aninhados: uma operação de resolução associada à raiz `Query` ou ao tipo `Mutation` é executada, que examina cada campo especificado na solicitação. Para cada campo que é resolvido para um tipo complexo, uma resolução semelhante é feita para esse tipo e assim por diante, até que tudo tenha sido resolvido em valores escalares.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

@@ -16,14 +16,14 @@ level: Beginner, Intermediate
 exl-id: f7d93e45-7382-4fe5-9088-dfba78d148c6
 source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
 # Commerce Intelligence - Conjuntos de filtros
 
-Deseja analisar apenas determinadas partes dos dados da empresa? Cansado de fazer uma limpeza manual? No Commerce Intelligence, é possível usar o recurso de conjuntos de filtros para simplificar esse processo.
+Deseja analisar apenas determinadas partes dos dados da empresa? Cansado de fazer uma limpeza manual? No Commerce Intelligence, você pode usar o recurso de conjuntos de filtros para simplificar esse processo.
 
 Neste vídeo:
 
@@ -34,7 +34,7 @@ Neste vídeo:
 
 >[!TIP]
 >
->Se você é novo no Commerce Intelligence, a variável [Guia do usuário do Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} O fornece uma visão geral completa para gerar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
+>Se você é novo no Commerce Intelligence, o [Guia do Usuário do Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} fornece uma visão geral completa para gerar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
 
 ## Para quem é este vídeo?
 

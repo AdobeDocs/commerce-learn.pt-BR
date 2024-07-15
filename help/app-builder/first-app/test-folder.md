@@ -1,7 +1,7 @@
 ---
 title: A pasta de teste
 description: Saiba mais sobre os tipos de arquivos na pasta de teste para este aplicativo de amostra.
-landing-page-description: Saiba mais sobre o Construtor de aplicativos da Adobe Developer usado com o Adobe Commerce e quais tipos de arquivos estão localizados na pasta de teste.
+landing-page-description: Saiba mais sobre o Adobe Developer App Builder usado com o Adobe Commerce e quais tipos de arquivos estão localizados na pasta de teste.
 kt: 12424
 doc-type: tutorial
 audience: all
@@ -20,17 +20,17 @@ ht-degree: 0%
 
 # Saiba mais sobre a pasta de teste {#test-folder}
 
-A variável `test` A pasta deste aplicativo de amostra contém um único arquivo JavaScript, que é usado ao executar testes de unidade no aplicativo.
+A pasta `test` para este aplicativo de amostra contém um único arquivo JavaScript, que é usado ao executar testes de unidade no aplicativo.
 
 Este é um exemplo simples e pode ser expandido para criar testes abrangentes para seus aplicativos específicos.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novatos no Adobe Commerce com experiência limitada que usam o Adobe App Builder e que desejam saber mais sobre o `test` pasta.
+* Desenvolvedores novatos no Adobe Commerce com experiência limitada que usam o Adobe App Builder e que desejam saber mais sobre a pasta `test`.
 
 ## Conteúdo de vídeo
 
-* Por que usar o `test` pasta?
+* Por que usar a pasta `test`?
 * Uma breve explicação do arquivo de teste unitário e seus componentes
 * Introdução a testes completos
 

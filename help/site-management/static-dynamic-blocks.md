@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '133'
 ht-degree: 0%
 
 ---
@@ -33,5 +33,5 @@ Um bloco é uma unidade modular de conteúdo que pode ser posicionada em qualque
 
 ## Recursos adicionais
 
-- [Blocos - [!DNL Commerce] Guia de design e conteúdo](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
-- [Blocos dinâmicos - [!DNL Commerce] Guia de design e conteúdo](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)
+- [Blocos - [!DNL Commerce] Guia de Conteúdo e Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+- [Blocos Dinâmicos - [!DNL Commerce] Guia de Conteúdo e Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)

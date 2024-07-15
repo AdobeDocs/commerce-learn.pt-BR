@@ -1,7 +1,7 @@
 ---
 title: A pasta web-src
 description: Saiba mais sobre os tipos de arquivos na pasta web-src e os arquivos e pastas aninhados para este aplicativo de amostra.
-landing-page-description: Saiba mais sobre o Construtor de aplicativos do Adobe Developer usado com o Adobe Commerce e que tipos de arquivos estão localizados na pasta web-src.
+landing-page-description: Saiba mais sobre o Adobe Developer App Builder usado com o Adobe Commerce e quais tipos de arquivos estão localizados na pasta web-src.
 kt: 12425
 doc-type: tutorial
 audience: all
@@ -13,24 +13,24 @@ level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '188'
 ht-degree: 0%
 
 ---
 
 # Descubra a finalidade da pasta web-src {#web-src-folder}
 
-A pasta web-src para este aplicativo de amostra contém muitos arquivos e pastas JavaScript. Esta pasta é usada para aplicativos que têm uma interface de usuário. Nem todos os aplicativos usam esse recurso. Por exemplo, uma integração do Commerce com um sistema de gerenciamento de inventário externo pode não exigir uma interface de front-end e código.
+A pasta web-src para este aplicativo de amostra contém muitos arquivos e pastas do JavaScript. Esta pasta é usada para aplicativos que têm uma interface de usuário. Nem todos os aplicativos usam esse recurso. Por exemplo, uma integração do Commerce com um sistema de gerenciamento de inventário externo pode não exigir uma interface de front-end e código.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novatos no Adobe Commerce com experiência limitada que usam o Adobe App Builder que estão aprendendo sobre o `web-src` pasta e seu conteúdo.
+* Desenvolvedores novatos no Adobe Commerce com experiência limitada usando o Adobe App Builder que estão aprendendo sobre a pasta `web-src` e seu conteúdo.
 
 ## Conteúdo de vídeo
 
-* Qual é o principal objetivo da `web-src` pasta?
+* Qual é a principal finalidade da pasta `web-src`?
 * Arquivos e pastas normalmente incluídos
-* Como o `web-src` pasta e o conteúdo dentro dela são usados no aplicativo de amostra
+* Como a pasta `web-src` e seu conteúdo são usados no aplicativo de amostra
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416665?quality=12&learn=on)
 

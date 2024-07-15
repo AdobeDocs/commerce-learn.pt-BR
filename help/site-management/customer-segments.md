@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 17d68833-eb86-49a8-80e7-16b20e435626
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -35,5 +35,5 @@ Os segmentos de clientes permitem exibir dinamicamente conteúdo e promoções p
 
 ## Recursos adicionais
 
-- [Segmentos do cliente - [!DNL Commerce] Guia de gerenciamento de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
-- [Segmentos do Cliente em Regras de Preço - [!DNL Commerce] Guia de gerenciamento de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)
+- [Segmentos de clientes - [!DNL Commerce] Guia de gerenciamento de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html)
+- [Segmentos de clientes em regras de preço - [!DNL Commerce] Guia de gerenciamento de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html)

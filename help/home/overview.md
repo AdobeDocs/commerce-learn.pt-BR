@@ -1,5 +1,5 @@
 ---
-title: '''[!DNL Commerce] Vídeos e Tutorials'
+title: Vídeos e Tutorials de '[!DNL Commerce]'
 description: Uma coleção de vídeos e tutoriais para Adobe Commerce e Magento Open Source
 last-substantial-update: 2023-01-19T00:00:00Z
 feature: B2B, GraphQL, REST, Commerce Intelligence, Cloud, Best Practices, API Mesh, App Builder
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Tutoriais do Commerce {#videos}
 
-Bem-vindo à [!DNL Commerce] coleção de vídeos e tutoriais do. A utilização desses recursos, juntamente com a [documentação](https://experienceleague.adobe.com/docs/commerce.html), oferece uma oportunidade de aprender a usar o Adobe Commerce e o Magento Open Source para apoiar o seu negócio de comércio eletrônico. A coleção foi projetada para fornecer conteúdo útil para desenvolvedores de back-end e front-end, administradores de sistema, comerciantes e outras funções na organização.
+Bem-vindo à coleção de vídeos e tutoriais do [!DNL Commerce]. A utilização desses recursos, juntamente com a [documentação](https://experienceleague.adobe.com/docs/commerce.html), oferece uma oportunidade de aprender a usar o Adobe Commerce e o Magento Open Source para dar suporte ao seu negócio de comércio eletrônico. A coleção foi projetada para fornecer conteúdo útil para desenvolvedores de back-end e front-end, administradores de sistema, comerciantes e outras funções na organização.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -27,10 +27,10 @@ Bem-vindo à [!DNL Commerce] coleção de vídeos e tutoriais do. A utilização
 
 >[!TIP]
 >
->A variável [Eventos de comércio](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) o espaço fornece acesso ao conteúdo de eventos gravados que você pode assistir sob demanda.
+>O espaço [Eventos Commerce](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) fornece acesso ao conteúdo de eventos gravados que você pode assistir sob demanda.
 
 ## Recursos adicionais
 
 - [Documentação do comerciante](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
 - [Documentação do desenvolvedor](https://developer.adobe.com/commerce)
-- [Serviços de aprendizado digital Adobe - Catálogo de cursos da Adobe Commerce](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
+- [Serviços de aprendizado digital do Adobe - catálogo de cursos do Adobe Commerce](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)

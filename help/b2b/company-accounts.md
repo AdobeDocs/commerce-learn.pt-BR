@@ -13,14 +13,14 @@ level: Beginner, Intermediate
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
 source-git-commit: 9eb66d4d0da8aa0e26183dea2459fa6e923c430b
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
 
 # Gerenciar contas da empresa
 
-Para os comerciantes B2B, a _[!UICONTROL Companies]_A página lista todas as contas atuais da empresa e seus status. É possível gerenciar as contas da empresa aqui e qualquer solicitação pendente de aprovação é exibida na parte superior da lista. Os controles padrão do local de trabalho podem ser usados para filtrar a lista, alterar o layout da coluna, salvar visualizações e exportar dados.
+Para comerciantes B2B, a página _[!UICONTROL Companies]_lista todas as contas da empresa atual e seus status. É possível gerenciar as contas da empresa aqui e qualquer solicitação pendente de aprovação é exibida na parte superior da lista. Os controles padrão do local de trabalho podem ser usados para filtrar a lista, alterar o layout da coluna, salvar visualizações e exportar dados.
 
 {{b2b-feature}}
 

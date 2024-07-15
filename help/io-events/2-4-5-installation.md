@@ -1,6 +1,6 @@
 ---
 title: Saiba como instalar eventos de IO para o Adobe Commerce 2.4.5
-description: Saiba como instalar módulos necessários para eventos de E/S no Adobe Commerce 2.4.5 para uso no Construtor de aplicativos do Adobe Developer
+description: Saiba como instalar módulos necessários para eventos de E/S no Adobe Commerce 2.4.5 para uso no Adobe Developer App Builder
 landing-page-description: Saiba como instalar vários módulos necessários para o Adobe Commerce 2.4.5 usando o Composer.
 short-description: Saiba como instalar vários módulos necessários para o Adobe Commerce 2.4.5 usando o Composer.
 kt: 11886
@@ -15,18 +15,18 @@ level: Beginner, Intermediate
 exl-id: e0adfd85-5a3d-44ba-aab5-ecd7c61715cf
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
 # Instalação do Adobe Commerce 2.4.5
 
-Saiba como instalar vários módulos novos no Adobe Commerce usando o Composer para versão 2.4.5. Isso configura os módulos necessários a serem usados no aplicativo do Adobe Commerce. Documentação adicional encontrada em [Instalar eventos do Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Saiba como instalar vários módulos novos no Adobe Commerce usando o Composer para versão 2.4.5. Isso configura os módulos necessários a serem usados no aplicativo do Adobe Commerce. Documentação adicional encontrada em [Instalar Eventos Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novatos no Adobe Commerce e no Construtor de aplicativos da Adobe Developer usando eventos de E/S
+* Desenvolvedores novatos no Adobe Commerce e no Adobe Developer App Builder usando eventos de E/S
 
 ## Conteúdo de vídeo {#video-content}
 

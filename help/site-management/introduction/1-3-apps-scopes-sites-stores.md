@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - sites, lojas e visualizações"
-description: Aprenda os conceitos básicos do [!DNL Commerce] arquitetura, incluindo as diferenças entre sites, lojas, visualizações de loja e escopos de aplicativo. Entender a indexação e o armazenamento em cache.
+title: "[!DNL Commerce] para usuários empresariais - Sites, lojas e exibições"
+description: Saiba mais sobre as noções básicas da arquitetura  [!DNL Commerce] , incluindo as diferenças entre sites, lojas, exibições de loja e escopos de aplicativo. Entender a indexação e o armazenamento em cache.
 kt: 5760
 doc-type: video
 activity: use
@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 858451cc-cbc3-471e-a2f1-148f879aba82
 source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,9 @@ ht-degree: 0%
 
 Neste vídeo:
 
-- Noções básicas do [!DNL Commerce] arquitetura, incluindo as diferenças entre sites, lojas e visualizações de loja
+- Noções básicas da arquitetura [!DNL Commerce], incluindo as diferenças entre sites, lojas e visualizações de loja
 - Conceito de escopos de aplicativo
-- Visão geral sobre indexação e armazenamento em cache e como [!DNL Commerce] lida com eles
+- Visão geral de qual indexação e cache e como o [!DNL Commerce] lida com eles
 
 ## Para quem é este vídeo?
 
@@ -33,12 +33,12 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35945?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Sites, lojas e visualizações - [!DNL Commerce] Guia de introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[Sites, lojas e visualizações - [!DNL Commerce] Guia de Introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[Configurações de escopo- [!DNL Commerce] Guia de introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)
+[Configurações de escopo- [!DNL Commerce] Guia de Introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html#scope-settings)

@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
 source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -32,5 +32,5 @@ As regras de preço de catálogo podem ser usadas para oferecer produtos aos com
 
 ## Recursos adicionais
 
-- [Criar uma Regra de Preço de Catálogo - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
-- [Regra de preço de catálogo com vários SKUs - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)
+- [Criar uma regra de preço de catálogo - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rules-catalog-create.html)
+- [Regra de preço de catálogo com várias SKUs - [!DNL Commerce] Guia de Merchandising e Promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/catalog-rules/price-rule-multiple-sku.html)

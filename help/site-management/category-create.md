@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,6 @@ Antes de adicionar produtos ao catálogo, é necessário estabelecer a estrutura
 
 ## Recursos adicionais
 
-- [Criar categorias - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
-- [Permissões de categoria - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
-- [Navegação superior - [!DNL Commerce] Guia de gerenciamento de catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)
+- [Criar Categorias - [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+- [Permissões de Categoria - [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+- [Navegação Superior - [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

@@ -1,7 +1,7 @@
 ---
 title: Conclusão
-description: Saiba onde acessar para obter mais informações sobre o App Builder.
-landing-page-description: Saiba onde acessar para obter mais informações sobre o App Builder.
+description: Saiba onde obter mais informações sobre o App Builder.
+landing-page-description: Saiba onde obter mais informações sobre o App Builder.
 kt: 12428
 doc-type: tutorial
 audience: all
@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 exl-id: bb7cb692-16bd-48fe-9e88-eb1b337bc3a3
 source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -36,10 +36,10 @@ Agora que você criou seu primeiro aplicativo Adobe Developer App Builder, saiba
 
 ## Recursos adicionais do App Builder
 
-* [Construtor de aplicativos Adobe Developer](https://developer.adobe.com/app-builder/){target="_blank"}
-* [Avaliação do Adobe Developer App Builder](https://developer.adobe.com/app-builder/trial/){target="_blank"}
-* [Documentos do Construtor de aplicativos do Adobe Developer](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
-* [Fóruns do Construtor de aplicativos Adobe Developer](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
-* [Diretrizes de contribuição do Construtor de aplicativos do Adobe Developer](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
+* [Adobe Developer App Builder](https://developer.adobe.com/app-builder/){target="_blank"}
+* [avaliação do Adobe Developer App Builder](https://developer.adobe.com/app-builder/trial/){target="_blank"}
+* [documentos do Adobe Developer App Builder](https://developer.adobe.com/app-builder/docs/overview/){target="_blank"}
+* [fóruns do Adobe Developer App Builder](https://experienceleaguecommunities.adobe.com/t5/project-firefly/ct-p/project-firefly){target="_blank"}
+* [diretrizes de contribuição da Adobe Developer App Builder](https://developer.adobe.com/app-builder/docs/guides/contribution_guides/){target="_blank"}
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}

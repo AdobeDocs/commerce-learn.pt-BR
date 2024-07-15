@@ -12,7 +12,7 @@ level: Beginner, Intermediate
 exl-id: 109aeab1-a3a4-4e47-99e4-21dabd23d605
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '73'
 ht-degree: 0%
 
 ---
@@ -32,12 +32,12 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35958?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Importar - [!DNL Commerce] Guia de sistemas do administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html)
+[Importar - [!DNL Commerce] Guia de Sistemas do Administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html)
 
-[Exportar - [!DNL Commerce] Guia de sistemas do administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html)
+[Exportar - [!DNL Commerce] Guia de Sistemas do Administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html)

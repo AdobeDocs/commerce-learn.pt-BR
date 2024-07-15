@@ -10,19 +10,19 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-source-git-commit: e02540438df1cc85e6be7440351a72e77cfc1bf2
+exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
 
 ---
 
-
 # Criar um produto do pacote
 
 Um produto combinado é uma maneira de agrupar vários produtos em um produto principal. Esses produtos secundários podem ser um conjunto definido de produtos ou oferecer algumas variações que fornecem opções de configuração flexíveis para os clientes. Os tipos de produtos do pacote levam um pouco mais de tempo para serem configurados e você deve fazer um planejamento antes de configurá-los. No entanto, a oferta de pacotes de produtos melhora a experiência de compra, facilitando para os clientes a personalização de suas seleções de produtos.
 
-Por exemplo, você pode oferecer um pacote de produtos chamado `Learning to surf` na loja na web. O pacote é o produto principal que serve como um contêiner dos produtos secundários atribuídos que especificam as opções disponíveis:
+Por exemplo, você pode oferecer um pacote de produtos chamado `Learning to surf` em sua loja na web. O pacote é o produto principal que serve como um contêiner dos produtos secundários atribuídos que especificam as opções disponíveis:
 
 - Uma prancha de surf padrão
 - Uma coleira típica de prancha de surf
@@ -69,7 +69,7 @@ Os comandos a seguir criam todos os produtos necessários para definir o produto
 
 Antes de enviar a solicitação, atualize o exemplo com os valores do seu ambiente.
 
-- Alterar `"attribute-set": 4` para substituir `4` com a ID do conjunto de atributos do seu ambiente.
+- Altere `"attribute-set": 4` para substituir `4` pela ID do conjunto de atributos de seu ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -192,7 +192,7 @@ Crie um produto do pacote enviando a solicitação POST a seguir.
 
 Antes de enviar a solicitação, atualize o exemplo com os valores do seu ambiente.
 
-- Alterar `"attribute_set_id": 4,` e substituir `4` com a id do conjunto de atributos do seu ambiente.
+- Altere `"attribute_set_id": 4,` e substitua `4` pela ID do conjunto de atributos de seu ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -321,7 +321,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 Ao atualizar as opções de pacote de produtos, inclua todas as opções que deseja associar a este produto. Se o conjunto original de opções continha três produtos e um foi removido, inclua todas as três opções na solicitação POST para garantir que o pacote de produtos especifique todas as opções. Se você incluiu apenas a opção removida, o pacote de produtos atualizado incluirá apenas essa opção.
 
-Localize a ID de opção revisando a resposta da criação do produto do pacote. Nessa resposta, a Comissão `option_id` é `35`.
+Localize a ID de opção revisando a resposta da criação do produto do pacote. Na resposta, o `option_id` é `35`.
 
 ```json
 ...
@@ -429,7 +429,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## Recursos adicionais
 
-- [Tutorial de criação de um pacote de produtos](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-- [Produto do pacote](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
+- [Tutorial sobre a criação de um pacote de produtos](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+- [Produto do Pacote](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
 - [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [ReDoc Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+- [ReDoc do Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

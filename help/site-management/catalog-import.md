@@ -26,11 +26,11 @@ Escolha uma das opções abaixo para saber mais.
 
 >[!BEGINTABS]
 
->[!TAB Manual]
+>Manual[!TAB 1]
 
 ## Criação manual dos produtos {#manual-import}
 
-Se você tiver um catálogo limitado e as atualizações forem pouco frequentes, criá-las manualmente pode ser a melhor opção. É necessário tempo para entrar em cada produto e algum treinamento limitado sobre como usar o administrador do Commerce. O gerenciamento manual de catálogos não é a opção correta para a maioria das lojas, mas, em determinadas situações, pode fazer sentido. Para ver a documentação adicional para esse processo, visite [Criar um produto](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Não se esqueça: você pode usar mais de um método para gerenciar o catálogo. No entanto, uma vez que a automação for usada, as edições manuais deverão ser limitadas. As atualizações automatizadas têm a oportunidade de substituir qualquer alteração executada manualmente e, portanto, causar confusão. Quando a integração com o Adobe Commerce para gerenciar o catálogo estiver usando automação e APIs, é recomendável restringir o gerenciamento do catálogo do administrador até [funções e permissões do usuário](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
+Se você tiver um catálogo limitado e as atualizações forem pouco frequentes, criá-las manualmente pode ser a melhor opção. É necessário tempo para entrar em cada produto e algum treinamento limitado sobre como usar o administrador do Commerce. O gerenciamento manual de catálogos não é a opção correta para a maioria das lojas, mas, em determinadas situações, pode fazer sentido. Para ver a documentação adicional deste processo, visite [Criar um produto](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Não se esqueça: você pode usar mais de um método para gerenciar o catálogo. No entanto, uma vez que a automação for usada, as edições manuais deverão ser limitadas. As atualizações automatizadas têm a oportunidade de substituir qualquer alteração executada manualmente e, portanto, causar confusão. Quando a integração com o Adobe Commerce para gerenciar o catálogo estiver usando automação e APIs, é recomendável restringir o gerenciamento do catálogo do administrador por meio de [funções e permissões de usuário](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
 ### Quando considerar esta abordagem
 
@@ -38,16 +38,17 @@ Se você tiver um catálogo limitado e as atualizações forem pouco frequentes,
 - Atualizações pouco frequentes
 - Você tem todos os detalhes do produto, imagens, vídeos e não quer dedicar tempo para saber como converter os dados em CSV
 - Você deseja incluir a adição de imagens e vídeos ao criar os produtos
-- Sua equipe está `not` familiarizado com APIs e como o OAUTH funciona
+- Sua equipe `not` está familiarizada com APIs e como o OAUTH funciona
 
 >[!TAB CSV de administrador]
 
 ## Ferramenta de importação de CSV do administrador {#admin-csv}
 
 Essa ferramenta permite que o proprietário de uma loja importe um catálogo usando um direito CSV do administrador de comércio.
-[Importar dados do administrador do Commerce](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+[Importar Dados do Administrador do Commerce](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
 
-Vantagens: fazer upload de um CSV do administrador é uma abordagem direta para o gerenciamento de catálogos. Ele permite atualizações mais rápidas de produtos de catálogo para um catálogo de tamanho moderado.
+Vantagens:
+Fazer upload de um CSV do administrador é uma abordagem direta para o gerenciamento de catálogos. Ele permite atualizações mais rápidas de produtos de catálogo para um catálogo de tamanho moderado.
 
 Desvantagens:
 
@@ -62,7 +63,7 @@ Desvantagens:
 - O tamanho do catálogo é moderado
 - As atualizações não são feitas mais de uma vez ao dia
 - você tem acesso às configurações do servidor caso precise aumentar o tamanho máximo de upload de arquivo
-- Sua equipe está `not` familiarizado com APIs e como o OAUTH funciona
+- Sua equipe `not` está familiarizada com APIs e como o OAUTH funciona
 
 >[!TAB API REST em massa]
 
@@ -71,7 +72,8 @@ Desvantagens:
 A API REST em massa permite automação e atualizações mais frequentes. Essa API é mais rápida do que usar o upload de administrador do CSV.
 [Documentação de pontos de extremidade em massa](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"}
 
-Vantagens: a capacidade de importar grandes conjuntos de dados que não estejam no formato CSV.
+Vantagens:
+A capacidade de importar grandes conjuntos de dados que não estejam no formato CSV.
 
 Desvantagens:
 
@@ -90,12 +92,12 @@ Desvantagens:
 ## API REST ASSÍNCRONA {#async-rest-api}
 
 Um ponto de extremidade da Web assíncrono intercepta mensagens em uma API da Web e as grava na fila de mensagens. Cada vez que o sistema aceita essa solicitação de API, ele gera um identificador UUID. O Adobe Commerce inclui essa UUID quando adiciona a mensagem à fila. Em seguida, um consumidor lê as mensagens da fila e as executa uma a uma.
-[Documentação de endpoints assíncronos da Web](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"}
+[Documentação assíncrona de pontos de extremidade da Web](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"}
 
 Vantagens:
 
 - Importação de dados rápida
-- O escopo de armazenamento é compatível ou você pode especificar `all` para executar a operação em todos os armazenamentos existentes
+- O escopo de armazenamento é suportado ou você pode especificar `all` para executar a operação em todos os armazenamentos existentes
 
 Desvantagens:
 

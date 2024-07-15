@@ -3,7 +3,7 @@ title: Páginas relacionadas à Arquitetura de referência global
 description: Links para páginas relacionadas no GRA
 source-git-commit: 449445ba629f8db9d0e3535e6bcb5339fab99070
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '47'
 ht-degree: 0%
 
 ---

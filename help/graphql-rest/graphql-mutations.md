@@ -1,8 +1,8 @@
 ---
 title: Executar uma mutação usando o GraphQL
-description: Obtenha uma introdução sobre como executar uma mutação usando o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Execute sua primeira mutação usando chamadas de POST.
-landing-page-description: Obtenha uma introdução sobre como executar uma mutação usando o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Execute sua primeira mutação usando chamadas de POST.
-short-description: Obtenha uma introdução sobre como executar uma mutação usando o GraphQL no Adobe Commerce e [!DNL Magento Open Source]. Execute sua primeira mutação usando chamadas de POST.
+description: Obtenha uma introdução sobre como executar uma mutação usando o GraphQL no Adobe Commerce e  [!DNL Magento Open Source]. Execute sua primeira mutação usando chamadas de POST.
+landing-page-description: Obtenha uma introdução sobre como executar uma mutação usando o GraphQL no Adobe Commerce e  [!DNL Magento Open Source]. Execute sua primeira mutação usando chamadas de POST.
+short-description: Obtenha uma introdução sobre como executar uma mutação usando o GraphQL no Adobe Commerce e  [!DNL Magento Open Source]. Execute sua primeira mutação usando chamadas de POST.
 kt: 13938
 doc-type: video
 audience: all
@@ -14,7 +14,7 @@ level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
 source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -30,16 +30,18 @@ Esta é a parte 3 da série para GraphQL e Adobe Commerce. Mutações são a cap
 
 * [Parte 1 GraphQL - Introdução](../graphql-rest/intro-graphql.md)
 * [Parte 2 GraphQL - Consultas](../graphql-rest/graphql-queries.md)
-* [Parte 4 GraphQL - Esquema](../graphql-rest/graphql-schema.md)
+* [GraphQL Parte 4 - Esquema](../graphql-rest/graphql-schema.md)
 
 ## Exemplo de mutação
 
 Qualquer especificação completa da API precisa oferecer a capacidade não apenas de consultar dados, mas também de criá-los e atualizá-los.
 
 REST distingue entre solicitações que alteram dados e aquelas que não têm o tipo de solicitação ou &quot;verbo&quot; (GET vs. POST ou PUT).
-Ao usar o GraphQL, as consultas de modificação de dados são diferenciadas pelo `mutation` que corresponde a um tipo de raiz diferente no esquema definido no servidor.
+Ao usar o GraphQL, as consultas de modificação de dados são diferenciadas pela palavra-chave `mutation` que corresponde a uma
+tipo raiz no esquema definido no servidor.
 
-Observe este exemplo de mutação para adicionar um produto ao carrinho de um usuário. (Isso requer uma ID de carrinho gerada para a sessão do cliente conectada ou usando o `createEmptyCart` mutação.)
+Observe este exemplo de mutação para adicionar um produto ao carrinho de um usuário. (Isso requer uma ID de carrinho gerada
+para a sessão do cliente conectado ou usando a mutação `createEmptyCart`.)
 
 ```graphql
 mutation doAddToCart(
@@ -95,20 +97,25 @@ E, finalmente, você pode receber uma resposta como esta:
 }
 ```
 
-O principal ponto a ser observado sobre o exemplo acima é que, além do uso do `mutation` palavra-chave em vez de `query`, a sintaxe é idêntica a um query. Como consultas, a mutação inclui:
+O principal a ser observado sobre o exemplo acima é que, além do uso da palavra-chave `mutation` em vez de `query`,
+a sintaxe é idêntica a um query. Como consultas, a mutação inclui:
 
 * Um nome de operação arbitrário (`doAddToCart`)
 * Uma lista de variáveis (por exemplo, `$cartId`)
-* Um campo inicial (`addProductsToCart`) com argumentos (por exemplo, `cartId`, defina como o valor de `$cartId`) entre parênteses
+* Um campo inicial (`addProductsToCart`) com argumentos (por exemplo, `cartId`, definido como o valor de `$cartId`) entre parênteses
 * Uma subseleção de campos entre chaves
 
-A subseleção de campos permite definir com flexibilidade os campos que você deseja retornar (do tipo atribuído como o valor de retorno de `addProductsToCart` - `AddProductsToCartOutput`) após a conclusão da mutação.
+A subseleção de campos permite definir com flexibilidade os campos que você deseja retornar (do tipo atribuído como
+valor de retorno de `addProductsToCart` - `AddProductsToCartOutput`) após a conclusão da mutação.
 
-Como explicado anteriormente, os campos definidos em um esquema do GraphQL começam em um tipo raiz para consultas (normalmente chamados de `Query`). Da mesma forma, existe outro tipo de raiz para mutações (normalmente referido como `Mutation`). `addProductsToCart` é um campo nesse tipo de raiz.
+Como explicado anteriormente, os campos definidos em um esquema do GraphQL começam em um tipo raiz para consultas (normalmente chamados de `Query`). Da mesma forma,
+outro tipo de raiz existe para mutações (normalmente referido como `Mutation`). `addProductsToCart` é um campo
+nesse tipo de raiz.
 
 Algumas outras observações sobre o exemplo acima:
 
-* A variável `!` sufixo de caractere `String` e `CartItemInput` indica que a variável é obrigatória.
-* Os colchetes (`[]`) ao redor do `CartItemInput` tipo especificado para `$cartItems` indica uma lista desse tipo em vez de um único valor.
+* O caractere `!` com os sufixos `String` e `CartItemInput` indica que a variável é obrigatória.
+* Os colchetes (`[]`) ao redor do tipo `CartItemInput` especificado para `$cartItems` indicam uma lista
+desse tipo em vez de um valor único.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

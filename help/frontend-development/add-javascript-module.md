@@ -11,7 +11,7 @@ level: Beginner, Intermediate
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
 source-git-commit: 8465b3cc417d328461c52cf6da07f953c8250dd2
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Este vídeo fornece uma apresentação para desenvolver um módulo JS simples qu
 ## Etapas
 
 - Criar um módulo
-- Criar um `requirejs-config.js` e um arquivo de módulo JavaScript
+- Criar um `requirejs-config.js` e um arquivo de módulo do JavaScript
 - Criar atualização de layout para adicionar um modelo que habilita o módulo JS
 - Criar arquivo de modelo
 - Adicione o módulo e teste-o
@@ -38,5 +38,5 @@ Este vídeo fornece uma apresentação para desenvolver um módulo JS simples qu
 
 ## Recursos úteis
 
-- [Guia do desenvolvedor do JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/)
-- [Chamada e inicialização do JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+- [guia do desenvolvedor do JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/)
+- [Chamando e inicializando o JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)

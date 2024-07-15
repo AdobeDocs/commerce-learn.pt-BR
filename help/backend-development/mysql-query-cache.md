@@ -9,9 +9,10 @@ feature: Backend Development, Cache, Logs
 topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: d62f409324eda53ca42cf2e9c9aa80655a1277d7
+exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '146'
 ht-degree: 0%
 
 ---

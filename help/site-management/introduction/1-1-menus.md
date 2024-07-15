@@ -1,6 +1,6 @@
 ---
 title: "[!DNL Commerce] para usuários empresariais - [!DNL Admin] menus"
-description: Visão geral dos menus funcionais no [!DNL Commerce] v2.3 [!DNL Admin].
+description: Visão geral dos menus funcionais no  [!DNL Commerce] v2.3 [!DNL Admin].
 landing-page-description: Assista a esta série de vídeos para obter uma introdução dos conceitos básicos do Adobe Commerce e do trabalho como Administrador.
 short-description: Assista a esta série de vídeos para obter uma introdução dos conceitos básicos do Adobe Commerce e do trabalho como Administrador.
 kt: 5758
@@ -14,14 +14,14 @@ level: Beginner, Intermediate
 exl-id: 96e36923-d24b-4259-9b91-cd4ea73ead6f
 source-git-commit: 79529c8d77df74e6f77ab3a01b45541a38dbf680
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 27%
+source-wordcount: '121'
+ht-degree: 29%
 
 ---
 
 # [!DNL Commerce] para usuários empresariais - [!DNL Admin] menus
 
-A variável [!DNL Commerce Admin] O é o back office protegido por senha onde você pode configurar produtos e promoções, atender a pedidos de clientes e configurar o [!DNL Commerce] armazenar para atender às suas necessidades comerciais.
+O [!DNL Commerce Admin] é o back office protegido por senha onde você pode configurar produtos e promoções, atender aos pedidos dos clientes e configurar a loja do [!DNL Commerce] para atender às suas necessidades comerciais.
 
 Neste vídeo:
 
@@ -35,7 +35,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte a [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35942?quality=12&learn=on)
 

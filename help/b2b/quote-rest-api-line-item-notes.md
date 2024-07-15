@@ -10,10 +10,10 @@ feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-exl-id: 2c573690-d7b3-43ce-832b-06aca0596ee9
-source-git-commit: 8b29c9d82a3dbcf5a8382eea2512e2d67b38d0f4
+exl-id: ee8b03e6-2f8f-474f-9180-acdc120f87a4
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---

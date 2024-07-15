@@ -9,9 +9,10 @@ feature: Backend Development, Logs, Services
 topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: ae85993d98fb8620b763a212e5a2d7e53596870f
+exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
+source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
 workflow-type: tm+mt
-source-wordcount: '303'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---

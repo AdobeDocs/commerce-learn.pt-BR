@@ -1,8 +1,8 @@
 ---
 title: Introdução à API Mesh
-description: Descubra como usar a API de malha no Adobe Commerce e no [!DNL Adobe App Builder]. Saiba como instalar o Construtor de aplicativos da Adobe, trabalhar em projetos, criar um proxy reverso de GraphQL e muito mais.
-landing-page-description: Descubra como usar a API de malha no Adobe Commerce e no [!DNL Adobe App Builder]. Saiba como instalar o Adobe IO, trabalhar em projetos, criar um proxy reverso de GraphQL e muito mais.
-short-description: Descubra como usar a API de malha no Adobe Commerce e no [!DNL Adobe App Builder]. Saiba como instalar o Adobe IO, trabalhar em projetos, criar um proxy reverso de GraphQL e muito mais.
+description: Saiba como usar a API Mesh no Adobe Commerce e  [!DNL Adobe App Builder]. Saiba como instalar o Construtor de aplicativos da Adobe, trabalhar em projetos, criar um proxy reverso de GraphQL e muito mais.
+landing-page-description: Saiba como usar a API Mesh no Adobe Commerce e  [!DNL Adobe App Builder]. Saiba como instalar o Adobe IO, trabalhar em projetos, criar um proxy reverso de GraphQL e muito mais.
+short-description: Saiba como usar a API Mesh no Adobe Commerce e  [!DNL Adobe App Builder]. Saiba como instalar o Adobe IO, trabalhar em projetos, criar um proxy reverso de GraphQL e muito mais.
 kt: 11802
 doc-type: tutorial
 audience: all
@@ -14,14 +14,14 @@ level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
 source-git-commit: 366a7988dfa1de39ebccb8ab0e281d80b27dbb36
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 23%
+source-wordcount: '316'
+ht-degree: 15%
 
 ---
 
 # Introdução à API Mesh
 
-Se você nunca usou a API Mesh para o Adobe Developer App Builder, a Adobe recomenda começar com este tutorial introdutório antes de prosseguir para os outros vídeos e tutoriais.
+Se você é novo na API Mesh para Adobe Developer App Builder, o Adobe recomenda começar com este tutorial introdutório, antes de prosseguir para os outros vídeos e tutoriais.
 
 ## O que é a API Mesh
 
@@ -31,7 +31,7 @@ A API Mesh combina várias fontes de dados para obter uma única resposta para q
 
 ## Para quem é este vídeo?
 
-* Qualquer desenvolvedor novo na API Mesh ou [!DNL Adobe Commerce] com experiência limitada usando [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e API Mesh.
+* Qualquer desenvolvedor novo no API Mesh ou [!DNL Adobe Commerce] com experiência limitada usando o [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e o API Mesh.
 
 ## Conteúdo de vídeo
 
@@ -48,7 +48,7 @@ Seu aplicativo do Commerce tem uma API REST e um terminal GraphQL. Por exemplo, 
 
 ## O que é um proxy reverso
 
-Como desenvolvedor do Adobe App Builder e da API Mesh, não é necessário compreender o que é um proxy reverso. No entanto, se você estiver interessado na funcionalidade geral, pois ela se refere ao Construtor de aplicativos do Adobe, use os seguintes recursos:
+Como desenvolvedor do Adobe App Builder e da API Mesh, não é necessário entender o que é um proxy reverso. No entanto, se você estiver interessado na funcionalidade geral, pois ela se refere ao Adobe App Builder, use os seguintes recursos:
 
 * [O que é um proxy reverso](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
 * [O que é um proxy reverso e por que ele é importante](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}

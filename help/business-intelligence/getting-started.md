@@ -11,17 +11,17 @@ duration: 398
 last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-15141
 kt: 15141
-source-git-commit: bf09b4c1b0a4f3ac41cbae3a8345801536cd9eda
+exl-id: 26bc788c-0fc8-405b-a99e-0d202ac18ab8
+source-git-commit: 2d6e9bd0362df4a0babff54abb1acb7c47926286
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
 
 ---
 
-
 # Introdução ao Adobe Commerce Intelligence
 
-Saiba mais sobre a inteligência do Adobe Commerce. Este tutorial fornece uma visão geral da ferramenta, algumas convenções de nomenclatura que devem ser observadas e as etapas iniciais para configurá-la. O Adobe Commerce Intelligence é composto de três partes: fontes de dados, data warehouse e relatórios. &#x200B;Normalmente, as fontes de dados são o site da Adobe Commerce e seu banco de dados. &#x200B;A Data Warehouse é onde as consultas de relatórios são executadas, em vez de diretamente no banco de dados do site. &#x200B;Saiba mais sobre os principais recursos do &#x200B;Adobe Commerce Intelligence, como painéis, métricas e relatórios, e fornece informações sobre como acessar a documentação, criar tíquetes de suporte e gerenciar permissões de usuário.
+Saiba mais sobre o Adobe Commerce Intelligence. Este tutorial fornece uma visão geral da ferramenta, algumas convenções de nomenclatura que devem ser observadas e as etapas iniciais para configurá-la. O Adobe Commerce Intelligence é composto de três partes: fontes de dados, data warehouse e relatórios. &#x200B;Normalmente, as fontes de dados são o site da Adobe Commerce e seu banco de dados. &#x200B;A Data Warehouse é onde as consultas de relatórios são executadas, em vez de diretamente no banco de dados do site. &#x200B;Saiba mais sobre os principais recursos do &#x200B;Adobe Commerce Intelligence, como painéis, métricas e relatórios, e fornece informações sobre como acessar a documentação, criar tíquetes de suporte e gerenciar permissões de usuário.
 
 ## Para quem é este vídeo?
 

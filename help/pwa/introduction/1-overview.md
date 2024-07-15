@@ -1,8 +1,8 @@
 ---
 title: PWA Studio para desenvolvedores - Introdução
 description: O que é um Progressive Web Application (PWA), e por que o PWA Studio é o futuro?
-landing-page-description: Assista a esta série de vídeos para saber mais sobre Progressive Web Application (PWA) e por que PWA Studio é o futuro de [!DNL Commerce] sites.
-short-description: Assista a esta série de vídeos para saber mais sobre Progressive Web Application (PWA) e por que PWA Studio é o futuro de [!DNL Commerce] sites.
+landing-page-description: Assista a esta série de vídeos para saber mais sobre Progressive Web Application (PWA) e por que PWA Studio é o futuro dos sites  [!DNL Commerce] .
+short-description: Assista a esta série de vídeos para saber mais sobre Progressive Web Application (PWA) e por que PWA Studio é o futuro dos sites  [!DNL Commerce] .
 kt: 5644
 doc-type: video
 activity: use
@@ -14,8 +14,8 @@ level: Beginner, Intermediate
 exl-id: 26b1b560-c155-4316-9481-44679bf9216a
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 13%
+source-wordcount: '100'
+ht-degree: 14%
 
 ---
 
@@ -37,5 +37,5 @@ Neste vídeo:
 
 ## Recursos úteis
 
-- [Documentação do PWA Studio](https://developer.adobe.com/commerce/pwa-studio/)
-- [Repositório GitHub do PWA Studio](https://github.com/magento/pwa-studio)
+- [documentação do PWA Studio](https://developer.adobe.com/commerce/pwa-studio/)
+- [repositório GitHub de PWA Studio](https://github.com/magento/pwa-studio)

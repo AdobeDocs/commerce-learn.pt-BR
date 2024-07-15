@@ -1,6 +1,6 @@
 ---
 title: Configurar o Adobe Commerce Services Connector
-description: Saiba como configurar o Adobe Commerce Services Connector para uso com produtos SaaS do Commerce e como resolver problemas comuns.
+description: Saiba como configurar o Adobe Commerce Services Connector para uso com os produtos SaaS da Commerce e como resolver problemas comuns.
 kt: 14777
 doc-type: video
 audience: all
@@ -10,7 +10,8 @@ feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
-source-git-commit: 49dd1cecc9af2ed68150a8385e7800f35ca983fc
+exl-id: 3ddfab5e-18a4-47ce-8b80-d66db10eebee
+source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 # Configurar o Adobe Commerce Services Connector
 
-O Commerce Services Connector é uma configuração desenvolvida pela Adobe que desbloqueia várias funcionalidades SaaS. Para usar Payment services para Adobe Commerce e Magento Open Source, você deve conectar sua instância do Commerce usando chaves de API de produção e sandbox e especificar o espaço de dados na configuração.
+O Commerce Services Connector é uma configuração desenvolvida pela Adobe que desbloqueia várias funcionalidades SaaS. Para usar os serviços de pagamento para o Adobe Commerce e o Magento Open Source, você deve conectar sua instância do Commerce usando chaves de API de produção e sandbox e especificar o espaço de dados na configuração do para configuração.
 
-Assista ao _Configurar o Adobe Commerce Services Connector_ vídeo para ajudá-lo a configurar os Serviços de pagamento.
+Assista ao vídeo _Configurar o Adobe Commerce Services Connector_ para ajudá-lo a configurar os Serviços de Pagamento.
 
 ## Para quem é este vídeo?
 
@@ -46,6 +47,6 @@ O Commerce Services Connector é uma configuração desenvolvida pelo Adobe que 
 
 ## Recursos adicionais
 
-- [Conector dos Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
-- [Guia dos serviços de pagamento](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
-- [Conector dos Commerce Services](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}
+- [Conector de serviços do Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="_blank"}
+- [Guia dos Serviços de Pagamento](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html){target="+blank"}
+- [Conector de serviços do Commerce](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html){target="+blank"}

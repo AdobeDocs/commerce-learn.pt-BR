@@ -41,7 +41,7 @@ O método preferido é fazer um despejo de banco de dados e depurá-lo para remo
 
 ## Uso da ferramenta Adobe Commerce Cloud CLI
 
-A criação de um dump de banco de dados requer que você tenha o [CLI do Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) instalado. No laptop local, vá para um diretório e execute o comando a seguir. Substitua `your-project-id` com a ID do projeto, que é semelhante a `asasdasd45q`. Também é necessário substituir `your-environment-name` com o nome do seu ambiente, como `master` ou `staging`.
+A criação de um despejo de banco de dados requer a instalação da [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html). No laptop local, vá para um diretório e execute o comando a seguir. Substitua `your-project-id` pela ID do projeto, que é semelhante a `asasdasd45q`. Você também precisa substituir `your-environment-name` pelo nome de seu ambiente, como `master` ou `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -83,7 +83,8 @@ Creating SQL dump file: /Users/<username>/Downloads/db-tutorial/abasrpikfw4123--
 
 ## Utilização das ferramentas Adobe Commerce ECE
 
-Se você não tiver a ferramenta Adobe Commerce CLI, poderá `ssh` em seu projeto e execute o `ece` comando `vendor/bin/ece-tools db-dump`: Exemplo de resposta:
+Se você não tiver a ferramenta Adobe Commerce CLI, poderá `ssh` em seu projeto e executar o comando `vendor/bin/ece-tools db-dump` do `ece`:
+Exemplo de resposta:
 
 ```bash
 ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud
@@ -117,9 +118,9 @@ logout
 Connection to ssh.us-4.magento.cloud closed.
 ```
 
-Uso `SFTP` ou `rsync` para extrair o dump do banco de dados para o ambiente local.
+Use `SFTP` ou `rsync` para extrair o despejo do banco de dados para o ambiente local.
 
-O exemplo a seguir usa `rsync` para obter o arquivo para o `~/Downloads/db-tutorial` pasta.
+O exemplo a seguir usa `rsync` para enviar o arquivo para a pasta `~/Downloads/db-tutorial`.
 
 ```bash
 rsync -avrp -e ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud:/app/var/dump-main-1707850906.sql.gz ~/Downloads/db-tutorial
@@ -250,7 +251,7 @@ Save encoded tunnel details to the MAGENTO_CLOUD_RELATIONSHIPS variable using:
   export MAGENTO_CLOUD_RELATIONSHIPS="$(magento-cloud tunnel:info --encode)"
 ```
 
-Estabeleça uma conexão usando uma interface gráfica do MySQL usando o `SSH tunnel opened to database at` opção de comando.
+Estabeleça uma conexão usando uma interface gráfica MySQL com a opção de comando `SSH tunnel opened to database at`.
 
 ```bash
 SSH tunnel opened to database at: mysql://user:@127.0.0.1:30000/main
@@ -263,8 +264,8 @@ Você pode encontrar o nome de host SSH e o nome de usuário nas credenciais da 
 ![logotipo - Console do Adobe Commerce Cloud](./assets/cloud-ui-screenshot.png "Console do Adobe Commerce Cloud")
 
 Veja um exemplo: `ssh abasrpikfw4123-remote-db-ecpefky--mymagento@ssh.us-4.magento.cloud`
-O nome do host SSH é tudo depois do sinal @: `ssh.us-4.magento.cloud` neste exemplo.
-O nome de usuário SSH é tudo antes do sinal @:  `abasrpikfw4123-remote-db-ecpefky—mymagento`
+O nome de host SSH é tudo depois do sinal @: `ssh.us-4.magento.cloud` neste exemplo.
+O nome de usuário SSH é tudo antes do sinal @: `abasrpikfw4123-remote-db-ecpefky—mymagento`
 
 ## Localizando valores para conexão com o banco de dados
 
@@ -276,7 +277,7 @@ O acesso direto ao banco de dados do MariaDB requer o uso do SSH para fazer logo
    magento-cloud ssh
    ```
 
-1. Recupere as credenciais de logon do MySQL da `database` e `type` propriedades na [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships) variável.
+1. Recupere as credenciais de logon do MySQL das propriedades `database` e `type` na variável [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships).
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -314,15 +315,15 @@ O acesso direto ao banco de dados do MariaDB requer o uso do SSH para fazer logo
 
 Em seguida, use os valores de configuração na interface do MySQL. O exemplo a seguir usa o MySQL Workbench, mas qualquer aplicativo que suporte conexões MySQL terá campos semelhantes.
 
-![logotipo - exemplo de GUI Mysql usando o Mysql Workbench](./assets/mysql-workbench-after-connecting.png " Exemplo de GUI Mysql usando o Mysql Workbench")
+![logotipo - Exemplo de GUI Mysql usando o Mysql Workbench](./assets/mysql-workbench-after-connecting.png " Exemplo de GUI Mysql usando o Mysql Workbench")
 
-![logotipo - exemplo de interface gráfica do Mysql usando o TablesPlus](./assets/tablesPlus-db-connection.png " Exemplo de GUI Mysql usando o TablesPlus")
+![logotipo - Exemplo de GUI Mysql usando TablesPlus](./assets/tablesPlus-db-connection.png " Exemplo de GUI Mysql usando TablesPlus")
 
 Depois que tudo estiver configurado, é possível usar uma GUI MySQL para executar queries em um projeto remoto do Adobe Commerce Cloud.
 
 ## Conectando diretamente ao banco de dados do projeto na nuvem para executar o SQL
 
-O método a seguir usa o `magento-cloud` cli para conectar-se diretamente ao banco de dados mysql e executar SQL, o que permite consultas mais rápidas ao banco de dados. Se precisar copiar esse banco de dados, consulte um dos métodos alternativos para [criar um dump de banco de dados](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
+O método a seguir usa a cli `magento-cloud` para se conectar diretamente ao banco de dados mysql e executar o SQL, o que permite uma consulta mais rápida ao banco de dados. Se precisar copiar este banco de dados, consulte um dos métodos alternativos para [criar um despejo de banco de dados](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
 
 ```bash
 magento-cloud db:sql    
@@ -348,7 +349,7 @@ Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 ```
 
-Por exemplo, é possível encontrar todos os registros da variável `core_config_data` tabela que contém a palavra `secure` como parte da coluna `path`:
+Por exemplo, você pode encontrar todos os registros da tabela `core_config_data` que contêm a palavra `secure` como parte da coluna `path`:
 
 ```sql
 MariaDB [main]> SELECT * FROM core_config_data WHERE path LIKE '%secure%' \G;
@@ -382,7 +383,7 @@ MariaDB [main]>
 
 ## Recursos adicionais
 
-[CLI do Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+[CLI DO Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
 [Configurar o serviço MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
 [Configurar uma conexão remota com o banco de dados MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-[Criar despejo de banco de dados no Adobe Commerce na infraestrutura em nuvem](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+[Criar despejo de banco de dados no Adobe Commerce na infraestrutura de nuvem](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)

@@ -1,7 +1,7 @@
 ---
-title: Introdução aos eventos de E/S usando o Construtor de aplicativos Adobe e o Adobe Commerce
+title: Introdução aos eventos de IO usando o Adobe App Builder e o Adobe Commerce
 description: Introdução aos Adobe I/O Events. Crie uma ação de tempo de execução do App Builder para eventos do Adobe Commerce.
-landing-page-description: Saiba como usar a ação de tempo de execução do App Builder para Eventos do Adobe Commerce.
+landing-page-description: Saiba como usar a ação de tempo de execução do App Builder para eventos do Adobe Commerce.
 short-description: Criar uma ação de tempo de execução do App Builder para eventos do Adobe Commerce.
 kt: 14583
 doc-type: tutorial
@@ -11,7 +11,8 @@ feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
 role: Architect, Developer
 level: Beginner, Intermediate
-source-git-commit: dee58b3d5cb3e9d37302bd739d6c4c4b42efbb62
+exl-id: 266d13ac-439e-4590-a0be-e22ea8e34014
+source-git-commit: b858cca427399963571847c71832841b64c88c95
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 # Introdução a eventos de E/S para Adobe Commerce
 
-Saiba mais sobre eventos de Adobe I/O. Nesta demonstração, um evento do Adobe Commerce é enviado para um canal Slack usando o Construtor de aplicativos da Adobe Developer e o evento do Adobe Commerce.
+Saiba mais sobre eventos de Adobe I/O. Nesta demonstração, um evento do Adobe Commerce é enviado para um canal Slack usando o Adobe Developer App Builder e o evento do Adobe Commerce.
 
 ## Para quem é este vídeo?
 

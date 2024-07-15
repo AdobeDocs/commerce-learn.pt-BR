@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Exibições de loja e limpeza de cache"
+title: "[!DNL Commerce] para usuários empresariais - Exibições de armazenamento e limpeza de cache"
 description: Saiba como criar exibições de loja e limpar o cache.
 kt: 5761
 doc-type: video
@@ -12,12 +12,12 @@ level: Beginner, Intermediate
 exl-id: 53c35861-6ad9-4a22-a3e5-6fa2165c26ca
 source-git-commit: f7aa1f0063cbcad6d331a13817214b1bf2158571
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '60'
 ht-degree: 0%
 
 ---
 
-# [!DNL Commerce] para usuários empresariais - Exibições de loja e limpeza de cache
+# [!DNL Commerce] para usuários empresariais - Exibições de armazenamento e limpeza de cache
 
 Neste vídeo:
 
@@ -34,6 +34,6 @@ Neste vídeo:
 
 ## Recursos adicionais
 
-[Sites, lojas e visualizações - [!DNL Commerce] Guia de introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
+[Sites, lojas e visualizações - [!DNL Commerce] Guia de Introdução](https://experienceleague.adobe.com/docs/commerce-admin/start/setup/websites-stores-views.html)
 
-[Gerenciamento de cache - [!DNL Commerce] Guia de sistemas do administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)
+[Gerenciamento de cache - [!DNL Commerce] Guia de Sistemas de Administração](https://experienceleague.adobe.com/docs/commerce-admin/systems/tools/cache-management.html)
