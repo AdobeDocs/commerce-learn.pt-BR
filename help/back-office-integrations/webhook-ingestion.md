@@ -11,7 +11,7 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: aed143b96f13a413f85fc461e11f358b4c657015
+source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
 workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 0%

@@ -11,7 +11,7 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: 11daa4b29dafe5fcecf6b75cf2269b87f65c4612
+source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -40,4 +40,4 @@ Explore a lógica por trás da estrutura do código-fonte, detalhando como as pa
 
   >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
 
-  {{$include /help/_includes/starter-kit-related-links.md}}
+{{$include /help/_includes/starter-kit-related-links.md}}
