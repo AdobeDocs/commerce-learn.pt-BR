@@ -1,5 +1,5 @@
 ---
-title: Configuração, implantação e personalização de um webhook de assimilação para integrar o Commerce a um sistema de terceiros
+title: Configurar, implantar e personalizar um Webhook de assimilação
 description: Saiba como configurar e personalizar um webhook de assimilação para facilitar a comunicação entre o Commerce e um sistema de back office de terceiros.
 landing-page-description: Saiba como usar o Commerce Integration Starter Kit para integrar o Commerce a um sistema de back-office de terceiros usando um webhook de assimilação.
 kt: 15870
@@ -11,14 +11,14 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
 
-# Configuração, implantação e personalização de um webhook de assimilação
+# Configurar, implantar e personalizar um webhook de assimilação
 
 Saiba mais sobre a configuração e personalização de um webhook de assimilação para integrar o Commerce a um sistema de back office de terceiros&#x200B; Este vídeo explica como o webhook pode lidar com limitações na comunicação de eventos entre sistemas, fornecendo um endpoint disponível publicamente para adaptar mensagens do sistema de terceiros para a API de evento do Adobe IO. O processo envolve a configuração do webhook no arquivo `actions.config.yaml`, sua habilitação no arquivo `app.config.yaml` e sua implantação para garantir a funcionalidade adequada.
 
