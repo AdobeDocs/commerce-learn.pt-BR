@@ -1,6 +1,6 @@
 ---
-title: Saiba mais sobre a ferramenta de correção de qualidade
-description: Melhore a estabilidade e a segurança da sua plataforma de comércio eletrônico aplicando correções de qualidade. Mantenha-se atualizado, resolva problemas e otimize o desempenho com essa ferramenta essencial.
+title: Ferramenta de correção de qualidade
+description: Saiba como usar a ferramenta de correção de qualidade ao diagnosticar um problema, encontrar uma solução e aplicar uma correção encontrada na lista existente de correções disponíveis.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
 role: Admin, Architect, User
@@ -9,14 +9,15 @@ doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
-source-git-commit: 0458526b13266625a23d8ddc2ca8829d11ed07d5
+exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
+source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# Ferramenta de correção de qualidade do Adobe Commerce
+# Ferramenta de correção de qualidade
 
 Saiba como usar a ferramenta de correção de qualidade ao diagnosticar um problema, encontrar uma solução e aplicar uma correção encontrada na lista existente de correções disponíveis.
 
@@ -24,7 +25,7 @@ Saiba como usar a ferramenta de correção de qualidade ao diagnosticar um probl
 
 Saiba como fazer a triagem de um problema e usar algumas técnicas básicas para encontrar um patch de qualidade para aplicar uma correção.
 
-## Para quem é este vídeo?
+## Público-alvo
 
 * Desenvolvedores aprendendo como encontrar problemas e aproveitar essa ferramenta para aplicar patches GIT para problemas conhecidos
 
@@ -40,7 +41,7 @@ Esses patches são desenvolvidos a partir da Adobe Developers na comunidade Mage
 
 >[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
-## Por que usar a ferramenta de correção de qualidade?
+## Por que usar a ferramenta de correção de qualidade
 
 Você pode querer usar a Ferramenta de correções de qualidade para Adobe Commerce ou Magento Open Source se quiser:
 
