@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 4445a494d0d84c8ececba27c976d06fe0f54fb70
+source-git-commit: 6ae8bc718b34a7330357a588d64e968050e8b106
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '687'
 ht-degree: 3%
 
 ---
@@ -157,6 +157,7 @@ ht-degree: 3%
    + [Ferramenta de correção de qualidade](../tools/quality-patch-tool.md)
    + New Relic {#new-relic}
       + [Localizar um IP mal-intencionado](../new-relic/malicious-ip.md)
+      + [Configuração de notificação de alerta](../new-relic/new-relic-alert-notification-setup.md)
 + Commerce Intelligence {#mbi}
    + [Introdução](../business-intelligence/getting-started.md)
    + [Integrações e configurações](../business-intelligence/integrations-configurations.md)
