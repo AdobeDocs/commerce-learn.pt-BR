@@ -13,14 +13,14 @@ topic: Security
 role: Architect, Developer, User
 level: Beginner, Intermediate
 exl-id: 2bd28c6f-5139-485b-a439-dd7dbf2b6f62
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: e07cb40589d77583f18d91c4f52668b85aba2bfe
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# Identifique um IP que possa ser mal-intencionado e que deve ser bloqueado
+# Bloquear um endereço IP mal-intencionado
 
 Neste vídeo:
 
