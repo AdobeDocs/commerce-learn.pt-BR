@@ -1,7 +1,7 @@
 ---
 title: Links relacionados à Série de ativação
 description: Links para páginas relacionadas na série de ativação para uso em todas as páginas individuais
-source-git-commit: e5b9d8cc85412acf086bcb9ac5ee86ed53c7ae9c
+source-git-commit: 00a7d5c781d811088acc754f3c7a33a4d58b678c
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -16,3 +16,4 @@ ht-degree: 0%
 * [Planejamento da implementação moderna do Adobe Commerce](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
 * [Iniciar, pós-lançamento, monitoramento e solução de problemas do Adobe Commerce Cloud](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
 * [Edge Delivery Services com o Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
+
