@@ -3,10 +3,10 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 6ae8bc718b34a7330357a588d64e968050e8b106
+source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
 workflow-type: tm+mt
-source-wordcount: '687'
-ht-degree: 3%
+source-wordcount: '712'
+ht-degree: 2%
 
 ---
 
@@ -23,6 +23,7 @@ ht-degree: 3%
       + [Implantações, testes, monitoramento e segurança](../cloud/deployments-testing-monitoring-security.md)
       + [Ofertas, suporte e comunicações SaaS e próximas etapas](../cloud/saas-offerings-support-communications-next-steps.md)
    + Práticas recomendadas {#commerce-cloud-best-practices}
+      + [Solicitação de suporte](../cloud/best-practices/support-request.md)
       + [Lista de verificação de pré-lançamento](../cloud/best-practices/pre-launch-checklist.md)
 + Introdução {#getting-started}
    + Arquitetura de Referência Global{#global-reference-architecture}
@@ -50,6 +51,10 @@ ht-degree: 3%
       + [Integração da última milha](../back-office-integrations/last-mile-integration.md)
       + [Assimilação de Webhook](../back-office-integrations/webhook-ingestion.md)
       + [Mecanismo de repetição](../back-office-integrations/retry-mechanism.md)
+   + Ajuda e suporte {#help-and-support}
+      + [Criar um tíquete de suporte](../help-and-support/create-a-support-ticket.md)
+      + [Pesquisar, rastrear, comentar e encaminhar tíquete de suporte](../help-and-support/search-track-comment-escalate-support-ticket.md)
+      + [Adicionar e remover observadores, fechar e reabrir um tíquete](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Webinários e eventos {#webinars-and-events}
    + Série de habilitação {#enablement-series}
       + [Reduza o índice para integrações do Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
