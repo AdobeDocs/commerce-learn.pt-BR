@@ -9,9 +9,8 @@ doc-type: Tutorial
 duration: 0
 last-substantial-update: 2024-06-27T00:00:00Z
 jira: KT-15730
-thumbnail: KT-15730.jpeg
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: 8314041fa2649ce76c6819dced1694e0e0cb08b2
+source-git-commit: d578c066f3e51827694c8bf85aa2324035a8b07b
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
