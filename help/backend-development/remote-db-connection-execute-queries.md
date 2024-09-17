@@ -9,9 +9,8 @@ doc-type: Technical Video
 duration: 0
 last-substantial-update: 2024-06-25T00:00:00Z
 jira: KT-14910
-thumbnail: KT-14910.jpeg
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: 435364592c0b609b3c379bb58df80e2691c82d40
+source-git-commit: 9af981957b5c8722002a5c1cbd09b71e98e0a754
 workflow-type: tm+mt
 source-wordcount: '1143'
 ht-degree: 0%
