@@ -3,10 +3,10 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
+source-git-commit: 8ebc37e432f2898ad9df0497b41f5d4df8947e67
 workflow-type: tm+mt
-source-wordcount: '712'
-ht-degree: 2%
+source-wordcount: '733'
+ht-degree: 3%
 
 ---
 
@@ -15,6 +15,15 @@ ht-degree: 2%
 
 + [Tutoriais do [!DNL Commerce]](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
+   + [Marketecture](../cloud/marketecture.md)
+   + [Modelo de entrega global](../cloud/global-delivery-model.md)
+   + [Funções do administrador](../cloud/admin-roles.md)
+   + [Fluxos de marketing](../cloud/marketing-flows.md)
+   + [Opções da vitrine eletrônica](../cloud/storefront-options.md)
+   + [Compartilhamento de dados](../cloud/data-sharing.md)
+   + [Vários sites](../cloud/multiple-websites.md)
+   + [Dados e promoções de clientes potenciais de experiência](../cloud/experience-lead-data-promoitions.md)
+   + [AEM Assets](../cloud/aem-assets.md)
    + [Migrar de uma solução auto-hospedada](../cloud/overview.md)
    + Integração técnica e transferência de hardware {#technical-onboarding-hardware-handoff}
       + [Práticas recomendadas de infraestrutura e desenvolvimento](../cloud/infrastructure-development-best-practices.md)
