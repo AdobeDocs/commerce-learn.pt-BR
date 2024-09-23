@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 301
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16193
-source-git-commit: 4d6ce5b07990001441a8d7fb41a3c73e1029c200
+source-git-commit: 1dd8c4ea80732d68b44d1d200ddcb331551ea224
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Ele se integra perfeitamente com ferramentas de experiência digital do Adobe, p
 
 - Líderes de negócios e comércio eletrônico que buscam aprimorar suas vitrines on-line.
 - Líderes de TI, desenvolvedores e profissionais de marketing.
-- Empresas com o objetivo de melhorar o desempenho do site, aumentar o tráfego orgânico e fornecer experiências de compra personalizadas.
+- Empresas que visam melhorar o desempenho do site, aumentar o tráfego orgânico, bem como fornecer experiências de compra personalizadas.
 
 ## Conteúdo de vídeo
 
