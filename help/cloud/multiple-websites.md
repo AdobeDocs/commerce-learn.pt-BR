@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 353
 last-substantial-update: 2024-09-12T00:00:00Z
 jira: KT-16199
-source-git-commit: a46bcaaa8f17baceb323d62494a158c36ea5f66f
+source-git-commit: cea265de4a1e8f828d60d9f5773f0d7fa5e6b5de
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 0%
@@ -31,6 +31,5 @@ O Adobe Commerce permite que as empresas gerenciem várias lojas, marcas ou site
 - Gerenciamento de vários sites
 - Localização e personalização
 - Escalabilidade e flexibilidade
-
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434027?learn=on)
