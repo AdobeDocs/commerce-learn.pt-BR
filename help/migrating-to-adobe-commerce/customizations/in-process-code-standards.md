@@ -5,14 +5,13 @@ feature: Best Practices, Backend Development
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Beginner, Intermediate
-doc-type: Tutorial
+doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
-thumbnail: KT-15994.jpeg
-source-git-commit: e27cec774daaa3f292b915cb454f46d6bd729549
+source-git-commit: a73d0038ac844805f4fda689da329d891e5b8320
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '127'
 ht-degree: 0%
 
 ---
@@ -22,7 +21,7 @@ ht-degree: 0%
 
 Conheça alguns padrões essenciais de codificação e as práticas recomendadas para PHP, JavaScript e personalizações. Seja você um desenvolvedor ou uma empresa, esse conjunto de tutoriais ajuda a navegar pelas complexidades da migração para o Adobe Commerce, garantindo uma transição suave e bem-sucedida.
 
-## Para quem é esta série de vídeos?
+## Para quem é este vídeo?
 
 * Desenvolvedores: buscando aprimorar suas habilidades em padrões de migração e codificação do Adobe Commerce.
 * Empresas que planejam a migração para o Adobe Commerce e buscam as práticas recomendadas.

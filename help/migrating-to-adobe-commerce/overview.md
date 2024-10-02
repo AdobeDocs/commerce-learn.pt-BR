@@ -5,11 +5,11 @@ feature: Best Practices
 topic: Commerce, Migration
 role: Architect, Developer
 level: Intermediate, Experienced
-doc-type: Tutorial
+doc-type: Technical Video
 duration: 167
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
-source-git-commit: e27cec774daaa3f292b915cb454f46d6bd729549
+source-git-commit: a73d0038ac844805f4fda689da329d891e5b8320
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
