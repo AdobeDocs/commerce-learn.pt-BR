@@ -4,12 +4,12 @@ description: Visão geral dos padrões de codificação em andamento para migra�
 feature: Best Practices, Backend Development
 topic: Architecture, Commerce, Development
 role: Architect, Developer
-level: Beginner, Intermediate
+level: Beginner
 doc-type: Technical Video
 duration: 323
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15994
-source-git-commit: a73d0038ac844805f4fda689da329d891e5b8320
+source-git-commit: ca8627c7f15f2293960d4f029feab81a83796e48
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
