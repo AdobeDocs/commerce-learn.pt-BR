@@ -4,12 +4,12 @@ description: Avalie sua equipe e projeto para o Adobe Commerce, com foco em fun√
 feature: Backend Development, Saas, Storefront, Tools and External Services
 topic: Architecture, Collaboration, Development, Migration, Upgrade
 role: Architect, Developer
-level: Beginner, Intermediate
+level: Beginner
 doc-type: Technical Video
 duration: 270
 last-substantial-update: 2024-10-24T00:00:00Z
 jira: KT-16275
-source-git-commit: 1fdf88a8ade2ad68e1d4966225ad22ce6239cb5f
+source-git-commit: da9c7062f0b9ef1f26b07b9bd02abc306d06fbb6
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
