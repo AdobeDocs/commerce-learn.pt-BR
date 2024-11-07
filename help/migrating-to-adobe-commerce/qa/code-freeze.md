@@ -4,12 +4,12 @@ description: Saiba mais sobre a importância de implementar um congelamento de c
 feature: Best Practices
 topic: Commerce, Development
 role: Architect
-level: Intermediate
+level: Beginner
 doc-type: Tutorial
 duration: 199
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
-source-git-commit: bdb10b48141ddf669474ffa6c6139f725e5dad2d
+source-git-commit: 00b97157e20778d1eeaa30236b9d340cccaf3a38
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
