@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 659
 last-substantial-update: 2024-11-08T00:00:00Z
 jira: KT-16429
-source-git-commit: a6dca0721a2c15fce0379c99036421141d0acc52
+source-git-commit: f4f3faf22899fb58cb99dc8555b2d6279817b1a8
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '219'
 ht-degree: 0%
 
 ---
@@ -36,16 +36,10 @@ Este guia fornece uma visão geral abrangente de como localizar, validar e geren
 
 ## Documentação de Experience League relacionada
 
-[https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration]
-
-[https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings]
-
-[https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values]
-
-[https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp]
-
-[https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details]
-
-[https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files.]
-
-[https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20].
+[Exportar configuração](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/export-configuration)
+[Substituir Configurações](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/paths/override-config-settings)
+[Definir valores de configuração](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/cli/configuration-management/set-configuration-values)
+[Referência de configuração config.php](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/files/config-reference-configphp)
+[Detalhes técnicos do guia de configuração](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details)
+[Valores de configuração bloqueados](https://experienceleague.adobe.com/en/docs/commerce-operations/configuration-guide/deployment/technical-details#:~:text=Configuration%20settings%20locked%20in%20the,php%20files)
+[Valores salvos no env.php](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/troubleshooting/miscellaneous/locked-fields-in-magento-admin#:~:text=Cause,php%20)
