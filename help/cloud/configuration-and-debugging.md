@@ -1,32 +1,32 @@
 ---
 title: Configuração e depuração do Adobe Commerce Cloud
-description: Saiba mais sobre as configurações e depuração do Adobe Commerce Cloud.
+description: Saiba mais sobre os arquivos de configuração, as ferramentas de depuração e o gerenciamento de logs do Adobe Commerce Cloud, essenciais para DevOps, administradores de sistema e desenvolvedores de back-end.
 feature: Cloud
 topic: Commerce, Architecture, Development
 role: Architect, Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 0
+duration: 500
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15019
 kt: 15019
 exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
-source-git-commit: 0cb0982df528dd66dbc8804d7d09e3949a2fd850
+source-git-commit: 661e8cafc5870e4480c804c2aa482864272f602f
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '170'
 ht-degree: 0%
 
 ---
 
 # Integração técnica - Configuração e depuração
 
-Saiba como configurar e depurar o Adobe Commerce Cloud.
+Saiba mais sobre os principais arquivos do Yaml usados no Adobe Commerce Cloud para configuração em diferentes ambientes, as ferramentas disponíveis para validar e otimizar essas configurações e o processo de depuração e registro. Entenda a importância das configurações específicas do ambiente, como usar as ferramentas da CE e os patches de qualidade e a função do New Relic na agregação de logs. Obtenha insights sobre a depuração remota com o Xdebug e a necessidade de gerenciar logs em vários servidores de aplicativos.
 
 ## Para quem é este vídeo?
 
-- Gerentes de sites
+- Engenheiros DevOp
 - Arquitetos da Commerce
-- Proprietários do site de comércio eletrônico
+- Desenvolvedores de backend
 
 ## Conteúdo de vídeo
 
