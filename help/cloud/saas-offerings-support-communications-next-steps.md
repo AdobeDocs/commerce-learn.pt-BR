@@ -37,7 +37,7 @@ Saiba mais sobre as ofertas, o suporte e outras comunicações do Adobe Commerce
 +++Dicionário de Acrônimos
 
 - Gerente de conta da solução SAM
-- Consultor técnico de cliente CTA
+- consultor técnico de clientes da CTA
 - Plataforma PaaS como um serviço
 - Infraestrutura IaaS como um serviço
 - Unidade central de processamento da CPU
@@ -47,7 +47,7 @@ Saiba mais sobre as ofertas, o suporte e outras comunicações do Adobe Commerce
 - Rede de entrega de conteúdo CDN
 - Fastly IO Otimizador de imagens Fastly
 - Linguagem de configuração de verniz de VCL
-- Firewall de aplicativo Web do WAF
+- Firewall de aplicativo web do WAF
 - Setor de cartões de pagamento PCI
 - Serviço de camada de transporte TLS
 - Lista de controle de acesso ACL
