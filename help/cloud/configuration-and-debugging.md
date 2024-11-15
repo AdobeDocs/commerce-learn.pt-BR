@@ -47,3 +47,4 @@ Saiba mais sobre os principais arquivos do Yaml usados no Adobe Commerce Cloud p
 - [Uso da ferramenta de correção de qualidade](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+
