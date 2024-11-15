@@ -42,3 +42,4 @@ Saiba mais sobre a infraestrutura em nuvem e algumas práticas recomendadas de d
 - [Criação de tíquetes de suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+
