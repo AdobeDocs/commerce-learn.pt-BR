@@ -42,3 +42,4 @@ Saiba mais sobre as estratégias de implantação do Adobe Commerce Cloud, teste
 - [Visão geral do New Relic Service](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
+
