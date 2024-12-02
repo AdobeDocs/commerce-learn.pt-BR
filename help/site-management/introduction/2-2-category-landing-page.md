@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Páginas de aterrissagem"
+title: '[!DNL Commerce] para usuários empresariais - Páginas de aterrissagem'
 description: Saiba como configurar uma página de aterrissagem de categoria e controlar a aparência.
 kt: 5766
 doc-type: video

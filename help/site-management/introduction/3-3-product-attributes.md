@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Atributos"
+title: '[!DNL Commerce] para usuários empresariais - Atributos'
 description: Saiba mais sobre atributos personalizados e de sistema para produtos.
 kt: 5769
 doc-type: video

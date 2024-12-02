@@ -1,5 +1,5 @@
 ---
-title: '[!DNL Page Builder] visão geral'
+title: Visão geral de [!DNL Page Builder]
 description: Saiba como criar páginas [!DNL Commerce] armazenar páginas no Administrador usando [!DNL Page Builder].
 kt: 5563
 doc-type: feature video

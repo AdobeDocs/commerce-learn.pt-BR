@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Importar e exportar produtos"
+title: '[!DNL Commerce] para usuários empresariais - Importar e exportar produtos'
 description: Saiba como importar e exportar seus produtos de catálogo.
 kt: 5773
 doc-type: video

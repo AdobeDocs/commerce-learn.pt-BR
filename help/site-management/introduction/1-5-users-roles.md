@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Usuários e funções"
+title: '[!DNL Commerce] para usuários empresariais - Usuários e funções'
 description: Saiba mais sobre as noções básicas de  [!DNL Admin]  contas de usuário e funções de usuário que determinam permissões.
 kt: 5762
 doc-type: video

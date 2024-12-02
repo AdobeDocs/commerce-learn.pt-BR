@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Grades de dados"
+title: '[!DNL Commerce] para usuários empresariais - Grades de dados'
 description: Saiba como trabalhar com grades de dados no  [!DNL Commerce Admin].
 kt: 5759
 doc-type: video

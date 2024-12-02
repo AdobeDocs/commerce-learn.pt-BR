@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Loja"
+title: '[!DNL Commerce] para usuários empresariais - Loja'
 description: Saiba mais sobre a experiência do cliente na loja, incluindo criação de conta, listas de desejos e adição de itens à lista de desejos ao carrinho
 kt: 5778
 doc-type: video

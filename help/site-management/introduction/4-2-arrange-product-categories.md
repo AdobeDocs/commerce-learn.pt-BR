@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Posicionamento de categoria"
+title: '[!DNL Commerce] para usuários empresariais - Posicionamento de categoria'
 description: Posicione os produtos em categorias para que os clientes vejam os produtos no topo que você deseja que eles vejam.
 kt: 5776
 doc-type: video

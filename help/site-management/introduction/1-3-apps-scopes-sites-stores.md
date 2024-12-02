@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Sites, lojas e exibições"
+title: '[!DNL Commerce] para usuários empresariais - Sites, lojas e visualizações'
 description: Saiba mais sobre as noções básicas da arquitetura  [!DNL Commerce] , incluindo as diferenças entre sites, lojas, exibições de loja e escopos de aplicativo. Entender a indexação e o armazenamento em cache.
 kt: 5760
 doc-type: video

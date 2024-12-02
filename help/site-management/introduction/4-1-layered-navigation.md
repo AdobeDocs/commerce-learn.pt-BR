@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Navegação em camadas"
+title: '[!DNL Commerce] para usuários empresariais - Navegação em camadas'
 description: Habilite a navegação em camadas na sua loja  [!DNL Commerce]  para que os clientes possam encontrar produtos de forma fácil e rápida.
 kt: 5775
 doc-type: video

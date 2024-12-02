@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Conjuntos de atributos"
+title: '[!DNL Commerce] para usuários empresariais - Conjuntos de atributos'
 description: Saiba mais sobre conjuntos de atributos de produto e como usá-los no catálogo.
 kt: 5770
 doc-type: video

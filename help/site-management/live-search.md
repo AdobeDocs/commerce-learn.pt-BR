@@ -1,6 +1,6 @@
 ---
-title: "Introdução a  [!DNL Live Search]"
-description: "Saiba como adicionar [!DNL Live Search] à sua loja e produzir experiências de compra altamente envolventes, relevantes e personalizadas."
+title: Introdução a  [!DNL Live Search]
+description: Saiba como adicionar [!DNL Live Search] à sua loja e produzir experiências de compra altamente envolventes, relevantes e personalizadas.
 doc-type: feature video
 audience: all
 last-substantial-update: 2023-04-27T00:00:00Z

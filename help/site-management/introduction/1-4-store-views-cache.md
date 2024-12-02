@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Exibições de armazenamento e limpeza de cache"
+title: '[!DNL Commerce] para usuários empresariais - Exibições de armazenamento e limpeza de cache'
 description: Saiba como criar exibições de loja e limpar o cache.
 kt: 5761
 doc-type: video

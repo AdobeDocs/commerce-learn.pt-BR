@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Configurações de armazenamento"
+title: '[!DNL Commerce] para usuários empresariais - Configurações de loja'
 description: Saiba mais sobre configurações de local, informações de loja, URLs seguros e não seguros, título do site, logotipo, informações de direitos autorais, logotipos de email de comunicação, endereços de email de loja, opções de moeda e taxas de moeda.
 kt: 5764
 doc-type: video

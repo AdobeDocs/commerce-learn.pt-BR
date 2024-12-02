@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Comunicações por email"
+title: '[!DNL Commerce] para usuários empresariais - Comunicações por email'
 description: Comunique-se com seus clientes usando emails transacionais acionados por suas ações na loja. Personalize e configure os modelos de email para sua loja.
 kt: 5780
 doc-type: video

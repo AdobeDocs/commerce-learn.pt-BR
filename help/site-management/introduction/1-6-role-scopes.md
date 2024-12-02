@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Escopos de função e permissões"
+title: '[!DNL Commerce] para usuários empresariais - Escopos de função e permissões'
 description: Saiba como definir escopos de função (exclusivos para o Adobe Commerce) e as permissões associadas por site ou loja.
 kt: 5763
 doc-type: video

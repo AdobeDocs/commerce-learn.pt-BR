@@ -1,6 +1,6 @@
 ---
 title: Page Builder para desenvolvedores - Modelos e estilos
-description: "[!DNL Admin] e tarefas de temas de estágio. Criar  [!DNL Admin] modelos​. Aplique estilos a tipos de conteúdo no palco (visualização ao vivo)."
+description: '[!DNL Admin] e tarefas de temas de preparo. Criar  [!DNL Admin] modelos​. Aplique estilos a tipos de conteúdo no estágio (visualização em tempo real).'
 kt: 5653
 doc-type: video
 activity: use

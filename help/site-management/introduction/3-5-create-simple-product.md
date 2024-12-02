@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Commerce] para usuários empresariais - Produtos simples"
+title: '[!DNL Commerce] para usuários empresariais - Produtos simples'
 description: Saiba como criar um produto simples usando conjuntos de atributos de produto.
 kt: 5771
 doc-type: video
