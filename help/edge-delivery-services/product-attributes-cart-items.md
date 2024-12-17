@@ -9,16 +9,17 @@ doc-type: Technical Video
 duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
-source-git-commit: cbc159d0b77613d49f66ddc0a2bc4001994e5429
+exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '262'
 ht-degree: 1%
 
 ---
 
 # Usar atributos de produto para itens de carrinho
 
-Na transcrição, um desenvolvedor chamado Ali da marca Acme demonstra como personalizar e estender o carrinho de compras do Adobe Commerce. Ali atende a três requisitos do projeto: exibir cronogramas de entrega de produtos de backorder, mostrar avisos de venda retornáveis e finais e aplicar um desconto de 25% para carrinhos com um subtotal de US$ 75 ou mais. Ao aproveitar os atributos e slots do produto, o Ali integra com sucesso esses recursos ao carrinho de compras, melhorando a experiência geral do usuário e atendendo a todos os requisitos do projeto.
+Saiba como personalizar e estender o carrinho de compras do Adobe Commerce. Nesta demonstração, há três atualizações.  A demonstração começa exibindo os cronogramas de entrega de produtos de backorder, mostrando avisos de venda retornáveis e finais e aplicando um desconto de 25% para carrinhos com um subtotal de US$ 75 ou mais. Ao aproveitar os atributos e slots do produto, adicionar esses recursos ao carrinho de compras melhora a experiência geral do usuário.
 
 ## O que esperar de assistir a este vídeo
 

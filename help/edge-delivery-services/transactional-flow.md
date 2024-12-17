@@ -9,9 +9,10 @@ doc-type: Technical Video
 duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
-source-git-commit: c736f5d0a7277a0540f6257fb43a4224424b22bd
+exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
+source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '201'
 ht-degree: 1%
 
 ---
@@ -22,7 +23,7 @@ Saiba como ajustar o fluxo transacional para check-out usando o menu suspenso do
 
 ## O que esperar de assistir a este vídeo
 
-Saiba como usar o menu suspenso do carrinho do Adobe Commerce e ajustar o fluxo transacional para mostrar aos clientes um novo conjunto de recursos, alterando algumas linhas de código.  Saiba também como converter essas alterações para serem gerenciadas do Sharepoint para realizar testes AB.
+Entenda como usar o menu suspenso do carrinho do Adobe Commerce e ajustar o fluxo transacional para mostrar aos clientes um novo conjunto de recursos, alterando algumas linhas de código.  Saiba também como converter essas alterações para serem gerenciadas do Sharepoint para realizar testes AB.
 
 ## Para quem é este vídeo?
 
