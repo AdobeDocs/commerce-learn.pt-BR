@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: resumo do pedido de Edge Delivery Services
 description: Saiba mais sobre os Serviços de entrega da Adobe Edge e como atualizar a seção de resumo de pedido do menu suspenso do Commerce.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -9,10 +9,11 @@ doc-type: Technical Video
 duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
-source-git-commit: 7e35428a32457bc763fad8c60cd8c550bbb2c56f
+exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
+source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 1%
+source-wordcount: '183'
+ht-degree: 0%
 
 ---
 
@@ -36,3 +37,7 @@ Saiba como usar o menu suspenso do carrinho do Adobe Commerce e ajustar a experi
 * Entenda como mesclar linhas no resumo do carrinho em uma seção que pode ser recolhida.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+
+## Documentação adicional
+
+* [Resumo do pedido](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)

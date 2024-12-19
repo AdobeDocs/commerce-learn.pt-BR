@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services
+title: itens do carrinho de Edge Delivery Services
 description: Saiba mais sobre os Serviços de entrega da Adobe Edge e como usar atributos de produto para exibir novas informações para itens de carrinho.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,10 +10,10 @@ duration: 363
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
-source-git-commit: 624c5dbdab820ecdcf51e3cdf7d4c7459676c2df
+source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
 workflow-type: tm+mt
-source-wordcount: '262'
-ht-degree: 1%
+source-wordcount: '272'
+ht-degree: 0%
 
 ---
 
@@ -39,3 +39,8 @@ Saiba como usar o menu suspenso do carrinho do Adobe Commerce e ajustar o fluxo 
 * Usar atributos de produto e Slots para estender e personalizar a funcionalidade do carrinho de compras, garantindo que todos os requisitos do projeto sejam atendidos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+
+
+## Documentação adicional
+
+* [Adicionar linhas de produto ao carrinho](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
