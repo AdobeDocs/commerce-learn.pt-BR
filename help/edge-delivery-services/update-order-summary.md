@@ -1,6 +1,6 @@
 ---
-title: resumo do pedido de Edge Delivery Services
-description: Saiba mais sobre os Serviços de entrega da Adobe Edge e como atualizar a seção de resumo de pedido do menu suspenso do Commerce.
+title: resumo do pedido de Edge Delivery Services no check-out
+description: Saiba mais sobre os Serviços de entrega da Adobe Edge e como atualizar a seção de resumo do pedido do menu suspenso da Commerce na finalização da compra.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -10,14 +10,14 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: bbed0bc863fd77184fc7f4416f0b7f2287764b1d
+source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-# Atualizar o resumo do carrinho
+# Atualizar o resumo do carrinho no check-out
 
 Saiba como fazer alterações no resumo do pedido de lançamento do carrinho do Adobe Commerce no Edge Delivery Services.  Há vários exemplos de como melhorar rapidamente o layout ou as informações fornecidas a um cliente na finalização da compra.
 
