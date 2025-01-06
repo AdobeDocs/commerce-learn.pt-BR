@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: d902059666b3c812442f66e8e982785b79cbce9b
+source-git-commit: 16aac3305ed52ab29eb003abf39dba0bc882029d
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '809'
 ht-degree: 3%
 
 ---
@@ -72,16 +72,22 @@ ht-degree: 3%
       + [Integração da última milha](../back-office-integrations/last-mile-integration.md)
       + [Assimilação de Webhook](../back-office-integrations/webhook-ingestion.md)
       + [Mecanismo de repetição](../back-office-integrations/retry-mechanism.md)
-   + Ajuda e suporte {#help-and-support}
-      + [Criar um tíquete de suporte](../help-and-support/create-a-support-ticket.md)
-      + [Pesquisar, rastrear, comentar e encaminhar tíquete de suporte](../help-and-support/search-track-comment-escalate-support-ticket.md)
-      + [Adicionar e remover observadores, fechar e reabrir um tíquete](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ Arquitetura de Referência Global {#global-reference-architecture-implementation-techniques}
+   + [Visão geral](../global-reference-architecture/overview.md)
+   + [Dividir Git](../global-reference-architecture/split-git.md)
+   + [Pacotes em massa](../global-reference-architecture/bulk-packages.md)
+   + [Pacotes separados](../global-reference-architecture/separate-packages.md)
++ Ajuda e suporte {#help-and-support}
+   + [Criar um tíquete de suporte](../help-and-support/create-a-support-ticket.md)
+   + [Pesquisar, rastrear, comentar e encaminhar tíquete de suporte](../help-and-support/search-track-comment-escalate-support-ticket.md)
+   + [Adicionar e remover observadores, fechar e reabrir um tíquete](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 + Edge Delivery Services {#edge-delivery-services}
    + Introdução {#getting-started}
       + [Alteração do fluxo transacional](../edge-delivery-services/transactional-flow.md)
       + [Usar atributos de produto para itens de carrinho](../edge-delivery-services/product-attributes-cart-items.md)
       + [Atualizar o resumo do pedido no check-out](../edge-delivery-services/update-order-summary.md)
       + [Adicionar BOPIS ao check-out](../edge-delivery-services/add-bopis-to-checkout.md)
+      + [Personalizar check-out](../edge-delivery-services/customize-checkout.md)
 + Webinários e eventos {#webinars-and-events}
    + Série de habilitação {#enablement-series}
       + [Reduza o índice para integrações do Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
