@@ -8,15 +8,15 @@ level: Beginner
 doc-type: Technical Video
 duration: 613
 last-substantial-update: 2025-1-13
-source-git-commit: 82303ee7bbae300dec94dec8a0bb8cb49a8d0ac4
+exl-id: 91535671-02ff-4611-b452-0325792ad70b
+source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
 workflow-type: tm+mt
-source-wordcount: '317'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
 
-
-# AtualizarAprimoramento do Check-out de comércio eletrônico: Layout de formulário de endereço personalizado e Integração de pesquisa de endereço do Google
+# Layout de formulário de endereço personalizado e integração do Google Address Lookup
 
 Saiba como personalizar o layout do formulário de endereço no check-out para garantir que todos os campos tenham 50% de largura, com exceção da área de texto. Saiba mais sobre uma abordagem do uso de uma API de terceiros integrada, especificamente a API de endereço do Google, para habilitar a pesquisa e a validação automáticas de endereço no formulário de endereço. &#x200B; Saiba como adicionar um novo item de menu de barra lateral ao painel da conta do usuário, vinculando a uma página personalizada para um localizador de loja.
 
