@@ -1,7 +1,6 @@
 ---
-title: Como utilizar a arquitetura de referência global
-description: Saiba como aproveitar uma arquitetura de referência global para estabelecer uma experiência de comércio escalável e resiliente
-landing-page-description: Saiba mais sobre a arquitetura de referência global e como ela é usada com o Adobe Commerce
+title: Arquitetura de referência global Monorepo
+description: Saiba como usar a abordagem monorepo para arquitetura de referência global para estabelecer uma experiência de comércio escalável e resiliente
 jira: KT-16728
 doc-type: tutorial
 audience: all
@@ -11,15 +10,15 @@ badge: label="Contribuição de Tony Evers, arquiteto técnico sênior, Adobe" t
 topic: Architecture, Commerce, Development
 role: Architect, Developer, User, Leader
 level: Intermediate, Advanced
-source-git-commit: 7e7c22e994ac5be6eacbcd0084d8ec92666b2024
+source-git-commit: 421c6de9421d715127d0c892dc05ef22f77149cf
 workflow-type: tm+mt
-source-wordcount: '1385'
+source-wordcount: '1371'
 ht-degree: 0%
 
 ---
 
 
-# O padrão de arquitetura de referência global Monorepo
+# Padrão de arquitetura de referência global Monorepo
 
 Este guia explica como configurar o Adobe Commerce com o padrão Monorepo Global Reference Architecture (GRA).
 
