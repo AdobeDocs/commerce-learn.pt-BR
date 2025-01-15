@@ -7,10 +7,10 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 613
+last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-last-substantial-update: 2025-1-15
-source-git-commit: b2d03fed21bd54044571084206097b8455db33c8
+source-git-commit: 097d5a74f1a74fb0e1e8ff739272e32752d5aa78
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
