@@ -7,14 +7,16 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 613
-last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
-source-git-commit: 4b60aff89575dc431d77f66b94113966f2c26659
+jira: KT-16729
+last-substantial-update: 2025-1-15
+source-git-commit: b2d03fed21bd54044571084206097b8455db33c8
 workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 0%
 
 ---
+
 
 # Layout de formulário de endereço personalizado e integração do Google Address Lookup
 
@@ -36,7 +38,7 @@ Gerentes de projeto que precisam acompanhar o progresso das tarefas de desenvolv
 * Larguras de campo consistentes no Check-out do Forms para personalizar o formulário de endereço no check-out para garantir todos os campos.
 * Integração da API de endereço do Google para permitir a pesquisa e a conclusão automáticas de endereço, reduzindo os erros de entrada do usuário e simplificando o processo de finalização.
 * Validação e tratamento de erros para os campos de entrada de endereço, garantindo que os usuários recebam feedback imediato sobre entradas incorretas ou incompletas, melhorando a experiência do usuário.
-* Extensão do Painel da conta do usuário que adiciona um novo item de menu à barra lateral do painel da conta do usuário
+* Extensão do Painel da conta do usuário que adiciona um novo item de menu da barra lateral ao painel da conta do usuário.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
