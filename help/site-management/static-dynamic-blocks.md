@@ -1,7 +1,6 @@
 ---
 title: Criar blocos estáticos e dinâmicos
-description: Saiba como criar blocos estáticos e dinâmicos para suas páginas de loja.
-kt: null
+description: Saiba como criar blocos estáticos e dinâmicos para suas páginas do CMS de loja.
 doc-type: feature video
 audience: all
 activity: use
@@ -10,17 +9,19 @@ feature: Configuration, System, Personalization, Native Luma Frontend Developmen
 topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
+jira: KT-17150
+duration: 374
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: bfb7fe605c5912df18b1ef5d3becb4a3021ca9e7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # Criar blocos estáticos e dinâmicos
 
-Um bloco é uma unidade modular de conteúdo que pode ser posicionada em qualquer lugar da página. Os blocos de conteúdo às vezes são chamados de blocos estáticos ou blocos CMS. Eles podem ser usados para exibir informações fixas, como texto, imagens e vídeo incorporado, e informações dinâmicas fornecidas por um widget ou originárias de um banco de dados ou outra fonte. A maioria dos elementos na página inicial são blocos que podem ser facilmente gerenciados. Neste vídeo, saiba como criar blocos estáticos e dinâmicos.
+Um bloco é uma unidade modular de conteúdo que pode ser posicionada em qualquer lugar da página. Os blocos de conteúdo às vezes são chamados de blocos estáticos ou blocos do CMS. Eles podem ser usados para exibir informações fixas, como texto, imagens e vídeo incorporado, e informações dinâmicas fornecidas por um widget ou originárias de um banco de dados ou outra fonte. A maioria dos elementos na página inicial são blocos que podem ser facilmente gerenciados. Neste vídeo, saiba como criar blocos estáticos e dinâmicos.
 
 ## Para quem é este vídeo?
 
