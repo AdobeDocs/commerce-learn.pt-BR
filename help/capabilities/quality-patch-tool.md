@@ -10,9 +10,9 @@ duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: 43085b1a139e21ea695cc10ffab1413088ba4426
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Saiba como usar a ferramenta de correção de qualidade ao diagnosticar um problema, encontrar uma solução e aplicar uma correção encontrada na lista existente de correções disponíveis.
 
-## O que esperar de assistir a este vídeo
+## O que você vai aprender
 
 Saiba como fazer a triagem de um problema e usar algumas técnicas básicas para encontrar um patch de qualidade para aplicar uma correção.
 

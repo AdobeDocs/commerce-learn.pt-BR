@@ -10,9 +10,9 @@ duration: 269
 last-substantial-update: 2024-12-17T00:00:00Z
 jira: KT-16698
 exl-id: 2a8fa800-5727-47f0-828f-a42dba331a0b
-source-git-commit: f36cc18bd855c21967f58920409431e219568fc0
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Saiba como fazer alterações no resumo do pedido de lançamento do carrinho do Adobe Commerce no Edge Delivery Services.  Há vários exemplos de como melhorar rapidamente o layout ou as informações fornecidas a um cliente na finalização da compra.
 
-## O que esperar de assistir a este vídeo
+## O que você vai aprender
 
 Saiba como usar o menu suspenso do carrinho do Adobe Commerce e ajustar a experiência do carrinho.  Há várias maneiras de aprimorar o carrinho, fazendo pequenas alterações ou atualizações no código.
 

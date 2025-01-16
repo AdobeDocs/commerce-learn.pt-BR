@@ -10,9 +10,9 @@ duration: 453
 last-substantial-update: 2024-12-16T00:00:00Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: 18559dd4c970217497470494009e392fccddfe34
+source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Saiba como ajustar o fluxo transacional para check-out usando o menu suspenso do carrinho de Edge Delivery Services.
 
-## O que esperar de assistir a este vídeo
+## O que você vai aprender
 
 Entenda como usar o menu suspenso do carrinho do Adobe Commerce e ajustar o fluxo transacional para mostrar aos clientes um novo conjunto de recursos, alterando algumas linhas de código.  Saiba também como converter essas alterações para serem gerenciadas do Sharepoint para realizar testes AB.
 
