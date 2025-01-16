@@ -10,9 +10,9 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner
 duration: 171
-jira: KT-17148calc
+jira: KT-17148
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: d5820fd053cef00f40036bcd51f7f3556c5fcd61
+source-git-commit: d290ba1d9c8892b4322aeb19d3c65d9d8087a309
 workflow-type: tm+mt
 source-wordcount: '687'
 ht-degree: 0%
