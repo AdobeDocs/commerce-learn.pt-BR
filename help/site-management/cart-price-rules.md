@@ -8,9 +8,11 @@ last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: Admin, Leader, User
-level: Beginner, Intermediate
+level: Beginner
+duration: 171
+jira: KT-17148calc
 exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
-source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
+source-git-commit: d5820fd053cef00f40036bcd51f7f3556c5fcd61
 workflow-type: tm+mt
 source-wordcount: '687'
 ht-degree: 0%
