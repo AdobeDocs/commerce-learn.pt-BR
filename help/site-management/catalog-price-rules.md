@@ -8,9 +8,11 @@ last-substantial-update: 2022-12-28T00:00:00Z
 feature: Configuration, System, Customers, Personalization, Shopping Cart, Price Rules
 topic: Commerce, Administration
 role: Admin, User
-level: Beginner, Intermediate
+level: Beginner
+jira: KT-17149
+duration: 124
 exl-id: 0bdbedb1-5aa8-44ba-aef1-6e5cf06d35ce
-source-git-commit: 273119420a7051b1833d9b796bdce36e17d893c7
+source-git-commit: c3f992e4ec71632629500adc7c0b8f2feef34364
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
