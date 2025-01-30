@@ -11,7 +11,8 @@ feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Architect, Developer
 level: Intermediate
-source-git-commit: f0c6e9262a2bf2de3144255de1fc78d6972b6d33
+exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
+source-git-commit: 6c5017b0c4bbafdd143b78b05cd92853efa7f831
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -38,6 +39,6 @@ Explore a lógica por trás da estrutura do código-fonte, detalhando como as pa
 * Saiba mais sobre a importância de não alterar o código na pasta `starter-kit-info`, que contém uma ação de tempo de execução usada pelo Adobe para rastrear as implantações do projeto com base no kit inicial. &#x200B;
 * Entenda a pasta `scripts` que contém scripts de automação como `commerce-event-subscribe` e `onboarding`, que automatizam a configuração de eventos, a configuração de provedores e a configuração do módulo Adobe I/O Events no Commerce. &#x200B;
 
-  >[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431691?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
