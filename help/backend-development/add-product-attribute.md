@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: 88b957a33d6061c8053e598248fcbfff5cf0f010
+source-git-commit: d6aeac0c4c66bd8117cc9ef1e0186bbb19cf23e9
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Primeiro, crie as pastas, os arquivos xml e PHP necessários:
 - app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
 - app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
 - app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
-- app/code/Learning/ClothingMaterial/Setup/installData.php
+- app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ### app/code/Learning/ClothingMaterial/registration.php
 
@@ -64,7 +64,9 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Se seu módulo estiver usando o Esquema Declarativo, e a maioria tem desde a versão 2.3.0, você deve omitir setup_version. No entanto, se você tiver alguns projetos herdados, poderá ver esse método usado.  Consulte [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} para obter mais informações.
+>Se seu módulo estiver usando o Esquema Declarativo, e a maioria tem desde a versão 2.3.0, você deve omitir setup_version. No entanto, se você tiver alguns projetos herdados, poderá ver esse método usado.  Consulte [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} para obter mais informações.\
+>OBSERVAÇÃO: para que este código de exemplo funcione, você precisa incluir setup_version, caso contrário o InstallData.php não será executado.
+
 
 
 ```xml
@@ -76,6 +78,10 @@ ComponentRegistrar::register(
 ```
 
 ### app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+
+>[!NOTE]
+>
+>Certifique-se de usar a ID do conjunto de atributos que está em seu projeto. Neste exemplo, ele é o número 9.
 
 ```php
 <?php
@@ -161,7 +167,7 @@ class Material extends AbstractSource
 }
 ```
 
-### app/code/Learning/ClothingMaterial/Setup/installData.php
+### app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ```php
 <?php
@@ -205,7 +211,7 @@ class InstallData implements InstallDataInterface
             Product::ENTITY,
             'clothing_material',
             [
-                'group'         => 'General',
+                'group'         => 'Product Details',
                 'type'          => 'varchar',
                 'label'         => 'Clothing Material',
                 'input'         => 'select',
@@ -228,7 +234,5 @@ class InstallData implements InstallDataInterface
 ```
 
 ## Recursos úteis
-
-[Criar um atributo de produto](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/add-product-attribute.html)
 
 [Adicionar um atributo de campo de texto personalizado](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
