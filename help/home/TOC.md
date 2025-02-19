@@ -3,15 +3,15 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: cf9de69246757d62cdb7cb952761a04c78953f56
+source-git-commit: 8dc009c1a7234ac251b0a29533fa188287c0c862
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '814'
 ht-degree: 3%
 
 ---
 
 
-# Vídeos e Tutorials do Adobe Commerce {#tutorials}
+# Vídeos e tutoriais do Adobe Commerce {#tutorials}
 
 + [Tutoriais do [!DNL Commerce]](overview.md)
 + Adobe Commerce Cloud {#adobe-commerce-cloud}
@@ -89,13 +89,13 @@ ht-degree: 3%
       + [Atualizar o resumo do pedido no check-out](../edge-delivery-services/update-order-summary.md)
       + [Adicionar BOPIS ao check-out](../edge-delivery-services/add-bopis-to-checkout.md)
       + [Personalizar check-out](../edge-delivery-services/customize-checkout.md)
-      + [Ajustar endereço, incluindo preenchimento automático e novo link da minha conta](../edge-delivery-services/customize-address-new-account-link.md)
+      + [Personalizar um layout de endereço](../edge-delivery-services/customize-address-new-account-link.md)
 + Webinários e eventos {#webinars-and-events}
    + Série de habilitação {#enablement-series}
       + [Reduza o índice para integrações do Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
       + [Planejamento da implementação moderna do Adobe Commerce](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
       + [Inicialização, pós-inicialização, monitoramento e solução de problemas](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
-      + [Edge Delivery Services com o Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
+      + [Edge Delivery Services com Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
 + GraphQL e REST {#graphql-rest}
    + [Noções básicas do GraphQL](../graphql-rest/intro-graphql.md)
    + [Consultas](../graphql-rest/graphql-queries.md)
@@ -128,7 +128,7 @@ ht-degree: 3%
       + [Eventos condicionais do Adobe Commerce](../io-events/conditional-events.md)
    + Malha de API {#api-mesh}
       + [Introdução à API Mesh](../api-mesh/getting-started-api-mesh.md)
-      + [Instalação do plug-in de E/S e malha do Adobe](../api-mesh/installing-aio-mesh-plugin.md)
+      + [Instalação do plug-in do Adobe IO e malha](../api-mesh/installing-aio-mesh-plugin.md)
       + [Trabalhar com projetos e espaços de trabalho](../api-mesh/aio-projects-workspaces.md)
       + [Criar malha de API do GraphQL de origem única](../api-mesh/graphql-single-source.md)
       + [Criar várias malhas de API do GraphQL de origem](../api-mesh/graphql-multiple-source.md)
@@ -172,7 +172,7 @@ ht-degree: 3%
    + [Criar Regras de Preço de Catálogo](../site-management/catalog-price-rules.md)
    + [Criar regras de preço do carrinho](../site-management/cart-price-rules.md)
    + [Gerenciar Regras de Produto Relacionadas](../site-management/related-product-rules.md)
-   + [Configurar o Recommendations do produto](../site-management/product-recommendations.md)
+   + [Configurar recomendações de produtos](../site-management/product-recommendations.md)
    + [Introdução ao Live Search](../site-management/live-search.md)
    + [Live Search para recomendações](../site-management/live-search-recommendations.md)
    + [Integrar o Commerce com o AJO](../site-management/integrate-commerce-ajo.md)
@@ -207,7 +207,7 @@ ht-degree: 3%
    + [Relatórios e painéis](../business-intelligence/reports-and-dashboards.md)
    + [Conjuntos de filtros](../business-intelligence/filter-sets.md)
    + [Report Builder de coorte](../business-intelligence/cohort-report-builder.md)
-   + [REPORT BUILDER SQL](../business-intelligence/sql-report-builder.md)
+   + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Preparando para o futuro](../business-intelligence/prepare-for-future.md)
 + Atualizações do Commerce {#upgrade}
    + [Workshop de atualização do Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
@@ -237,10 +237,10 @@ ht-degree: 3%
       + [Arquitetura headless - sessão 1](../headless/session-1.md)
    + Introdução ao PWA Studio {#introduction}
       + [1 - Visão geral](../pwa/introduction/1-overview.md)
-      + [2 - ferramentas PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
+      + [2 - Ferramentas do PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
       + [3 - Launch](../pwa/introduction/3-launch.md)
       + [4 - PARA CIMA](../pwa/introduction/4-upward.md)
       + [5 - Introdução](../pwa/introduction/5-getting-started.md)
       + [6 - Peregrina](../pwa/introduction/6-peregrine.md)
-   + [Desenvolvimento do Docker PWA](../pwa/pwa-docker-development.md)
+   + [Desenvolvimento do PWA Docker](../pwa/pwa-docker-development.md)
    + [Configurar Venia para desenvolvimento](../pwa/set-up-venia-for-dev.md)

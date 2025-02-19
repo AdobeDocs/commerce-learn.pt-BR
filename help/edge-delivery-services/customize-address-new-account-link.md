@@ -1,5 +1,5 @@
 ---
-title: Edge Delivery Services personaliza endereço incluindo preenchimento automático
+title: Personalizar endereço do Edge Delivery Services, incluindo preenchimento automático
 description: Saiba como personalizar formulários de check-out de comércio eletrônico e integrar a Pesquisa de endereço do Google para melhorar a experiência do usuário e reduzir os erros de entrada.
 feature: Best Practices, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
@@ -10,15 +10,15 @@ duration: 613
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 097d5a74f1a74fb0e1e8ff739272e32752d5aa78
+source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
 
 
-# Layout de formulário de endereço personalizado e integração do Google Address Lookup
+# Personalizar um layout de endereço
 
 Saiba como personalizar o layout do formulário de endereço no check-out para garantir que todos os campos tenham 50% de largura, com exceção da área de texto. Saiba mais sobre uma abordagem do uso de uma API de terceiros integrada, especificamente a API de endereço do Google, para habilitar a pesquisa e a validação automáticas de endereço no formulário de endereço. &#x200B; Saiba como adicionar um novo item de menu de barra lateral ao painel da conta do usuário, vinculando a uma página personalizada para um localizador de loja.
 
