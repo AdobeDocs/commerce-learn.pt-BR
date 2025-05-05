@@ -34,4 +34,4 @@ As regras de produtos relacionados permitem direcionar a seleção de produtos a
 
 ## Recursos adicionais
 
-[Regras de Produto Relacionadas - [!DNL Commerce] Guia de Merchandising e Promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[Regras de Produto Relacionadas - [!DNL Commerce] Guia de Merchandising e Promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=pt-BR)

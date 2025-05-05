@@ -40,4 +40,4 @@ Saiba como usar o menu suspenso do carrinho do Adobe Commerce e ajustar a experi
 
 ## Documentação adicional
 
-* [Resumo do pedido](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)
+* [Resumo do pedido](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=pt-BR)

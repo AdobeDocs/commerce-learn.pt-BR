@@ -44,4 +44,4 @@ Gerentes de projeto que precisam acompanhar o progresso das tarefas de desenvolv
 
 ## Documentação adicional
 
-* [Conta de usuário](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)
+* [Conta de usuário](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=pt-BR)

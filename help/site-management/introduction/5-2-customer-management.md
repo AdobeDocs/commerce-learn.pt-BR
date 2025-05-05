@@ -36,6 +36,6 @@ Neste vídeo:
 
 ## Recursos adicionais
 
-[Criar uma conta de cliente individual - [!DNL Commerce] Guia de Gerenciamento de Clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html)
+[Criar uma conta de cliente individual - [!DNL Commerce] Guia de Gerenciamento de Clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/account-create.html?lang=pt-BR)
 
-[Grupos de clientes - [!DNL Commerce] Guia de Gerenciamento de Clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html)
+[Grupos de clientes - [!DNL Commerce] Guia de Gerenciamento de Clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-groups.html?lang=pt-BR)

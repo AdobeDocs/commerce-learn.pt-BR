@@ -40,7 +40,7 @@ O método preferido é fazer um despejo de banco de dados e depurá-lo para remo
 
 ## Uso da ferramenta Adobe Commerce Cloud CLI
 
-A criação de um despejo de banco de dados requer a instalação da [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html). No laptop local, vá para um diretório e execute o comando a seguir. Substitua `your-project-id` pela ID do projeto, que é semelhante a `asasdasd45q`. Você também precisa substituir `your-environment-name` pelo nome de seu ambiente, como `master` ou `staging`.
+A criação de um despejo de banco de dados requer a instalação da [Adobe Commerce Cloud CLI](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=pt-BR). No laptop local, vá para um diretório e execute o comando a seguir. Substitua `your-project-id` pela ID do projeto, que é semelhante a `asasdasd45q`. Você também precisa substituir `your-environment-name` pelo nome de seu ambiente, como `master` ou `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -276,7 +276,7 @@ O acesso direto ao banco de dados do MariaDB requer o uso do SSH para fazer logo
    magento-cloud ssh
    ```
 
-1. Recupere as credenciais de logon do MySQL das propriedades `database` e `type` na variável [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships).
+1. Recupere as credenciais de logon do MySQL das propriedades `database` e `type` na variável [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=pt-BR#relationships).
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -322,7 +322,7 @@ Depois que tudo estiver configurado, é possível usar uma GUI MySQL para execut
 
 ## Conectando diretamente ao banco de dados do projeto na nuvem para executar o SQL
 
-O método a seguir usa a cli `magento-cloud` para se conectar diretamente ao banco de dados mysql e executar o SQL, o que permite uma consulta mais rápida ao banco de dados. Se precisar copiar este banco de dados, consulte um dos métodos alternativos para [criar um despejo de banco de dados](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
+O método a seguir usa a cli `magento-cloud` para se conectar diretamente ao banco de dados mysql e executar o SQL, o que permite uma consulta mais rápida ao banco de dados. Se precisar copiar este banco de dados, consulte um dos métodos alternativos para [criar um despejo de banco de dados](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=pt-BR).
 
 ```bash
 magento-cloud db:sql    
@@ -382,7 +382,7 @@ MariaDB [main]>
 
 ## Recursos adicionais
 
-[CLI DO Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
-[Configurar o serviço MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
-[Configurar uma conexão remota com o banco de dados MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
-[Criar despejo de banco de dados no Adobe Commerce na infraestrutura de nuvem](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)
+[CLI DO Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=pt-BR)
+[Configurar o serviço MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=pt-BR)
+[Configurar uma conexão remota com o banco de dados MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=pt-BR)
+[Criar despejo de banco de dados no Adobe Commerce na infraestrutura de nuvem](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=pt-BR)

@@ -36,5 +36,5 @@ Se o recurso Catálogo compartilhado estiver ativado na configuração, o catál
 
 ## Recursos adicionais
 
-- [Trabalhando com Catálogos Compartilhados](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html){target="_blank"}
-- [Criar um Catálogo Compartilhado](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html){target="_blank"}
+- [Trabalhando com Catálogos Compartilhados](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/catalog-shared.html?lang=pt-BR){target="_blank"}
+- [Criar um Catálogo Compartilhado](https://experienceleague.adobe.com/docs/commerce-admin/b2b/shared-catalogs/define/catalog-shared-create.html?lang=pt-BR){target="_blank"}

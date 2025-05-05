@@ -33,7 +33,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->Este conteúdo reflete a versão 1.0.0 do Page Builder para Adobe Commerce 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html).
+>Este conteúdo reflete a versão 1.0.0 do Page Builder para Adobe Commerce 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=pt-BR).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35714?quality=12&learn=on)
 
@@ -41,4 +41,4 @@ Neste vídeo:
 
 [Documentação do desenvolvedor do Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guia do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html)
+[Guia do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=pt-BR)

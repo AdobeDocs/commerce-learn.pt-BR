@@ -39,4 +39,4 @@ Aprenda exemplos para personalizar a experiência de devolução ao carrinho de 
 
 ## Documentação adicional
 
-* [Check-out de convidado em várias etapas](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Check-out de convidado em várias etapas](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=pt-BR)

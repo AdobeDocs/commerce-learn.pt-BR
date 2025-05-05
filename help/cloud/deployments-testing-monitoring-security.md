@@ -34,12 +34,12 @@ Saiba mais sobre as estratégias de implantação do Adobe Commerce Cloud, teste
 
 ## Documentação do Experience League mencionada no vídeo
 
-- [Processo de implantação](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
-- [Ferramenta de análise do SWAT em todo o site](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
-- [Assistente inteligente de ferramentas ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
-- [Verificação de segurança](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
-- [Fastly WAF Web Application Firewall](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
-- [Visão geral do New Relic Service](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
+- [Processo de implantação](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html?lang=pt-BR)
+- [Ferramenta de análise do SWAT em todo o site](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=pt-BR)
+- [Assistente inteligente de ferramentas ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html?lang=pt-BR)
+- [Verificação de segurança](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html?lang=pt-BR)
+- [Fastly WAF Web Application Firewall](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html?lang=pt-BR)
+- [Visão geral do New Relic Service](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=pt-BR)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
 

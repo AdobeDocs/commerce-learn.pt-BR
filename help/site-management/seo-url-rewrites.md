@@ -11,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 8b982882-9c59-4d3f-b158-8ea5d38d7a22
-badgePaas: label="Somente PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Aplica-se somente a projetos do Adobe Commerce na nuvem (infraestrutura do PaaS gerenciada pela Adobe) e a projetos locais."
+badgePaas: label="Somente PaaS" type="Informative" url="https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/product-solutions" tooltip="Aplica-se somente a projetos do Adobe Commerce na nuvem (infraestrutura do PaaS gerenciada pela Adobe) e a projetos locais."
 source-git-commit: 29d48213b0f7d4425925ea8234d09867aa6d7577
 workflow-type: tm+mt
 source-wordcount: '115'
@@ -35,5 +35,5 @@ A ferramenta de regravação de URL permite alterar qualquer URL associado a um 
 
 ## Recursos adicionais
 
-- [Substituições de URL - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html)
-- [Geral > Web - [!DNL Commerce] Guia de Referência de Configuração](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html)
+- [Substituições de URL - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/url-rewrites/url-rewrite.html?lang=pt-BR)
+- [Geral > Web - [!DNL Commerce] Guia de Referência de Configuração](https://experienceleague.adobe.com/docs/commerce-admin/config/general/web.html?lang=pt-BR)
