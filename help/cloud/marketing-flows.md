@@ -33,4 +33,4 @@ _ Clientes novos e existentes que exploram a loja de delivery Edge da Adobe Comm
 - Entenda a otimização por meio do Teste A/B.
 - Aprenda algumas ferramentas avançadas e a integração de IA para refinar o conteúdo, gerar variações e aprimorar a estratégia promocional geral.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433527?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433537?learn=on&captions=por_br)

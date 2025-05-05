@@ -31,7 +31,7 @@ Saiba como criar um produto de cartão-presente usando a REST API e o administra
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453082?learn=on&captions=por_br)
 
 ## Criar um cartão-presente com uma carga simples
 

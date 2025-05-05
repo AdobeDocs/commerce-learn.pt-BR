@@ -38,7 +38,7 @@ Saiba como usar o menu suspenso do carrinho do Adobe Commerce e ajustar o fluxo 
 * Desconto de cupom exibido usando regras de carrinho e slots de rodapé para exibir essas informações de forma eficaz.
 * Usar atributos de produto e Slots para estender e personalizar a funcionalidade do carrinho de compras, garantindo que todos os requisitos do projeto sejam atendidos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441121?learn=on&captions=por_br)
 
 
 ## Documentação adicional

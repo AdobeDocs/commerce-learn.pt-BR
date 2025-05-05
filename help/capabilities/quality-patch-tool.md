@@ -39,7 +39,7 @@ A Ferramenta de correção de qualidade é um utilitário de linha de comando pa
 
 Esses patches são desenvolvidos a partir da Adobe Developers na comunidade Magento Open Source para melhorar a estabilidade e o desempenho. Lembre-se de que isso não é recomendado para aplicar um grande número de patches, pois pode complicar atualizações futuras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454073?learn=on&captions=por_br)
 
 ## Por que usar a ferramenta de correção de qualidade
 

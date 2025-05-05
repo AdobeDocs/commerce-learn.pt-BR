@@ -32,6 +32,6 @@ Saiba como usar as notas de item de linha para uma cotação B2B do Adobe Commer
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423696?learn=on&captions=por_br)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

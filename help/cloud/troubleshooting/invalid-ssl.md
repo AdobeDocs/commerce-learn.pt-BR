@@ -32,4 +32,4 @@ Saiba como identificar um certificado ssl expirado e, em seguida, como gerar nov
 - Identifique quando durante o processo um novo certificado está sendo criado.
 - Valide se o novo certificado está funcionando como esperado. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439756?learn=on&captions=por_br)

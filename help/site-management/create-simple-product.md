@@ -30,7 +30,7 @@ Saiba como criar um produto simples usando a REST API e o administrador do Adobe
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3425650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443907?learn=on&captions=por_br)
 
 ## Criar um produto usando o curl
 

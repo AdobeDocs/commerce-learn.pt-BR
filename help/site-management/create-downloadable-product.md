@@ -30,7 +30,7 @@ Saiba como criar um produto para download usando a REST API e o administrador do
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3425753?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453948?learn=on&captions=por_br)
 
 ## Domínios baixáveis permitidos
 

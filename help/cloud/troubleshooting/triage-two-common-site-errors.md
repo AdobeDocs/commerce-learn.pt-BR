@@ -32,7 +32,7 @@ Saiba como triar e resolver dois erros comuns vistos em projetos do Adobe Commer
 - Gerenciar modo de manutenção
 - Dicas eficientes de solução de problemas
 
->[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447698?learn=on&captions=por_br)
 
 
 ## Comandos usados no vídeo

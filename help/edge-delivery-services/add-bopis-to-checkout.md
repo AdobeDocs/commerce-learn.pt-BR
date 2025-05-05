@@ -37,7 +37,7 @@ Saiba como usar o carrinho do Adobe Commerce do Edge Delivery Services para forn
 * Alternar entre entrega e retirada na loja
 * Buscando locais de retirada
 
->[!VIDEO](https://video.tv.adobe.com/v/3441699?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441705?learn=on&captions=por_br)
 
 ## Documentação adicional
 

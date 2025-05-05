@@ -30,7 +30,7 @@ As regras de preço de catálogo podem ser usadas para oferecer produtos aos com
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343834?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412504?quality=12&learn=on&captions=por_br)
 
 ## Recursos adicionais
 

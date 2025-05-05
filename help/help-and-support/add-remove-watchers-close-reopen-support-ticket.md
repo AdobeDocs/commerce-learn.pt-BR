@@ -31,7 +31,7 @@ Saiba como adicionar e remover observadores, bem como fechar e reabrir um tíque
 * Saiba como fechar um tíquete de suporte
 * Saiba como reabrir um tíquete de suporte
 
->[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441357?learn=on&captions=por_br)
 
 ## Guia da central de ajuda da Base de conhecimento Commerce
 

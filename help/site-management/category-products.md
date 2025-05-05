@@ -30,7 +30,7 @@ Organizar seus produtos em categorias é fundamental para gerenciar seus catálo
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343747?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411968?quality=12&learn=on&captions=por_br)
 
 ## Recursos adicionais
 

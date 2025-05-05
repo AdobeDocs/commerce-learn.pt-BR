@@ -31,4 +31,4 @@ Saiba como encontrar e ajustar filtros para uso no administrador do Adobe Commer
 * Entenda como usar um filtro para limitar os resultados de uma grade de administração
 * Saiba como os filtros afetam outros administradores no Admin Console Adobe Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3440382?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440387?learn=on&captions=por_br)

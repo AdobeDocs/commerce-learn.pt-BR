@@ -30,7 +30,7 @@ As regras de preço do carrinho aplicam descontos aos itens do carrinho de compr
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412502?quality=12&learn=on&captions=por_br)
 
 ## Problemas de exibição de preços
 

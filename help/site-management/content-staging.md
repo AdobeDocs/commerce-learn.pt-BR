@@ -32,7 +32,7 @@ O armazenamento temporário de conteúdo oferece à sua equipe de negócios a ca
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343784?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412505?quality=12&learn=on&captions=por_br)
 
 ## Recursos adicionais
 

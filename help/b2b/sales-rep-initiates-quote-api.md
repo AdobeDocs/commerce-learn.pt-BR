@@ -32,6 +32,6 @@ Saiba como o representante de vendas pode iniciar a cotação da API REST do Ado
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420414?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423714?learn=on&captions=por_br)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

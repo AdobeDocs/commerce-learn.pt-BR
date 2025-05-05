@@ -32,7 +32,7 @@ Saiba como criar um tíquete de suporte no Experience League para Adobe Commerce
 * Saiba como os artigos recomendados mudam, dependendo de quais informações foram usadas no formulário
 * Entender como o texto de espaço reservado encontrado nos campos de formulário ajuda a entender o tipo de informações necessárias para uma boa solicitação de suporte
 
->[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449558?learn=on&captions=por_br)
 
 ## Guia da central de ajuda da Base de conhecimento Commerce
 

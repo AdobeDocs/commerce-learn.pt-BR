@@ -31,7 +31,7 @@ O [!DNL Live Search] da Adobe Commerce oferece uma experiência de pesquisa ráp
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412586?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430761?quality=12&learn=on&captions=por_br)
 
 
 ## Recursos adicionais

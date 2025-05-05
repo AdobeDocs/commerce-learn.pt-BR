@@ -32,4 +32,4 @@ Integrar a IA com o Adobe Commerce centraliza o gerenciamento de ativos, aprimor
 - Sincronização contínua entre produtos e ativos.
 - Controle completo do ciclo de vida incluindo aprovação, remoção e expiração.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434081?learn=on&captions=por_br)

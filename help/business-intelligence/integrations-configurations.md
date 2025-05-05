@@ -33,4 +33,4 @@ O documento também aborda o processo de sincronização de tabelas com a Data W
 
 ## Integrações e configurações
 
->[!VIDEO](https://video.tv.adobe.com/v/3428101?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452695?learn=on&captions=por_br)

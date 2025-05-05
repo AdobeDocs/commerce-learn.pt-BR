@@ -30,7 +30,7 @@ Saiba como criar um produto virtual usando a REST API e o administrador do Adobe
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3425723?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444869?learn=on&captions=por_br)
 
 ## Criar um produto virtual usando curl
 

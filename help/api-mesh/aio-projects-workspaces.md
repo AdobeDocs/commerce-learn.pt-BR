@@ -36,7 +36,7 @@ Este tutorial discute a criação de um projeto e um espaço de trabalho para co
 * Alterando a organização, o projeto ou o espaço de trabalho selecionado na CLI
 * Teste de comandos simples do API Mesh
 
->[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430778?quality=12&learn=on&captions=por_br)
 
 ## Saiba mais sobre a Adobe Developer Console
 

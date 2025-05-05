@@ -29,7 +29,7 @@ Os atributos do cliente fornecem as informações necessárias para dar suporte 
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343661?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411970?quality=12&learn=on&captions=por_br)
 
 ## Recursos adicionais
 

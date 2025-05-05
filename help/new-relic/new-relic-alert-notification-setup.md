@@ -33,4 +33,4 @@ Saiba como localizar alertas, políticas, fluxos de trabalho e destinos no New R
 * Saiba mais sobre notificações de alerta, políticas e fluxos de trabalho
 * Salvar o destino e validar o novo email foi adicionado a uma política
 
->[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441206?learn=on&captions=por_br)

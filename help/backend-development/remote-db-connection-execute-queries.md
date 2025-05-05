@@ -26,7 +26,7 @@ Saiba como se conectar a um projeto do Adobe Commerce na nuvem, criar um despejo
 * Saiba como se conectar rapidamente a um projeto remoto do Adobe Commerce Cloud usando uma ferramenta como MysqlWorkbench ou TablesPlus.
 * Saiba como se conectar rapidamente ao projeto Adobe Commerce para executar o SQL por meio da linha de comando
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450041?learn=on&captions=por_br)
 
 Saiba como se conectar a uma Adobe Commerce em um projeto de nuvem, despejar um banco de dados para uso externo e mascarar as PII e removê-las.
 

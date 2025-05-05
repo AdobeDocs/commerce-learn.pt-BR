@@ -34,7 +34,7 @@ O módulo é um elemento estrutural de [!DNL Commerce] - todo o sistema é const
 - Atualizar script para instalar o novo módulo.
 - Verifique se o módulo está funcionando.
 
->[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414164?learn=on&captions=por_br)
 
 ### module.xml
 

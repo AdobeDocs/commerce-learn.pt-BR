@@ -43,4 +43,4 @@ Como navegar e utilizar os recursos da vitrine do Adobe Commerce com eficiência
 * Entenda como gerenciar pedidos, incluindo adicionar itens ao carrinho, fazer check-out como convidado, cancelar pedidos e reordenar itens.
 * Obtenha insights sobre como atualizar informações da conta, mesclar carrinhos de convidados e clientes e garantir uma experiência de check-out perfeita.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446767?learn=on&captions=por_br)

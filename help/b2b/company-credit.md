@@ -39,7 +39,7 @@ Você pode definir os seguintes parâmetros relacionados a crédito para cada pe
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344445?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412495?quality=12&learn=on&captions=por_br)
 
 ## Recursos adicionais
 

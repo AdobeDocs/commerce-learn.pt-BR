@@ -37,7 +37,7 @@ Saiba como o mecanismo de repetição funciona no contexto das ações de tempo 
 * Indicadores visuais no console do desenvolvedor, como ícones de aviso para eventos com falha e ícones de seta circulares para eventos repetidos.
 * As ações de tempo de execução &quot;consumidor&quot; desempenham um papel crucial na determinação dos códigos de status de resposta HTTP apropriados para a manipulação de eventos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449078?learn=on&captions=por_br)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

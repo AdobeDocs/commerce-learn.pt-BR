@@ -30,6 +30,6 @@ Saiba mais sobre as etapas e áreas de validação que a funcionalidade de Cota�
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423723?learn=on&captions=por_br)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

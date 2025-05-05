@@ -30,7 +30,7 @@ Saiba mais sobre a infraestrutura em nuvem e algumas práticas recomendadas de d
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432797?learn=on&captions=por_br)
 
 ## Documentação do Experience League mencionada no vídeo
 

@@ -30,7 +30,7 @@ A Ferramenta de análise do site é uma ferramenta de autoatendimento proativa e
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412498?learn=on&captions=por_br)
 
 ## Recursos adicionais
 

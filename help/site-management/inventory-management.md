@@ -29,7 +29,7 @@ Comerciantes com uma única loja para vários depósitos, lojas, locais de retir
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343748?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411977?quality=12&learn=on&captions=por_br)
 
 ## Recursos adicionais
 

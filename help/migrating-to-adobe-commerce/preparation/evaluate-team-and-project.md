@@ -35,7 +35,7 @@ No front-end, a experiência com implementações headless pode simplificar o pr
 * Saiba mais sobre considerações de front-end e back-end.
 * Planeje uma migração tranquila, avaliando os módulos existentes, atualizando os aplicativos principais e integrando com outras soluções da Adobe.
  
->[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447449/?learn=on&captions=por_br)
 
 ## Documentação relacionada
 

@@ -26,6 +26,6 @@ O vídeo a seguir fornece uma visão geral técnica sobre um modelo de padrão d
 
 ## App Builder para Adobe Commerce {#app-builder-technical-overview}
 
->[!VIDEO](https://video.tv.adobe.com/v/3413512?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430830?quality=12&learn=on&captions=por_br)
 
 {{$include /help/_includes/app-builder-related-links.md}}

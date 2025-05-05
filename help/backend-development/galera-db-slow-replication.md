@@ -37,7 +37,7 @@ Como solução, se possível, coloque suas grandes operações em lote para ajud
 - Execuções em massa ocorrem somente no principal. As replicações ocorrem uma de cada vez
 - Adicione em lote suas grandes confirmações para ajudar a replicação a acompanhar o principal
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423544?learn=on&captions=por_br)
 
 ## Recursos úteis
 

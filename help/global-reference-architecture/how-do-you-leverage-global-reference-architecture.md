@@ -34,6 +34,6 @@ Saiba como aproveitar a Global Reference Architecture ou GRA para abreviar. Para
 * Coleta de requisitos
 * Quando você envolve a equipe de controle de qualidade?
 
->[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456005?learn=on&captions=por_br)
 
 {{$include /help/_includes/gra-related-links.md}}

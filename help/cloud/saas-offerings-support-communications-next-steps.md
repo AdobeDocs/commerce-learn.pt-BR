@@ -30,7 +30,7 @@ Saiba mais sobre as ofertas, o suporte e outras comunicações do Adobe Commerce
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432841?learn=on&captions=por_br)
 
 ## Acrônicos
 

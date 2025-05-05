@@ -40,7 +40,7 @@ Gerentes de projeto que precisam acompanhar o progresso das tarefas de desenvolv
 * Validação e tratamento de erros para os campos de entrada de endereço, garantindo que os usuários recebam feedback imediato sobre entradas incorretas ou incompletas, melhorando a experiência do usuário.
 * Extensão do Painel da conta do usuário que adiciona um novo item de menu da barra lateral ao painel da conta do usuário.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442911?learn=on&captions=por_br)
 
 ## Documentação adicional
 

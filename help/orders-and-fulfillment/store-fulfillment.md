@@ -45,7 +45,7 @@ Este vídeo fornece uma visão geral rápida da experiência completa de BOPIS d
 >
 >O conteúdo do vídeo reflete a versão 1.0 da solução Store Fulfillment instalada em uma vitrine com o Adobe Commerce 2.4. Consulte o [Guia do Usuário de Abastecimento de Loja](https://experienceleague.adobe.com/docs/commerce-merchant-services/store-fulfillment/introduction.html?lang=pt-BR) para obter as informações mais atualizadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/343653?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447540?quality=12&learn=on&captions=por_br)
 
 ## Recursos adicionais
 

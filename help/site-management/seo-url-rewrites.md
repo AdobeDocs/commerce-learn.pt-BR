@@ -31,7 +31,7 @@ A ferramenta de regravação de URL permite alterar qualquer URL associado a um 
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343751?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411958?quality=12&learn=on&captions=por_br)
 
 ## Recursos adicionais
 

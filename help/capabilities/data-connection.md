@@ -35,4 +35,4 @@ Saiba como usar a Conexão de dados do Adobe Commerce juntamente com algumas con
 * Públicos-alvo da Real-Time CDP que atualizam e modificam a segmentação em tempo real com base em dados do navegador, dados do lado do servidor (incluindo o histórico de pedidos) e dados de outras fontes (ou seja, dados de fidelidade).
 * Utilização de públicos da Real-Time CDP para personalizar regras de preço do carrinho e blocos dinâmicos no Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453823?learn=on&captions=por_br)

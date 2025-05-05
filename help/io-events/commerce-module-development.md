@@ -35,7 +35,7 @@ Saiba como registrar eventos, encontrar eventos compatíveis e usar um novo arqu
 * Saiba como registrar eventos nas instâncias do Commerce `app/etc/config.php`
 * Saiba como cancelar a inscrição em um evento
 
->[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430650?quality=12&learn=on&captions=por_br)
 
 ## Comandos úteis {#useful-commands}
 

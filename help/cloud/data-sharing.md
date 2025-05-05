@@ -33,4 +33,4 @@ Integre-se perfeitamente aos produtos da Adobe Experience Cloud para criar jorna
 - Maior participação e fidelidade do cliente
 - Integração perfeita e visualização unificada do cliente
 
->[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433574?learn=on&captions=por_br)

@@ -36,7 +36,7 @@ Saiba como usar o menu suspenso do carrinho do Adobe Commerce e ajustar a experi
 * Saiba como incluir um valor total salvo no resumo do carrinho.
 * Entenda como mesclar linhas no resumo do carrinho em uma seção que pode ser recolhida.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441190?learn=on&captions=por_br)
 
 ## Documentação adicional
 

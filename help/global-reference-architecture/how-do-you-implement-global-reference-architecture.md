@@ -38,6 +38,6 @@ Saiba como implementar a arquitetura de referência global ou GRA (Global Refere
 * Global Control Board - quais recursos trabalhar
 * Conceito alternativo para usar o GRA como um marketplace de módulo
 
->[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3457213?learn=on&captions=por_br)
 
 {{$include /help/_includes/gra-related-links.md}}

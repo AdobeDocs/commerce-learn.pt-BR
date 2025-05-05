@@ -31,7 +31,7 @@ Saiba como criar uma pesquisa, revisar, recomendar e encaminhar um tíquete de s
 * Saiba como adicionar um comentário a um tíquete de suporte aberto
 * Saiba como e alguns motivos para escalonar um tíquete de suporte
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445316?learn=on&captions=por_br)
 
 ## Guia da central de ajuda da Base de conhecimento Commerce
 
