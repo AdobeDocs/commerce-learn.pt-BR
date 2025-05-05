@@ -30,7 +30,7 @@ Saiba mais sobre as ofertas, o suporte e outras comunicações do SaaS da Adobe 
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432841?learn=on&enablevpops&captions=por_br)
 
 ## Acrônicos
 
