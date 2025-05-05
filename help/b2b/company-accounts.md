@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Gerenciar contas da empresa
 
-Para comerciantes B2B, a página _[!UICONTROL Companies]_lista todas as contas da empresa atual e seus status. É possível gerenciar as contas da empresa aqui e qualquer solicitação pendente de aprovação é exibida na parte superior da lista. Os controles padrão do local de trabalho podem ser usados para filtrar a lista, alterar o layout da coluna, salvar visualizações e exportar dados.
+Para comerciantes B2B, a página _[!UICONTROL Companies]_&#x200B;lista todas as contas da empresa atual e seus status. É possível gerenciar as contas da empresa aqui e qualquer solicitação pendente de aprovação é exibida na parte superior da lista. Os controles padrão do local de trabalho podem ser usados para filtrar a lista, alterar o layout da coluna, salvar visualizações e exportar dados.
 
 {{b2b-feature}}
 

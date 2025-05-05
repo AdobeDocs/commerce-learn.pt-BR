@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Gerenciar Crédito da Empresa
 
-Para empresas que têm _[!UICONTROL Payment on Account]_habilitado e o crédito da empresa disponível, elas podem fazer compras em suas contas até o limite de crédito concedido. Com esse recurso, os clientes podem verificar o status do crédito da empresa no painel de conta.
+Para empresas que têm _[!UICONTROL Payment on Account]_&#x200B;habilitado e o crédito da empresa disponível, elas podem fazer compras em suas contas até o limite de crédito concedido. Com esse recurso, os clientes podem verificar o status do crédito da empresa no painel de conta.
 
 Você pode definir os seguintes parâmetros relacionados a crédito para cada perfil de empresa:
 
