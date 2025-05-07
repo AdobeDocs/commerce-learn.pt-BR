@@ -1,6 +1,6 @@
 ---
-title: O que é o Ultimate Success
-description: Suporte pró-ativo e orientação estratégica do Adobe Commerce Ultimate Success para experiências digitais de alto desempenho.
+title: O que é o Ultimate Success?
+description: Saiba mais sobre o suporte pró-ativo e a orientação estratégica do Adobe Commerce Ultimate Success para experiências digitais de alto desempenho.
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
@@ -9,13 +9,13 @@ doc-type: Value Video
 duration: 240
 last-substantial-update: 2025-04-15T00:00:00Z
 jira: KT-17798
-source-git-commit: 4859c557dac8a855940a217ae8ab60ff8f3fce02
+exl-id: 8c920d49-183a-4a2e-a4b9-5dfdc1cf3476
+source-git-commit: b1ebf4b54253bf19e4d15e089737bc94c0c83615
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
-
 
 # O que é o Ultimate Success
 
@@ -34,4 +34,3 @@ O Adobe Commerce Ultimate Success foi projetado para aprimorar e dar suporte a e
 * Resolução de problemas priorizada e gerenciamento de encaminhamento: oferece tempos de resposta mais rápidos e análise especializada para problemas críticos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457644/?learn=on&enablevpops)
-
