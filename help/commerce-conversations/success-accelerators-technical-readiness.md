@@ -1,7 +1,6 @@
 ---
 title: Disponibilidade técnica dos Aceleradores de sucesso
-description: Adobe Commerce Success Accelerator Disponibilidade técnica, revisão da solução, planejamento de eventos e monitoramento 24 horas por dia, 7 dias por semana para desempenho ideal.
-feature: Site Management, Support
+description: Saiba mais sobre o Commerce Success Accelerator Disponibilidade técnica, revisão da solução, planejamento de eventos e monitoramento 24 horas por dia, 7 dias por semana para desempenho ideal.
 topic: Administration, Commerce
 role: User
 level: Beginner
@@ -9,13 +8,13 @@ doc-type: Value Video
 duration: 160
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17804
-source-git-commit: 080c355e656e918415de74156830d787aad20af4
+exl-id: 7a031aa0-40d6-4a90-a71f-4297107e42f2
+source-git-commit: a79bc113cbedb89c56e74571a68538fa94a3945c
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '149'
 ht-degree: 0%
 
 ---
-
 
 # Disponibilidade técnica dos Aceleradores de sucesso
 
