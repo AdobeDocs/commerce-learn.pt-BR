@@ -9,13 +9,13 @@ doc-type: Value Video
 duration: 783
 last-substantial-update: 2025-05-15T00:00:00Z
 jira: KT-18109
-source-git-commit: 586a4e2a52cbe8ea3b5018b4c53d731b3d071467
+exl-id: e3b7ca08-e8a7-4ff0-a408-4e7e0460e5ed
+source-git-commit: 4f79b61eafb2b02019cfe484e5a6eddf1e354c96
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
 
 ---
-
 
 # Anúncios de novos produtos
 
