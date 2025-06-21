@@ -33,7 +33,7 @@ Esta sessão apresenta o Adobe Commerce API Mesh Starter Kit, projetado para aju
 * Ferramentas integradas para teste: inclui um servidor GraphQL pré-configurado (Yoga) e reinicializações automáticas do servidor para desenvolvimento contínuo.
 * Aprendizado prático: clone o kit inicial, configure endpoints e teste de respostas da API diretamente no navegador.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464022?learn=on&enablevpops&captions=por_br)
 
 ## Documentação relacionada
 
