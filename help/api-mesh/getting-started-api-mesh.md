@@ -12,16 +12,16 @@ topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integr
 role: Architect, Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 366a7988dfa1de39ebccb8ab0e281d80b27dbb36
+source-git-commit: 441d8b177c8bf486b47c763c2854eb1772ffe331
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '311'
 ht-degree: 15%
 
 ---
 
 # Introdução à API Mesh
 
-Se você é novo na API Mesh para Adobe Developer App Builder, o Adobe recomenda começar com este tutorial introdutório, antes de prosseguir para os outros vídeos e tutoriais.
+Se você nunca usou a API Mesh para Adobe Developer App Builder, a Adobe recomenda começar com este tutorial introdutório antes de prosseguir para os outros vídeos e tutoriais.
 
 ## O que é a API Mesh
 
@@ -51,6 +51,6 @@ Seu aplicativo do Commerce tem uma API REST e um terminal GraphQL. Por exemplo, 
 Como desenvolvedor do Adobe App Builder e da API Mesh, não é necessário entender o que é um proxy reverso. No entanto, se você estiver interessado na funcionalidade geral, pois ela se refere ao Adobe App Builder, use os seguintes recursos:
 
 * [O que é um proxy reverso](https://www.imperva.com/learn/performance/reverse-proxy/){target="_blank"}
-* [O que é um proxy reverso e por que ele é importante](https://blog.hubspot.com/website/reverse-proxy){target="_blank"}
+* [Comunidades Experience League - proxy reverso](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/proxy-and-reverse-proxy-for-website/m-p/565772){target="_blank"}
 
 {{$include /help/_includes/api-mesh-related-links.md}}
