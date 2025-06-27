@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: ca8cdbb42dcf89cd0ce4c2b8b13b9fd454e8c597
+source-git-commit: ce2e7415b2d30dbd46a0a40a1c32b5933234e8f1
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '884'
 ht-degree: 3%
 
 ---
@@ -149,6 +149,7 @@ ht-degree: 3%
       + [Eventos condicionais do Adobe Commerce](../io-events/conditional-events.md)
 + API Mesh {#api-mesh}
    + [Kit inicial da malha de API usando códigos GitHub](../api-mesh/starter-kit-github-codespaces.md)
+   + [Fluxos de trabalho do kit inicial da malha de API](../api-mesh/starter-kit-workflows.md)
    + [Introdução à API Mesh](../api-mesh/getting-started-api-mesh.md)
    + [Instalação do plug-in do Adobe IO e malha](../api-mesh/installing-aio-mesh-plugin.md)
    + [Trabalhar com projetos e espaços de trabalho](../api-mesh/aio-projects-workspaces.md)
@@ -236,7 +237,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
