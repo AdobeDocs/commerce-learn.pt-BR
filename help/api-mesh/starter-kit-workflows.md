@@ -31,7 +31,7 @@ Saiba mais sobre os fluxos de trabalho do GitHub incluídos no kit inicial da AP
 * O workflow deployMesh que implanta ou atualiza automaticamente uma malha
 * Teste de carga com o fluxo de trabalho de teste de carga do K6
 
->[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464529?learn=on&enablevpops&captions=por_br)
 
 ## Documentação relacionada
 
