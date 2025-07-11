@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: ce2e7415b2d30dbd46a0a40a1c32b5933234e8f1
+source-git-commit: 810d1a17e9fe564e8450b091bbeb5574d7d76075
 workflow-type: tm+mt
-source-wordcount: '884'
+source-wordcount: '888'
 ht-degree: 3%
 
 ---
@@ -32,6 +32,7 @@ ht-degree: 3%
    + [Dados e promoções de clientes potenciais de experiência](../cloud/experience-lead-data-promoitions.md)
    + [AEM Assets](../cloud/aem-assets.md)
    + [Migrar de uma solução auto-hospedada](../cloud/overview.md)
+   + [Limitar o acesso usando o Fastly](../cloud/limit-website-access-using-fastly.md)
    + Integração técnica e transferência de hardware {#technical-onboarding-hardware-handoff}
       + [Práticas recomendadas de infraestrutura e desenvolvimento](../cloud/infrastructure-development-best-practices.md)
       + [Fastly](../cloud/fastly.md)
@@ -237,7 +238,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
