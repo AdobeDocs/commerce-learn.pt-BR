@@ -37,6 +37,6 @@ Saiba como gerenciar uma instância do Adobe Commerce Optimizer para atualizar o
 
 ## Conteúdo relacionado
 
-* [O que é o Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
-* [Visão geral do Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
-* [Introdução ao Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
+* [O que é o Adobe Commerce Optimizer](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/overview){target="_blank"}
+* [Visão geral do Adobe Commerce Optimizer](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Introdução ao Adobe Commerce Optimizer](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/get-started){target="_blank"}
