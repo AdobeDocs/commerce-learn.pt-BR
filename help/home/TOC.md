@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: e66dfebc7ff4f4745a9fdde65b74270744b0ea6b
+source-git-commit: 622e996bf7124ffd74fe9db81b0e47ba65ae2279
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '904'
 ht-degree: 3%
 
 ---
@@ -83,6 +83,7 @@ ht-degree: 3%
    + [Visão geral](../adobe-commerce-optimizer/overview.md)
    + [Criar sua primeira instância do Adobe Commerce Optimizer](../adobe-commerce-optimizer/create-first-instance.md)
    + [Gerenciar instâncias do Adobe Commerce Optimizer](../adobe-commerce-optimizer/managing-instances.md)
+   + [Assimilar dados de amostra](../adobe-commerce-optimizer/ingest-sample-data.md)
 + Arquitetura de referência global {#global-reference-architecture-implementation-techniques}
    + [Visão geral](../global-reference-architecture/overview.md)
    + [Dividir Git](../global-reference-architecture/split-git.md)
@@ -240,7 +241,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
