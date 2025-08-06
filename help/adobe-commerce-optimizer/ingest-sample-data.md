@@ -38,6 +38,6 @@ Saiba como assimilar os dados de amostra da sua instância do Adobe Commerce Opt
 ## Conteúdo relacionado
 
 * [Dados de amostra do repositório do GitHub](https://github.com/adobe-commerce/aco-sample-catalog-data-ingestion){target="_blank"}
-* [Caso de uso de administrador](https://experienceleague.adobe.com/en/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
-* [Introdução ao Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/get-started){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] Guia](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Caso de uso de administrador](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/use-case/admin-use-case){target="_blank"}
+* [Introdução ao Adobe Commerce Optimizer](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/get-started){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] Guia](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/overview){target="_blank"}
