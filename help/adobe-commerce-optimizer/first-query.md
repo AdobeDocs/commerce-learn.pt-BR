@@ -29,7 +29,7 @@ Saiba como consultar dados usando o GraphQL em uma instância do Adobe Commerce 
 * Consultar dados usando o GraphQL
 * Usar jq para facilitar a leitura do json
 
->[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470805?learn=on&enablevpops&captions=por_br)
 
 ## Amostras de código
 
