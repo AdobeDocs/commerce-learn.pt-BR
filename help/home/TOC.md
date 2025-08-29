@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 68f2108d3526cf4159cafc9259c1692a7dc98267
+source-git-commit: edb8212ae0052f079192fb0f7bd60f7a1e46ad62
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '913'
 ht-degree: 3%
 
 ---
@@ -129,6 +129,7 @@ ht-degree: 3%
    + [Mutações](../graphql-rest/graphql-mutations.md)
    + [Esquema](../graphql-rest/graphql-schema.md)
 + Adobe Developer App Builder {#adobe-developer-app-builder}
+   + [Instalação de aplicativos do Adobe Exchange](../app-builder/install-app-builder-app.md)
    + [Introdução ao App Builder](../app-builder/introduction-to-app-builder.md)
    + [Estrutura de extensibilidade do App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
    + [Demonstração funcional do App Builder](../app-builder/app-builder-functional-demonstration.md)
@@ -242,7 +243,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
