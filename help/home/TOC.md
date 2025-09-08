@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: edb8212ae0052f079192fb0f7bd60f7a1e46ad62
+source-git-commit: 2f6bbab8db0a4223424673fed346d089d11ef351
 workflow-type: tm+mt
-source-wordcount: '913'
+source-wordcount: '910'
 ht-degree: 3%
 
 ---
@@ -206,7 +206,6 @@ ht-degree: 3%
    + [Live Search para recomendações](../site-management/live-search-recommendations.md)
    + [Integrar o Commerce com o AJO](../site-management/integrate-commerce-ajo.md)
 + Pedidos e Atendimento {#orders}
-   + [Visão geral de fornecimento da loja](../orders-and-fulfillment/store-fulfillment.md)
    + [Gerenciar status do pedido](../orders-and-fulfillment/order-status.md)
    + [Verificando o status do inventário](../orders-and-fulfillment/checking-inventory-status.md)
 + B2B para Adobe Commerce {#b2b}
@@ -243,7 +242,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
