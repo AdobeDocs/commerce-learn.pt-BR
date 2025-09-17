@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 2f6bbab8db0a4223424673fed346d089d11ef351
+source-git-commit: ac71d30083c1bb44fcb706411cb90d4ca1b70f59
 workflow-type: tm+mt
-source-wordcount: '910'
+source-wordcount: '914'
 ht-degree: 3%
 
 ---
@@ -20,6 +20,7 @@ ht-degree: 3%
       + [Triagem e resolução de 2 erros comuns do site](../cloud/troubleshooting/triage-two-common-site-errors.md)
       + [Valores de configuração](../cloud/troubleshooting/config-values.md)
       + [Truncar logs](../cloud/troubleshooting/truncate-logs.md)
+   + [Gerenciamento de projetos e ambientes](../cloud/project-environment-management.md)
    + [Hospedagem pronta para HIPAA](../cloud/hippa-ready-hosting.md)
    + [Detectar endereço IP](../cloud/detect-ip-address.md)
    + [Marketecture](../cloud/marketecture.md)
@@ -242,7 +243,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
