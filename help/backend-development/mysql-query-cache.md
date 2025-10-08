@@ -10,9 +10,9 @@ topic: Commerce, Development
 role: Architect, Developer
 level: Intermediate
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 608196b8f68fcd299059907981ec673f2cc60e42
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '142'
 ht-degree: 0%
 
 ---
@@ -34,10 +34,9 @@ Saiba o que é o cache de consulta do MySQL e conheça bem como ele funciona. Sa
 - Veja como o SQL é salvo e usado na localização de um cache de consulta correspondente
 - Algumas dicas sobre as configurações
 
->[!VIDEO](https://video.tv.adobe.com/v/3423388?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## Recursos úteis
 
-- [Diretrizes gerais do MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=pt-BR){target="_blank"}
-- [Deadlocks no MySQL](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/troubleshooting/database/deadlocks-in-mysql.html?lang=pt-BR){target="_blank"}
-- [Replicação de galera e consultas lentas](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=pt-BR){target="_blank"}
+- [Diretrizes gerais do MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
+- [Replicação de galera e consultas lentas](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}
