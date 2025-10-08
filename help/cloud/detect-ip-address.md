@@ -50,7 +50,7 @@ A ferramenta da CLI da magento-cloud foi projetada para ajudar desenvolvedores e
 
 Nesta seção inicial do código de exemplo, `magento-cloud environment:url -p InsertYourProjectID -e UseYourEnvironmentName --pipe -1`, ele está solicitando a URL para o ambiente. O valor retornado se parece com algo como este `http://integration-1ajmyuq-mk7xr7zmslfg.us-4.magentosite.cloud/`. De vez em quando se parece mais com este `http://mcprod.russell.dummycachetest.com.c.abcikdxbg789.ent.magento.cloud/`.  Este primeiro comando é bastante simples, e agora é hora de seguir para o próximo comando.
 
-Para obter mais informações, leia [Visão geral da CLI da nuvem](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
+Para obter mais informações, leia [Visão geral da CLI da nuvem](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/dev-tools/cloud-cli/cloud-cli-overview){target="_blank"}
 
 ## Usando `sed` para pesquisar e substituir
 
@@ -120,4 +120,4 @@ Esses ambientes de nível inferior são multilocatários e compartilham servidor
 
 ## Documentação relacionada
 
-* [Endereços IP Regionais](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
+* [Endereços IP Regionais](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/project/regional-ip-addresses){target="_blank"}
