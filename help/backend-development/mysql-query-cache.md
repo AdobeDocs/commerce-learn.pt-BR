@@ -34,7 +34,7 @@ Saiba o que é o cache de consulta do MySQL e conheça bem como ele funciona. Sa
 - Veja como o SQL é salvo e usado na localização de um cache de consulta correspondente
 - Algumas dicas sobre as configurações
 
->[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423388?learn=on&captions=por_br)
 
 ## Recursos úteis
 
