@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: ac71d30083c1bb44fcb706411cb90d4ca1b70f59
+source-git-commit: 8c3efd5365d8420038f3c0d5e34b34a2b211ead1
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '922'
 ht-degree: 3%
 
 ---
@@ -106,6 +106,10 @@ ht-degree: 3%
       + [Personalizar um layout de endereço](../edge-delivery-services/customize-address-new-account-link.md)
       + [Comprador-experiência](../edge-delivery-services/shopper-experience.md)
 + Webinários e eventos {#webinars-and-events}
+   + Crescimento dos negócios {#business-growth}
+      + [Inovação em IA](../business-growth/ai-innovation.md)
+      + [Visão para frente](../business-growth/vision-forward.md)
+      + [Adoção do produto](../business-growth/product-adoption.md)
    + O futuro do Commerce {#future-of-commerce}
       + [Anúncios de novos produtos](../future-of-commerce/new-product-announcements.md)
       + [Reduzir drasticamente os custos](../future-of-commerce/drastically-cut-costs.md)
@@ -243,7 +247,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)

@@ -1,5 +1,5 @@
 ---
-title: Como o Adobe cria Commerce combinável
+title: Como o Adobe cria o Commerce combinável
 description: Saiba mais sobre o comércio combinável, priorizando uma abordagem de API e implementando uma arquitetura modular e orientada a serviços.
 feature: App Builder, Saas
 topic: Architecture, Commerce, Development, Headless, Integrations, Performance, Personalization
@@ -7,10 +7,10 @@ role: Admin, Architect, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 0
-last-substantial-update: 2024-06-27T00:00:00Z
+last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: d578c066f3e51827694c8bf85aa2324035a8b07b
+source-git-commit: 57082a851e508653ed9fcafd013a2201c8082873
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 O comércio combinável é uma abordagem arquitetônica no comércio eletrônico que envolve a dissociação da camada de apresentação front-end da funcionalidade de comércio back-end. &#x200B; Ele permite que as empresas selecionem e combinem os melhores componentes ou módulos para criar uma solução personalizada. Essa abordagem envolve dividir a plataforma monolítica tradicional de comércio eletrônico em serviços ou microsserviços menores e independentes que podem ser compostos em conjunto. O comércio combinável oferece benefícios como flexibilidade, escalabilidade, personalização, agilidade e a possibilidade de integrações mais fáceis com outros sistemas e tecnologias.
 
-O Adobe Commerce fornece vários recursos e ferramentas para apoiar os comerciantes na adoção e implementação do comércio combinável. O Adobe Commerce oferece uma metodologia de comércio combinável e experiências de front-end híbridas headless e não headless. Com a extensibilidade fora do processo em mente, o Adobe oferece a API Mesh para integração de vários serviços e o Adobe App Builder para criação de microsserviços personalizados.
+O Adobe Commerce fornece vários recursos e ferramentas para apoiar os comerciantes na adoção e implementação do comércio combinável. O Adobe Commerce oferece uma metodologia de comércio combinável e experiências de front-end híbridas headless e não headless. Com a extensibilidade fora do processo em mente, a Adobe oferece o API Mesh para integração de vários serviços e o Adobe App Builder para criação de microsserviços personalizados.
 
 ## Por que o comércio combinável é importante?
 
@@ -59,7 +59,7 @@ O Adobe Commerce fornece vários recursos para apoiar os comerciantes na adoçã
 
 **API Mesh:** o Adobe Commerce API Mesh simplifica a integração de vários microsserviços, ferramentas de terceiros e aplicativos em um ponto de extremidade de API unificado para desenvolvedores front-end. Ele permite que os desenvolvedores combinem várias fontes de dados em um único endpoint do GraphQL, reduzindo a complexidade e simplificando o desenvolvimento e a manutenção de novos recursos e experiências.
 
-**Adobe App Builder:** O Adobe App Builder é uma plataforma de extensibilidade sem servidor que permite aos comerciantes criar microsserviços personalizados, criar experiências personalizadas e estender soluções Adobe. Com o App Builder, os comerciantes podem criar aplicativos seguros e escalonáveis que ampliam a funcionalidade nativa da Adobe Commerce e integram-se a soluções de terceiros. Isso elimina a necessidade de os comerciantes criarem e manterem sua própria infraestrutura para personalizações e microsserviços, reduzindo a complexidade e o custo total de propriedade.
+**Adobe App Builder:** O Adobe App Builder é uma plataforma de extensibilidade sem servidor que permite aos comerciantes criar microsserviços personalizados, criar experiências personalizadas e estender soluções da Adobe. Com o App Builder, os comerciantes podem criar aplicativos seguros e escalonáveis que ampliam a funcionalidade nativa da Adobe Commerce e integram-se a soluções de terceiros. Isso elimina a necessidade de os comerciantes criarem e manterem sua própria infraestrutura para personalizações e microsserviços, reduzindo a complexidade e o custo total de propriedade.
 
 Esses recursos fornecidos pela Adobe Commerce simplificam a adoção e a implementação do comércio combinável, permitindo que os comerciantes aproveitem os benefícios de flexibilidade, escalabilidade, personalização e recursos de integração enquanto reduzem a complexidade e o esforço de desenvolvimento.
 
