@@ -113,7 +113,7 @@ A Adobe Commerce Cloud emprega um cluster MariaDB Galera como banco de dados par
    > - Como desativar a comunicação por email:
    >   Vá para _Armazenamento > Configuração > Avançado > Sistema > Configurações de Envio de Email_.
 
-4. Realize testes de inserção de segurança na instância de produção como parte do [modelo de segurança de responsabilidade compartilhada](https://business.adobe.com/products/magento/secure-ecommerce.html){target="_blank"}. Para conformidade com PCI (Payment Card Industry, setor de cartões de pagamento), o site personalizado requer teste de penetração.
+4. Realize testes de inserção de segurança na instância de produção como parte do [modelo de segurança de responsabilidade compartilhada](https://business.adobe.com/br/products/magento/secure-ecommerce.html){target="_blank"}. Para conformidade com PCI (Payment Card Industry, setor de cartões de pagamento), o site personalizado requer teste de penetração.
 
 ## 8. Outras configurações
 
