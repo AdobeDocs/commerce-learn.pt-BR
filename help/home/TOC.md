@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 8c3efd5365d8420038f3c0d5e34b34a2b211ead1
+source-git-commit: 65ffab8f8359d493b5519100384f4570b94b7730
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '928'
 ht-degree: 3%
 
 ---
@@ -86,6 +86,8 @@ ht-degree: 3%
    + [Gerenciar instâncias do Adobe Commerce Optimizer](../adobe-commerce-optimizer/managing-instances.md)
    + [Assimilar dados de amostra](../adobe-commerce-optimizer/ingest-sample-data.md)
    + [Primeira consulta usando GraphQL](../adobe-commerce-optimizer/first-query.md)
+   + Kit inicial da nuvem do Salesforce Commerce {#sfcc-starter-kit}
+      + [Visão geral](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
 + Arquitetura de referência global {#global-reference-architecture-implementation-techniques}
    + [Visão geral](../global-reference-architecture/overview.md)
    + [Dividir Git](../global-reference-architecture/split-git.md)
@@ -247,7 +249,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
