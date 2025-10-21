@@ -9,7 +9,7 @@ doc-type: Technical Video
 duration: 194
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-18990
-source-git-commit: 2b95d22d417229e95a9829cd04d0538b537e0c0e
+source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -32,4 +32,4 @@ Saiba mais sobre o Commerce Optimizer Salesforce Commerce Cloud Connector, uma f
 * saiba mais sobre a finalidade do kit inicial de integração do Salesforce Commerce Cloud.
 * Saiba onde instalar o kit inicial
 
->[!VIDEO](https://video.tv.adobe.com/v/3476018?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476013?learn=on)
