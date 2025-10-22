@@ -36,4 +36,4 @@ Saiba como instalar e configurar o cartucho do Adobe Commerce Optimizer para uma
 * Importe definições personalizadas de objetos e trabalhos para oferecer suporte ao rastreamento e à sincronização.
 * Teste um endpoint de API personalizado para confirmar a instalação bem-sucedida e se prepare para a sincronização do catálogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476075?captions=por_br&learn=on)

@@ -34,4 +34,4 @@ Uma demonstração completa mostrando a configuração e a execução bem-sucedi
 * As alterações nos detalhes e nos preços do produto no catálogo SFC são detectadas e atualizadas automaticamente no Commerce Optimizer por meio do processo Delta Sync.
 * Atualizações em tempo real e demonstração de fluxo de dados e sincronização ininterruptos entre sistemas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476098?captions=por_br&learn=on)
