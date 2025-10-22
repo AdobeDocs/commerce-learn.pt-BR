@@ -6,10 +6,10 @@ topic: Administration,Commerce,Integrations
 role: Architect, Developer
 level: Beginner
 doc-type: Technical Video
-duration: 0
+duration: 243
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
-source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
+source-git-commit: fa615aab7b8eff3b13908797cd263ec4cdc65eb6
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -32,4 +32,4 @@ Saiba mais sobre a arquitetura e a funcionalidade do Commerce Optimizer Connecto
 * O cartucho SFCC personalizado e as APIs detectam alterações no catálogo por meio de exportações delta, permitindo a sincronização eficiente dos dados com o Adobe App Builder.
 * As ações de tempo de execução do App Builder gerenciam sincronizações completas e delta, validação e rastreamento de estado para garantir atualizações precisas e sem conflitos no Commerce Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476056?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)

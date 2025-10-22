@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 54a1a8e62e86f8ae3456bb41a1b0450134f26b71
+source-git-commit: c00df1105c757705faabf51bb31192c2eff64329
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '943'
 ht-degree: 3%
 
 ---
@@ -89,6 +89,9 @@ ht-degree: 3%
    + Kit inicial da nuvem do Salesforce Commerce {#sfcc-starter-kit}
       + [Visão geral](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
       + [Visão geral da arquitetura](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
+      + [Instalação do cartucho SFCC](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
+      + [Kit inicial do construtor de aplicativos](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
+      + [Demonstração completa](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
 + Arquitetura de referência global {#global-reference-architecture-implementation-techniques}
    + [Visão geral](../global-reference-architecture/overview.md)
    + [Dividir Git](../global-reference-architecture/split-git.md)
@@ -250,7 +253,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
