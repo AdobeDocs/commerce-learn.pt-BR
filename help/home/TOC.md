@@ -254,7 +254,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
