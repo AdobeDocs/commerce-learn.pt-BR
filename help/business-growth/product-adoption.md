@@ -35,4 +35,4 @@ A Adobe Commerce está facilitando o crescimento das empresas, ajudando-as a mig
 * A extensibilidade do App Builder permite que a lógica personalizada seja dissociada em funções sem servidor para facilitar a manutenção.
 * As melhorias nas vitrines melhoram o desempenho e a criação de conteúdo com componentes integrados e entrega de borda.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475737/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475753/?captions=por_br&learn=on&enablevpops)
