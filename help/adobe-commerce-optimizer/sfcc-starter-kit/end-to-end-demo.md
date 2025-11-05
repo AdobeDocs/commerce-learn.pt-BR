@@ -1,6 +1,6 @@
 ---
-title: Demonstração completa do aplicativo Salesforce Commerce Cloud Connector
-description: Assista à demonstração completa do Salesforce Commerce Cloud com o Adobe Commerce Optimizer.
+title: Demonstração completa do Salesforce Commerce Cloud Connector
+description: Assista à demonstração completa da Salesforce Commerce Cloud com o Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Architect, Developer
@@ -9,17 +9,17 @@ doc-type: Technical Video
 duration: 381
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: 2c2484ad679dc1bd46b2093549cb4e0e41545a21
+source-git-commit: b6748e79109b203772a4846a8197adbb65e6a0d0
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
 
-# Assista à demonstração completa do kit de início da nuvem do Salesforce Commerce
+# Demonstração completa do kit inicial do Salesforce Commerce Cloud
 
-Uma demonstração completa mostrando a configuração e a execução bem-sucedidas de uma sincronização completa e delta entre o Salesforce Commerce e o Commerce Optimizer usando o kit inicial. Saiba como confirmar o sucesso da sincronização por meio de logs de tempo de execução e rastreamento de eventos e, em seguida, validar os resultados em uma loja em tempo real. Saiba como a funcionalidade de sincronização delta funciona. Também são abordadas as etapas como modificar detalhes e preços do produto no catálogo do Salesforce Commerce Cloud, e o sistema detecta e atualiza automaticamente essas alterações no Commerce Optimizer, refletindo-as instantaneamente na loja.
+Assista a uma demonstração completa mostrando a configuração e a execução bem-sucedidas de uma sincronização completa e delta entre o Salesforce Commerce e o Commerce Optimizer usando o kit inicial. Saiba como confirmar o sucesso da sincronização por meio de logs de tempo de execução e rastreamento de eventos e, em seguida, validar os resultados em uma loja em tempo real. Saiba como a funcionalidade de sincronização delta funciona. Também são abordadas as etapas como modificar detalhes e preços do produto no catálogo do Salesforce Commerce Cloud, e o sistema detecta e atualiza automaticamente essas alterações no Commerce Optimizer, refletindo-as instantaneamente na loja.
 
 ## Para quem é este vídeo?
 
@@ -34,4 +34,4 @@ Uma demonstração completa mostrando a configuração e a execução bem-sucedi
 * As alterações nos detalhes e nos preços do produto no catálogo SFC são detectadas e atualizadas automaticamente no Commerce Optimizer por meio do processo Delta Sync.
 * Atualizações em tempo real e demonstração de fluxo de dados e sincronização ininterruptos entre sistemas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476098?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)
