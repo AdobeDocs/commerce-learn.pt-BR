@@ -35,4 +35,4 @@ O roteiro da Adobe Commerce para 2026 descreve uma estratégia abrangente para a
 * Centro de comerciantes e experiência de administração
 * Melhorias na experiência do desenvolvedor e na capacidade de observação
 
->[!VIDEO](https://video.tv.adobe.com/v/3475695/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475711/?captions=por_br&learn=on&enablevpops)
