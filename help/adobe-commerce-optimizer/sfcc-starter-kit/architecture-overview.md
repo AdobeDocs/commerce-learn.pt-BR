@@ -1,5 +1,5 @@
 ---
-title: Visão geral da arquitetura do aplicativo Salesforce Commerce cloud connector
+title: Visão geral da arquitetura do Salesforce Commerce Cloud Connector
 description: Saiba mais sobre a arquitetura do Salesforce Commerce Cloud com o Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 243
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
-source-git-commit: fa615aab7b8eff3b13908797cd263ec4cdc65eb6
+source-git-commit: 7010657a2eb3c9e6dac9eb2ed566a8c716e02f69
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
 
-# Saiba mais sobre a arquitetura do Salesforce Commerce Cloud Starter Kit
+# Arquitetura do Salesforce Commerce Cloud starter kit
 
 Saiba mais sobre a arquitetura e a funcionalidade do Commerce Optimizer Connector Starter Kit, que integra o Salesforce Commerce Cloud (SFCC) e o Adobe App Builder. O kit inicial é usado pelo Adobe Commerce Optimizer para simplificar a sincronização de catálogos para vitrines do Edge Delivery. Ele explica como um cartucho personalizado no SFCC detecta alterações no catálogo por meio de arquivos de exportação delta e as expõe por meio de APIs personalizadas. Essas alterações são consumidas pelas ações de tempo de execução do App Builder — síncronas e assíncronas — para executar sincronizações completas e delta, atualizações de metadados e sincronizações específicas do produto. O sistema também inclui ferramentas de validação para garantir a precisão da vitrine eletrônica e usa o gerenciamento de estado da App Builder para rastrear o status de sincronização e evitar conflitos.
 
@@ -32,4 +32,4 @@ Saiba mais sobre a arquitetura e a funcionalidade do Commerce Optimizer Connecto
 * O cartucho SFCC personalizado e as APIs detectam alterações no catálogo por meio de exportações delta, permitindo a sincronização eficiente dos dados com o Adobe App Builder.
 * As ações de tempo de execução do App Builder gerenciam sincronizações completas e delta, validação e rastreamento de estado para garantir atualizações precisas e sem conflitos no Commerce Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476056?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476046?learn=on)
