@@ -39,7 +39,7 @@ Para saber mais sobre a ferramenta, consulte a [documentação da Ferramenta de 
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/341245?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344389?captions=por_br&quality=12&learn=on)
 
 ## Recursos adicionais
 
