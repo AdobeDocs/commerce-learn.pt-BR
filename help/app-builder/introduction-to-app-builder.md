@@ -68,7 +68,7 @@ Para obter mais detalhes sobre a arquitetura do App Builder, consulte a [Visão 
 
 Uma visão geral da estratégia de comércio combinável, que inclui a configuração inicial, pode ser encontrada lendo a seguinte publicação do blog:
 
-[Como a App Builder ajuda a impulsionar a agilidade comercial da sua plataforma de comércio](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
+[Como o App Builder ajuda a impulsionar a agilidade comercial para sua plataforma de comércio](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}
 
 Para ajudar você a começar a usar o App Builder, a Adobe criou a seguinte documentação:
 
@@ -89,6 +89,6 @@ Pronto para começar a desenvolver? O link a seguir contém aplicativos de exemp
 
 ## Suporte {#support}
 
-Para solicitações de suporte ao desenvolvedor, use o [fórum do Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=pt){target="_blank"} para obter assistência.
+Para solicitações de suporte ao desenvolvedor, use o [fórum do Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} para obter assistência.
 
 {{$include /help/_includes/app-builder-related-links.md}}
