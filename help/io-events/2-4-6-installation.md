@@ -10,10 +10,11 @@ last-substantial-update: 2023-02-22T00:00:00Z
 badge: Adobe Commerce 2.4.6
 feature: App Builder, Eventing
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 41b31ed8-04c5-4d50-aaff-abc3718b5957
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 # Instalação do Adobe Commerce 2.4.6
 
-Saiba como instalar vários módulos novos no Adobe Commerce usando o Composer para versão 2.4.6. Documentação adicional encontrada em [Instalar Eventos Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Saiba como instalar vários módulos novos no Adobe Commerce usando o Composer para versão 2.4.6. Documentação adicional encontrada em [Instalar o Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Para quem é este vídeo?
 
@@ -31,14 +32,14 @@ Saiba como instalar vários módulos novos no Adobe Commerce usando o Composer p
 ## Conteúdo de vídeo {#video-content}
 
 * Comandos a serem executados para hospedagem local
-* Comandos a serem executados para o Adobe Commerce Cloud
-* Edição do yaml Adobe Commerce Cloud necessária
+* Comandos a serem executados para a Adobe Commerce Cloud
+* Edição do yaml da Adobe Commerce Cloud necessária
 
->[!VIDEO](https://video.tv.adobe.com/v/3430640?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3415795?quality=12&learn=on)
 
 ## Comandos úteis {#useful-commands}
 
-Há vários comandos que diferem um pouco, dependendo se você está em um ambiente auto-hospedado ou usando o Adobe Commerce Cloud.
+Há vários comandos que diferem um pouco, dependendo se você está em um ambiente auto-hospedado ou usando a Adobe Commerce Cloud.
 
 ### Hospedagem no local {#on-premise}
 

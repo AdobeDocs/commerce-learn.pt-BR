@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Desenvolvimento de módulo do Adobe Commerce
 
-Saiba como registrar eventos, encontrar eventos compatíveis e usar um novo arquivo XML `io_events.xml` no desenvolvimento de módulo personalizado. O vídeo também mostrará aos desenvolvedores como encontrar eventos registrados que podem ser usados, bem como cancelar a inscrição de eventos que já podem estar definidos. Documentação adicional encontrada em [Instalar Eventos Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Saiba como registrar eventos, encontrar eventos compatíveis e usar um novo arquivo XML `io_events.xml` no desenvolvimento de módulo personalizado. O vídeo também mostrará aos desenvolvedores como encontrar eventos registrados que podem ser usados, bem como cancelar a inscrição de eventos que já podem estar definidos. Documentação adicional encontrada em [Instalar o Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Para quem é este vídeo?
 
@@ -35,7 +36,7 @@ Saiba como registrar eventos, encontrar eventos compatíveis e usar um novo arqu
 * Saiba como registrar eventos nas instâncias do Commerce `app/etc/config.php`
 * Saiba como cancelar a inscrição em um evento
 
->[!VIDEO](https://video.tv.adobe.com/v/3430650?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3415802?quality=12&learn=on)
 
 ## Comandos úteis {#useful-commands}
 

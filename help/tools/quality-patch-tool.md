@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: d3d42654-8574-48d1-814c-ec46107f1371
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -19,13 +20,13 @@ ht-degree: 0%
 
 # Usar a Ferramenta de correção de qualidade
 
-A Ferramenta de correção de qualidade é uma ferramenta de linha de comando que fornece correções de qualidade para Adobe Commerce e Magento Open Source. Ele permite:
+A Ferramenta de correção de qualidade é uma ferramenta de linha de comando que fornece correções de qualidade para o Adobe Commerce e o Magento Open Source. Ele permite:
 
 - Exibir informações gerais sobre os patches de qualidade mais recentes
 - Aplicar patches de qualidade
 - Reverter patches aplicados
 
-A equipe de suporte da Adobe Commerce e a comunidade Magento Open Source desenvolvem os patches de qualidade.
+A equipe de suporte da Adobe Commerce e a comunidade da Magento Open Source desenvolvem os patches de qualidade.
 
 ## Para quem é este vídeo?
 
@@ -34,9 +35,9 @@ A equipe de suporte da Adobe Commerce e a comunidade Magento Open Source desenvo
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412499?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/344000?quality=12&learn=on)
 
 ## Recursos adicionais
 
-- [Ferramenta de correção de qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=pt-BR)
+- [Ferramenta de correção de qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
 - [Ferramenta de correção de qualidade no GitHub](https://github.com/magento/quality-patches)

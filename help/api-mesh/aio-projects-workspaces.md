@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -21,7 +22,7 @@ ht-degree: 0%
 
 # Trabalhar com projetos e espaços de trabalho
 
-Este tutorial discute a criação de um projeto e um espaço de trabalho para conter sua malha. Este trabalho acontece predominantemente no [console do Adobe Developer](https://developer.adobe.com/console){target="_blank"}.
+Este tutorial discute a criação de um projeto e um espaço de trabalho para conter sua malha. Este trabalho acontece predominantemente na interface do usuário do [console do Adobe Developer](https://developer.adobe.com/console){target="_blank"}.
 
 ## Para quem é este vídeo?
 
@@ -36,7 +37,7 @@ Este tutorial discute a criação de um projeto e um espaço de trabalho para co
 * Alterando a organização, o projeto ou o espaço de trabalho selecionado na CLI
 * Teste de comandos simples do API Mesh
 
->[!VIDEO](https://video.tv.adobe.com/v/3430778?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?quality=12&learn=on)
 
 ## Saiba mais sobre a Adobe Developer Console
 

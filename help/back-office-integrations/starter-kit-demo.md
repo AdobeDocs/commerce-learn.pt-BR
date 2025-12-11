@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2024-4-19
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 8895c904-3cf6-4bd1-917d-f9c91caa4ea9
-source-git-commit: 13d30cb06aa5d704aadf77a1f781ba0443c11af5
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -37,4 +38,4 @@ Saiba mais sobre o kit inicial de integração de back office do Adobe Commerce.
 * Configurar eventos de E/S
 * Conexão com terceiros para sincronizar dados
 
->[!VIDEO](https://video.tv.adobe.com/v/3452019?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)

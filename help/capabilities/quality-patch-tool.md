@@ -3,14 +3,14 @@ title: Ferramenta de correção de qualidade
 description: Saiba como usar a ferramenta de correção de qualidade ao diagnosticar um problema, encontrar uma solução e aplicar uma correção encontrada na lista existente de correções disponíveis.
 feature: Cloud, Configuration, Logs, System, Tools and External Services
 topic: Architecture, Commerce, Development
-role: Admin, Architect, User
+role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 771
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -37,13 +37,13 @@ A Ferramenta de correção de qualidade é um utilitário de linha de comando pa
 * Aplique patches de qualidade à sua instalação.
 * Reverter patches aplicados, se necessário
 
-Esses patches são desenvolvidos a partir da Adobe Developers na comunidade Magento Open Source para melhorar a estabilidade e o desempenho. Lembre-se de que isso não é recomendado para aplicar um grande número de patches, pois pode complicar atualizações futuras.
+Esses patches são desenvolvidos por desenvolvedores da Adobe na comunidade da Magento Open Source para melhorar a estabilidade e o desempenho. Lembre-se de que isso não é recomendado para aplicar um grande número de patches, pois pode complicar atualizações futuras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454073?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## Por que usar a ferramenta de correção de qualidade
 
-Você pode querer usar a Ferramenta de correções de qualidade para Adobe Commerce ou Magento Open Source se quiser:
+Talvez você queira usar a Ferramenta de correções de qualidade para o Adobe Commerce ou Magento Open Source se estiver procurando:
 
 Melhorar a estabilidade e o desempenho: os patches de qualidade resolvem problemas, melhoram a segurança e otimizam a sua instalação.
 Mantenha-se atualizado: a aplicação de patches garante que seu sistema esteja atualizado e protegido.
@@ -59,7 +59,7 @@ Embora a Ferramenta de correção de qualidade ofereça benefícios, há algumas
 * Personalizações: se você tiver feito alterações no código personalizado, os patches podem entrar em conflito. Revise as alterações com cuidado.
 * Backup: faça backup da instalação antes de aplicar patches para evitar perda de dados.
 
-Embora a Ferramenta de correção de qualidade seja útil para aplicar um número limitado de correções, ela não é recomendada para manipular um grande volume de correções. A aplicação de muitos patches pode complicar atualizações e manutenção futuras. Se você tiver vários patches para aplicar, considere abordagens alternativas ou consulte um especialista em Magento. 
+Embora a Ferramenta de correção de qualidade seja útil para aplicar um número limitado de correções, ela não é recomendada para manipular um grande volume de correções. A aplicação de muitos patches pode complicar atualizações e manutenção futuras. Se você tiver vários patches para aplicar, considere abordagens alternativas ou consulte um especialista da Magento. 
 
 ## Resumo
 
@@ -71,8 +71,8 @@ Antes de aplicar patches, é crucial testá-los em um ambiente de preparo. Garan
 
 ## Artigos e vídeos relacionados
 
-* [Pesquisa de Ferramentas de Correção de Qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=pt-BR)
-* [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Pesquisa de Ferramentas de Correção de Qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Notas de versão](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github para patches](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Uso da ferramenta de correção de qualidade](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Vídeo técnico no QPT](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Uso da ferramenta de correção de qualidade](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Vídeo técnico no QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

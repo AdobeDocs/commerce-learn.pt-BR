@@ -1,25 +1,26 @@
 ---
-title: Diagnosticar e corrigir alguns erros comuns de Commerce Cloud
-description: Resolva dois erros comuns no projeto da Adobe Cloud que impedem o carregamento do site.
+title: Diagnosticar e corrigir alguns erros comuns do Commerce Cloud
+description: Resolva dois erros comuns de projeto da Adobe Cloud que impedem o carregamento do site.
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 260
 last-substantial-update: 2024-10-30T00:00:00Z
 jira: KT-16419
-source-git-commit: 27c1715dd42853013181d9c729549a5a32bc2af0
+exl-id: 4c21b6a6-783a-422f-9071-3534ed68e8be
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-
 # O serviço de diagnóstico e correção não está disponível e ocorreu um erro
 
-Saiba como triar e resolver dois erros comuns vistos em projetos do Adobe Commerce Cloud.  Entenda como e por que esses erros ocorrem e quais são as etapas recomendadas para resolvê-los.
+Saiba como triar e resolver dois erros comuns vistos em projetos da Adobe Commerce Cloud.  Entenda como e por que esses erros ocorrem e quais são as etapas recomendadas para resolvê-los.
 
 ## Para quem é este vídeo
 
@@ -32,7 +33,7 @@ Saiba como triar e resolver dois erros comuns vistos em projetos do Adobe Commer
 - Gerenciar modo de manutenção
 - Dicas eficientes de solução de problemas
 
->[!VIDEO](https://video.tv.adobe.com/v/3447698?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3435766?learn=on)
 
 
 ## Comandos usados no vídeo

@@ -8,10 +8,11 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 badge: label="Contribuição de Tony Evers, arquiteto técnico sênior, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contribuição de Tony Evers"
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: dacd43ef84dcb2c2633221a90642a469b2ff5a30
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%
@@ -31,7 +32,7 @@ Em qualquer um desses cenários, é aconselhável explorar o uso de várias inst
 1. **Proprietários de Repositório Diferentes**: se você mantiver o código para vários proprietários de repositórios, cada um com seu próprio repositório distinto, instâncias separadas poderão ser necessárias para manter seus requisitos individuais de maneira eficaz.
 2. **Conformidade com as Regulamentações Nacionais**: certas regulamentações exigem que os dados do cliente sejam armazenados em regiões específicas. Nesses casos, instâncias separadas são essenciais para garantir a conformidade com essas regulamentações.
 3. **Variações operacionais entre regiões geográficas**: operar em várias regiões pode significar diferentes agendamentos e requisitos de manutenção. O uso de instâncias separadas permite flexibilidade no gerenciamento eficiente dessas variações.
-4. **Vendas de Flashes de Alta Intensidade**: lojas que realizam vendas rápidas em larga escala geralmente exigem desempenho otimizado de servidor. A infraestrutura dedicada fornecida por instâncias separadas garante o desempenho ideal durante esses períodos de alta demanda.
+4. **Vendas de Flash de Alta Intensidade**: lojas que realizam vendas de flash em larga escala geralmente exigem desempenho otimizado de servidor. A infraestrutura dedicada fornecida por instâncias separadas garante o desempenho ideal durante esses períodos de alta demanda.
 5. **Diferenças Significativas entre Marcas ou Países**: quando a diferença entre marcas ou países é grande, o uso de uma única instância resulta em um código que é usado apenas para algumas marcas ou países. Instâncias separadas podem melhorar o desempenho e a estabilidade, eliminando códigos desnecessários para marcas e países que não precisam deles.
 
 ## Padrões da arquitetura de referência global

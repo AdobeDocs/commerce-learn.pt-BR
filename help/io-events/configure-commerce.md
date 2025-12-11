@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -21,20 +22,20 @@ ht-degree: 0%
 
 # Configurar Adobe Commerce
 
-Saiba como configurar o Adobe Commerce para expor os eventos. Documentação adicional encontrada em [Instalar Eventos Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Saiba como configurar o Adobe Commerce para expor os eventos. Documentação adicional encontrada em [Instalar o Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novatos no Adobe Commerce e no Adobe Developer App Builder que usam eventos de E/S e precisam criar um projeto Adobe App Builder.
+* Desenvolvedores novatos no Adobe Commerce e no Adobe Developer App Builder usando eventos de E/S e precisam criar um projeto do Adobe App Builder.
 
 ## Conteúdo de vídeo {#video-content}
 
-* Configuração dos eventos de Adobe I/O no administrador do Commerce
+* Configuração dos eventos do Adobe I/O no administrador do Commerce
 * Salvamento de uma chave privada no administrador do Commerce
 * Salvar o identificador exclusivo no administrador do Commerce
 * Criar um provedor de eventos
 
->[!VIDEO](https://video.tv.adobe.com/v/3430614?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3415799?quality=12&learn=on)
 
 ## Comandos úteis {#useful-commands}
 

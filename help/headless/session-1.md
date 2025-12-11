@@ -7,10 +7,11 @@ audience: all
 last-substantial-update: 2023-04-25T00:00:00Z
 feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
-role: Architect, Developer, User
+old-role: Architect, Developer
+role: Developer, User
 level: Beginner, Intermediate
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%

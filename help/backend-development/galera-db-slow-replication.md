@@ -7,10 +7,11 @@ activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -37,7 +38,7 @@ Como solução, se possível, coloque suas grandes operações em lote para ajud
 - Execuções em massa ocorrem somente no principal. As replicações ocorrem uma de cada vez
 - Adicione em lote suas grandes confirmações para ajudar a replicação a acompanhar o principal
 
->[!VIDEO](https://video.tv.adobe.com/v/3423544?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## Recursos úteis
 

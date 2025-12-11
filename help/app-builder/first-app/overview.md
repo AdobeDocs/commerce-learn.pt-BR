@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 0b6a91dd-e5c4-4ead-84d4-362de070815e
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -29,7 +30,7 @@ Este tutorial tem os seguintes pré-requisitos:
 * [Os espaços de trabalho do Adobe Developer App Builder foram criados - Etapa 2.6](https://developer.adobe.com/app-builder/docs/getting_started/first_app/#2-creating-a-new-project-on-developer-console){target="_blank"}
 * [Os comandos da CLI do AIO para inicializar o projeto e executar foram executados](https://developer.adobe.com/runtime){target="_blank"}
 
-Para obter mais informações sobre como criar seu primeiro aplicativo do App Builder, você pode exibir a seguinte publicação do blog para ajudá-lo com esta configuração e esta configuração iniciais [Como o App Builder ajuda a impulsionar a agilidade comercial para sua plataforma de comércio](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
+Para obter mais informações sobre como criar seu primeiro aplicativo do App Builder, você pode exibir a seguinte publicação do blog para ajudá-lo com essa configuração inicial [Como o App Builder ajuda a impulsionar a agilidade comercial para sua plataforma de comércio](https://business.adobe.com/blog/how-to/how-app-builder-helps-you-implement-a-composable-commerce-strategy){target="_blank"}.
 
 ## O que esperar da leitura deste tutorial
 

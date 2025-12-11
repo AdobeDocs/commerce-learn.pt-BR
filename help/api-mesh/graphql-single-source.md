@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 9a78457a-1539-49c0-ac69-4bbfc6786137
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -35,7 +36,7 @@ Este vídeo ajuda os desenvolvedores a entender como criar uma malha com uma ún
 * Criação de uma malha a partir de um arquivo de configuração JSON
 * Acesso ao endpoint do GraphQL recém-criado
 
->[!VIDEO](https://video.tv.adobe.com/v/3430823?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
 
 ## Criar o arquivo de configuração json
 

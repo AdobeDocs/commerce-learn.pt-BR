@@ -1,6 +1,6 @@
 ---
 title: Saiba mais sobre as práticas recomendadas e o processo de integração do Adobe Commerce Integration Starter Kit.
-description: Dominar as integrações da Commerce, aprendendo as práticas recomendadas e dando dicas de integração com o Adobe Starter Kit.
+description: Dominar as integrações do Commerce aprendendo as práticas recomendadas e dicas de integração com o Adobe Starter Kit.
 landing-page-description: Saiba como oferecer insights práticos sobre os processos de instalação, configuração e implantação envolvidos usando o kit inicial.
 kt: 15867
 doc-type: video
@@ -8,9 +8,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: 98b739c1871ae764dfc521ca4f190e5abe00bb86
+exl-id: 59b9016e-4327-4669-b0ae-e4299433724f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -25,7 +27,7 @@ Saiba como integrar o Adobe Commerce a sistemas externos, oferecendo insights pr
 
 * Desenvolvedores que desejam conhecer as práticas recomendadas para integração comercial, da clonagem à implantação ativa.
 * Qualquer pessoa que quiser entender sobre integração e validação de implantação bem-sucedida.
-* Engenheiros de software e programadores que desejam obter informações sobre a configuração de provedores de eventos, assinaturas e sincronização entre sistemas.
+* Engenheiros de software e programadores que desejam que o insight configure provedores de eventos, assinaturas e sincronização entre sistemas.
 
 ## Conteúdo de vídeo
 
@@ -35,7 +37,7 @@ Saiba como integrar o Adobe Commerce a sistemas externos, oferecendo insights pr
 * Execução de scripts para criar e configurar provedores de eventos e assinaturas.
 * Atualização de eventos no Commerce e no App Builder para sincronização.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452774?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

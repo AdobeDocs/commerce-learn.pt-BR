@@ -3,13 +3,15 @@ title: Truncar logs
 description: Saiba como fazer a triagem de uma implantação com falha devido a um disco rígido cheio truncando arquivos de log grandes.
 feature: Cloud, Site Management
 topic: Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 206
 last-substantial-update: 2025-3-25
 jira: KT-17595
-source-git-commit: b90aa9eb8759391a16dfb29ca25b0d2d271956ed
+exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -33,7 +35,7 @@ Se você acha que precisa desses arquivos de log, pode `rsync` ou usar outros m�
 - Onde alguns arquivos de log grandes comuns são encontrados
 - Método rápido para truncar um arquivo de log
 
->[!VIDEO](https://video.tv.adobe.com/v/3454588?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## Comandos usados no vídeo
@@ -89,4 +91,4 @@ Depois de enviar para o projeto e ambiente corretos, altere para o diretório `v
 
 ## Documentação relacionada
 
-- [Notificações de integridade](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [Notificações de integridade](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

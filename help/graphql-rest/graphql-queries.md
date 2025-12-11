@@ -1,18 +1,19 @@
 ---
 title: Executar uma consulta usando o GraphQL
-description: Saiba como executar uma consulta usando o GraphQL no Adobe Commerce e  [!DNL Magento Open Source]. Esta é uma introdução ao GraphQL usando chamadas GET e POST.
-landing-page-description: Saiba como executar uma consulta usando o GraphQL no Adobe Commerce e  [!DNL Magento Open Source]. Esta é uma introdução ao GraphQL usando chamadas GET e POST.
-short-description: Saiba como executar uma consulta usando o GraphQL no Adobe Commerce e  [!DNL Magento Open Source]. Esta é uma introdução ao GraphQL usando chamadas GET e POST.
+description: Saiba como executar uma consulta usando o GraphQL no Adobe Commerce e  [!DNL Magento Open Source]. Esta é uma introdução ao GraphQL usando chamadas do GET e POST.
+landing-page-description: Saiba como executar uma consulta usando o GraphQL no Adobe Commerce e  [!DNL Magento Open Source]. Esta é uma introdução ao GraphQL usando chamadas do GET e POST.
+short-description: Saiba como executar uma consulta usando o GraphQL no Adobe Commerce e  [!DNL Magento Open Source]. Esta é uma introdução ao GraphQL usando chamadas do GET e POST.
 kt: 13937
 doc-type: video
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: 2041bbf1a2783975091b9806c12fc3c34c34582f
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -23,7 +24,7 @@ ht-degree: 0%
 
 Esta é a parte 2 da série para GraphQL e Adobe Commerce. Neste tutorial e vídeo, saiba mais sobre consultas do GraphQL e como executá-las no Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450063?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## Vídeos e tutoriais relacionados ao GraphQL nesta série
 
@@ -128,7 +129,7 @@ de forma semelhante ao próprio query.
 
 >[!NOTE]
 >
->Os clientes do GraphQL ofuscam a forma da solicitação HTTP real que está sendo enviada, mas isso é fácil de descobrir. Se você estiver usando um cliente baseado em navegador, observe a guia [!UICONTROL Network] quando uma consulta for enviada. Você pode ver que a solicitação contém um corpo bruto que consiste na &quot;consulta: `{string}`&quot;, onde `{string}` é simplesmente a cadeia de caracteres bruta de toda a sua consulta. Se a solicitação estiver sendo enviada como uma GET, a consulta pode ser codificada no parâmetro da sequência de consulta &quot;consulta&quot; em vez disso. Ao contrário do REST, o tipo de solicitação HTTP não importa, somente o conteúdo da query.
+>Os clientes do GraphQL ofuscam a forma da solicitação HTTP real que está sendo enviada, mas isso é fácil de descobrir. Se você estiver usando um cliente baseado em navegador, observe a guia [!UICONTROL Network] quando uma consulta for enviada. Você pode ver que a solicitação contém um corpo bruto que consiste na &quot;consulta: `{string}`&quot;, onde `{string}` é simplesmente a cadeia de caracteres bruta de toda a sua consulta. Se a solicitação estiver sendo enviada como um GET, a consulta pode ser codificada no parâmetro de sequência de consulta &quot;consulta&quot; em vez disso. Ao contrário do REST, o tipo de solicitação HTTP não importa, somente o conteúdo da query.
 
 
 ## Consultando o que você deseja

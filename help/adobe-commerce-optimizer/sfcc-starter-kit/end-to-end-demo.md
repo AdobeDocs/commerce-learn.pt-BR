@@ -3,13 +3,14 @@ title: Demonstração completa do Salesforce Commerce Cloud Connector
 description: Assista à demonstração completa da Salesforce Commerce Cloud com o Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 381
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
-source-git-commit: 68afc11f06a5ac601d23230d23429536f42b13b7
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -34,4 +35,4 @@ Assista a uma demonstração completa mostrando a configuração e a execução 
 * As alterações nos detalhes e nos preços do produto no catálogo do Salesforce Commerce Cloud são detectadas e atualizadas automaticamente no Commerce Optimizer por meio do processo de sincronização delta.
 * Atualizações em tempo real e demonstração de fluxo de dados e sincronização ininterruptos entre sistemas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476098?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476082?learn=on)

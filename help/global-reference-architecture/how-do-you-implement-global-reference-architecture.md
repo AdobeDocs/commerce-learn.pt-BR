@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-10-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
-source-git-commit: 03e20a42f798bd7eac1971656e2ad9b99a8b784e
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -38,6 +39,6 @@ Saiba como implementar a arquitetura de referência global ou GRA (Global Refere
 * Global Control Board - quais recursos trabalhar
 * Conceito alternativo para usar o GRA como um marketplace de módulo
 
->[!VIDEO](https://video.tv.adobe.com/v/3457213?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3424702?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}

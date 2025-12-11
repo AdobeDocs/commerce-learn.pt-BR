@@ -3,13 +3,14 @@ title: Instale o cartucho Salesforce Commerce Cloud
 description: Saiba mais sobre o cartucho usado no Salesforce com o Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 665
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19015
-source-git-commit: 4ef74d7555b0802f28ba421b91e0bff97c3b5b89
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -36,4 +37,4 @@ Saiba como instalar e configurar o cartucho do Adobe Commerce Optimizer para uma
 * Importe definições personalizadas de objetos e trabalhos para oferecer suporte ao rastreamento e à sincronização.
 * Teste um endpoint de API personalizado para confirmar a instalação bem-sucedida e se prepare para a sincronização do catálogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476075?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476069?learn=on)

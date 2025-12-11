@@ -9,9 +9,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: 45c018813ed8d5487e1491e09afc34e2de39c5b2
+exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -20,7 +22,7 @@ ht-degree: 0%
 
 # Configurar, implantar e personalizar um webhook de assimilação
 
-Saiba mais sobre a configuração e personalização de um webhook de assimilação para integrar o Commerce a um sistema de back office de terceiros&#x200B; Este vídeo explica como o webhook pode lidar com limitações na comunicação de eventos entre sistemas, fornecendo um endpoint disponível publicamente para adaptar mensagens do sistema de terceiros para a API de evento do Adobe IO. O processo envolve a configuração do webhook no arquivo `actions.config.yaml`, sua habilitação no arquivo `app.config.yaml` e sua implantação para garantir a funcionalidade adequada.
+Saiba mais sobre a configuração e personalização de um webhook de assimilação para integrar o Commerce a um sistema de back office de terceiros&#x200B; Este vídeo explica como o webhook pode resolver limitações na comunicação de eventos entre sistemas fornecendo um endpoint disponível publicamente para adaptar mensagens do sistema de terceiros para a API de evento do Adobe IO. O processo envolve a configuração do webhook no arquivo `actions.config.yaml`, sua habilitação no arquivo `app.config.yaml` e sua implantação para garantir a funcionalidade adequada.
 
 O vídeo aborda as etapas para modificar o código do webhook para traduzir eventos de terceiros em formatos compatíveis com os tipos de evento inscritos da integração. Ele discute a adição de um arquivo `event-mapping.json` para facilitar essa tradução e enfatiza a importância de reimplantar a ação de tempo de execução depois de fazer alterações&#x200B; O vídeo também destaca a importância de validar e transformar cargas de evento recebidas para alinhar-se ao esquema esperado, garantindo o processamento e a integração bem-sucedidos com a API do Commerce para criar clientes.
 

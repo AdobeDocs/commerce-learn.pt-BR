@@ -9,9 +9,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
-source-git-commit: aed143b96f13a413f85fc461e11f358b4c657015
+exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -43,6 +45,6 @@ Saiba mais sobre a importância das atividades de pós-processamento por meio do
 * Saiba mais sobre a função do gancho de transformação na transformação de objetos de dados entre os sistemas de origem e destino.
 * Saiba mais sobre o significado do gancho de envio para facilitar o envio de dados reais para o sistema de destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451926?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

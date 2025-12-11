@@ -8,10 +8,11 @@ last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 badge: label="Contribuição de Tony Evers, arquiteto técnico sênior, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contribuição de Tony Evers"
-role: Architect, Developer, User, Leader
+old-role: Architect, Developer
+role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: a182b97b7d9a8bf114944d5d920afb2328adbc18
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%

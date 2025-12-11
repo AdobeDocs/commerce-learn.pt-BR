@@ -9,10 +9,11 @@ audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Intermediate
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-source-git-commit: 6c5017b0c4bbafdd143b78b05cd92853efa7f831
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%

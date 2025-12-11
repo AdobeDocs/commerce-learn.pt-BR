@@ -3,23 +3,24 @@ title: Uma visão geral sobre a migração para o Adobe Commerce
 description: Uma visão geral que abrange preparação, código personalizado, controle de qualidade, desempenho e segurança ao migrar para o Adobe Commerce.
 feature: Best Practices
 topic: Commerce, Migration
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 167
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
-source-git-commit: 4e788b83e64e3ba8c45a7a60e14e551d67b21a88
+exl-id: 9b9504c1-0888-46da-b25e-0a5e16833d84
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
-
 # Migração para o Adobe Commerce - Visão geral
 
-Bem-vindo a esta série abrangente de tutoriais de migração do Adobe Commerce. Projetados para desenvolvedores e empresas, esses tutoriais abordam tópicos essenciais, como preparação, avaliação de código personalizado, controle de qualidade, desempenho e segurança. Conheça as práticas recomendadas e obtenha insights valiosos de especialistas em Adobe experientes para garantir uma migração perfeita e bem-sucedida para o Adobe Commerce.
+Bem-vindo a esta série abrangente de tutoriais de migração do Adobe Commerce. Projetados para desenvolvedores e empresas, esses tutoriais abordam tópicos essenciais, como preparação, avaliação de código personalizado, controle de qualidade, desempenho e segurança. Conheça as práticas recomendadas e obtenha insights valiosos de especialistas experientes da Adobe para garantir uma migração perfeita e bem-sucedida para o Adobe Commerce.
 
 ## Para quem é esta série de vídeos?
 
@@ -33,4 +34,4 @@ Bem-vindo a esta série abrangente de tutoriais de migração do Adobe Commerce.
 * Conheça as etapas essenciais e as práticas recomendadas para uma migração bem-sucedida para o Adobe Commerce.
 * Avalie e otimize o código personalizado e os módulos de terceiros e entenda os principais conceitos de controle de qualidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444325/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)

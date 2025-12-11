@@ -1,18 +1,19 @@
 ---
 title: Instalação da interface de linha de comando do Adobe I/O Runtime e do plug-in do API Mesh
 description: Saiba como instalar a interface de linha de comando do Adobe I/O Runtime e o plug-in da API Mesh
-landing-page-description: Saiba como usar o Adobe App Builder e instalar o Adobe I/O Runtime com o plug-in de malha de API.
-short-description: Saiba como usar o Adobe App Builder e instalar o Adobe I/O Runtime com o plug-in de malha de API.
+landing-page-description: Descubra como usar o Adobe App Builder e instalar o Adobe I/O Runtime com o plug-in API Mesh.
+short-description: Descubra como usar o Adobe App Builder e instalar o Adobe I/O Runtime com o plug-in API Mesh.
 kt: 11801
 doc-type: tutorial
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '186'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Para obter instruções de instalação e pré-requisitos, visite a página API 
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novatos na API Mesh ou no [!DNL Adobe Commerce] com experiência limitada usando o [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e a API Mesh.
+* Desenvolvedores novatos no API Mesh ou [!DNL Adobe Commerce] com experiência limitada usando o [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e o API Mesh.
 
 ## Conteúdo de vídeo
 
@@ -34,7 +35,7 @@ Para obter instruções de instalação e pré-requisitos, visite a página API 
 * Instalando a CLI (interface de linha de comando) do Adobe I/O Runtime
 * Instalação do plug-in do API Mesh
 
->[!VIDEO](https://video.tv.adobe.com/v/3430772?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3414122?quality=12&learn=on)
 
 ## Instalando o plug-in da CLI e da API Mesh do `aio`
 

@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 120d551d-efb0-4766-b346-1fb55fd868a4
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -24,7 +25,7 @@ Saiba como testar seu novo aplicativo do Adobe Developer App Builder usando o UR
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novatos no Adobe Commerce com experiência limitada usando o Adobe App Builder que estão prontos para testar seu primeiro aplicativo Adobe Developer App Builder.
+* Desenvolvedores novatos no Adobe Commerce com experiência limitada usando o Adobe App Builder que estão prontos para testar seu primeiro aplicativo do Adobe Developer App Builder.
 
 ## Conteúdo de vídeo
 

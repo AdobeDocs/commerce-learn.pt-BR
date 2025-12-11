@@ -7,12 +7,13 @@ activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
 feature: Configuration, System, Security, Tools and External Services
 topic: Commerce, Administration
-role: Architect, Developer, Admin
+old-role: Architect, Developer
+role: Developer, Admin
 level: Beginner, Intermediate
 KT: 15599
 duration: 101
 exl-id: e96759a8-31c3-4d3b-b395-db9dda2dc2d9
-source-git-commit: 12cbb2929137778d82b707376da0e0250dae2c8b
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 0%
@@ -30,9 +31,9 @@ A Ferramenta de análise do site é uma ferramenta de autoatendimento proativa e
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412498?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/344001?learn=on)
 
 ## Recursos adicionais
 
-- [Ferramenta de Análise do Site](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=pt-BR)
-- [Exibir e gerenciar logs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=pt-BR)
+- [Ferramenta de Análise do Site](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+- [Exibir e gerenciar logs](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html)

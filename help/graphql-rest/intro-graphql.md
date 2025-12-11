@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 8ea823da-24a3-4627-885c-4b3279b9142c
-source-git-commit: b8b1e40a2f4d38954f0d21bc6f1a91b7ec0bd8c9
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '481'
 ht-degree: 0%
@@ -24,7 +25,7 @@ Esta é a parte 1 da série para GraphQL e Adobe Commerce. O GraphQL tornou-se r
 
 Se você é novo no GraphQL, esta seção o orienta para os conceitos e o uso básicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443946?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424117?learn=on)
 
 ## Vídeos e tutoriais relacionados ao GraphQL nesta série
 

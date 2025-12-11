@@ -3,13 +3,14 @@ title: Crescimento da empresa com inovação em IA
 description: Explore o crescimento do comércio eletrônico alimentado por IA com o Adobe Commerce — aumente a capacidade de descoberta, otimize vitrines e expanda globalmente.
 feature: App Builder, Catalog Service, Extensibility, Observability,  Personalization, Reporting, Saas, Storefront
 topic: Artificial Intelligence, Migration, Commerce
-role: Data Engineer, Developer
+old-role: Data Engineer, Developer
+role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 1419
 last-substantial-update: 2025-10-10T00:00:00Z
 jira: KT-19376
-source-git-commit: 522ed06396f2512ff87f1a7b59ff081944b2c9af
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -33,4 +34,4 @@ Descubra como a Adobe Commerce está revolucionando o comércio eletrônico com 
 * Acelerando a expansão global com inovação em catálogos
 * Aprimorando A Experiência Da Loja Com O Conversational Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3475700/?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3475691/?learn=on&enablevpops)

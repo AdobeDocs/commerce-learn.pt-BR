@@ -8,10 +8,11 @@ audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-role: Architect, Developer
+old-role: Architect, Developer
+role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Este é um exemplo simples e pode ser expandido para criar testes abrangentes pa
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novatos no Adobe Commerce com experiência limitada que usam o Adobe App Builder e que desejam saber mais sobre a pasta `test`.
+* Desenvolvedores novatos no Adobe Commerce com experiência limitada usando o Adobe App Builder que desejam aprender sobre a pasta `test`.
 
 ## Conteúdo de vídeo
 
