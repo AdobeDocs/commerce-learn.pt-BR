@@ -38,7 +38,7 @@ Se você tiver um CTA/CSE atribuído à conta, entre em contato com ele e com o 
 1. Revise a documentação sobre testes e ativação da [Documentação de inicialização do site](https://experienceleague.adobe.com/en/docs/commerce-cloud-service/user-guide/launch/overview){target="_blank"}
 
    >[!NOTE]
-   >Certifique-se de que um _&quot;plano de preparação para ativação&quot;_ abrangente esteja totalmente preparado com seu parceiro ou integrador de sistema, incorporando todos os itens de ação necessários. Lembre-se, embora a lista de verificação de pré-lançamento enfatize as práticas recomendadas da Adobe, ela _**não**_ substitui a necessidade de seu próprio plano de preparação para ativação.
+   >Certifique-se de que um _&quot;plano de preparação para ativação&quot;_ abrangente esteja totalmente preparado com seu parceiro ou integrador de sistema, incorporando todos os itens de ação necessários. Lembre-se, embora a lista de verificação de pré-lançamento enfatize as práticas recomendadas da Adobe, ela _&#x200B;**não**&#x200B;_ substitui a necessidade de seu próprio plano de preparação para ativação.
 
 2. [!BADGE Bloqueador]{type=caution tooltip="Bloqueador potencial"} Revise as Recomendações e as Informações do SWAT (Support Insights) ([Guia do Usuário](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/site-wide-analysis-tool/intro){target="_blank"})
 3. UAT (User Acceptance Testing, teste de aceitação do usuário) realizado pelo usuário final/comerciante, incluindo operações de back-end.
