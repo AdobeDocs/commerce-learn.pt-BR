@@ -39,5 +39,5 @@ A equipe de suporte da Adobe Commerce e a comunidade da Magento Open Source dese
 
 ## Recursos adicionais
 
-- [Ferramenta de correção de qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+- [Ferramenta de correção de qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=pt-BR)
 - [Ferramenta de correção de qualidade no GitHub](https://github.com/magento/quality-patches)

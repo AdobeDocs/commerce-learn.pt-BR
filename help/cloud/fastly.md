@@ -36,8 +36,8 @@ Saiba mais sobre o uso da nuvem do Fastly para Adobe Commerce.
 ## Documentação do Experience League e do Fastly Adobe Commerce checker mencionados no vídeo
 
 - [Verificador Rápido](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
-- [Serviços Fastly no Experience League](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
-- [Perguntas frequentes sobre o Fastly WAF](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
-- [Otimização da imagem](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)
+- [Serviços Fastly no Experience League](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html?lang=pt-BR)
+- [Perguntas frequentes sobre o Fastly WAF](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html?lang=pt-BR)
+- [Otimização da imagem](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html?lang=pt-BR)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

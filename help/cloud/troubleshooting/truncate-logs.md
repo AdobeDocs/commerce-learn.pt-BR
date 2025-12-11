@@ -91,4 +91,4 @@ Depois de enviar para o projeto e ambiente corretos, altere para o diretório `v
 
 ## Documentação relacionada
 
-- [Notificações de integridade](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+- [Notificações de integridade](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
