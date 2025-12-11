@@ -38,4 +38,4 @@ Saiba mais sobre o kit inicial de integração de back office do Adobe Commerce.
 * Configurar eventos de E/S
 * Conexão com terceiros para sincronizar dados
 
->[!VIDEO](https://video.tv.adobe.com/v/3428629?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452019?captions=por_br&learn=on)

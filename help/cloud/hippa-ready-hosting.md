@@ -33,7 +33,7 @@ A Adobe Commerce oferece uma solução pronta para HIPAA projetada para ajudar a
 * A solução inclui mecanismos aprimorados de registro para PHI e oferece recursos de integração com produtos internos da Adobe e serviços externos de terceiros.
 * A Adobe Commerce oferece um ambiente de preparo especial para suporte e solução de problemas, garantindo que os dados confidenciais sejam protegidos e que o ambiente espelhe a produção.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463177/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463182/?captions=por_br&learn=on&enablevpops)
 
 ## Documentação adicional
 

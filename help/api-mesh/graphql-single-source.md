@@ -36,7 +36,7 @@ Este vídeo ajuda os desenvolvedores a entender como criar uma malha com uma ún
 * Criação de uma malha a partir de um arquivo de configuração JSON
 * Acesso ao endpoint do GraphQL recém-criado
 
->[!VIDEO](https://video.tv.adobe.com/v/3414124?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430823?captions=por_br&quality=12&learn=on)
 
 ## Criar o arquivo de configuração json
 

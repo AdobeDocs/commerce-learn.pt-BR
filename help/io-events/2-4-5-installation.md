@@ -36,7 +36,7 @@ Saiba como instalar vários módulos novos no Adobe Commerce usando o Composer p
 * Comandos a serem executados para a Adobe Commerce Cloud
 * Edição do yaml da Adobe Commerce Cloud necessária
 
->[!VIDEO](https://video.tv.adobe.com/v/3415794?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430644?captions=por_br&quality=12&learn=on)
 
 ## Comandos úteis {#useful-commands}
 

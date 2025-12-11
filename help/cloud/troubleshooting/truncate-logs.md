@@ -35,7 +35,7 @@ Se você acha que precisa desses arquivos de log, pode `rsync` ou usar outros m�
 - Onde alguns arquivos de log grandes comuns são encontrados
 - Método rápido para truncar um arquivo de log
 
->[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454588?captions=por_br&learn=on)
 
 
 ## Comandos usados no vídeo

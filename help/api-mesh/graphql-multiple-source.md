@@ -35,7 +35,7 @@ Este vídeo ajuda os desenvolvedores a entender como criar uma malha com várias
 * Como solucionar erros, como conflitos de nome, disponibilidade de esquema e outros problemas de sintaxe de esquema
 * Atualização da malha com uma configuração modificada
 
->[!VIDEO](https://video.tv.adobe.com/v/3414125?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430765?captions=por_br&quality=12&learn=on)
 
 ## Criar o arquivo de configuração json
 

@@ -34,7 +34,7 @@ Saiba por que você usa o pt-query-digest e alguns exemplos reais para ajudar a 
 - Saiba mais sobre os benefícios e as limitações deste recurso do Kit de ferramentas Percona
 - Entenda os resultados e saiba quais possíveis etapas de desempenho devem ser consideradas
 
->[!VIDEO](https://video.tv.adobe.com/v/3423480?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452299?captions=por_br&learn=on)
 
 ## Referências de código
 

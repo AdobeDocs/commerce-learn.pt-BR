@@ -34,4 +34,4 @@ Saiba mais sobre como configurar e implantar o App Builder Starter Kit para Sale
 * Clonar o App Builder Starter Kit e configurar os arquivos de ambiente usando a CLI do Adobe IO.
 * Implante o aplicativo e confirme se o registro de ações e eventos foi bem-sucedido no espaço de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476087?captions=por_br&learn=on)
