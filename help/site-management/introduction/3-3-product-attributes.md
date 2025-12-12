@@ -36,10 +36,10 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=pt-BR).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35954?quality=12&learn=on)
 
 ## Recursos adicionais
 
-[Visão geral dos atributos do produto - [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+[Visão geral dos atributos do produto - [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=pt-BR)
