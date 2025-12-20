@@ -33,7 +33,7 @@ Saiba por que a observabilidade centralizada é essencial para as arquiteturas m
 * A capacidade de observação centralizada é fundamental: correlacione registros e métricas em todos os componentes.
 * Aumentar o desempenho da finalização: identifique gargalos rapidamente para manter as compras tranquilas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478286?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478293?captions=por_br&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

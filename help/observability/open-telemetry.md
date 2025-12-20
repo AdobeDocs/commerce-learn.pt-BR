@@ -33,7 +33,7 @@ Saiba como a Telemetria aberta padroniza a observabilidade em logs, rastreamento
 * Correlacionar logs, rastreamentos e métricas para agilizar a análise da causa principal
 * Manter ferramentas de monitoramento existentes ao unificar fluxos de dados
 
->[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478328?captions=por_br&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

@@ -33,7 +33,7 @@ Saiba como obter observabilidade de ponta a ponta em aplicativos Adobe Commerce 
 * Usar o módulo de observação Commerce para sinais automatizados
 * Estender monitoramento com IO Live Telemetry Library para aplicativos
 
->[!VIDEO](https://video.tv.adobe.com/v/3478288?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478339?captions=por_br&learn=on&enablevpops)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
