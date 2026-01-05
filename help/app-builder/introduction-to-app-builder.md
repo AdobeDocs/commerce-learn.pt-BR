@@ -1,8 +1,8 @@
 ---
 title: Extensibilidade fora do processo para o Adobe Commerce
-description: Saiba mais sobre o Construtor de aplicativos da Adobe e por que ele é um aspecto importante da extensibilidade fora do processo.
-landing-page-description: Saiba o que é o Construtor de aplicativos e como ele pode ajudar com as estratégias de desenvolvimento do Adobe Commerce.
-short-description: Saiba o que é o Construtor de aplicativos e como ele pode ajudar com as estratégias de desenvolvimento do Adobe Commerce.
+description: Saiba mais sobre o Adobe App Builder e por que ele é um aspecto importante da extensibilidade fora do processo.
+landing-page-description: Saiba o que é o App Builder e como ele pode ajudar com as estratégias de desenvolvimento do Adobe Commerce.
+short-description: Saiba o que é o App Builder e como ele pode ajudar com as estratégias de desenvolvimento do Adobe Commerce.
 kt: 11433
 doc-type: tutorial
 audience: all
@@ -90,6 +90,6 @@ Pronto para começar a desenvolver? O link a seguir contém aplicativos de exemp
 
 ## Suporte {#support}
 
-Para solicitações de suporte ao desenvolvedor, use o [fórum do Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=pt){target="_blank"} para obter assistência.
+Para solicitações de suporte ao desenvolvedor, use o [fórum do Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} para obter assistência.
 
 {{$include /help/_includes/app-builder-related-links.md}}
