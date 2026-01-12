@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 1aaf018e8bed6122cc2dd3a03ebdffdbf0e539fa
+source-git-commit: f54e9b57d07043f2ca8eca67b895f6b738a4fa21
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '998'
 ht-degree: 3%
 
 ---
@@ -47,6 +47,20 @@ ht-degree: 3%
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [Visão geral](../commerce-as-a-cloud-service/overview.md)
       + [Arquitetura](../commerce-as-a-cloud-service/architecture.md)
+      + Visão geral do produto{#product-overview}
+         + [Introdução](../commerce-as-a-cloud-service/product-overview/introduction.md)
+         + [Experiência de instalação](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
+         + [Criação de conteúdo](../commerce-as-a-cloud-service/product-overview/content-authoring.md)
+         + [Localizar e agendar conteúdo](../commerce-as-a-cloud-service/product-overview/localize-and-schedule-content.md)
+         + [Criação de conteúdo alimentado por GenAI](../commerce-as-a-cloud-service/product-overview/genai-powered-content-creation.md)
+         + [Serviços de merchandising e gerenciamento de catálogo](../commerce-as-a-cloud-service/product-overview/catalog-management-and-merchandising-services.md)
+         + [Experimentação da vitrine do Commerce](../commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation.md)
+         + [Velocidade da vitrine do Commerce](../commerce-as-a-cloud-service/product-overview/commerce-storefront-speed.md)
+         + [Jornada completa do comprador da loja de comércio](../commerce-as-a-cloud-service/product-overview/commerce-storefront-full-shopper-journey.md)
+         + [Loja combinável e arquitetura modular](../commerce-as-a-cloud-service/product-overview/composable-storefront-and-modular-architecture.md)
+         + [Extensibilidade](../commerce-as-a-cloud-service/product-overview/extensibility.md)
+         + [Modernização e migração](../commerce-as-a-cloud-service/product-overview/modernization-and-migration.md)
+         + [fechando](../commerce-as-a-cloud-service/product-overview/closing.md)
    + Migração para o Adobe Commerce{#migrating-to-adobe-commerce}
       + [Visão geral](../migrating-to-adobe-commerce/overview.md)
       + Preparação{#preparation}
@@ -259,7 +273,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
