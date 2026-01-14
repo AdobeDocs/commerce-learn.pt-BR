@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: b515a9044cb6610fb7096ef50c0a398bcf71bc44
+source-git-commit: ba2331d38d7595ade9a1d1314c105ae4101147b7
 workflow-type: tm+mt
-source-wordcount: '993'
+source-wordcount: '988'
 ht-degree: 3%
 
 ---
@@ -162,7 +162,6 @@ ht-degree: 3%
    + [Instalação de aplicativos do Adobe Exchange](../app-builder/install-app-builder-app.md)
    + [Introdução ao App Builder](../app-builder/introduction-to-app-builder.md)
    + [Estrutura de extensibilidade do App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-   + [Visão geral técnica do App Builder](../app-builder/app-builder-technical-overview.md)
    + Crie seu primeiro aplicativo App Builder {#first-app}
       + [Visão geral](../app-builder/first-app/overview.md)
       + [Gerar e configurar o arquivo .env](../app-builder/first-app/env-file.md)
@@ -272,7 +271,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
