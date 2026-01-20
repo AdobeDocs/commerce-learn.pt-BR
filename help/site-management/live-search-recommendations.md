@@ -11,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: af13f1c2-d888-4774-8254-efdb3ce383bb
-source-git-commit: 4cd68304f60ef6bb0a8f6ba21fc1a8a662225a88
+source-git-commit: f992a1c30652b41568d5cc8a45994047e9807fa7
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 {{ee-feature}}
 
-O [!DNL Live Search] da Adobe Commerce oferece uma experiência de pesquisa rápida, super relevante e intuitiva para o Adobe Commerce sem custo adicional. O [!DNL Live Search] desenvolvido pela Adobe Sensei usa inteligência artificial e algoritmos de aprendizado de máquina para executar uma análise profunda dos dados agregados do visitante. Esses dados, quando combinados com seu catálogo do Adobe Commerce, resultam em experiências de compra altamente envolventes, relevantes e personalizadas. Este vídeo ajuda a explicar como usar a pesquisa ao vivo para potencializar as recomendações de produtos e fez parte de uma série de webinários em andamento — &quot;Vitórias rápidas do Commerce&quot;.
+O [!DNL Live Search] da Adobe Commerce oferece uma experiência de pesquisa rápida, super relevante e intuitiva para o Adobe Commerce sem custo adicional. O [!DNL Live Search] desenvolvido pela IA do Adobe usa inteligência artificial e algoritmos de aprendizado de máquina para executar uma análise profunda dos dados agregados do visitante. Esses dados, quando combinados com seu catálogo do Adobe Commerce, resultam em experiências de compra altamente envolventes, relevantes e personalizadas. Este vídeo ajuda a explicar como usar a pesquisa ao vivo para potencializar as recomendações de produtos e fez parte de uma série de webinários em andamento — &quot;Vitórias rápidas do Commerce&quot;.
 
 ## Para quem é este vídeo?
 
@@ -31,12 +31,12 @@ O [!DNL Live Search] da Adobe Commerce oferece uma experiência de pesquisa ráp
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3430761?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3412586?quality=12&learn=on)
 
 
 ## Recursos adicionais
 
-- [Introdução a [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html?lang=pt-BR)
-- [[!DNL Live Search] visão geral](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=pt-BR)
-- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=pt-BR)
-- [Introdução ao Recommendations de Produto](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=pt-BR)
+- [Introdução a [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/marketing/live-search.html)
+- [[!DNL Live Search] visão geral](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+- [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+- [Introdução às Recomendações de Produto](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
