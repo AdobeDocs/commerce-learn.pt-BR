@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: ba2331d38d7595ade9a1d1314c105ae4101147b7
+source-git-commit: 3bc038fb3af74822c3ab4cbc6d4fdc2c81442b14
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '990'
 ht-degree: 3%
 
 ---
@@ -47,6 +47,8 @@ ht-degree: 3%
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [Visão geral](../commerce-as-a-cloud-service/overview.md)
       + [Arquitetura](../commerce-as-a-cloud-service/architecture.md)
+      + Webapi-rest{#webapi-rest}
+         + [Clientes](../commerce-as-a-cloud-service/webapi-rest/customer.md)
       + Visão geral do produto{#product-overview}
          + [Introdução](../commerce-as-a-cloud-service/product-overview/introduction.md)
          + [Experiência de instalação](../commerce-as-a-cloud-service/product-overview/setup-experience.md)
@@ -271,7 +273,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
