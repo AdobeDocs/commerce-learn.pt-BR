@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 6c512ca371bb3721b3e6ef4fdd66b1620bc176f0
+source-git-commit: 2a85225a77ab92def17b30cd96aa0c2c6f79d083
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '864'
 ht-degree: 3%
 
 ---
@@ -120,29 +120,7 @@ ht-degree: 3%
       + [Personalizar check-out](../edge-delivery-services/customize-checkout.md)
       + [Personalizar um layout de endereço](../edge-delivery-services/customize-address-new-account-link.md)
       + [Comprador-experiência](../edge-delivery-services/shopper-experience.md)
-+ Webinários e eventos {#webinars-and-events}
-   + Crescimento dos negócios {#business-growth}
-      + [Inovação em IA](../business-growth/ai-innovation.md)
-      + [Visão para frente](../business-growth/vision-forward.md)
-      + [Adoção do produto](../business-growth/product-adoption.md)
-   + O futuro do Commerce {#future-of-commerce}
-      + [Anúncios de novos produtos](../future-of-commerce/new-product-announcements.md)
-      + [Reduzir drasticamente os custos](../future-of-commerce/drastically-cut-costs.md)
-      + [Taxas de conversão de sobrecarga](../future-of-commerce/supercharge-conversion-rates.md)
-      + [Expansão de rastreamento rápido](../future-of-commerce/fast-track-expansion.md)
-   + Série de ativação {#enablement-series}
-      + [Reduza o índice para integrações do Commerce](../enablement-series/lower-total-cost-of-owership-commerce-integrations.md)
-      + [Planejamento da implementação moderna do Adobe Commerce](../enablement-series/planning-the-modern-adobe-commerce-implementation.md)
-      + [Inicialização, pós-inicialização, monitoramento e solução de problemas](../enablement-series/launch-post-launch-monitoring-and-troubleshooting.md)
-      + [Edge Delivery Services com Adobe Commerce](../enablement-series/edge-delivery-services-with-adobe-commerce.md)
-   + Conversas do Commerce {#commerce-conversations}
-      + [O que é sucesso de especialistas](../commerce-conversations/what-is-expert-success.md)
-      + [Complementos de suporte do Commerce](../commerce-conversations/commerce-support-add-ons.md)
-      + [O que é o máximo de sucesso](../commerce-conversations/what-is-ultimate-success.md)
-      + [Disponibilidade técnica dos Aceleradores de sucesso](../commerce-conversations/success-accelerators-technical-readiness.md)
-      + [Adoção e capacitação dos Aceleradores de sucesso](../commerce-conversations/success-accelerators-adoption-and-enablement.md)
-      + [Disponibilidade da organização dos Aceleradores de sucesso](../commerce-conversations/success-accelerators-organizational-readiness.md)
-      + [Responsabilidade compartilhada](../commerce-conversations/shared-responsibility.md)
+
 + GRAPHQL e REST {#graphql-rest}
    + [Noções básicas do GraphQL](../graphql-rest/intro-graphql.md)
    + [Consultas](../graphql-rest/graphql-queries.md)
@@ -261,7 +239,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
