@@ -34,4 +34,4 @@ Descubra como a Adobe Commerce está revolucionando o comércio eletrônico com 
 * Acelerando a expansão global com inovação em catálogos
 * Aprimorando A Experiência Da Loja Com O Conversational Commerce
 
->[!VIDEO](https://video.tv.adobe.com/v/3475691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475700/?captions=por_br&learn=on&enablevpops)
