@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 3bc038fb3af74822c3ab4cbc6d4fdc2c81442b14
+source-git-commit: 6c512ca371bb3721b3e6ef4fdd66b1620bc176f0
 workflow-type: tm+mt
-source-wordcount: '990'
+source-wordcount: '945'
 ht-degree: 3%
 
 ---
@@ -96,18 +96,6 @@ ht-degree: 3%
       + [Integração da última milha](../back-office-integrations/last-mile-integration.md)
       + [Assimilação de Webhook](../back-office-integrations/webhook-ingestion.md)
       + [Mecanismo de repetição](../back-office-integrations/retry-mechanism.md)
-+ Adobe Commerce Optimizer {#adobe-commerce-optimizer}
-   + [Visão geral](../adobe-commerce-optimizer/overview.md)
-   + [Criar sua primeira instância do Adobe Commerce Optimizer](../adobe-commerce-optimizer/create-first-instance.md)
-   + [Gerenciar instâncias do Adobe Commerce Optimizer](../adobe-commerce-optimizer/managing-instances.md)
-   + [Assimilar dados de amostra](../adobe-commerce-optimizer/ingest-sample-data.md)
-   + [Primeira consulta usando GraphQL](../adobe-commerce-optimizer/first-query.md)
-   + Kit inicial da nuvem do Salesforce Commerce {#sfcc-starter-kit}
-      + [Visão geral](../adobe-commerce-optimizer/sfcc-starter-kit/overview.md)
-      + [Visão geral da arquitetura](../adobe-commerce-optimizer/sfcc-starter-kit/architecture-overview.md)
-      + [Instalação do cartucho SFCC](../adobe-commerce-optimizer/sfcc-starter-kit/installation-sfcc-cartridge.md)
-      + [Kit inicial do construtor de aplicativos](../adobe-commerce-optimizer/sfcc-starter-kit/app-builder-starter-kit.md)
-      + [Demonstração completa](../adobe-commerce-optimizer/sfcc-starter-kit/end-to-end-demo.md)
 + Observabilidade {#observability}
    + [Visão geral da capacidade de observação](../observability/overview.md)
    + [Abrir Telemetria](../observability/open-telemetry.md)
@@ -273,7 +261,7 @@ ht-degree: 3%
    + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
    + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
 + Desenvolvimento de back-end {#backend-development}
-   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+   + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
    + [Criar um módulo](../backend-development/create-module.md)
    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
