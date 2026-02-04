@@ -11,7 +11,7 @@ duration: 270
 last-substantial-update: 2024-10-24T00:00:00Z
 jira: KT-16275
 exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -19,6 +19,8 @@ ht-degree: 0%
 ---
 
 # Migração para o Adobe Commerce - avaliação da equipe e do projeto
+
+{{only-for-on-prem-commerce-cloud}}
 
 Ao mudar para o Adobe Commerce, é crucial avaliar sua equipe e projeto detalhadamente. Sua equipe deve incluir funções importantes, como gerentes de projeto, testadores de controle de qualidade, desenvolvedores, participantes comerciais e líderes técnicos. Avalie os pontos fortes técnicos da sua equipe para garantir que ela se alinhe às metas do seu projeto. Por exemplo, um plano de fundo forte no JavaScript e integrações de back-end é ideal para aproveitar o Adobe Commerce e o App Builder. Se sua equipe tiver mais experiência com Java ou PHP, considere fazer parceria com os Serviços Adobe Consulting para a parte da App Builder.
 
@@ -36,8 +38,8 @@ No front-end, a experiência com implementações headless pode simplificar o pr
 * Saiba mais sobre considerações de front-end e back-end.
 * Planeje uma migração tranquila, avaliando os módulos existentes, atualizando os aplicativos principais e integrando com outras soluções da Adobe.
  
->[!VIDEO](https://video.tv.adobe.com/v/3447449/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682/?learn=on)
 
 ## Documentação relacionada
 
-[O que é o Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/about)
+[O que é o Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

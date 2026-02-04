@@ -10,7 +10,7 @@ duration: 199
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-15993
 exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
-source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -18,6 +18,8 @@ ht-degree: 0%
 ---
 
 # Migração para o Adobe Commerce - Congelamento de código
+
+{{only-for-on-prem-commerce-cloud}}
 
 A implementação de um congelamento de código durante a migração do Adobe Commerce é crucial para garantir um lançamento estável e bem-sucedido. Ao interromper novas implantações de código, você permite que a equipe de controle de qualidade, os desenvolvedores e as partes interessadas trabalhem com uma base de código estática, aumentando a confiança e reduzindo o risco de defeitos. Esse processo envolve testes e validação completos, abordando bugs de alta prioridade e garantindo que todos os aspectos do site funcionem conforme esperado. Um congelamento de código bem executado beneficia todo o projeto, evitando problemas de última hora e garantindo uma transição suave para o Adobe Commerce.
 

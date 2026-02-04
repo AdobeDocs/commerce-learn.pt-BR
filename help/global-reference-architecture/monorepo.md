@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Experienced
 exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '1371'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 ---
 
 # Padrão de arquitetura de referência global Monorepo
+
+{{only-for-on-prem-commerce-cloud}}
 
 Este guia explica como configurar o Adobe Commerce com o padrão Monorepo Global Reference Architecture (GRA).
 

@@ -11,7 +11,7 @@ duration: 167
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
 exl-id: 9b9504c1-0888-46da-b25e-0a5e16833d84
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -19,6 +19,8 @@ ht-degree: 0%
 ---
 
 # Migração para o Adobe Commerce - Visão geral
+
+{{only-for-on-prem-commerce-cloud}}
 
 Bem-vindo a esta série abrangente de tutoriais de migração do Adobe Commerce. Projetados para desenvolvedores e empresas, esses tutoriais abordam tópicos essenciais, como preparação, avaliação de código personalizado, controle de qualidade, desempenho e segurança. Conheça as práticas recomendadas e obtenha insights valiosos de especialistas experientes da Adobe para garantir uma migração perfeita e bem-sucedida para o Adobe Commerce.
 
@@ -34,4 +36,4 @@ Bem-vindo a esta série abrangente de tutoriais de migração do Adobe Commerce.
 * Conheça as etapas essenciais e as práticas recomendadas para uma migração bem-sucedida para o Adobe Commerce.
 * Avalie e otimize o código personalizado e os módulos de terceiros e entenda os principais conceitos de controle de qualidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444325/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432846/?learn=on)

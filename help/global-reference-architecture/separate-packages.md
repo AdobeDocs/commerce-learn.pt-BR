@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '2101'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 ---
 
 # O padrão de arquitetura de referência global de pacotes separados
+
+{{only-for-on-prem-commerce-cloud}}
 
 Este guia explica como configurar o Adobe Commerce com o padrão GRA (Global Reference Architecture) de pacotes separados.
 

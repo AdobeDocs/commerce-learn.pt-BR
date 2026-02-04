@@ -12,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac544f77-8f5f-4ad1-92b2-bdf323100c13
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
 workflow-type: tm+mt
 source-wordcount: '1468'
 ht-degree: 0%
@@ -20,6 +20,8 @@ ht-degree: 0%
 ---
 
 # O padrão de arquitetura de referência global do Git Split
+
+{{only-for-on-prem-commerce-cloud}}
 
 Este guia explica como configurar o Adobe Commerce com o padrão Split Git Global Reference Architecture (GRA).
 
