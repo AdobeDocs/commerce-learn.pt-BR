@@ -9,15 +9,15 @@ doc-type: Technical Video
 duration: 263
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20087
-source-git-commit: f54e9b57d07043f2ca8eca67b895f6b738a4fa21
+exl-id: ed0e1d8f-794f-4bc5-9b7b-7cf8faf36e7f
+source-git-commit: 91ed274a4f1eb466addfd1b629f83fd52279e6e0
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-
-# Acelere a criação de conteúdo com a GenAI
+# Acelere a criação de conteúdo com o genAI
 
 Descubra como o Adobe Commerce integra ferramentas de IA gerativas, como o Firefly e o Express, ao fluxo de trabalho de criação de conteúdo. Saiba como criar variações de imagem e texto rapidamente, otimizar campanhas e reduzir a dependência de recursos externos.
 
