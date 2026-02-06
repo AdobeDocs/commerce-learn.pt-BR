@@ -9,13 +9,13 @@ doc-type: Technical Video
 duration: 344
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20086
-source-git-commit: 9a05cac9fe45aa709ca98a9e8f91a94b37588a5a
+exl-id: 2b0ff49b-0703-43c2-8127-b4b395c17971
+source-git-commit: 53503375829db6c3e1041a9b03fef95b96d206e7
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
 
 ---
-
 
 # Localizar e agendar conteúdo
 
