@@ -9,13 +9,13 @@ doc-type: Technical Video
 duration: 195
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20084
-source-git-commit: 9a05cac9fe45aa709ca98a9e8f91a94b37588a5a
+exl-id: b4d22bc1-20a9-4876-be7e-df46a24c1330
+source-git-commit: 37fe84da708a76a5695f4b9d4ad4ca3f425332c3
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # Experiência de configuração
 
