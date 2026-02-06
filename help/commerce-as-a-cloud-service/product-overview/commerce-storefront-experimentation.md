@@ -9,13 +9,13 @@ doc-type: Technical Video
 duration: 288
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20089
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: 7881097f-38b3-450f-b7d1-06eede755bca
+source-git-commit: 3f57925e9998570513d3e6746942c28fa44dc72e
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
-
 
 # Otimizar vitrines com experimentação integrada
 
