@@ -9,13 +9,13 @@ doc-type: Technical Video
 duration: 422
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20085
-source-git-commit: 9a05cac9fe45aa709ca98a9e8f91a94b37588a5a
+exl-id: a0907b98-f0c2-4256-8e33-d16e0694ae74
+source-git-commit: de84a587c0d3b85e04929bd97c96e319f096edae
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
 
 ---
-
 
 # Criação de conteúdo
 
