@@ -9,13 +9,13 @@ doc-type: Technical Video
 duration: 305
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20088
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: a410f40d-01b4-4cc6-a965-08f2b0e77038
+source-git-commit: cf08e797199c0f3cae566a46b4edbe9efa74052d
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
 
 ---
-
 
 # Simplifique o gerenciamento de catálogos e o merchandising
 
