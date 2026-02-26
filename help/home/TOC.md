@@ -3,7 +3,7 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: e8a3473a986c67f81f47497aff026c1ec3e60eab
+source-git-commit: a0394aea5f4fc3cb5cbe3cb66eec3fae8a4683a1
 workflow-type: tm+mt
 source-wordcount: '853'
 ht-degree: 3%
@@ -44,7 +44,6 @@ ht-degree: 3%
       + [Solicitação de suporte](../cloud/best-practices/support-request.md)
       + [Lista de verificação de pré-lançamento](../cloud/best-practices/pre-launch-checklist.md)
 + Introdução {#getting-started}
-   + [Opções de comércio disponíveis](../capabilities/adobes-available-commerce-options.md)
    + Commerce as a Cloud Service {#commerce-as-a-cloud-service}
       + [Visão geral](../commerce-as-a-cloud-service/overview.md)
       + [Arquitetura](../commerce-as-a-cloud-service/architecture.md)
@@ -74,6 +73,7 @@ ht-degree: 3%
          + [Congelamento de código](../migrating-to-adobe-commerce/qa/code-freeze.md)
 
    + Recursos do Commerce {#capabilities}
+      + [Opções de comércio disponíveis](../capabilities/adobes-available-commerce-options.md)
       + [Conexão de dados](../capabilities/data-connection.md)
       + [Demonstração completa do Live Search](../capabilities/live-search-full-demonstration.md)
       + [Commerce combinável](../capabilities/what-is-composable-commerce.md)
@@ -96,7 +96,7 @@ ht-degree: 3%
 
 + Extensibilidade {#extensibility}
    + Desenvolvimento de back-end {#backend-development}
-      + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+      + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Criar um módulo](../backend-development/create-module.md)
       + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
       + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
