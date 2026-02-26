@@ -34,7 +34,7 @@ Saiba mais sobre as opções comerciais da Adobe. Entenda o que alguns dos princ
 * Entender quando modernizar vitrines sem substituir o back-end
 * Identificar a melhor opção com base nos recursos, na escalabilidade e nas metas de negócios do DevOps
 
->[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480248?captions=por_br&learn=on)
 
 ## Documentação relacionada
 
