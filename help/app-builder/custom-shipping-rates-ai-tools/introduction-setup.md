@@ -33,6 +33,6 @@ Descubra como configurar ferramentas de IA para criar taxas de envio personaliza
 * Analisa a configuração do ambiente de desenvolvimento, incluindo a verificação do repositório, a revisão da estrutura do kit inicial e a instalação das ferramentas necessárias.
 * Prepara o sistema para o desenvolvimento assistido por IA, fazendo logon, configurando o acesso e garantindo que todas as dependências e pré-requisitos estejam em vigor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481328/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481333/?captions=por_br&learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
