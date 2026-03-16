@@ -1,6 +1,6 @@
 ---
-title: Create Custom Shipping Rates with AI Tools
-description: Learn to use Adobe's AI tools to create custom shipping rates and extend checkout capabilities with a mock API and secure configurations.
+title: Criar taxas de envio personalizadas usando ferramentas de IA | Criar o recurso
+description: Saiba como usar as ferramentas de IA da Adobe para criar taxas de envio personalizadas e estender os recursos de check-out com uma API fictícia e configurações seguras.
 feature: Extensibility
 topic: Artificial Intelligence
 role: Developer
@@ -9,17 +9,17 @@ doc-type: Tutorial
 duration: 490
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
-source-git-commit: 2cf5392b7cf21cad9f912f16891cfa550d118d77
+exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
+source-git-commit: 650cd54d155520f4d2ff89bceefbd529efccc8c3
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
+# Criar taxas de envio personalizadas usando ferramentas de IA - Criar o recurso
 
-# Criar taxas de envio personalizadas com ferramentas de IA
-
-Discover how to utilize Adobe&#39;s AI-powered tools to streamline the development workflow and extend checkout functionalities. This tutorial covers the integration of custom shipping rates from external systems, using a mock API secured with an API key. Learn how to configure service URLs, manage security, and enable advanced checkout features. This comprehensive guide demonstrates how AI accelerates software development, from requirements gathering to implementation planning. Watch the embedded video for a detailed walkthrough.
+Descubra como utilizar as ferramentas alimentadas por IA do Adobe para simplificar o fluxo de trabalho de desenvolvimento e estender as funcionalidades de check-out. Este tutorial aborda a integração de taxas de envio personalizadas de sistemas externos, usando uma API fictícia protegida por uma chave de API. Saiba como configurar URLs de serviço, gerenciar a segurança e habilitar recursos avançados de check-out. Este guia abrangente demonstra como a IA acelera o desenvolvimento de software, desde a coleta de requisitos até o planejamento da implementação. Assista ao vídeo incorporado para obter uma apresentação detalhada.
 
 ## Para quem é este vídeo?
 
@@ -29,10 +29,10 @@ Discover how to utilize Adobe&#39;s AI-powered tools to streamline the developme
 
 ## Conteúdo de vídeo
 
-* AI agent analyzes context and uses role‑based skills to guide development.
-* Starter kit provides structure and sample patterns for faster extension building.
-* MCP tools expose commands and data the agent uses to plan and generate code.
-* AI automates requirements, architecture, and implementation decision.
+* O agente de IA analisa o contexto e usa habilidades com base em funções para orientar o desenvolvimento.
+* O Starter kit fornece estrutura e padrões de amostra para uma construção de extensão mais rápida.
+* As ferramentas do MCP expõem os comandos e dados que o agente usa para planejar e gerar código.
+* A IA automatiza os requisitos, a arquitetura e a decisão de implementação.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481344/?learn=on&enablevpops)
 
