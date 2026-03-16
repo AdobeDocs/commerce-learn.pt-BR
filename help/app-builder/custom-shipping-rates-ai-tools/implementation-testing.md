@@ -6,12 +6,11 @@ topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 585
+duration: 493
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20517
-thumbnail: KT-20517.jpeg
 exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
-source-git-commit: 5c05fb1a0f3c8ee01893e810beb4f315e6921446
+source-git-commit: 576f558efc9a4264d539ce55cadb8c8a01f201cf
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -34,6 +33,6 @@ O agente finaliza a implementação, limpa o código não utilizado e prepara o 
 As credenciais e o ambiente são configurados para implantar e registrar a nova extensão de envio.
 O teste de vitrine confirma que as taxas de envio externo aparecem e funcionam conforme esperado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481362/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357/?learn=on&enablevpops)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
