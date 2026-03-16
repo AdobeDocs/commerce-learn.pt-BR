@@ -9,14 +9,14 @@ topic: Commerce, Architecture
 role: Admin, Leader, Developer
 level: Beginner
 exl-id: fc9741bb-d320-46a9-a566-6669ea0b2880
-source-git-commit: 65314b2e8d25ef85bf6541976232232e4a07831b
+source-git-commit: cba4dc615b577f580a1c19a87cb81bc6944beed3
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 0%
 
 ---
 
-# Demonstração completa da Conexão de dados do Adobe Commerce
+# Opções do Commerce da Adobe
 
 Saiba mais sobre as opções comerciais da Adobe. Entenda o que alguns dos principais recursos incluem, como ele é hospedado e para quem cada modelo é mais adequado. Você aprende as diferenças entre executar tudo sozinho (no local), usar a infraestrutura de nuvem gerenciada pela Adobe (PaaS), adotar uma abordagem SaaS totalmente gerenciada ou modernizar apenas a camada da loja com o Commerce Optimizer, mantendo, ao mesmo tempo, um back-end existente.
 
@@ -34,10 +34,10 @@ Saiba mais sobre as opções comerciais da Adobe. Entenda o que alguns dos princ
 * Entender quando modernizar vitrines sem substituir o back-end
 * Identificar a melhor opção com base nos recursos, na escalabilidade e nas metas de negócios do DevOps
 
->[!VIDEO](https://video.tv.adobe.com/v/3480248?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3480242?learn=on)
 
 ## Documentação relacionada
 
-* [Adobe Commerce Cloud](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/overview){target=_blank}
-* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/pt-br/docs/commerce/cloud-service/overview){target="_blank"}
-* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/overview){target="_blank"}
+* [Adobe Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/overview){target=&quot;_blank}
+* [Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview){target="_blank"}
+* [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
