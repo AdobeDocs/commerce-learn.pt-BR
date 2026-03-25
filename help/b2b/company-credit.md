@@ -2,6 +2,7 @@
 title: Gerenciar Crédito da Empresa
 description: Saiba como fazer compras em sua conta de usuários da conta da empresa B2B até o limite de crédito concedido.
 doc-type: feature video
+duration: 230
 audience: all
 activity: use
 kt: 13910
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 13a95a45-c8af-4f85-9e31-29365080d5c0
-source-git-commit: d6e7cfeca2a3d3e747abf49d4c5b3e3537299507
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -20,28 +21,28 @@ ht-degree: 0%
 
 # Gerenciar Crédito da Empresa
 
-Para empresas que têm _[!UICONTROL Payment on Account]_&#x200B;habilitado e o crédito da empresa disponível, elas podem fazer compras em suas contas até o limite de crédito concedido. Com esse recurso, os clientes podem verificar o status do crédito da empresa no painel de conta.
+Para empresas que têm _[!UICONTROL Payment on Account]_habilitado e o crédito da empresa disponível, elas podem fazer compras em suas contas até o limite de crédito concedido. Com esse recurso, os clientes podem verificar o status do crédito da empresa no painel de conta.
 
 Você pode definir os seguintes parâmetros relacionados a crédito para cada perfil de empresa:
 
-- Moeda de crédito
-- Limite de crédito
-- Permitir que o limite de crédito seja excedido
-- Motivo da alteração
+* Moeda de crédito
+* Limite de crédito
+* Permitir que o limite de crédito seja excedido
+* Motivo da alteração
 
 {{b2b-feature}}
 
 ## Para quem é este vídeo?
 
-- Gerentes de sites
-- Representantes de vendas
-- Representantes do atendimento ao cliente
+* Gerentes de sites
+* Representantes de vendas
+* Representantes do atendimento ao cliente
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412495?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## Recursos adicionais
 
-- [Configurar pagamento por conta](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html?lang=pt-BR#configure-payment-on-account)
-- [Gerenciar Crédito da Empresa](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html?lang=pt-BR)
+* [Configurar pagamento por conta](https://experienceleague.adobe.com/docs/commerce-admin/b2b/enable-basic-features.html#configure-payment-on-account)
+* [Gerenciar Crédito da Empresa](https://experienceleague.adobe.com/docs/commerce-admin/b2b/companies/credit-company.html)

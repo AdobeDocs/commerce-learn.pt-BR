@@ -1,42 +1,42 @@
 ---
 title: Criar um módulo
-description: Saiba como criar um módulo no Adobe Commerce que envia informações para o registrador PSR. Isso adiciona funcionalidade a seu primeiro módulo no Adobe Commerce.
-kt: 5614
-doc-type: video
+description: Crie e registre um módulo no Adobe Commerce, execute a configuração e adicione plug-ins que registrem no log PSR nos contextos da área de administração, loja e API REST.
+jira: KT-5614
+doc-type: Technical Video
+duration: 1113
 activity: use
-last-substantial-update: 2023-6-2
+last-substantial-update: 2026-03-23T00:00:00Z
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-source-git-commit: 4f6c8abec90663f80233b94456ad1e58edb86d51
+source-git-commit: 1e67193c9b80c929ec391acef771562fb930cc67
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
 # Criar um módulo
 
-O módulo é um elemento estrutural de [!DNL Commerce] - todo o sistema é construído a partir de módulos. Normalmente, a primeira etapa na criação de uma personalização é criar um módulo.
+Um módulo é um elemento estrutural de [!DNL Commerce]—módulos formam o backbone do sistema. Normalmente, você inicia uma personalização criando um módulo.
 
 ## Para quem é este vídeo?
 
-- Desenvolvedores
+* Desenvolvedores de backend
 
 ## Etapas para adicionar um módulo
 
-- Crie a pasta do módulo.
-- Crie o arquivo etc/module.xml.
-- Crie o arquivo registration.php.
-- Execute a configuração bin/magento.
-- Atualizar script para instalar o novo módulo.
-- Verifique se o módulo está funcionando.
+1. Crie a pasta do módulo.
+2. Crie o arquivo `etc/module.xml`.
+3. Crie o arquivo `registration.php`.
+4. Execute `bin/magento setup:upgrade` para registrar e instalar o módulo.
+5. Verifique se o módulo está funcionando.
 
->[!VIDEO](https://video.tv.adobe.com/v/3414164?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
-### module.xml
+### O arquivo module.xml
 
 ```xml
 <?xml version="1.0"?>
@@ -50,7 +50,7 @@ O módulo é um elemento estrutural de [!DNL Commerce] - todo o sistema é const
 </config>
 ```
 
-### registration.php
+### O arquivo registration.php
 
 ```php
 <?php
@@ -63,24 +63,24 @@ ComponentRegistrar::register(
     __DIR__);
 ```
 
-### Adicionar um plug-in e fornecer alguma funcionalidade
+### Adicionar um plug-in
 
-A próxima etapa é adicionar alguma funcionalidade ao nosso módulo básico. Um Plug-in é uma ferramenta essencial que todos os desenvolvedores do Adobe Commerce usam. Este vídeo e tutorial ajudam você a criar um plug-in.
+Em seguida, você adiciona funcionalidade ao módulo básico. Você usa plug-ins como ferramentas essenciais no desenvolvimento do Adobe Commerce. Este vídeo e tutorial mostram como criar um plug-in.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420255?learn=on)
 
-### Itens a lembrar para os plug-ins
+### Itens a lembrar para plug-ins
 
-- Todos os plug-ins estão declarados em `di.xml`.
-- O plug-in requer um nome exclusivo
-- desativado e sortOrder são opcionais
-- O escopo do plug-in é definido pela pasta que ele contém.
-- Os plug-ins podem ser executados antes, depois ou ambos (ao redor) do método ser chamado
-- Evite usar `around` plug-ins. Eles tentam usar o, mas geralmente são a escolha errada e causarão problemas de desempenho.
+* Você declara todos os plug-ins em `di.xml`.
+* Você dá a cada plug-in um nome exclusivo.
+* Opcionalmente, você pode definir os atributos `disabled` e `sortOrder`.
+* Você define o escopo do plug-in escolhendo qual pasta contém o arquivo `di.xml`.
+* Você executa plug-ins antes, depois ou ao redor da chamada do método target.
+* Evite `around` plug-ins. Eles tentam, mas geralmente representam a escolha errada e causam problemas de desempenho.
 
 ### Exemplos de código de plug-in
 
-Aqui estão as classes XML e PHP usadas no tutorial para adicionar um plug-in ao primeiro módulo
+O tutorial usa as seguintes classes XML e PHP para adicionar um plug-in ao primeiro módulo.
 
 ### app/code/Training/Sales/etc/adminhtml/di.xml
 
@@ -285,5 +285,5 @@ class RestAddLoggingAfterOrderPlacePlugin
 
 ## Recursos úteis
 
-- [Guia de Referência do Módulo](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-- [Plug-ins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Guia de referência do módulo](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
+* [Plug-ins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}

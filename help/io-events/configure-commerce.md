@@ -5,6 +5,7 @@ landing-page-description: Saiba como configurar o Adobe Commerce para usar o mec
 short-description: Saiba como configurar o Adobe Commerce para usar o mecanismo de evento para consumo do Adobe Developer App Builder.
 kt: 11889
 doc-type: tutorial
+duration: 299
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Configuration, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -35,7 +36,7 @@ Saiba como configurar o Adobe Commerce para expor os eventos. Documentação adi
 * Salvar o identificador exclusivo no administrador do Commerce
 * Criar um provedor de eventos
 
->[!VIDEO](https://video.tv.adobe.com/v/3430614?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415799?learn=on)
 
 ## Comandos úteis {#useful-commands}
 

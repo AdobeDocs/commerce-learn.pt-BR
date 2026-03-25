@@ -6,16 +6,16 @@ topic: Development, Architecture
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 296
+duration: 200
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20093
-source-git-commit: 86fb1a84f431726e282bd8af664dc668bdb5bc61
+exl-id: c30da63a-f161-4195-a3b4-bc16930bc147
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
 
 ---
-
 
 # Estender o Adobe Commerce com App Builder e API Mesh
 
@@ -32,4 +32,4 @@ Descubra como o Adobe Commerce as a Cloud Service oferece suporte à extensibili
 * Saiba como o App Builder permite o desenvolvimento de aplicativos personalizados e a automação do fluxo de trabalho para o Adobe Commerce.
 * Descubra como a API Mesh orquestra dados em vários sistemas por meio de uma camada de API unificada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3478799/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478799?learn=on)

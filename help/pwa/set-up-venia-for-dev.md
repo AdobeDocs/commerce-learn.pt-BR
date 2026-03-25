@@ -3,6 +3,7 @@ title: Configurar o Venia para desenvolvimento do PWA
 description: Saiba como configurar a loja Venia para seu projeto de desenvolvimento do PWA.
 kt: 5565
 doc-type: video
+duration: 212
 activity: use
 last-substantial-update: 2023-5-28
 feature: GraphQL, REST, Tools and External Services
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: 208d096a-139b-4e08-85c9-fad181dc8cdb
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
@@ -22,13 +23,13 @@ ht-degree: 0%
 
 ## Para quem é este vídeo?
 
-- Desenvolvedores de front-end
-- Gerentes de projeto
-- Novos desenvolvedores para o Adobe Commerce
+* Desenvolvedores de front-end
+* Gerentes de projeto
+* Novos desenvolvedores para o Adobe Commerce
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3430956?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35785?learn=on)
 
 ## Recursos úteis
 

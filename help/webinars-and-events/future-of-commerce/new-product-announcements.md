@@ -6,11 +6,11 @@ topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 783
+duration: 838
 last-substantial-update: 2025-05-15T00:00:00Z
 jira: KT-18109
 exl-id: e3b7ca08-e8a7-4ff0-a408-4e7e0460e5ed
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Na primeira de uma série de webinários de quatro partes, a Adobe Commerce apre
 * O Adobe Commerce Optimizer permite que as empresas com sistemas complexos ou herdados modernizem sua experiência com o cliente sem uma replataforma completa, servindo como uma ponte para o serviço em nuvem.
 * Caminhos de adoção flexíveis e incrementais permitem que as empresas façam a transição em seu próprio ritmo, com suporte contínuo para soluções existentes e cronogramas de suporte estendidos para versões.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458484/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458484?learn=on)
 
 ## Vídeos adicionais nesta série
 

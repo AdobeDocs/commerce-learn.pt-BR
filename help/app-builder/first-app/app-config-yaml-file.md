@@ -4,6 +4,7 @@ description: Saiba mais sobre os tipos de arquivos no arquivo app.config.yaml pa
 landing-page-description: Saiba mais sobre o Adobe Developer App Builder usado com o Adobe Commerce e quais tipos de arquivos são inseridos no app.config.yaml.
 kt: 12929
 doc-type: tutorial
+duration: 136
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: ff5f1811-ca93-494e-8e5c-a5e0c7bb673d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -32,7 +33,7 @@ Esse arquivo determina a configuração do aplicativo.
 * O arquivo `app.config.yaml` foi discutido
 * Como as definições estão vinculadas a outros arquivos do `.js`
 
->[!VIDEO](https://video.tv.adobe.com/v/3430848?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
 
 ## Amostra de código
 

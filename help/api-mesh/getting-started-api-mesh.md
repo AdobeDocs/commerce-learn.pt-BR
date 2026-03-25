@@ -5,6 +5,7 @@ landing-page-description: Saiba como usar a API Mesh no Adobe Commerce e  [!DNL 
 short-description: Saiba como usar a API Mesh no Adobe Commerce e  [!DNL Adobe App Builder]. Saiba como instalar o Adobe IO, trabalhar em projetos, criar um proxy reverso de GraphQL e muito mais.
 kt: 11802
 doc-type: tutorial
+duration: 442
 audience: all
 last-substantial-update: 2023-8-27
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 16%
@@ -41,7 +42,7 @@ A API Mesh combina várias fontes de dados para obter uma única resposta para q
 * Caso de uso para fazer verificação de inventário em tempo real na finalização da compra
 * Afastar os esforços de desenvolvimento e o uso de recursos do aplicativo de comércio
 
->[!VIDEO](https://video.tv.adobe.com/v/3417534?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417534?learn=on)
 
 ## Exemplo de casos de uso
 

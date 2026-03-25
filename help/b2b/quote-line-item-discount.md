@@ -2,6 +2,7 @@
 title: Usando o Adobe Commerce, mostrar um desconto de item de linha para uma cotação
 description: Saiba mais sobre descontos de item de linha em uma cotação B2B no Adobe Commerce
 doc-type: feature video
+duration: 231
 audience: all
 activity: use
 kt: 13797
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: bad46fbb-f16a-433d-be62-d8ae74bea3a9
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -26,12 +27,12 @@ Saiba como usar o desconto de item de linha e ver os valores usando o administra
 
 ## Para quem é este vídeo?
 
-- Gerentes de sites
-- Merchandisers de comércio eletrônico
-- Desenvolvedores
+* Gerentes de sites
+* Merchandisers de comércio eletrônico
+* Desenvolvedores
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3445590?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

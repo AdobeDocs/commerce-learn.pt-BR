@@ -6,16 +6,16 @@ topic: Architecture, Commerce, Performance
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 540
+duration: 575
 last-substantial-update: 2024-11-09T00:00:00Z
 jira: KT-16194
-source-git-commit: c9c4a64ece0eaf536c2b2e299acea6adf9bab10c
+exl-id: ad6df83c-2b71-457f-9e0b-616f3b875ccd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
 
 ---
-
 
 # Compartilhamento de dados da Adobe Commerce
 
@@ -24,13 +24,13 @@ Integre-se perfeitamente aos produtos da Adobe Experience Cloud para criar jorna
 
 ## Para quem é este vídeo
 
-- Empresas e empresas de comércio eletrônico que buscam aumentar a fidelidade do cliente
-- Varejistas, empresas de telecomunicações e marcas que desejam integrar seus dados de forma contínua na Adobe Experience Cloud
+* Empresas e empresas de comércio eletrônico que buscam aumentar a fidelidade do cliente
+* Varejistas, empresas de telecomunicações e marcas que desejam integrar seus dados de forma contínua na Adobe Experience Cloud
 
 ## Conteúdo de vídeo
 
-- Personalização aprimorada por meio dos recursos nativos de compartilhamento de dados do Adobe Commerce
-- Maior participação e fidelidade do cliente
-- Integração perfeita e visualização unificada do cliente
+* Personalização aprimorada por meio dos recursos nativos de compartilhamento de dados do Adobe Commerce
+* Maior participação e fidelidade do cliente
+* Integração perfeita e visualização unificada do cliente
 
->[!VIDEO](https://video.tv.adobe.com/v/3433574?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)

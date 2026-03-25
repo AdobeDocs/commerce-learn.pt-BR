@@ -6,11 +6,11 @@ topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 95
+duration: 130
 last-substantial-update: 2025-04-16T00:00:00Z
 jira: KT-17808
 exl-id: 8957dbbe-9bed-41e4-b21e-5371f91085fd
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -34,4 +34,4 @@ Os Adobe Commerce Success Accelerators para adoção e capacitação incluem tr�
 * Treinamento de várias sessões no suporte técnico para preencher lacunas de habilidades e alinhar-se às prioridades estratégicas.
 * Criação de acesso, permissões e controle de design para garantir a adoção adequada dos produtos e as práticas recomendadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463083/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457657?learn=on)

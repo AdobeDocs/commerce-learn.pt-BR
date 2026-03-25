@@ -3,6 +3,7 @@ title: Saiba como armazenar consultas mysql em cache
 description: Às vezes, é feito backup de consultas mysql aguardando um bloqueio. Este tutorial explica o que é o armazenamento em cache de consultas e algumas recomendações para configurações se você tiver problemas.
 kt: 13690
 doc-type: video
+duration: 444
 activity: use
 last-substantial-update: 2023-7-27
 feature: Backend Development, Cache, Logs
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 8d3b0ec2-e80c-4457-b924-69e8b8cedf03
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -24,20 +25,20 @@ Saiba o que é o cache de consulta do MySQL e conheça bem como ele funciona. Sa
 
 ## Para quem é este vídeo?
 
-- Arquitetos
-- Desenvolvedores
-- DevOps
+* Arquitetos
+* Desenvolvedores
+* DevOps
 
 ## Conteúdo de vídeo
 
-- Saiba mais sobre o armazenamento em cache de consultas
-- Como detectar se as configurações do cache de consulta podem ser um problema ao encontrar &quot;aguardando o bloqueio do cache de consulta&quot;
-- Veja como o SQL é salvo e usado na localização de um cache de consulta correspondente
-- Algumas dicas sobre as configurações
+* Saiba mais sobre o armazenamento em cache de consultas
+* Como detectar se as configurações do cache de consulta podem ser um problema ao encontrar &quot;aguardando o bloqueio do cache de consulta&quot;
+* Veja como o SQL é salvo e usado na localização de um cache de consulta correspondente
+* Algumas dicas sobre as configurações
 
->[!VIDEO](https://video.tv.adobe.com/v/3423388?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422015?learn=on)
 
 ## Recursos úteis
 
-- [Diretrizes gerais do MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=pt-BR){target="_blank"}
-- [Replicação de galera e consultas lentas](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html?lang=pt-BR){target="_blank"}
+* [Diretrizes gerais do MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql.html?lang=en){target="_blank"}
+* [Replicação de galera e consultas lentas](https://experienceleague.adobe.com/docs/commerce-learn/tutorials/backend-development/galera-db-slow-replication.html){target="_blank"}

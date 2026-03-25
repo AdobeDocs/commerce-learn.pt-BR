@@ -6,11 +6,11 @@ topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 189
+duration: 214
 last-substantial-update: 2025-04-08T00:00:00Z
 jira: KT-17714
 exl-id: 5863babd-bab2-4ccd-8978-c9bb379500b7
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Saiba mais sobre a success plan de especialistas da Adobe Commerce. Saiba mais s
 * Três canais de suporte.
 * Alvos de nível de serviço.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457508/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457508?learn=on)

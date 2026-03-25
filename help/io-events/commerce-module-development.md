@@ -5,6 +5,7 @@ landing-page-description: Saiba como criar um módulo do Adobe Commerce para usa
 short-description: Saiba como criar um módulo do Adobe Commerce para usar eventos.
 kt: 11891
 doc-type: tutorial
+duration: 348
 audience: all
 last-substantial-update: 2023-02-21T00:00:00Z
 feature: App Builder, Eventing, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e8103fe0-116a-499c-ae0a-3ad0511f44d0
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Saiba como registrar eventos, encontrar eventos compatíveis e usar um novo arqu
 * Saiba como registrar eventos nas instâncias do Commerce `app/etc/config.php`
 * Saiba como cancelar a inscrição em um evento
 
->[!VIDEO](https://video.tv.adobe.com/v/3430650?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415802?learn=on)
 
 ## Comandos úteis {#useful-commands}
 

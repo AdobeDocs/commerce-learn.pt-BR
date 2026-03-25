@@ -6,11 +6,11 @@ topic: Administration, Commerce
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 123
+duration: 144
 last-substantial-update: 2024-10-14T00:00:00Z
 jira: KT-16338
 exl-id: dbc155d7-8ce9-4622-abfb-1d8077c3a975
-source-git-commit: 25ee35b730cc6265665a87c9c37d24e88c41b60e
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Saiba como redefinir o URI do administrador usando o comando da cli do Adobe Commerce Cloud. Isso é útil se o URL do administrador tiver sido alterado, mas um erro tiver sido cometido e você não puder mais acessar o administrador.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439697/?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3435066?learn=on)
 
 ## Alguns comandos usados no tutorial
 

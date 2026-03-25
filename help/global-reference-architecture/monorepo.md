@@ -3,6 +3,7 @@ title: Arquitetura de referência global Monorepo
 description: Saiba como usar a abordagem monorepo para arquitetura de referência global para estabelecer uma experiência de comércio escalável e resiliente
 jira: KT-16728
 doc-type: tutorial
+duration: 441
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Experienced
 exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1371'
 ht-degree: 0%
@@ -33,18 +34,18 @@ O padrão Monorepo GRA envolve um único repositório Git para hospedar todas as
 
 Vantagens
 
-- Ideal para testes funcionais
-- Reutilização de código por meio de repositórios de código compartilhados
-- Flexibilidade total na instalação de pacotes, cada pacote de GRA pode ser atualizado, rebaixado ou ter backport individualmente
-- Suporte completo para controle de versão semântico
-- Não é necessária nenhuma ferramenta especial, infraestrutura complexa ou estratégia especial de ramificação
-- Suporte para todos os tipos de encapsulamento que o Composer suporta
-- Ideal para ambientes efêmeros, que são opcionais, mas para equipes de entrega de alto volume, eles são muito úteis
+* Ideal para testes funcionais
+* Reutilização de código por meio de repositórios de código compartilhados
+* Flexibilidade total na instalação de pacotes, cada pacote de GRA pode ser atualizado, rebaixado ou ter backport individualmente
+* Suporte completo para controle de versão semântico
+* Não é necessária nenhuma ferramenta especial, infraestrutura complexa ou estratégia especial de ramificação
+* Suporte para todos os tipos de encapsulamento que o Composer suporta
+* Ideal para ambientes efêmeros, que são opcionais, mas para equipes de entrega de alto volume, eles são muito úteis
 
 Desvantagens:
 
-- Possível implantar combinações de pacotes que não foram desenvolvidos na mesma configuração; necessidade de procedimentos de teste rigorosos
-- O padrão de monorepo GRA pode ser complexo no início. Atribuir um cliente potencial que ajude a equipe a trabalhar com o sistema
+* Possível implantar combinações de pacotes que não foram desenvolvidos na mesma configuração; necessidade de procedimentos de teste rigorosos
+* O padrão de monorepo GRA pode ser complexo no início. Atribuir um cliente potencial que ajude a equipe a trabalhar com o sistema
 
 ## Configurar o Adobe Commerce com o padrão GRA de pacotes separados
 
@@ -348,5 +349,5 @@ Se você usar ambientes efêmeros ou planeja usá-los, o monorepo é uma excelen
 
 Os exemplos de código deste artigo foram combinados em um conjunto de repositórios Git, que podem ser usados para reproduzir com a prova de conceito.
 
-- Um exemplo de repositório monorepo: <https://github.com/AntonEvers/gra-monorepo>
-- Um exemplo de armazenamento de produção: <https://github.com/AntonEvers/gra-monorepo-brand-x>
+* Um exemplo de repositório monorepo: <https://github.com/AntonEvers/gra-monorepo>
+* Um exemplo de armazenamento de produção: <https://github.com/AntonEvers/gra-monorepo-brand-x>

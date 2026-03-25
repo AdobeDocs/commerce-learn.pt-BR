@@ -10,9 +10,9 @@ feature: Catalog Management, Admin Workspace, Backend Development, Integration, 
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
-duration: 579
+duration: 815
 exl-id: c18fd80e-1a25-4346-a8c5-3b5449d49965
-source-git-commit: 48a98261a827741459e45f14f7463f4a989c49d2
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -25,13 +25,13 @@ Saiba como criar um produto de cartão-presente usando a REST API e o administra
 
 ## Para quem é este vídeo?
 
-- Gerentes de sites
-- Merchandisers de comércio eletrônico
-- Novos desenvolvedores do Adobe Commerce que desejam aprender como criar produtos no Adobe Commerce usando a REST API.
+* Gerentes de sites
+* Merchandisers de comércio eletrônico
+* Novos desenvolvedores do Adobe Commerce que desejam aprender como criar produtos no Adobe Commerce usando a REST API.
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3453082?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3427128?learn=on)
 
 ## Criar um cartão-presente com uma carga simples
 
@@ -145,7 +145,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Criar um cartão-presente com carga total
 
-O exemplo a seguir mostra a solicitação do POST para criar um cartão-presente com carga total. A carga inclui todos os atributos que podem ser configurados quando você cria um cartão-presente. Se você usar essa amostra de código, personalize a configuração atualizando os valores padrão para cada atributo, conforme necessário, antes de enviar a solicitação.
+O exemplo a seguir mostra a solicitação POST para criar um vale-presente com carga total. A carga inclui todos os atributos que podem ser configurados quando você cria um cartão-presente. Se você usar essa amostra de código, personalize a configuração atualizando os valores padrão para cada atributo, conforme necessário, antes de enviar a solicitação.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -325,6 +325,6 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Recursos adicionais
 
-- [Criar um produto de cartão-presente do Administrador do Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html?lang=pt-BR){target="_blank"}
-- [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [ReDoc do Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Criar um produto de cartão-presente do Administrador do Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-gift-card-create.html){target="_blank"}
+* [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Documento Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

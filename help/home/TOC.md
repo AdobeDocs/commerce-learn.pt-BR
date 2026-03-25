@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: ad0e7639accf3b127bb11c062c9c22a3b03c362f
+source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '871'
 ht-degree: 3%
 
 ---
@@ -96,18 +96,18 @@ ht-degree: 3%
 
 + Extensibilidade {#extensibility}
    + Desenvolvimento de back-end {#backend-development}
-      + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+      + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Criar um módulo](../backend-development/create-module.md)
       + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
       + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
       + [Replicação lenta do Galera Cluster](../backend-development/galera-db-slow-replication.md)
       + [Cache de consulta MySQL](../backend-development/mysql-query-cache.md)
       + [Resumo da consulta PT](../backend-development/pt-query-digest.md)
-      + [Conectando e baixando o banco de dados do Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
+      + [Conectar e executar consultas no banco de dados do Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
       + Atualizações do Commerce {#upgrade}
          + [Workshop de atualização do Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
          + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
-         + [Usar a ferramenta de compatibilidade de atualização no PHP Storm](../upgrade/uct-phpstorm.md)
+         + [Usar a ferramenta de compatibilidade de atualização no PhpStorm](../upgrade/uct-phpstorm.md)
    + Desenvolvimento de front-end do Luma {#frontend-development}
       + Page Builder PaaS/SaaS para desenvolvedores {#page-builder}
          + [1 - Introdução](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -126,17 +126,17 @@ ht-degree: 3%
             + [Adicionar BOPIS ao check-out](../edge-delivery-services/add-bopis-to-checkout.md)
             + [Personalizar check-out](../edge-delivery-services/customize-checkout.md)
             + [Personalizar um layout de endereço](../edge-delivery-services/customize-address-new-account-link.md)
-            + [Comprador-experiência](../edge-delivery-services/shopper-experience.md)
+            + [Experiência do comprador](../edge-delivery-services/shopper-experience.md)
       + Arquitetura headless {#headless-architecture}
          + Introdução ao headless {#introduction-to-headless}
             + [Arquitetura headless - sessão 1](../headless/session-1.md)
          + Introdução ao PWA Studio {#introduction}
-            + [1 - Visão geral](../pwa/introduction/1-overview.md)
-            + [2 - Ferramentas do PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
-            + [3 - Launch](../pwa/introduction/3-launch.md)
-            + [4 - PARA CIMA](../pwa/introduction/4-upward.md)
-            + [5 - Introdução](../pwa/introduction/5-getting-started.md)
-            + [6 - Peregrina](../pwa/introduction/6-peregrine.md)
+            + [Visão geral](../pwa/introduction/1-overview.md)
+            + [Ferramentas do PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
+            + [Launch](../pwa/introduction/3-launch.md)
+            + [PARA CIMA](../pwa/introduction/4-upward.md)
+            + [Introdução](../pwa/introduction/5-getting-started.md)
+            + [Peregrine](../pwa/introduction/6-peregrine.md)
          + [Desenvolvimento do PWA Docker](../pwa/pwa-docker-development.md)
          + [Configurar Venia para desenvolvimento](../pwa/set-up-venia-for-dev.md)
    + GRAPHQL e REST {#graphql-rest}

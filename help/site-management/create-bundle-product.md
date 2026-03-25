@@ -3,6 +3,7 @@ title: Criar um produto do pacote
 description: Saiba como criar um produto combinado usando a REST API e o administrador do Commerce.
 kt: 14589
 doc-type: video
+duration: 1335
 audience: all
 activity: use
 last-substantial-update: 2024-1-8
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '641'
 ht-degree: 0%
@@ -24,18 +25,18 @@ Um produto combinado é uma maneira de agrupar vários produtos em um produto pr
 
 Por exemplo, você pode oferecer um pacote de produtos chamado `Learning to surf` em sua loja na web. O pacote é o produto principal que serve como um contêiner dos produtos secundários atribuídos que especificam as opções disponíveis:
 
-- Uma prancha de surf padrão
-- Uma coleira típica de prancha de surf
-- Barbatanas de prancha vermelha
+* Uma prancha de surf padrão
+* Uma coleira típica de prancha de surf
+* Barbatanas de prancha vermelha
 
 Quando desejar flexibilidade adicional, é recomendável permitir várias opções de produtos derivados. Isso requer um uso mais complexo de opções e produtos derivados. Para expandir no exemplo anterior, as opções finais são:
 
-- Uma prancha de surf padrão
-- Uma coleira típica de prancha de surf
-- Escolha da cor da barbatana:
-   - Vermelho
-   - Azul
-   - Amarelo
+* Uma prancha de surf padrão
+* Uma coleira típica de prancha de surf
+* Escolha da cor da barbatana:
+   * Vermelho
+   * Azul
+   * Amarelo
 
 Seja o pacote um grupo estático de produtos simples ou vários produtos com variações, as opções flexíveis de configuração tornam os tipos de produto agrupados uma ferramenta de merchandising exclusiva e poderosa para a loja da Adobe Commerce.
 
@@ -55,13 +56,13 @@ Ao criar pacotes de produtos do administrador do Adobe Commerce, você pode cria
 
 ## Para quem é este vídeo?
 
-- Gerentes de sites
-- Merchandisers de comércio eletrônico
-- Novos desenvolvedores do Adobe Commerce que desejam aprender como criar pacotes de produtos no Adobe Commerce usando a REST API
+* Gerentes de sites
+* Merchandisers de comércio eletrônico
+* Novos desenvolvedores do Adobe Commerce que desejam aprender como criar pacotes de produtos no Adobe Commerce usando a REST API
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3454504?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
 
 ## Criar produtos com REST
 
@@ -69,7 +70,7 @@ Os comandos a seguir criam todos os produtos necessários para definir o produto
 
 Antes de enviar a solicitação, atualize o exemplo com os valores do seu ambiente.
 
-- Altere `"attribute-set": 4` para substituir `4` pela ID do conjunto de atributos de seu ambiente.
+* Altere `"attribute-set": 4` para substituir `4` pela ID do conjunto de atributos de seu ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -188,11 +189,11 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Criar um pacote de produtos e atribuir os produtos simples como opções
 
-Crie um produto do pacote enviando a solicitação POST a seguir.
+Crie um produto agrupado enviando a seguinte solicitação POST.
 
 Antes de enviar a solicitação, atualize o exemplo com os valores do seu ambiente.
 
-- Altere `"attribute_set_id": 4,` e substitua `4` pela ID do conjunto de atributos de seu ambiente.
+* Altere `"attribute_set_id": 4,` e substitua `4` pela ID do conjunto de atributos de seu ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -309,7 +310,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Excluir uma opção de um produto do pacote
 
-Remova um produto filho de um produto de pacote sem excluir o produto do catálogo, enviando a seguinte solicitação de DELETE usando cURL.
+Remova um produto secundário de um produto combinado sem excluir o produto do catálogo enviando a seguinte solicitação do DELETE usando cURL.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-products/beginner-surfboard/options/35/children/blue-fins-and-fin-plugs' \
@@ -372,7 +373,7 @@ Localize a ID de opção revisando a resposta da criação do produto do pacote.
 ...
 ```
 
-Atualize o pacote de produtos para adicionar a opção que você removeu enviando a seguinte solicitação POST.
+Atualize o pacote de produtos para adicionar a opção removida enviando a seguinte solicitação POST.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' \
@@ -429,7 +430,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## Recursos adicionais
 
-- [Tutorial sobre a criação de um pacote de produtos](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-- [Produto do Pacote](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=pt-BR){target="_blank"}
-- [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [ReDoc do Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Tutorial sobre a criação de um pacote de produtos](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+* [Pacote de produtos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
+* [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Documento Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

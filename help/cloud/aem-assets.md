@@ -5,16 +5,16 @@ topic: Architecture, Commerce, Integrations
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 189
+duration: 223
 last-substantial-update: 2024-12-09T00:00:00Z
 jira: KT-16203
-source-git-commit: 33b4f9f612138656d792b40012446ce9f31cf2f5
+exl-id: afd2c688-8abd-47cb-a6ec-c7e2c3b44743
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
 
 ---
-
 
 # Adobe Commerce AEM Assets
 
@@ -22,14 +22,14 @@ Integrar a IA com o Adobe Commerce centraliza o gerenciamento de ativos, aprimor
 
 ## Para quem é este vídeo
 
-- Comerciantes de comércio eletrônico e profissionais de marketing digital que usam o Adobe Commerce
-- Administradores de TI
-- Gerentes de conteúdo que buscam otimizar seu ciclo de vida de conteúdo
+* Comerciantes de comércio eletrônico e profissionais de marketing digital que usam o Adobe Commerce
+* Administradores de TI
+* Gerentes de conteúdo que buscam otimizar seu ciclo de vida de conteúdo
 
 ## Conteúdo de vídeo
 
-- Mais eficiência e velocidade.
-- Sincronização contínua entre produtos e ativos.
-- Controle completo do ciclo de vida incluindo aprovação, remoção e expiração.
+* Mais eficiência e velocidade.
+* Sincronização contínua entre produtos e ativos.
+* Controle completo do ciclo de vida incluindo aprovação, remoção e expiração.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434081?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3434076?learn=on)

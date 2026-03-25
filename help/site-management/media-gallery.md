@@ -2,6 +2,7 @@
 title: Gerenciar a galeria de mídia
 description: Saiba como usar a nova Galeria de mídia aprimorada para organizar e gerenciar arquivos de mídia no servidor.
 doc-type: feature video
+duration: 196
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -10,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: c245e4f7-54cd-4fa8-8d6c-6b7eb2e2beea
-source-git-commit: 972a50c3e9e70ae0724b78ab79bd6304bbff4042
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 0%
@@ -23,14 +24,14 @@ Com o Adobe Commerce ou o Magento Open Source 2.4, os comerciantes podem usar a 
 
 ## Para quem é este vídeo?
 
-- Gerentes de sites
-- Merchandisers de comércio eletrônico
+* Gerentes de sites
+* Merchandisers de comércio eletrônico
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3417361?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/343785?learn=on)
 
 ## Recursos adicionais
 
-- [Galeria de Mídia - [!DNL Commerce] Guia de Conteúdo e Design](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
-- [Armazenamento de Mídia Alternativo - [!DNL Commerce] Guia de Conteúdo e Design](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)
+* [Galeria de Mídia - [!DNL Commerce] Guia de Conteúdo e Design](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/gallery/media-gallery)
+* [Armazenamento de Mídia Alternativo - [!DNL Commerce] Guia de Conteúdo e Design](https://experienceleague.adobe.com/en/docs/commerce-admin/content-design/wysiwyg/storage/media-storage)

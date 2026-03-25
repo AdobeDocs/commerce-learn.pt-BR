@@ -3,6 +3,7 @@ title: Criar uma categoria
 description: Saiba como definir a estrutura básica de categorias para seu catálogo de produtos.
 kt: 10549
 doc-type: feature video
+duration: 164
 audience: all
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 2193b580-c8c1-4371-aefc-94720b560360
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -24,15 +25,15 @@ Antes de adicionar produtos ao catálogo, é necessário estabelecer a estrutura
 
 ## Para quem é este vídeo?
 
-- Gerentes de sites
-- Merchandisers de comércio eletrônico
+* Gerentes de sites
+* Merchandisers de comércio eletrônico
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411962?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/343746?learn=on)
 
 ## Recursos adicionais
 
-- [Criar Categorias - [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html?lang=pt-BR)
-- [Permissões de Categoria - [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html?lang=pt-BR)
-- [Navegação Superior - [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html?lang=pt-BR)
+* [Criar Categorias - [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/create/category-create.html)
+* [Permissões de Categoria - [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/categories/category-permissions.html)
+* [Navegação Superior - [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/catalog/navigation/navigation-top.html)

@@ -6,20 +6,20 @@ topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 0
+duration: 126
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-15165
-source-git-commit: b3ec1230e5efa198d71e1a5c0756a47666065117
+exl-id: cea62272-c7b9-44f7-9c39-5ad3d9122382
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '502'
 ht-degree: 0%
 
 ---
 
-
 # Solicitações de suporte eficazes
 
-Ao criar um tíquete de suporte, é importante enviá-lo por meio dos canais apropriados, fornecer informações precisas e detalhadas sobre o problema, selecionar a organização e o motivo de contato corretos, escolher o produto e a versão apropriados, revisar artigos sugeridos para possíveis soluções, verificar todas as informações antes de enviar, acompanhar o progresso do tíquete e iniciar uma conversa com a equipe de suporte, marcar o tíquete como resolvido quando o problema for resolvido e abrir um tíquete de acompanhamento se for necessária mais assistência. &#x200B; Lembre-se de enviar o tíquete pelos canais apropriados, fornecer informações precisas e detalhadas, selecionar a organização correta e o motivo do contato, escolher o produto e a versão apropriados, revisar os artigos sugeridos, verificar novamente todas as informações antes de enviar, acompanhar o progresso do tíquete, conversar com a equipe de suporte, marcar o tíquete como resolvido quando o problema for resolvido e abrir um tíquete de acompanhamento, se necessário. &#x200B;
+Ao criar um tíquete de suporte, é importante enviá-lo por meio dos canais apropriados, fornecer informações precisas e detalhadas sobre o problema, selecionar a organização correta e o motivo do contato, escolher o produto e a versão apropriados, revisar artigos sugeridos para possíveis soluções, verificar todas as informações antes de enviar, acompanhar o progresso do tíquete e iniciar uma conversa com a equipe de suporte, marcar o tíquete como resolvido quando o problema for resolvido e abrir um tíquete de acompanhamento se for necessária mais assistência. &#x200B; Lembre-se de enviar o tíquete pelos canais apropriados, fornecer informações precisas e detalhadas, selecionar a organização correta e o motivo do contato, escolher o produto e a versão apropriados, revisar os artigos sugeridos, verificar novamente todas as informações antes de enviar, acompanhar o progresso do tíquete, conversar com a equipe de suporte, marcar o tíquete como resolvido quando o problema for resolvido e abrir um tíquete de acompanhamento, se necessário.&#x200B;
 
 ## Incluir logs ou capturas de tela
 
@@ -39,4 +39,4 @@ Vários problemas do Adobe Commerce podem ser rastreados por meio do New Relic. 
 
 >[!MORELIKETHIS]
 > 
-> - [Guia do Usuário da Ajuda do Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}
+> * [Guia do Usuário da Ajuda do Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide){target="_blank"}

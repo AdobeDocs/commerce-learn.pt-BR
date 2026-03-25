@@ -5,6 +5,7 @@ landing-page-description: Assista a esta série de vídeos para esclarecer sua c
 short-description: Assista a esta série de vídeos para esclarecer sua compreensão das mudanças sem precedentes que estão moldando o futuro do comércio digital.
 kt: 10411
 doc-type: feature video
+duration: 1516
 solution: Commerce,Commerce Intelligence
 audience: all
 activity: use
@@ -14,7 +15,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 2ff2e1c8-384a-453f-bb8b-f6c834ca334b
-source-git-commit: 15528d0e2543961e6e6d6d4e12c9b272eab88dc7
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '226'
 ht-degree: 0%
@@ -31,21 +32,21 @@ Assista a esta série de vídeos para esclarecer sua compreensão das mudanças 
 
 >[!TIP]
 >
->Se você é novo no Commerce Intelligence, o [Guia do Usuário do Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=pt-BR){target="_blank"} fornece uma visão geral completa para gerar melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
+>Se você é novo no Commerce Intelligence, o [Guia do Usuário do Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} fornece uma visão geral completa para fornecer melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
 
 ## Para quem é este vídeo?
 
-- Usuários empresariais
-- Analistas de dados
+* Usuários empresariais
+* Analistas de dados
 
 ## Parte 1: Surto no tráfego de Commerce digital
 
->[!VIDEO](https://video.tv.adobe.com/v/342498?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342498?learn=on)
 
 ## Parte 2: Segmentação do aumento do tráfego por setor
 
->[!VIDEO](https://video.tv.adobe.com/v/342499?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342499?learn=on)
 
 ## Parte 3: Impactos no comportamento de compra do cliente
 
->[!VIDEO](https://video.tv.adobe.com/v/342500?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342500?learn=on)

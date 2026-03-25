@@ -5,6 +5,7 @@ landing-page-description: Saiba como usar a API Mesh no Adobe Commerce e  [!DNL 
 short-description: Saiba como usar a API Mesh no Adobe Commerce e  [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com várias fontes e como resolver alguns erros comuns.
 kt: 11804
 doc-type: tutorial
+duration: 409
 audience: all
 last-substantial-update: 2023-2-8
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -35,7 +36,7 @@ Este vídeo ajuda os desenvolvedores a entender como criar uma malha com várias
 * Como solucionar erros, como conflitos de nome, disponibilidade de esquema e outros problemas de sintaxe de esquema
 * Atualização da malha com uma configuração modificada
 
->[!VIDEO](https://video.tv.adobe.com/v/3430765?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
 
 ## Criar o arquivo de configuração json
 

@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 270
+duration: 336
 last-substantial-update: 2024-10-24T00:00:00Z
 jira: KT-16275
 exl-id: 7b521465-db0b-4755-91bd-013368a9fe5e
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -38,8 +38,8 @@ No front-end, a experiência com implementações headless pode simplificar o pr
 * Saiba mais sobre considerações de front-end e back-end.
 * Planeje uma migração tranquila, avaliando os módulos existentes, atualizando os aplicativos principais e integrando com outras soluções da Adobe.
  
->[!VIDEO](https://video.tv.adobe.com/v/3447449/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682?learn=on)
 
 ## Documentação relacionada
 
-[O que é o Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/about)
+[O que é o Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

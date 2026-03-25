@@ -3,6 +3,7 @@ title: Otimização do Adobe Commerce com arquitetura de referência global de p
 description: Saiba como configurar o Adobe Commerce usando a Arquitetura de referência global de pacotes em massa para um gerenciamento de código eficiente e controle de versão.
 jira: KT-16726
 doc-type: tutorial
+duration: 391
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: ac63e31e-3047-410a-a6f9-a578b495bd8c
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
@@ -33,18 +34,18 @@ O padrão GRA de pacotes em massa envolve um único repositório Git para hosped
 
 Vantagens
 
-- Reutilização de código por meio de um repositório de código compartilhado
-- Flexibilidade para instalar diferentes versões históricas do GRA em diferentes instâncias, permitindo versões em fases
-- Flexibilidade para realizar backport e manter várias versões principais do GRA
-- Suporte para o controle de versão semântico do GRA
-- Simplicidade, os desenvolvedores não precisam de mais habilidades do que nos padrões comuns de desenvolvimento de uma única loja
-- Não é necessária nenhuma ferramenta especial, infraestrutura complexa ou estratégia especial de ramificação
-- A combinação de pacotes em uma versão é sempre desenvolvida e testada em conjunto
+* Reutilização de código por meio de um repositório de código compartilhado
+* Flexibilidade para instalar diferentes versões históricas do GRA em diferentes instâncias, permitindo versões em fases
+* Flexibilidade para realizar backport e manter várias versões principais do GRA
+* Suporte para o controle de versão semântico do GRA
+* Simplicidade, os desenvolvedores não precisam de mais habilidades do que nos padrões comuns de desenvolvimento de uma única loja
+* Não é necessária nenhuma ferramenta especial, infraestrutura complexa ou estratégia especial de ramificação
+* A combinação de pacotes em uma versão é sempre desenvolvida e testada em conjunto
 
 Desvantagens:
 
-- Só é possível atualizar a GRA completa, incluindo todos os pacotes nela contidos.
-- Nenhum suporte no pacote em massa GRA para pacotes do compositor além de módulos do Adobe Commerce, pacotes de idiomas e temas, portanto, não há metapackages, pacotes de componentes magento2, plug-ins e patches do Composer
+* Só é possível atualizar a GRA completa, incluindo todos os pacotes nela contidos.
+* Nenhum suporte no pacote em massa GRA para pacotes do compositor além de módulos do Adobe Commerce, pacotes de idiomas e temas, portanto, não há metapackages, pacotes de componentes magento2, plug-ins e patches do Composer
 
 ## Configurar o Adobe Commerce com o padrão Split Git GRA
 
@@ -233,11 +234,11 @@ git push origin main
 
 Somente se os terceiros não oferecerem instalação por meio de um repositório do Composer, você poderá armazenar módulos de terceiros no diretório `src/` do seu repositório de base ou em um pacote em massa dedicado de terceiros.
 
-- **Adobe Commerce core**: disponível em repo.magento.com.
-- **Módulos de terceiros**: disponíveis no Marketplace ou no repositório do Composer de um fornecedor.
-- **Opção de fallback de módulos de terceiros**: armazenada em `src/` de um pacote em massa.
-- **GRA foundation code**: armazenado em `src/` do pacote de base em massa.
-- **Código local**: armazenado no diretório `packages/local` do repositório de implantação.
+* **Adobe Commerce core**: disponível em repo.magento.com.
+* **Módulos de terceiros**: disponíveis no Marketplace ou no repositório do Composer de um fornecedor.
+* **Opção de fallback de módulos de terceiros**: armazenada em `src/` de um pacote em massa.
+* **GRA foundation code**: armazenado em `src/` do pacote de base em massa.
+* **Código local**: armazenado no diretório `packages/local` do repositório de implantação.
 
 ## Desenvolver um módulo GRA
 
@@ -272,6 +273,6 @@ Nas ramificações de tíquetes, quase nunca é necessário atualizar o arquivo 
 
 Os exemplos de código deste artigo estão disponíveis como um conjunto de repositórios Git, que podem ser usados para testar a prova de conceito.
 
-- Um exemplo de armazenamento de produção: <https://github.com/AntonEvers/gra-bulk-brand-x>
-- O repositório de código GRA: <https://github.com/AntonEvers/gra-bulk-foundation>
-- Um exemplo de módulo local: <https://github.com/AntonEvers/module-example-local>
+* Um exemplo de armazenamento de produção: <https://github.com/AntonEvers/gra-bulk-brand-x>
+* O repositório de código GRA: <https://github.com/AntonEvers/gra-bulk-foundation>
+* Um exemplo de módulo local: <https://github.com/AntonEvers/module-example-local>

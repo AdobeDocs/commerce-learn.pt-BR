@@ -6,11 +6,11 @@ topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 663
+duration: 705
 last-substantial-update: 2025-05-15T00:00:00Z
 jira: KT-18110
 exl-id: 87b6200e-79e0-48ed-8926-eaa7bfea36d4
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%
@@ -34,7 +34,7 @@ A plataforma nativa em nuvem da Adobe Commerce permite que as empresas reduzam o
 * Implantação rápida: inicie ambientes pré-configurados em minutos com ferramentas de autoatendimento.
 * Integrações flexíveis - conecte-se facilmente a ERP, CRM e muito mais usando APIs e aceleradores.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458485/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458485?learn=on)
 
 ## Vídeos adicionais nesta série
 

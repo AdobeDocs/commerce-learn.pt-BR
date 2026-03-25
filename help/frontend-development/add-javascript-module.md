@@ -1,17 +1,18 @@
 ---
 title: Adicionar um módulo JavaScript
-description: Este vídeo fornece uma apresentação para desenvolver um módulo JS simples que fornece a saudação "Olá, mundo".
-kt: 5612
-doc-type: video
+description: Saiba como criar um módulo simples do JavaScript no Adobe Commerce que exibe uma saudação do Hello World, usando RequireJS, uma atualização de layout e um modelo.
+jira: KT-5612
+doc-type: Technical Video
+duration: 260
 activity: use
 feature: Page Content, Native Luma Frontend Development, Themes, Configuration
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Developer
+level: Beginner
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
-source-wordcount: '93'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -20,25 +21,29 @@ ht-degree: 0%
 
 {{only-for-on-prem-commerce-cloud}}
 
-Este vídeo fornece uma apresentação para desenvolver um módulo JS simples que fornece a saudação &quot;Olá, mundo&quot;.
+Saiba como desenvolver um módulo simples do JavaScript que mostre a saudação &quot;Olá, mundo&quot; na loja.
 
 ## Para quem é este vídeo?
 
-- Desenvolvedores
+* Desenvolvedores
 
 ## Etapas
 
-- Criar um módulo
-- Criar um `requirejs-config.js` e um arquivo de módulo do JavaScript
-- Criar atualização de layout para adicionar um modelo que habilita o módulo JS
-- Criar arquivo de modelo
-- Adicione o módulo e teste-o
+1. Criar um módulo.
+2. Adicione `requirejs-config.js` e um arquivo de módulo do JavaScript.
+3. Crie uma atualização de layout que carregue um modelo para o módulo.
+4. Crie o arquivo de modelo.
+5. Registre o módulo e teste-o na loja.
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/35790?quality=12&learn=on)
+* Defina o módulo e a configuração RequireJS.
+* Conecte o script por meio de uma atualização de layout e modelo.
+* Verifique a saudação na página.
+
+>[!VIDEO](https://video.tv.adobe.com/v/35790?learn=on)
 
 ## Recursos úteis
 
-- [guia do desenvolvedor do JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/)
-- [Chamando e inicializando o JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/)
+* [guia do desenvolvedor do JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
+* [Chamando e inicializando o JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}

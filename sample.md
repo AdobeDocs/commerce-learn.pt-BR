@@ -1,13 +1,13 @@
 ---
-title: <Title that displays in Google>
-description: <Description that displays in Google>
+title: <Título que é exibido no Google>
+description: <Descrição que é exibida no Google>
 topic: <Value(s) from https://git.corp.adobe.com/AdobeDocs/exl-config/blob/master/metadata-values/topic.yml>
 feature: <Value(s) from https://git.corp.adobe.com/AdobeDocs/exl-config/blob/master/metadata-values/feature.yml>
 role: <Value(s) from https://git.corp.adobe.com/AdobeDocs/exl-config/blob/master/metadata-values/role.yml>
 level: <Value(s) from https://git.corp.adobe.com/AdobeDocs/exl-config/blob/master/metadata-values/level.yml>
 kt: <JIRA KT Story No.>
 thumbnail: <MPC Video ID>.jpeg
-source-git-commit: d8ec460ab9d6ce29bd63c5d39513d1ea83d1bb0c
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '16'
 ht-degree: 0%
@@ -15,8 +15,8 @@ ht-degree: 0%
 ---
 
 
-# Título de página
+# Título da página
 
-Adicionar breve descrição
+Adicionar descrição curta
 
->[!VIDEO](https://video.tv.adobe.com/v/MPC-Video-ID/?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/MPC-Video-ID?learn=on&hidetitle=true)

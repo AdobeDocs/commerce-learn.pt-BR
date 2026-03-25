@@ -10,10 +10,10 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 jira: KT-17150
-duration: 374
+duration: 302
 exl-id: 756d06cf-f7a2-4b9b-b369-12a9d99586b1
-badgePaas: label="Somente PaaS" type="Informative" url="https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/product-solutions" tooltip="Aplica-se somente a projetos do Adobe Commerce na nuvem (infraestrutura do PaaS gerenciada pela Adobe) e a projetos locais."
-source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
+badgePaas: label="Somente PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Aplica-se somente a projetos do Adobe Commerce na nuvem (infraestrutura do PaaS gerenciada pela Adobe) e a projetos locais."
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -26,14 +26,14 @@ Um bloco é uma unidade modular de conteúdo que pode ser posicionada em qualque
 
 ## Para quem é este vídeo?
 
-- Gerentes de sites
-- Designers de conteúdo
+* Gerentes de sites
+* Designers de conteúdo
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3417365?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/343783?learn=on)
 
 ## Recursos adicionais
 
-- [Blocos - [!DNL Commerce] Guia de Conteúdo e Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html?lang=pt-BR)
-- [Blocos Dinâmicos - [!DNL Commerce] Guia de Conteúdo e Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html?lang=pt-BR)
+* [Blocos - [!DNL Commerce] Guia de Conteúdo e Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/blocks/blocks.html)
+* [Blocos Dinâmicos - [!DNL Commerce] Guia de Conteúdo e Design](https://experienceleague.adobe.com/docs/commerce-admin/content-design/elements/dynamic-blocks/dynamic-blocks.html)

@@ -6,11 +6,11 @@ topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 781
+duration: 816
 last-substantial-update: 2025-05-16T00:00:00Z
 jira: KT-18121
 exl-id: a93ba2c4-1a72-496c-b993-d5105be9ca49
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Descubra como a Adobe Commerce está transformando vitrines digitais com ferrame
 * Componentes prontos para o desenvolvedor e SDK
 * Ferramentas de edição visual integradas
 
->[!VIDEO](https://video.tv.adobe.com/v/3458517/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
 
 ## Vídeos adicionais nesta série
 

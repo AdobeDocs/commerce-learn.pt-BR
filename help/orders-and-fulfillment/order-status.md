@@ -2,6 +2,7 @@
 title: Gerenciar status do pedido
 description: Saiba como verificar o status do pedido e seus detalhes, e como alterar o status de um pedido.
 doc-type: feature video
+duration: 151
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -10,7 +11,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0ce9960e-00e2-4602-9a12-4e12883b92e1
-source-git-commit: a123404202e95d449ad2fb9ede94d8b75bfe677c
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
@@ -23,14 +24,14 @@ Quando um cliente coloca um pedido, uma ordem de venda é criada como um registr
 
 ## Para quem é este vídeo?
 
-- Vendas
-- Representantes do atendimento ao cliente
+* Vendas
+* Representantes do atendimento ao cliente
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412501?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/343935?learn=on)
 
 ## Recursos adicionais
 
-- [Processar um pedido - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html?lang=pt-BR#process-an-order)
-- [Status do Pedido - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html?lang=pt-BR)
+* [Processar um pedido - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+* [Status do Pedido - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

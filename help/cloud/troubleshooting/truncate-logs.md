@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 206
+duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -26,16 +26,16 @@ Se você acha que precisa desses arquivos de log, pode `rsync` ou usar outros m�
 
 ## Para quem é este vídeo
 
-- Desenvolvedores e profissionais de TI
-- Administradores do sistema
+* Desenvolvedores e profissionais de TI
+* Administradores do sistema
 
 ## Conteúdo de vídeo
 
-- Diagnosticar e resolver uma implantação com falha
-- Onde alguns arquivos de log grandes comuns são encontrados
-- Método rápido para truncar um arquivo de log
+* Diagnosticar e resolver uma implantação com falha
+* Onde alguns arquivos de log grandes comuns são encontrados
+* Método rápido para truncar um arquivo de log
 
->[!VIDEO](https://video.tv.adobe.com/v/3454588?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## Comandos usados no vídeo
@@ -91,4 +91,4 @@ Depois de enviar para o projeto e ambiente corretos, altere para o diretório `v
 
 ## Documentação relacionada
 
-- [Notificações de integridade](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Notificações de integridade](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

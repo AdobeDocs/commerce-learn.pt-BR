@@ -3,13 +3,14 @@ title: '[!DNL Commerce] para usuários empresariais - Tipos de produtos'
 description: Saiba mais sobre os  [!DNL Commerce] tipos de produto e as opções para cada um.
 kt: 5767
 doc-type: video
+duration: 609
 activity: use
 last-substantial-update: 2022-12-28T00:00:00Z
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: 8067f749-31fb-4a71-9c7c-ee31720aa6ce
-source-git-commit: f8944c35f90deb00a80e0b20ad5557f4b0a3b472
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 0%
@@ -25,21 +26,21 @@ feature: Configuration, System, Catalogs
 
 Neste vídeo:
 
-- Tipos de produto
-- Opções para cada tipo de produto
+* Tipos de produto
+* Opções para cada tipo de produto
 
 ## Para quem é este vídeo?
 
-- Usuários empresariais
+* Usuários empresariais
 
 ## Conteúdo de vídeo
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=pt-BR).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330020?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35952?learn=on)
 
 ## Recursos adicionais
 
-[Tipos de produtos - [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=pt-BR#product-types)
+[Tipos de produtos - [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html#product-types)

@@ -6,11 +6,11 @@ topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 107
+duration: 133
 last-substantial-update: 2025-04-29T00:00:00Z
 jira: KT-17904
 exl-id: 29e2a11b-1bbe-4975-a5c1-d86355e858a0
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -34,4 +34,4 @@ Saiba mais sobre os aceleradores de sucesso da Adobe para disponibilidade organi
 * Gerenciamento de alterações e estratégias de comunicação
 * Análise digital e avaliação de desempenho
 
->[!VIDEO](https://video.tv.adobe.com/v/3457892/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457892?learn=on)

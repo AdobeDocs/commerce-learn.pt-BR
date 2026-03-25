@@ -6,11 +6,11 @@ topic: Administration,Commerce
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 462
+duration: 510
 last-substantial-update: 2024-01-31T00:00:00Z
 jira: KT-14877
 exl-id: 6cecba51-8d39-46f5-9864-80126d8ca3da
-source-git-commit: d578c066f3e51827694c8bf85aa2324035a8b07b
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -23,11 +23,11 @@ Uma demonstração de como visualizar, definir e encontrar valores de configura�
 
 ## Para quem é este vídeo?
 
-- Desenvolvedores do Adobe Commerce
+* Desenvolvedores do Adobe Commerce
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3439975?&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3427123?learn=on)
 
 ## Alguns comandos usados no tutorial
 
@@ -62,5 +62,5 @@ Para exibir uma página no terminal e mostrar os números de linha `cat -n vendo
 
 ## Recursos adicionais
 
-- [Ferramenta de Linha de Comando](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html?lang=pt-BR){target="_blank"}
-- [Configurar a segurança do administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html?lang=pt-BR){target="_blank"}
+* [Ferramenta de Linha de Comando](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/cli/config-cli.html){target="_blank"}
+* [Configurar a segurança do administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-admin.html){target="_blank"}

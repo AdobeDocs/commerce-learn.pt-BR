@@ -2,6 +2,7 @@
 title: Criar modelos de conteúdo
 description: Saiba como os modelos podem economizar tempo e esforço ao criar conteúdo ou substituir conteúdo mais antigo.
 doc-type: feature video
+duration: 182
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -10,8 +11,8 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 0dc32bfd-9e22-4e1d-a60c-58d7574a2eb1
-badgePaas: label="Somente PaaS" type="Informative" url="https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/product-solutions" tooltip="Aplica-se somente a projetos do Adobe Commerce na nuvem (infraestrutura do PaaS gerenciada pela Adobe) e a projetos locais."
-source-git-commit: 340b9d7ad9989aab0fe980db4cb176828d93ad97
+badgePaas: label="Somente PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Aplica-se somente a projetos do Adobe Commerce na nuvem (infraestrutura do PaaS gerenciada pela Adobe) e a projetos locais."
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Usar modelos economiza tempo e esforço ao criar conteúdo (ou substituir conte�
 
 ## Para quem é este vídeo?
 
-- Gerentes de sites
-- Designers de conteúdo
+* Gerentes de sites
+* Designers de conteúdo
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412503?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/343787?learn=on)
 
 ## Recursos adicionais
 
-- [[!DNL Page Builder] Modelos - [!DNL Page Builder] Guia do Usuário](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html?lang=pt-BR)
-- [Adicionar modelos - [!DNL Page Builder] Guia do Desenvolvedor](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)
+* [[!DNL Page Builder] Modelos - [!DNL Page Builder] Guia do Usuário](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/templates.html)
+* [Adicionar modelos - [!DNL Page Builder] Guia do Desenvolvedor](https://developer.adobe.com/commerce/frontend-core/page-builder/content-types/create/add-templates/)

@@ -4,6 +4,7 @@ description: Saiba mais sobre os tipos de arquivos na pasta de ações para este
 landing-page-description: Saiba mais sobre o Adobe Developer App Builder usado com o Adobe Commerce e quais tipos de arquivos são inseridos na pasta de ações.
 kt: 12422
 doc-type: tutorial
+duration: 465
 audience: all
 last-substantial-update: 2023-3-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '209'
 ht-degree: 0%
@@ -36,7 +37,7 @@ Os nomes reais das pastas neste exemplo são arbitrários, mas conhecer seus nom
 * A finalidade do arquivo JavaScript encontrado nas pastas `actions` e `commerce`
 * Uma visão geral rápida dos arquivos de autenticação do OAuth
 
->[!VIDEO](https://video.tv.adobe.com/v/3416590?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416590?learn=on)
 
 ## Amostras de código
 

@@ -6,11 +6,11 @@ topic: Commerce, Security
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 152
+duration: 195
 last-substantial-update: 2025-05-12T00:00:00Z
 jira: KT-18082
 exl-id: 8a109d90-a11c-4323-9486-abe48a2e1bff
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -33,11 +33,11 @@ Saiba como a Adobe e os comerciantes compartilham a responsabilidade de manter a
 * Resposta a incidentes: os comerciantes precisam responder prontamente aos alertas de segurança, que podem ser exibidos por vários canais, como emails e notificações de administradores.
 * Práticas recomendadas: a Adobe recomenda práticas recomendadas para comerciantes, incluindo a ativação da autenticação de dois fatores, a configuração do acesso administrativo seguro e o cumprimento do princípio de privilégio mínimo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3458392/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3458392?learn=on)
 
 ## Documentação adicional
 
-* [Notas de versão de correção de segurança](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/notes/security-patches/overview)
+* [Notas de versão de correção de segurança](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
 * [Canais de notificação](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Boletins de Segurança do Adobe](https://helpx.adobe.com/br/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [Proteger seu site e sua infraestrutura de comércio](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Boletins de Segurança do Adobe](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Proteger seu site e sua infraestrutura de comércio](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)

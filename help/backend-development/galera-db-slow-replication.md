@@ -3,6 +3,7 @@ title: Saiba como encontrar consultas lentas em logs de consulta lenta do mysql 
 description: O Galera DB tem um método de design que faz com que a replicação de dados em bancos de dados secundários demore mais do que o principal. Saiba como localizar esses eventos no log de consulta lenta do mysql e o motivo pelo qual você vê entradas nos logs de consulta lenta e talvez como evitá-los no futuro.
 kt: 13635
 doc-type: video
+duration: 452
 activity: use
 last-substantial-update: 2023-7-18
 feature: Backend Development, Logs, Services
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 4a8a2df1-8cac-4bd9-851f-0eaae011b76c
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '304'
 ht-degree: 0%
@@ -26,20 +27,20 @@ Como solução, se possível, coloque suas grandes operações em lote para ajud
 
 ## Para quem é este vídeo?
 
-- Arquitetos
-- Desenvolvedores
-- DevOps
+* Arquitetos
+* Desenvolvedores
+* DevOps
 
 ## Conteúdo de vídeo
 
-- Replicação de galera para o banco de dados secundário
-- Saiba mais sobre o controle de fluxo
-- Localizando números de thread em logs de consulta lenta do mysql
-- Execuções em massa ocorrem somente no principal. As replicações ocorrem uma de cada vez
-- Adicione em lote suas grandes confirmações para ajudar a replicação a acompanhar o principal
+* Replicação de galera para o banco de dados secundário
+* Saiba mais sobre o controle de fluxo
+* Localizando números de thread em logs de consulta lenta do mysql
+* Execuções em massa ocorrem somente no principal. As replicações ocorrem uma de cada vez
+* Adicione em lote suas grandes confirmações para ajudar a replicação a acompanhar o principal
 
->[!VIDEO](https://video.tv.adobe.com/v/3423544?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
 
 ## Recursos úteis
 
-- [Cluster Galera](https://galeracluster.com/)
+* [Cluster Galera](https://galeracluster.com/)

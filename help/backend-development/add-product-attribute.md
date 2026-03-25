@@ -3,6 +3,7 @@ title: Criar um atributo de produto
 description: Crie uma página que retorne json com um parâmetro.
 kt: 14131
 doc-type: video
+duration: 605
 activity: use
 last-substantial-update: 2023-2-10
 feature: Configuration, System, Backend Development
@@ -10,7 +11,7 @@ topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
-source-git-commit: d6aeac0c4c66bd8117cc9ef1e0186bbb19cf23e9
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 0%
@@ -23,29 +24,29 @@ Adicionar um atributo de produto é uma das operações mais populares do [!DNL 
 
 Neste vídeo:
 
-- Adicione um atributo chamado Clothes_Material com os valores possíveis: Algodão, Couro, Seda, Denim, Pele e Lã
-- Tornar este atributo visível na página de exibição do produto, em negrito
-- Atribuir ao conjunto de atributos padrão e adicionar uma restrição
-- Adicionar o novo atributo
+* Adicione um atributo chamado Clothes_Material com os valores possíveis: Algodão, Couro, Seda, Denim, Pele e Lã
+* Tornar este atributo visível na página de exibição do produto, em negrito
+* Atribuir ao conjunto de atributos padrão e adicionar uma restrição
+* Adicionar o novo atributo
 
 ## Para quem é este vídeo?
 
-- Desenvolvedores novatos no comércio que precisam aprender a criar um atributo de produto de forma programática
+* Desenvolvedores novatos no comércio que precisam aprender a criar um atributo de produto de forma programática
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3414162?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/35789?learn=on)
 
 ## Amostra de código
 
 Primeiro, crie as pastas, os arquivos xml e PHP necessários:
 
-- app/code/Learning/ClothingMaterial/registration.php
-- app/code/Learning/ClothingMaterial/etc/module.xml
-- app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
-- app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
-- app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
-- app/code/Learning/ClothingMaterial/Setup/InstallData.php
+* app/code/Learning/ClothingMaterial/registration.php
+* app/code/Learning/ClothingMaterial/etc/module.xml
+* app/code/Learning/ClothingMaterial/Model/Attribute/Backend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Frontend/Material.php
+* app/code/Learning/ClothingMaterial/Model/Attribute/Source/Material.php
+* app/code/Learning/ClothingMaterial/Setup/InstallData.php
 
 ### app/code/Learning/ClothingMaterial/registration.php
 

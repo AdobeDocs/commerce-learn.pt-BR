@@ -2,6 +2,7 @@
 title: Usar observação para o Adobe Commerce
 description: Assista a este vídeo técnico e saiba como usar a ferramenta de observação para Adobe Commerce.
 doc-type: technical video
+duration: 214
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, Admin
 level: Beginner, Intermediate
 exl-id: 8c7dab74-7fc4-4d1d-866a-a05a23cbf3fd
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -24,14 +25,14 @@ Neste vídeo, saiba mais sobre a Ferramenta de observação para o Adobe Commerc
 
 ## Para quem é este vídeo?
 
-- Gerentes de sites
-- Desenvolvedores
+* Gerentes de sites
+* Desenvolvedores
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412493?captions=por_br&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344444?learn=on)
 
 ## Recursos adicionais
 
-- [Observação para Adobe Commerce - Artigo de suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?lang=pt-BR&)
-- [Usar observação para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html?lang=pt-BR)
+* [Observação para Adobe Commerce - Artigo de suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/observation/observation-adobe-commerce-overview.html?)
+* [Usar observação para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)

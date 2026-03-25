@@ -6,11 +6,11 @@ topic: Content Management, Artificial Intelligence
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 422
+duration: 442
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20085
 exl-id: a0907b98-f0c2-4256-8e33-d16e0694ae74
-source-git-commit: de84a587c0d3b85e04929bd97c96e319f096edae
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 0%
@@ -33,4 +33,4 @@ Saiba como o Adobe Commerce permite que profissionais de marketing gerenciem con
 * Descubra como as variações alimentadas por IA e os testes A/B melhoram a qualidade e o envolvimento do conteúdo.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3478791/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478791?learn=on)

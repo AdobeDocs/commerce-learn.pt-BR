@@ -6,11 +6,11 @@ topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 182
+duration: 243
 last-substantial-update: 2025-08-13T00:00:00Z
 jira: KT-18548
 exl-id: bad3d926-2952-4bac-b685-adb16f009f8d
-source-git-commit: 5d34c2e3b93c937139e88fa2f75dc6046f7093fc
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Saiba como consultar dados usando o GraphQL em uma instância do Adobe Commerce 
 * Consultar dados usando o GraphQL
 * Usar jq para facilitar a leitura do json
 
->[!VIDEO](https://video.tv.adobe.com/v/3470805?learn=on&enablevpops&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3470800?learn=on)
 
 ## Amostras de código
 
@@ -57,4 +57,4 @@ curl '{{insert-your-graphql-endpoint-url}}' \
 ## Conteúdo relacionado
 
 * [Introdução à API de merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
-* [[!DNL Adobe Commerce Optimizer] Guia](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/overview){target="_blank"}
+* [[!DNL Adobe Commerce Optimizer] Guia](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}

@@ -2,6 +2,7 @@
 title: O Representante de vendas inicia a cotação B2B usando a REST API
 description: Saiba como o representante de vendas pode iniciar a cotação da API REST do Adobe Commerce.
 doc-type: feature video
+duration: 250
 audience: all
 activity: use
 kt: 13797
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 560f12e2-3713-4a77-94c6-226da205ad8c
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -26,12 +27,12 @@ Saiba como o representante de vendas pode iniciar a cotação da API REST do Ado
 
 ## Para quem é este vídeo?
 
-- Gerentes de sites
-- Merchandisers de comércio eletrônico
-- Desenvolvedores
+* Gerentes de sites
+* Merchandisers de comércio eletrônico
+* Desenvolvedores
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3423714?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3420414?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

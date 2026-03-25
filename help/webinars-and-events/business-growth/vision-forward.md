@@ -7,16 +7,16 @@ old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 976
+duration: 1016
 last-substantial-update: 2025-10-10T00:00:00Z
 jira: KT-19377
-source-git-commit: 6e11d096c445635286f4e8c8adf821fed5c460fd
+exl-id: a7f9ce6d-4bad-4fe2-8692-b8a02fc6dde6
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
 
 ---
-
 
 # Crescimento dos negócios com o roteiro da Adobe para o futuro
 
@@ -36,4 +36,4 @@ O roteiro da Adobe Commerce para 2026 descreve uma estratégia abrangente para a
 * Centro de comerciantes e experiência de administração
 * Melhorias na experiência do desenvolvedor e na capacidade de observação
 
->[!VIDEO](https://video.tv.adobe.com/v/3475711/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475695?learn=on)

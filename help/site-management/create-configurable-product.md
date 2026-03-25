@@ -3,6 +3,7 @@ title: Criar um produto configurável
 description: Saiba como criar um produto configurável usando a REST API e o administrador do Commerce.
 kt: 14586
 doc-type: video
+duration: 1760
 audience: all
 activity: use
 last-substantial-update: 2023-12-15T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
-source-git-commit: 765bf4159892416e02ea1e9b8e4fa69e396d40af
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
@@ -30,7 +31,7 @@ Neste tutorial, saiba como criar um produto configurável usando a API REST e o 
 
 Use a REST API para criar um produto configurável:
 
-1. Obtenha os atributos de um [conjunto de atributos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=pt-BR) para usar os números de identificação para chamadas de API subsequentes.
+1. Obtenha os atributos de um [conjunto de atributos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) para usar os números de identificação para chamadas de API subsequentes.
 1. Crie produtos simples para usar no produto configurável.
 1. Crie um produto configurável vazio e associe os produtos simples.
 1. Defina os atributos do produto para o produto configurável.
@@ -43,9 +44,9 @@ Ao criar produtos configuráveis no Adobe Commerce Admin, você pode criar os pr
 
 ## Para quem é este vídeo?
 
-- Gerentes de sites
-- Merchandisers de comércio eletrônico
-- Novos desenvolvedores do Adobe Commerce que desejam aprender como criar produtos configuráveis no Adobe Commerce usando a REST API
+* Gerentes de sites
+* Merchandisers de comércio eletrônico
+* Novos desenvolvedores do Adobe Commerce que desejam aprender como criar produtos configuráveis no Adobe Commerce usando a REST API
 
 ## Conteúdo de vídeo
 
@@ -96,12 +97,12 @@ curl --location '{{your.url.here}}rest/V1/products/attribute-sets/10/attributes'
 
 ### Ajustar IDs de ambiente e detalhes do produto
 
-Crie o primeiro produto simples usando a API para enviar a seguinte solicitação de POST usando cURL.
+Crie o primeiro produto simples usando a API para enviar a seguinte solicitação POST usando cURL.
 
 Antes de enviar a solicitação, atualize o exemplo com os valores do seu ambiente.
 
-- Altere `"attribute-set": 10` para substituir `10` pela ID do conjunto de atributos de seu ambiente.
-- Altere `"value": "13"` para substituir `13` pelo valor do seu ambiente.
+* Altere `"attribute-set": 10` para substituir `10` pela ID do conjunto de atributos de seu ambiente.
+* Altere `"value": "13"` para substituir `13` pelo valor do seu ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -137,12 +138,12 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Criar o segundo produto simples usando o cURL
 
-Crie o segundo produto simples usando a API para enviar a seguinte solicitação de POST usando cURL.
+Crie o segundo produto simples usando a API para enviar a seguinte solicitação POST usando cURL.
 
 Antes de enviar a solicitação, atualize o exemplo com os valores do seu ambiente.
 
-- Altere `"attribute_set_id": 10,` e substitua `10` pela ID do conjunto de atributos de em seu ambiente.
-- Altere `"value": "14"` e substitua `14` pelo valor do seu ambiente.
+* Altere `"attribute_set_id": 10,` e substitua `10` pela ID do conjunto de atributos de em seu ambiente.
+* Altere `"value": "14"` e substitua `14` pelo valor do seu ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -178,12 +179,12 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Criar o terceiro produto simples usando o cURL
 
-Crie o terceiro produto simples enviando a seguinte solicitação de POST usando cURL.
+Crie o terceiro produto simples enviando a seguinte solicitação POST usando o cURL.
 
 Antes de enviar a solicitação, atualize o exemplo com os valores do seu ambiente.
 
-- Altere `"attribute_set_id": 10,` para substituir `10` pela ID do conjunto de atributos de seu ambiente.
-- Altere `"value": "15"` e substitua `15` pelo valor do seu ambiente.
+* Altere `"attribute_set_id": 10,` para substituir `10` pela ID do conjunto de atributos de seu ambiente.
+* Altere `"value": "15"` e substitua `15` pelo valor do seu ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -219,12 +220,12 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Criar um produto configurável vazio usando o cURL
 
-Crie um produto configurável vazio enviando a seguinte solicitação de POST usando cURL.
+Crie um produto configurável vazio enviando a seguinte solicitação POST usando o cURL.
 
 Antes de enviar a solicitação, atualize o exemplo com os valores do seu ambiente.
 
-- Altere `"attribute_set_id": 10,` e substitua `10` pela ID do conjunto de atributos de seu ambiente.
-- Altere `"value": "93"` e substitua `93` pelo valor do seu ambiente.
+* Altere `"attribute_set_id": 10,` e substitua `10` pela ID do conjunto de atributos de seu ambiente.
+* Altere `"value": "93"` e substitua `93` pelo valor do seu ambiente.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/products' \
@@ -252,7 +253,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products' \
 
 ## Definir as opções disponíveis para o produto configurável
 
-Defina as opções disponíveis para o produto configurável, enviando a solicitação POST a seguir usando cURL.
+Defina as opções disponíveis para o produto configurável, enviando a seguinte solicitação POST usando cURL.
 
 Antes de enviar a solicitação, altere `"attribute_id": 93,` para substituir `93` pela ID de atributo do seu ambiente.
 
@@ -284,11 +285,11 @@ Se você esquecer de definir as opções do produto configurável (principal), r
 
 Agora, você criou três produtos simples:
 
-- `"Kids Hawaiian Ukulele Red"`,
-- `"Kids-Hawaiian-Ukulele-Blue"`
-- `"Kids-Hawaiian-Ukulele-Green"`
+* `"Kids Hawaiian Ukulele Red"`,
+* `"Kids-Hawaiian-Ukulele-Blue"`
+* `"Kids-Hawaiian-Ukulele-Green"`
 
-Adicione esses produtos simples como filhos do produto configurável enviando a solicitação POST a seguir. Envie uma solicitação separada para cada produto.
+Adicione estes produtos simples como filhos do produto configurável, enviando a seguinte solicitação POST. Envie uma solicitação separada para cada produto.
 
 Para cada solicitação, atualize o valor `childSKU` com o valor do produto filho que você está adicionando. O exemplo a seguir atribui o produto simples `kids-Hawaiian-Ukulele-red` ao produto configurável com o SKU `Kids-Hawaiian-Ukulele-red`.
 
@@ -327,7 +328,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/Kids-Hawaiian-Ukulel
 
 ## Obter o produto filho associado a um produto configurável
 
-Retorne somente os filhos associados ao produto configurável enviando a solicitação GET a seguir. A resposta incluirá todos os atributos do produto secundário, incluindo SKU e preço.
+Retorne somente os filhos associados ao produto configurável enviando a seguinte solicitação do GET. A resposta incluirá todos os atributos do produto secundário, incluindo SKU e preço.
 
 O seguinte usa o método GET
 
@@ -338,7 +339,7 @@ curl --location '{{your.url.here}}/rest/default/V1/configurable-products/kids-ha
 
 ## Excluir ou remover um produto filho do configurável pai
 
-Você pode remover um produto filho de um produto configurável sem excluir o produto do catálogo enviando a seguinte solicitação de DELETE usando cURL.
+Você pode remover um produto filho de um produto configurável sem excluir o produto do catálogo enviando a seguinte solicitação do DELETE usando o cURL.
 
 ```bash
 curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable-products/Kids-Hawaiian-Ukulele/children/Kids-Hawaiian-Ukulele-Blue' \
@@ -347,7 +348,7 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 
 ## Recursos adicionais
 
-- [Criar um tutorial de produto configurável](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-- [Produto Configurável](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=pt-BR){target="_blank"}
-- [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-- [ReDoc do Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [Criar um tutorial de produto configurável](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
+* [Produto Configurável](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
+* [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [Documento Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

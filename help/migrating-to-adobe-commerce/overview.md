@@ -7,11 +7,11 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 167
+duration: 201
 last-substantial-update: 2024-10-02T00:00:00Z
 jira: KT-11767
 exl-id: 9b9504c1-0888-46da-b25e-0a5e16833d84
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -36,4 +36,4 @@ Bem-vindo a esta série abrangente de tutoriais de migração do Adobe Commerce.
 * Conheça as etapas essenciais e as práticas recomendadas para uma migração bem-sucedida para o Adobe Commerce.
 * Avalie e otimize o código personalizado e os módulos de terceiros e entenda os principais conceitos de controle de qualidade.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444325/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432846?learn=on)

@@ -2,6 +2,7 @@
 title: Uso do Adobe Commerce mostra notas de item de linha para uma cotação
 description: Saiba mais sobre notas de item de linha em uma cotação B2B no Adobe Commerce
 doc-type: feature video
+duration: 227
 audience: all
 activity: use
 kt: 13799
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: c4bfd5d2-0099-4bde-babe-79ad8815b8eb
-source-git-commit: 598bff1fd2cefdc449d5ae3431401aec1e796313
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
@@ -26,12 +27,12 @@ Saiba como usar as notas de item de linha para uma cotação B2B do Adobe Commer
 
 ## Para quem é este vídeo?
 
-- Gerentes de sites
-- Merchandisers de comércio eletrônico
-- Desenvolvedores
+* Gerentes de sites
+* Merchandisers de comércio eletrônico
+* Desenvolvedores
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3423696?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

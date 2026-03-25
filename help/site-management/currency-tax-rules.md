@@ -3,6 +3,7 @@ title: Gerenciar Regras de Moeda e Imposto
 description: Saiba como configurar a moeda e as regras de imposto que o [!DNL Commerce] usa para calcular o imposto apropriado de acordo com as classes de cliente e produto.
 kt: 10542
 doc-type: feature video
+duration: 157
 audience: all
 activity: use
 last-substantial-update: 2023-04-27T00:00:00Z
@@ -11,7 +12,7 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: d72fd055-1497-41e7-ae2c-2bbc837d974c
-source-git-commit: 404d2708a6d540d6fb19a33afb20726356cd8000
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -24,14 +25,14 @@ As regras de imposto incorporam uma combinação de classe de produto, classe de
 
 ## Para quem é este vídeo?
 
-- Administradores de armazenamento
-- Gerentes de comércio eletrônico
+* Administradores de armazenamento
+* Gerentes de comércio eletrônico
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411983?quality=12&learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/343657?learn=on)
 
 ## Recursos adicionais
 
-- [Regras de impostos - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html?lang=pt-BR)
-- [Moeda - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html?lang=pt-BR)
+* [Regras de impostos - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/taxes/tax-rules.html)
+* [Moeda - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/site-store/currency/currency.html)

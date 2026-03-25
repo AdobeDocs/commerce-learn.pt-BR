@@ -6,16 +6,16 @@ topic: Administration, Commerce, Security
 role: Admin, User
 level: Beginner
 doc-type: Technical Video
-duration: 256
+duration: 299
 last-substantial-update: 2024-10-09T00:00:00Z
 jira: KT-16186
-source-git-commit: f029ed2ca8e09c2937a39299477c4516b6b76c4f
+exl-id: 490cf618-9ebe-478d-9e12-49dde50ceae8
+source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
 workflow-type: tm+mt
 source-wordcount: '194'
 ht-degree: 0%
 
 ---
-
 
 # Funções de administrador do Adobe Commerce
 
@@ -23,14 +23,14 @@ Saiba mais sobre o processo de fazer logon no Portal de administração do Adobe
 
 ## Para quem é este vídeo
 
-- Administradores de armazenamento e usuários empresariais responsáveis pelo gerenciamento de acesso e permissões.
-- Novos proprietários de lojas que precisam de instruções sobre como criar funções com permissões específicas e atribuir usuários a essas funções
-- Projetos do Adobe Commerce interessados em garantir o gerenciamento seguro e eficiente das tarefas administrativas realizadas no administrador do Adobe Commerce.
+* Administradores de armazenamento e usuários empresariais responsáveis pelo gerenciamento de acesso e permissões.
+* Novos proprietários de lojas que precisam de instruções sobre como criar funções com permissões específicas e atribuir usuários a essas funções
+* Projetos do Adobe Commerce interessados em garantir o gerenciamento seguro e eficiente das tarefas administrativas realizadas no administrador do Adobe Commerce.
 
 ## Conteúdo de vídeo
 
-- Saiba mais sobre os métodos de logon mais recentes.
-- Obter uma boa compreensão da criação e do gerenciamento de funções
-- Entenda a atribuição de usuários e os níveis de acesso. &#x200B;
+* Saiba mais sobre os métodos de logon mais recentes.
+* Obter uma boa compreensão da criação e do gerenciamento de funções
+* Entenda a atribuição do usuário e os níveis de acesso. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433518?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
