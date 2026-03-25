@@ -33,7 +33,7 @@ Este vídeo faz parte da série de integração técnica da Adobe Commerce Cloud
 * Workflows de validação, otimização e depuração.
 * Ferramentas ECE, Ferramenta de correções de qualidade, New Relic, Xdebug e gerenciamento de registros.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432818?captions=por_br&learn=on)
 
 ## Documentação do Experience League mencionada no vídeo
 
