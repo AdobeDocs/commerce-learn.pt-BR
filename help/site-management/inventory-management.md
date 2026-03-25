@@ -34,5 +34,5 @@ Comerciantes com uma única loja para vários depósitos, lojas, locais de retir
 
 ## Recursos adicionais
 
-* [Guia do Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
+* [Guia do Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=pt-BR)
 * [Inventory management - Documentação REST do desenvolvedor](https://developer.adobe.com/commerce/webapi/rest/inventory/)
