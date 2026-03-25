@@ -27,7 +27,7 @@ Escolha uma das opções abaixo para saber mais.
 
 >[!BEGINTABS]
 
->Manual[!TAB 1]
+>[!TAB Manual 1]
 
 ## Criação manual dos produtos {#manual-import}
 
