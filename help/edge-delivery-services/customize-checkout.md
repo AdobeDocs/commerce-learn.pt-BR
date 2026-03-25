@@ -35,7 +35,7 @@ Saiba mais sobre exemplos para personalização da experiência de entrega ao ca
 * Implementação da finalização em várias etapas&#x200B;
 * Reutilizar código e práticas recomendadas existentes
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442655?captions=por_br&learn=on)
 
 ## Documentação adicional
 

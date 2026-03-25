@@ -45,6 +45,6 @@ Saiba mais sobre a importância das atividades de pós-processamento por meio do
 * Saiba mais sobre a função do gancho de transformação na transformação de objetos de dados entre os sistemas de origem e destino.
 * Saiba mais sobre o significado do gancho de envio para facilitar o envio de dados reais para o sistema de destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451926?captions=por_br&learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
