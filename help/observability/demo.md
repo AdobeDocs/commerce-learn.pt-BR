@@ -3,19 +3,19 @@ title: Demonstração da capacidade de observação
 description: Saiba como o Adobe Commerce usa observabilidade, webhooks e correlação de eventos para rastreamento e depuração de pedidos perfeitos
 feature: Observability, Extensibility, App Builder
 topic: Architecture, Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 463
+duration: 508
 last-substantial-update: 2025-12-12T00:00:00Z
 jira: KT-20000
-source-git-commit: c0a2aa9b657b3ad0edc2cafb28f53970db4e1b42
+exl-id: 3ebb1778-5e15-4bcf-8efc-037d3f51c0a4
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
-
 
 # Demonstração da capacidade de observação
 
@@ -33,7 +33,7 @@ Assista a uma demonstração ao vivo da observabilidade no Adobe Commerce. Esta 
 * Explica a correlação de webhooks e eventos para rastreabilidade
 * Mostra a integração com o Grafana e o New Relic para logs e rastreamentos
 
->[!VIDEO](https://video.tv.adobe.com/v/3477872?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3477867?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

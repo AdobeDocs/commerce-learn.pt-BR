@@ -3,19 +3,19 @@ title: Abrir Telemetria
 description: Unifique a observabilidade com o OpenTelemetry — logs, rastreamentos e métricas para monitoramento perfeito e análise de causas básicas.
 feature: Observability,Extensibility,App Builder
 topic: Performance
-role: Architect, Developer
+role: Developer
 level: Intermediate
 doc-type: Technical Video
-duration: 137
+duration: 175
 last-substantial-update: 2025-12-18T00:00:00Z
 jira: KT-19975
-source-git-commit: 25ff63e552412a90796efb29f56d8b1675143cf2
+exl-id: 697d4290-1181-4fde-b8a8-132de9057264
+source-git-commit: 28257af422ceea62585d4f19ad7c81576c4a3653
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
 
 ---
-
 
 # Abrir telemetria
 
@@ -33,7 +33,7 @@ Saiba como a Telemetria aberta padroniza a observabilidade em logs, rastreamento
 * Correlacionar logs, rastreamentos e métricas para agilizar a análise da causa principal
 * Manter ferramentas de monitoramento existentes ao unificar fluxos de dados
 
->[!VIDEO](https://video.tv.adobe.com/v/3478328?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 
