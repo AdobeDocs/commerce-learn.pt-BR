@@ -44,4 +44,4 @@ Você aprende a navegar na experiência da loja da Adobe Commerce no Edge Delive
 * Trabalhar com o carrinho e os pedidos: adicionar itens, fazer check-out como convidado, cancelar pedidos, reordenar e processar devoluções.
 * Atualize as informações da conta, mescle carrinhos de convidado e de cliente e mantenha o check-out consistente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446767?captions=por_br&learn=on)

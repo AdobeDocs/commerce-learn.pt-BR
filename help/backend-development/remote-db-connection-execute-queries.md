@@ -26,7 +26,7 @@ Saiba como se conectar a um projeto do Adobe Commerce na nuvem, criar um despejo
 * Conecte-se a um projeto remoto da Adobe Commerce Cloud com uma ferramenta de GUI, como MySQL Workbench ou TablePlus.
 * Conecte-se ao projeto e execute o SQL a partir da linha de comando.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450041?captions=por_br&learn=on)
 
 Você pode acessar os dados do Adobe Commerce do seu projeto na nuvem usando um dos seguintes métodos:
 

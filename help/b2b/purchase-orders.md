@@ -38,7 +38,7 @@ Com as permissões necessárias para sua função, os clientes B2B podem configu
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344450?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412496?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

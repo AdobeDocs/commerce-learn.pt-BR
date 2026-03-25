@@ -34,4 +34,4 @@ Os Adobe Commerce Success Accelerators para adoção e capacitação incluem tr�
 * Treinamento de várias sessões no suporte técnico para preencher lacunas de habilidades e alinhar-se às prioridades estratégicas.
 * Criação de acesso, permissões e controle de design para garantir a adoção adequada dos produtos e as práticas recomendadas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457657?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463083?captions=por_br&learn=on)

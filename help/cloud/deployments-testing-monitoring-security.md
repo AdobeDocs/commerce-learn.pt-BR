@@ -31,7 +31,7 @@ Saiba mais sobre as estratégias de implantação da Adobe Commerce Cloud, prát
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427818?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432828?captions=por_br&learn=on)
 
 ## Documentação do Experience League mencionada no vídeo
 

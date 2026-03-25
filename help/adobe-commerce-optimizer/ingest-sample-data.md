@@ -33,7 +33,7 @@ Saiba como assimilar os dados de amostra da sua instância do Adobe Commerce Opt
 * Criar Políticas.
 * Criar Exibições do Catálogo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470472?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470479?captions=por_br&learn=on)
 
 ## Conteúdo relacionado
 

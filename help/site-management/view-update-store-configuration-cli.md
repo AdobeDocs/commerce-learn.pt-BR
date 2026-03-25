@@ -27,7 +27,7 @@ Uma demonstração de como visualizar, definir e encontrar valores de configura�
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3427123?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439975?captions=por_br&learn=on)
 
 ## Alguns comandos usados no tutorial
 

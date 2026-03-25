@@ -30,7 +30,7 @@ Usar modelos economiza tempo e esforço ao criar conteúdo (ou substituir conte�
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343787?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412503?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

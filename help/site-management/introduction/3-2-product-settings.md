@@ -40,7 +40,7 @@ Neste vídeo:
 >
 >O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=pt-BR).
 
->[!VIDEO](https://video.tv.adobe.com/v/35953?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330012?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

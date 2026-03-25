@@ -30,7 +30,7 @@ Os grupos de clientes determinam quais descontos estão disponíveis e a classe 
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343660?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411964?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

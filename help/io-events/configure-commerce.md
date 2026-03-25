@@ -36,7 +36,7 @@ Saiba como configurar o Adobe Commerce para expor os eventos. Documentação adi
 * Salvar o identificador exclusivo no administrador do Commerce
 * Criar um provedor de eventos
 
->[!VIDEO](https://video.tv.adobe.com/v/3415799?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430614?captions=por_br&learn=on)
 
 ## Comandos úteis {#useful-commands}
 

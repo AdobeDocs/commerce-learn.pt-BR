@@ -33,6 +33,6 @@ Saiba como usar o desconto de item de linha e ver os valores usando o administra
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445590?captions=por_br&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

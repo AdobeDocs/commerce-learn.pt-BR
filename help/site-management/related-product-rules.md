@@ -31,7 +31,7 @@ As regras de produtos relacionados permitem direcionar a seleção de produtos a
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343837?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417363?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

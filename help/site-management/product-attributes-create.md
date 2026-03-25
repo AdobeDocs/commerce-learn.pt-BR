@@ -30,7 +30,7 @@ A Adobe Commerce usa atributos para gerenciar as informações associadas a prod
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343749?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411960?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

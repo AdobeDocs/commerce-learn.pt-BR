@@ -38,7 +38,7 @@ Neste vídeo:
 * Instale e execute o UCT do PhpStorm.
 * Revise relatórios do HTML e priorize correções.
 
->[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344409?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

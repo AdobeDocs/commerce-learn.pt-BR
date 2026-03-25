@@ -31,7 +31,7 @@ Um bloco é uma unidade modular de conteúdo que pode ser posicionada em qualque
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343783?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417365?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

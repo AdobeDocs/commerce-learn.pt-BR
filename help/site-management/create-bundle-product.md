@@ -62,7 +62,7 @@ Ao criar pacotes de produtos do administrador do Adobe Commerce, você pode cria
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454504?captions=por_br&learn=on)
 
 ## Criar produtos com REST
 

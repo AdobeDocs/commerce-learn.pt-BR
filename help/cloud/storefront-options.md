@@ -35,4 +35,4 @@ Ele se integra perfeitamente com as ferramentas de experiência digital da Adobe
 * Permitir a personalização em tempo real e o gerenciamento eficiente de ativos digitais
 * Capacitação de usuários não técnicos
 
->[!VIDEO](https://video.tv.adobe.com/v/3431725?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448391?captions=por_br&learn=on)

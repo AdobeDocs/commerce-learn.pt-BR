@@ -32,7 +32,7 @@ A ferramenta de regravação de URL permite alterar qualquer URL associado a um 
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343751?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411958?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

@@ -34,7 +34,7 @@ Neste vídeo:
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/35950?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/330028?captions=por_br&learn=on)
 
 ## Recursos adicionais
 
