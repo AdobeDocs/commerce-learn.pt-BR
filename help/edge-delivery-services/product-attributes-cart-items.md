@@ -43,4 +43,4 @@ Saiba como usar o menu suspenso do carrinho do Adobe Commerce e ajustar o fluxo 
 
 ## Documentação adicional
 
-* [Adicionar linhas de produto ao carrinho](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)
+* [Adicionar linhas de produto ao carrinho](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=pt-BR)

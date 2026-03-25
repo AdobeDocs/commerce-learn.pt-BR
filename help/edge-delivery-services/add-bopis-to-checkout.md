@@ -41,4 +41,4 @@ Saiba como usar o carrinho do Adobe Commerce do Edge Delivery Services para forn
 
 ## Documentação adicional
 
-* [Comprar retirada online na loja](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/)
+* [Comprar retirada online na loja](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/buy-online-pickup-in-store/?lang=pt-BR)

@@ -39,4 +39,4 @@ Saiba mais sobre exemplos para personalização da experiência de entrega ao ca
 
 ## Documentação adicional
 
-* [Check-out de convidado em várias etapas](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Check-out de convidado em várias etapas](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=pt-BR)
