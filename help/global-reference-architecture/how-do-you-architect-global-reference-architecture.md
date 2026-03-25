@@ -4,6 +4,7 @@ description: Saiba como arquitetar uma arquitetura de referência global. Conhe�
 landing-page-description: Saiba como arquitetar uma arquitetura de referência global com o Adobe Commerce
 kt: 14041
 doc-type: video
+duration: 3124
 audience: all
 last-substantial-update: 2023-10-3
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: d83d7bef-3253-43bc-a442-d13b0afbae4e
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%

@@ -5,6 +5,7 @@ landing-page-description: Saiba como usar a ação de tempo de execução do App
 short-description: Criar uma ação de tempo de execução do App Builder para eventos do Adobe Commerce.
 kt: 14583
 doc-type: tutorial
+duration: 750
 audience: all
 last-substantial-update: 2023-11-27T00:00:00Z
 feature: App Builder, Eventing, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 266d13ac-439e-4590-a0be-e22ea8e34014
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 0%

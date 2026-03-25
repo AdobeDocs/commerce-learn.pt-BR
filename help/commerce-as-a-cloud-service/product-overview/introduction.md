@@ -6,16 +6,16 @@ topic: Commerce, Personalization
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 48
+duration: 69
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20095
-source-git-commit: 9a05cac9fe45aa709ca98a9e8f91a94b37588a5a
+exl-id: 02018072-b6e8-42f1-925c-322aed9e6aca
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
 
 ---
-
 
 # Introdução ao Adobe Commerce as a Cloud Service
 

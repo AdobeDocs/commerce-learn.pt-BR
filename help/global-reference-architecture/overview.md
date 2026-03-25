@@ -3,6 +3,7 @@ title: Otimização da reutilização do código com o Adobe Commerce
 description: Saiba como otimizar a reutilização de código no Adobe Commerce com padrões de arquitetura de referência global, melhorando o desempenho e a conformidade em várias instâncias.
 kt: 15773
 doc-type: tutorial
+duration: 287
 audience: all
 last-substantial-update: 2025-1-6
 feature: Best Practices, Configuration, Install
@@ -12,7 +13,7 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
-source-git-commit: 79d57d2c04c42a8dc23b5735e72e841b7e51cc63
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '1119'
 ht-degree: 0%

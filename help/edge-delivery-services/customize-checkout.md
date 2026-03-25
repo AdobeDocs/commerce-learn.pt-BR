@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 853
+duration: 885
 last-substantial-update: 2025-1-2
 jira: KT-16723
 exl-id: e6b95ff0-9a41-43ac-9f02-c84a70747d64
-source-git-commit: e306b2cd26506f6a7ef37c2d416be7172dc3c0d2
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -19,11 +19,11 @@ ht-degree: 0%
 
 # Personalizar experiência de finalização de compra
 
-Saiba como personalizar a experiência de check-out no Adobe Commerce Edge Delivery Services a partir do componente de devolução ao carrinho, com foco na modificação das opções de envio e na implementação de um processo de check-out de várias etapas.
+Saiba como personalizar a experiência de check-out no Adobe Commerce a partir do componente devolução direta no carrinho do Edge Delivery Services, com foco na modificação das opções de envio e na implementação de um processo de check-out de várias etapas.
 
 ## O que você vai aprender
 
-Aprenda exemplos para personalizar a experiência de devolução ao carrinho de Edge Delivery Services removendo e adicionando elementos como opções de envio e custos estimados e implementando um processo de devolução em várias etapas, tudo isso enquanto reutiliza o código existente e segue as práticas recomendadas. &#x200B;
+Saiba mais sobre exemplos para personalização da experiência de entrega ao carrinho do Edge Delivery Services removendo e adicionando novamente elementos, como opções de envio e custos estimados, e implementando um processo de finalização de várias etapas, tudo isso enquanto reutiliza o código existente e segue as práticas recomendadas. &#x200B;
 
 ## Para quem é este vídeo?
 
@@ -35,8 +35,8 @@ Aprenda exemplos para personalizar a experiência de devolução ao carrinho de 
 * Implementação da finalização em várias etapas&#x200B;
 * Reutilizar código e práticas recomendadas existentes
 
->[!VIDEO](https://video.tv.adobe.com/v/3442655?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
 
 ## Documentação adicional
 
-* [Check-out de convidado em várias etapas](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=pt-BR)
+* [Check-out de convidado em várias etapas](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)

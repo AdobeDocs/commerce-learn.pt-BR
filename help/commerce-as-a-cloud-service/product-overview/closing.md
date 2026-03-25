@@ -6,16 +6,16 @@ topic: Commerce, Performance
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 45
+duration: 47
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20095
-source-git-commit: 22b0ab3d933fc0c517e3b70ca3301751645d1907
+exl-id: ed5829aa-7407-47cc-bf39-de6c7e31a10f
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
 
 ---
-
 
 # Fechamento do Adobe Commerce Cloud Service
 

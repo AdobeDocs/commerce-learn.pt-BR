@@ -6,11 +6,11 @@ topic: Commerce, Personalization
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 301
+duration: 327
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20091
 exl-id: 00697a95-139d-4032-bc72-66173a9e1675
-source-git-commit: d95cff3b820efb6685d3bbbdc6b293b1775326be
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

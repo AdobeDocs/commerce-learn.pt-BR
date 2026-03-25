@@ -7,12 +7,12 @@ old-role: Architect, Data Architect, Leader
 role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 3558
+duration: 3648
 last-substantial-update: 2024-04-26T00:00:00Z
 jira: KT-15393
 auto-video-transcripts: true
 exl-id: 3c31c204-a33f-4f8a-b74d-d81f5ad6c433
-source-git-commit: 13842248124d0089dc8489b15e6612dde86697db
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 0%

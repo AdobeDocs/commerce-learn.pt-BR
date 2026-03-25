@@ -6,11 +6,11 @@ topic: Architecture, Development
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 279
+duration: 181
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20092
 exl-id: fdbb45ca-b1dc-4015-bd4d-bbe90c442dbb
-source-git-commit: 8463195b62972d064f8b126ae286b30c050c3226
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Saiba mais sobre a organização do código-fonte no kit inicial de
 landing-page-description: Explorar a organização do código Source em um kit inicial de integração do Commerce
 kt: 15868
 doc-type: video
-duration: 420
+duration: 534
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Explore a lógica por trás da estrutura do código-fonte, detalhando como as pa
 
 * Entenda que as quatro pastas principais: `actions`, `scripts`, `test` e `utils`, com foco nas pastas `actions` e `scripts` durante a sessão. &#x200B;
 * Saiba mais sobre a pasta `actions` e como ela contém subpastas cruciais como `ingestion` e `webhook`.
-* Explore a pasta `actions` e o motivo de haver pastas específicas para entidades como `customer`, `order`, `product` e `stock`, cada uma contendo ações de tempo de execução estruturadas em pastas `commerce` e `external` para gerenciar eventos do Commerce e de sistemas de terceiros de maneira eficaz. &#x200B;
+* Explore a pasta `actions` e por que há pastas específicas para entidades como `customer`, `order`, `product` e `stock`, cada uma contendo ações de tempo de execução estruturadas em pastas `commerce` e `external` para gerenciar eventos do Commerce e de sistemas de terceiros de forma eficaz. &#x200B;
 * Saiba mais sobre a importância de não alterar o código na pasta `starter-kit-info`, que contém uma ação de tempo de execução usada pelo Adobe para rastrear as implantações do projeto com base no kit inicial. &#x200B;
 * Entenda a pasta `scripts` que contém scripts de automação como `commerce-event-subscribe` e `onboarding`, que automatizam a configuração de eventos, a configuração de provedores e a configuração do módulo Adobe I/O Events no Commerce. &#x200B;
 

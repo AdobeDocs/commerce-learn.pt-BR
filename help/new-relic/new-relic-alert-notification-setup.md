@@ -5,6 +5,7 @@ landing-page-description: Saiba como encontrar alertas, políticas e mecanismos 
 short-description: Saiba como adicionar um novo endereço de email a uma política de alerta existente no New Relic.
 kt: 15984
 doc-type: technical video
+duration: 162
 audience: all
 last-substantial-update: 2024-08-14T00:00:00Z
 feature: Tools and External Services, Communications, Security
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: e7c6b05a-18e0-4807-a924-cf5a52be6ec1
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -35,4 +36,4 @@ Saiba como localizar alertas, políticas, fluxos de trabalho e destinos no New R
 * Saiba mais sobre notificações de alerta, políticas e fluxos de trabalho
 * Salvar o destino e validar o novo email foi adicionado a uma política
 
->[!VIDEO](https://video.tv.adobe.com/v/3441206?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

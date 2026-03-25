@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 613
+duration: 856
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: 9bb310a586c707ff02c3d8a1d13e86075baec603
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -40,8 +40,8 @@ Gerentes de projeto que precisam acompanhar o progresso das tarefas de desenvolv
 * Validação e tratamento de erros para os campos de entrada de endereço, garantindo que os usuários recebam feedback imediato sobre entradas incorretas ou incompletas, melhorando a experiência do usuário.
 * Extensão do Painel da conta do usuário que adiciona um novo item de menu da barra lateral ao painel da conta do usuário.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442911?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## Documentação adicional
 
-* [Conta de usuário](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=pt-BR)
+* [Conta de usuário](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)

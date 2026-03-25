@@ -7,16 +7,16 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 598
+duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
 
 ---
-
 
 # Saiba mais sobre a arquitetura do Salesforce Commerce Cloud Starter Kit
 
@@ -34,4 +34,4 @@ Saiba mais sobre como configurar e implantar o App Builder Starter Kit para Sale
 * Clonar o App Builder Starter Kit e configurar os arquivos de ambiente usando a CLI do Adobe IO.
 * Implante o aplicativo e confirme se o registro de ações e eventos foi bem-sucedido no espaço de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476087?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)

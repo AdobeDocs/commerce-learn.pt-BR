@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Development, Headless, Integrations, Performance,
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
-duration: 0
+duration: 323
 last-substantial-update: 2024-07-6
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '1257'
 ht-degree: 0%
@@ -73,7 +73,7 @@ O comércio combinável é uma abordagem arquitetônica no comércio eletrônico
 
 **Considerações:** ao considerar o comércio combinável, fatores como complexidade, maturidade técnica interna, estrutura e tamanho do projeto, personalização versus padronização, custo total de propriedade e segurança e privacidade de dados devem ser cuidadosamente avaliados.
 
-**O Adobe Commerce Adobe Commerce:** fornece recursos e ferramentas para ajudar os comerciantes a adotar e implementar o comércio combinável. Isso inclui uma metodologia de comércio combinável, funcionalidade repleta de recursos, experiências de front-end híbridas, API Mesh para integração e Adobe App Builder para microsserviços personalizados.
+**O Adobe Commerce:** fornece recursos e ferramentas para ajudar os comerciantes a adotar e implementar o comércio combinável. Isso inclui uma metodologia de comércio combinável, funcionalidade repleta de recursos, experiências de front-end híbridas, API Mesh para integração e Adobe App Builder para microsserviços personalizados.
 
 **Impacto nos negócios:** o comércio combinável permite que as empresas criem uma plataforma de comércio eletrônico altamente flexível, escalável e personalizável. Ele permite que eles ofereçam experiências exclusivas para o cliente, dimensionem com base na demanda, integrem-se a outros sistemas, tornem suas operações possíveis e aproveitem a experiência do desenvolvedor.
 

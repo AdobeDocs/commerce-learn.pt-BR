@@ -4,7 +4,7 @@ description: Integração do último quilômetro no Commerce, destacando os ganc
 landing-page-description: Saiba mais sobre a estrutura e as funções dos ganchos de extensibilidade na integração de última milha para sistemas Commerce.
 kt: 15869
 doc-type: video
-duration: 465
+duration: 557
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '352'
 ht-degree: 0%
@@ -45,6 +45,6 @@ Saiba mais sobre a importância das atividades de pós-processamento por meio do
 * Saiba mais sobre a função do gancho de transformação na transformação de objetos de dados entre os sistemas de origem e destino.
 * Saiba mais sobre o significado do gancho de envio para facilitar o envio de dados reais para o sistema de destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3451926?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431692?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}

@@ -6,11 +6,11 @@ topic: Architecture, Commerce, Development
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 771
+duration: 903
 last-substantial-update: 2024-07-17T00:00:00Z
 jira: KT-15836
 exl-id: 16710f27-1232-4c6a-aac3-9838308d1267
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -39,7 +39,7 @@ A Ferramenta de correção de qualidade é um utilitário de linha de comando pa
 
 Esses patches são desenvolvidos por desenvolvedores da Adobe na comunidade da Magento Open Source para melhorar a estabilidade e o desempenho. Lembre-se de que isso não é recomendado para aplicar um grande número de patches, pois pode complicar atualizações futuras.
 
->[!VIDEO](https://video.tv.adobe.com/v/3454073?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431436?learn=on)
 
 ## Por que usar a ferramenta de correção de qualidade
 
@@ -71,8 +71,8 @@ Antes de aplicar patches, é crucial testá-los em um ambiente de preparo. Garan
 
 ## Artigos e vídeos relacionados
 
-* [Pesquisa de Ferramentas de Correção de Qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=pt-BR)
-* [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Pesquisa de Ferramentas de Correção de Qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
+* [Notas de versão](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github para patches](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Uso da ferramenta de correção de qualidade](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Vídeo técnico no QPT](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Uso da ferramenta de correção de qualidade](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Vídeo técnico no QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)

@@ -6,11 +6,11 @@ topic: Personalization, Artificial Intelligence
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
-duration: 288
+duration: 292
 last-substantial-update: 2026-01-12T00:00:00Z
 jira: KT-20089
 exl-id: 7881097f-38b3-450f-b7d1-06eede755bca
-source-git-commit: 3f57925e9998570513d3e6746942c28fa44dc72e
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%

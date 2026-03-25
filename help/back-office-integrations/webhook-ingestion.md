@@ -4,7 +4,7 @@ description: Saiba como configurar e personalizar um webhook de assimilação pa
 landing-page-description: Saiba como usar o Commerce Integration Starter Kit para integrar o Commerce a um sistema de back-office de terceiros usando um webhook de assimilação.
 kt: 15870
 doc-type: video
-duration: 593
+duration: 697
 audience: all
 last-substantial-update: 2024-7-30
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%

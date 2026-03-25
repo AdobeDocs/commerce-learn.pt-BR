@@ -5,6 +5,7 @@ landing-page-description: Saiba como executar uma consulta usando o GraphQL no A
 short-description: Saiba como executar uma consulta usando o GraphQL no Adobe Commerce e  [!DNL Magento Open Source]. Esta é uma introdução ao GraphQL usando chamadas do GET e POST.
 kt: 13937
 doc-type: video
+duration: 651
 audience: all
 last-substantial-update: 2023-10-12T00:00:00Z
 feature: GraphQL
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 443d711d-ec74-4e07-9357-fbbe0f774853
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '984'
 ht-degree: 0%
@@ -24,7 +25,7 @@ ht-degree: 0%
 
 Esta é a parte 2 da série para GraphQL e Adobe Commerce. Neste tutorial e vídeo, saiba mais sobre consultas do GraphQL e como executá-las no Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450063?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424120?learn=on)
 
 ## Vídeos e tutoriais relacionados ao GraphQL nesta série
 

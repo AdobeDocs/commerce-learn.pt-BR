@@ -4,7 +4,7 @@ description: Aproveite o mecanismo de repetição do Adobe I/O Events para aplic
 landing-page-description: Entenda e utilize o mecanismo de repetição integrado do Adobe I/O Events para aprimorar a resiliência dos aplicativos e gerenciar as ativações de eventos com eficiência.
 kt: 15872
 doc-type: video
-duration: 314
+duration: 402
 audience: all
 last-substantial-update: 2024-7-31
 feature: Best Practices, Backend Development, Integration
@@ -13,7 +13,7 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Saiba como o mecanismo de repetição funciona no contexto das ações de tempo 
 * Indicadores visuais no console do desenvolvedor, como ícones de aviso para eventos com falha e ícones de seta circulares para eventos repetidos.
 * As ações de tempo de execução &quot;consumidor&quot; desempenham um papel crucial na determinação dos códigos de status de resposta HTTP apropriados para a manipulação de eventos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3449078?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431695?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

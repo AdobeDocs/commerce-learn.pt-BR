@@ -5,6 +5,7 @@ landing-page-description: Saiba mais sobre a Estrutura de extensibilidade unific
 short-description: Saiba mais sobre a Estrutura de extensibilidade unificada e a noite de comércio
 kt: 11740
 doc-type: tutorial
+duration: 298
 audience: all
 last-substantial-update: 2023-2-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development
@@ -13,7 +14,7 @@ old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 9186ba11-180d-45ca-801a-a86547084cca
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 0%
@@ -26,6 +27,6 @@ Esta demonstração funcional descreve o App Builder e seus possíveis casos de 
 
 ## App Builder para Adobe Commerce {#app-builder-extensibility}
 
->[!VIDEO](https://video.tv.adobe.com/v/3447483?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413328?learn=on)
 
 {{$include /help/_includes/app-builder-related-links.md}}

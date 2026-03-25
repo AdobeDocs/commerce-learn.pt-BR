@@ -1,21 +1,21 @@
 ---
 title: Criar um tíquete de suporte
-description: Saiba como criar um tíquete de suporte para Adobe Commerce no Experience League
+description: Saiba como criar um tíquete de suporte para o Adobe Commerce no Experience League
 feature: Customer Service, Support
 topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 337
+duration: 355
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-15165
-source-git-commit: 8a90379998b5540c9fe88dafed14002cd276e926
+exl-id: f1ade4e9-f6c3-4498-afad-27c0120242be
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
 
 ---
-
 
 # Utilização do Experience League para criar um tíquete de suporte
 
@@ -32,8 +32,8 @@ Saiba como criar um tíquete de suporte no Experience League para Adobe Commerce
 * Saiba como os artigos recomendados mudam, dependendo de quais informações foram usadas no formulário
 * Entender como o texto de espaço reservado encontrado nos campos de formulário ajuda a entender o tipo de informações necessárias para uma boa solicitação de suporte
 
->[!VIDEO](https://video.tv.adobe.com/v/3449558?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
 ## Guia da central de ajuda da Base de conhecimento Commerce
 
-[Enviar um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Enviar um caso de suporte](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

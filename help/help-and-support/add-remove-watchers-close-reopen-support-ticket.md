@@ -6,11 +6,11 @@ topic: Commerce
 role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Technical Video
-duration: 131
+duration: 173
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16050
 exl-id: 15212a32-5b6b-4b49-8bf7-acc3bf39b6fa
-source-git-commit: 82e4e3e2a922a513c7d45ce3833971bda093a86f
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Saiba como adicionar e remover observadores, bem como fechar e reabrir um tíque
 
 ## Para quem é este vídeo?
 
-* Qualquer pessoa que tenha a capacidade de gerenciar solicitações de suporte para Adobe Commerce no Experience League
+* Qualquer pessoa que possa gerenciar solicitações de suporte para o Adobe Commerce no Experience League
 
 ## Conteúdo de vídeo {#video-content}
 
@@ -31,8 +31,8 @@ Saiba como adicionar e remover observadores, bem como fechar e reabrir um tíque
 * Saiba como fechar um tíquete de suporte
 * Saiba como reabrir um tíquete de suporte
 
->[!VIDEO](https://video.tv.adobe.com/v/3441357?learn=on&captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
 
 ## Guia da central de ajuda da Base de conhecimento Commerce
 
-[Enviar um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Enviar um caso de suporte](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

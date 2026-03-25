@@ -3,6 +3,7 @@ title: Sessão 1 da arquitetura headless
 description: Saiba o que é arquitetura headless, comércio combinável e experiências personalizadas
 kt: 13144
 doc-type: tutorial
+duration: 1952
 audience: all
 last-substantial-update: 2023-04-25T00:00:00Z
 feature: GraphQL, REST
@@ -11,7 +12,7 @@ old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: b6998fe9-dc74-4b43-8e13-b3e63e0e8312
-source-git-commit: afe0ac1781bcfc55ba0e631f492092fd1bf603fc
+source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
