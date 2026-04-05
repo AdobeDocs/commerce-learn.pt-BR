@@ -3,13 +3,14 @@ title: Como a Adobe Commerce Cloud é dimensionada
 description: Saiba como os projetos da Adobe Commerce Cloud são dimensionados, o que é dimensionado automaticamente, o que precisa de uma solicitação de suporte e como planejar a capacidade para eventos ou picos de tráfego repentinos.
 feature: Cloud
 topic: Commerce, Architecture
-role: Admin, Architect, Leader
+role: Admin, Developer, Leader
 level: Intermediate
 doc-type: Tutorial
 duration: 285
 last-substantial-update: 2026-03-26T00:00:00Z
 jira: KT-15161
-source-git-commit: 24edee9f9c5fbe3173e6d5a90ac3a84ed3809917
+exl-id: 8ab5050c-61d5-4029-acb0-06043842b64f
+source-git-commit: 781febd8b00f727708941c35aef1e02dcf2094dd
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -28,10 +29,10 @@ Este tutorial explica como a capacidade funciona na Adobe Commerce Cloud, o que 
 
 ## Vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3482041?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3482031?learn=on)
 
 ## Documentação relacionada
 
-* [Commerce na nuvem — visão geral do projeto](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/project/overview)
-* [Orientação para testes de desempenho](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/develop/test/guidance)
+* [Commerce na nuvem — visão geral do projeto](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/project/overview)
+* [Orientação para testes de desempenho](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/develop/test/guidance)
 * [Lista de verificação de pré-inicialização](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud/best-practices/pre-launch-checklist)
