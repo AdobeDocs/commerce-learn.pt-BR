@@ -1,5 +1,5 @@
 ---
-title: Criar taxas de envio personalizadas com ferramentas de IA | Introdução e configuração
+title: Introdução e configuração para taxas de envio personalizadas com ferramentas de IA
 description: Saiba como configurar ferramentas de IA para criar taxas de envio personalizadas, incluindo a clonagem do kit inicial, a revisão de estruturas e a preparação de seu ambiente.
 feature: Install
 topic: Development
@@ -10,7 +10,7 @@ duration: 195
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%

@@ -1,21 +1,18 @@
 ---
 title: A pasta web-src
 description: Saiba mais sobre os tipos de arquivos na pasta web-src e os arquivos e pastas aninhados para este aplicativo de amostra.
-landing-page-description: Saiba mais sobre o Adobe Developer App Builder usado com o Adobe Commerce e quais tipos de arquivos estão localizados na pasta web-src.
-kt: 12425
-doc-type: tutorial
+jira: KT-12425
+doc-type: Tutorial
 duration: 285
-audience: all
-last-substantial-update: 2023-3-13
+last-substantial-update: 2023-03-13T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 67bbb464-1c2e-493e-9d7f-1051dfeec4ee
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---

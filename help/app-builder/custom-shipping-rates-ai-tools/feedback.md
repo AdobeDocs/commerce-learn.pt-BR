@@ -1,5 +1,5 @@
 ---
-title: Taxas de envio personalizadas usando ferramentas de IA | Fornecer feedback
+title: Forneça feedback sobre as taxas de envio personalizadas com as ferramentas de IA
 description: Descubra como criar taxas de envio personalizadas usando ferramentas de IA. Saiba mais sobre o processo de feedback e simplifique seu fluxo de trabalho com este tutorial para iniciantes.
 feature: Tools and External Services
 topic: Artificial Intelligence
@@ -10,9 +10,9 @@ duration: 101
 last-substantial-update: 2026-03-10T00:00:00Z
 jira: KT-20518
 exl-id: 7d1487be-2e3b-4067-8382-297a040a820b
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
