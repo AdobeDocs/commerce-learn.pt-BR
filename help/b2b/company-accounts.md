@@ -1,18 +1,16 @@
 ---
 title: Gerenciar contas da empresa
 description: Saiba como gerenciar as contas da empresa B2B, incluindo solicitações pendentes de aprovação.
-doc-type: feature video
+doc-type: Feature Video
 duration: 172
-audience: all
-activity: use
-kt: 13909
-last-substantial-update: 2023-2-16
+jira: KT-13909
+last-substantial-update: 2023-02-16T00:00:00Z
 feature: Configuration, System, B2B, Companies, Roles/Permissions
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: d8e2748e-ea17-4e4b-9b80-aa7013b605a1
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 1e8f867de0a8c95fec285f99624c9079f0bdf9b7
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 0%

@@ -1,18 +1,16 @@
 ---
 title: O Representante de Vendas inicia a cotação
 description: Saiba como o representante de vendas pode iniciar a cotação com o administrador do Adobe Commerce
-doc-type: feature video
+doc-type: Feature Video
 duration: 283
-audience: all
-activity: use
-kt: 13794
-last-substantial-update: 2023-6-13
+jira: KT-13794
+last-substantial-update: 2023-06-13T00:00:00Z
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: eddf5b36-8b63-4d73-a66b-b3f14da3747f
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 1e8f867de0a8c95fec285f99624c9079f0bdf9b7
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
