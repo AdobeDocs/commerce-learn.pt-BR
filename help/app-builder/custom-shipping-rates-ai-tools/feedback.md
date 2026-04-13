@@ -32,6 +32,6 @@ Descubra como criar taxas de envio personalizadas usando ferramentas de IA. Este
 * Saiba como a ferramenta de feedback MCP funciona
 * Entenda como é possível fornecer feedback do IDE para o Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481311?captions=por_br&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
