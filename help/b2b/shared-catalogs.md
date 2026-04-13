@@ -32,7 +32,7 @@ Se o recurso Catálogo compartilhado estiver ativado na configuração, o catál
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344446?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412494?captions=por_br&learn=on)
 
 ## Recursos adicionais
 
