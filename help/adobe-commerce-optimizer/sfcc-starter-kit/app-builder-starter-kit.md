@@ -1,9 +1,8 @@
 ---
-title: Visão geral do App Builder Starter Kit para Salesforce Commerce Cloud
+title: App Builder Starter Kit para Salesforce Commerce Cloud
 description: Saiba mais sobre o kit inicial do Adobe App Builder para o Salesforce Commerce Cloud com o Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner
 doc-type: Technical Video
@@ -11,14 +10,14 @@ duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
 exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '204'
 ht-degree: 0%
 
 ---
 
-# Saiba mais sobre a arquitetura do Salesforce Commerce Cloud Starter Kit
+# Saiba mais sobre a arquitetura do Salesforce Commerce Cloud starter kit
 
 Saiba mais sobre como configurar e implantar o App Builder Starter Kit para Salesforce Commerce Cloud usando o Adobe Commerce Optimizer. Saiba mais sobre como criar um novo projeto no Adobe Developer Console, adicionar as APIs necessárias e baixar o arquivo JSON do espaço de trabalho. Saiba mais sobre o processo de clonagem do repositório do kit inicial, a configuração dos arquivos de configuração e a instalação da CLI do Adobe IO para vincular a base de código local ao projeto do console de desenvolvimento. Entenda o processo de preencher variáveis de ambiente e sincronizar detalhes do site, e verificar se o aplicativo foi criado e implantado com êxito. saiba mais sobre algumas etapas de integração, como registrar ações, e a implantação é confirmada no workspace do console dev.
 
@@ -34,4 +33,4 @@ Saiba mais sobre como configurar e implantar o App Builder Starter Kit para Sale
 * Clonar o App Builder Starter Kit e configurar os arquivos de ambiente usando a CLI do Adobe IO.
 * Implante o aplicativo e confirme se o registro de ações e eventos foi bem-sucedido no espaço de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3476087?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476070?learn=on)

@@ -7,10 +7,10 @@ role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 242
-last-substantial-update: 2025-03-6
+last-substantial-update: 2025-03-06T00:00:00Z
 jira: KT-17420
 exl-id: e6a59ee0-3e13-41c0-a189-402bf8554f8e
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -33,8 +33,8 @@ O Adobe Commerce Optimizer aprimora as plataformas de comércio existentes forne
 * Integração perfeita com ERP, CRM, OMS e outros sistemas existentes, sem a necessidade de novas plataformas.
 * Dimensiona operações digitais
 
->[!VIDEO](https://video.tv.adobe.com/v/3450468?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450226?learn=on)
 
 ## Recursos adicionais
 
-[[!DNL Adobe Commerce Optimizer] Guia](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/overview){target="_blank"}
+[[!DNL Adobe Commerce Optimizer] Guia](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
