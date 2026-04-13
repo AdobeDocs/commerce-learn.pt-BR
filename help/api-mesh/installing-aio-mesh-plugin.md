@@ -32,7 +32,7 @@ Para obter instruções de instalação e pré-requisitos, visite a página API 
 * Instalando a CLI (interface de linha de comando) do Adobe I/O Runtime
 * Instalação do plug-in do API Mesh
 
->[!VIDEO](https://video.tv.adobe.com/v/3414122?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430772?captions=por_br&learn=on)
 
 ## Instalando o plug-in da CLI e da API Mesh do `aio`
 
