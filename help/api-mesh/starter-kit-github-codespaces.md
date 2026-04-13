@@ -1,17 +1,16 @@
 ---
 title: Kit inicial da malha de API usando códigos GitHub
 description: Introdução à API em malha do Adobe Commerce usando um kit inicial baseado em GitHub, sem necessidade de configuração local.
-kt: 18367
-doc-type: tutorial
+jira: KT-18367
+doc-type: Tutorial
 duration: 253
-audience: all
-last-substantial-update: 2025-6-17
+last-substantial-update: 2025-06-17T00:00:00Z
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
 level: Beginner
 exl-id: 4a2c210d-4df1-4601-95a8-19b3efed5ac0
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%

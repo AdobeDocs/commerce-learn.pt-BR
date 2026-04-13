@@ -1,23 +1,19 @@
 ---
 title: Introdução à API Mesh
 description: Saiba como usar a API Mesh no Adobe Commerce e  [!DNL Adobe App Builder]. Saiba como instalar o Adobe App Builder, trabalhar em projetos, criar um proxy reverso de GraphQL e muito mais.
-landing-page-description: Saiba como usar a API Mesh no Adobe Commerce e  [!DNL Adobe App Builder]. Saiba como instalar o Adobe IO, trabalhar em projetos, criar um proxy reverso de GraphQL e muito mais.
-short-description: Saiba como usar a API Mesh no Adobe Commerce e  [!DNL Adobe App Builder]. Saiba como instalar o Adobe IO, trabalhar em projetos, criar um proxy reverso de GraphQL e muito mais.
-kt: 11802
-doc-type: tutorial
+jira: KT-11802
+doc-type: Tutorial
 duration: 442
-audience: all
-last-substantial-update: 2023-8-27
+last-substantial-update: 2023-08-27T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: baae6dab-48a4-49a0-b6f6-61cbebe63d0f
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 16%
+source-wordcount: '253'
+ht-degree: 6%
 
 ---
 
@@ -29,11 +25,11 @@ Se você nunca usou a API Mesh para Adobe Developer App Builder, a Adobe recomen
 
 A API Mesh combina várias fontes de dados para obter uma única resposta para que seu aplicativo consuma.
 
-[Exibir a documentação completa da API Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/overview/){target="_blank"}
+[Exibir a documentação completa da API Mesh](https://developer.adobe.com/graphql-mesh-gateway/gateway/){target="_blank"}
 
 ## Para quem é este vídeo?
 
-* Qualquer desenvolvedor novo no API Mesh ou [!DNL Adobe Commerce] com experiência limitada usando o [Adobe I/O Runtime](https://developer.adobe.com/runtime/docs/guides/overview/){target="_blank"} e o API Mesh.
+* Qualquer desenvolvedor novo no API Mesh ou [!DNL Adobe Commerce] com experiência limitada usando o [Adobe I/O Runtime](https://developer.adobe.com/app-builder/docs/intro_and_overview/what-is-app-builder){target="_blank"} e o API Mesh.
 
 ## Conteúdo de vídeo
 
