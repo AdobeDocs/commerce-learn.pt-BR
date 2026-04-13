@@ -1,22 +1,18 @@
 ---
 title: Criar um GraphQL de várias origens para ser usado na API Mesh
 description: Descubra como usar várias fontes para a API Mesh no Adobe Commerce e  [!DNL Adobe App Builder]. Saiba mais sobre alguns erros comuns e como resolvê-los.
-landing-page-description: Saiba como usar a API Mesh no Adobe Commerce e  [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com várias fontes e como resolver alguns erros comuns.
-short-description: Saiba como usar a API Mesh no Adobe Commerce e  [!DNL Adobe App Builder]. Saiba mais sobre como criar uma malha com várias fontes e como resolver alguns erros comuns.
-kt: 11804
-doc-type: tutorial
+jira: KT-11804
+doc-type: Tutorial
 duration: 409
-audience: all
-last-substantial-update: 2023-2-8
+last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -36,7 +32,7 @@ Este vídeo ajuda os desenvolvedores a entender como criar uma malha com várias
 * Como solucionar erros, como conflitos de nome, disponibilidade de esquema e outros problemas de sintaxe de esquema
 * Atualização da malha com uma configuração modificada
 
->[!VIDEO](https://video.tv.adobe.com/v/3430765?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
 
 ## Criar o arquivo de configuração json
 
