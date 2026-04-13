@@ -7,10 +7,10 @@ role: Admin, User
 level: Beginner
 doc-type: Tutorial
 duration: 446
-last-substantial-update: 2025-08-5
+last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-18663
 exl-id: 629f3781-1f64-4417-b51f-03be4ccfc06a
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
