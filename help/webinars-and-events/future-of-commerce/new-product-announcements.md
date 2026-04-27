@@ -7,12 +7,21 @@ role: User
 level: Beginner
 doc-type: Value Video
 duration: 838
-last-substantial-update: 2025-05-15T00:00:00Z
+last-substantial-update: 2025-05-15T00:00:00.000Z
 jira: KT-18109
 exl-id: e3b7ca08-e8a7-4ff0-a408-4e7e0460e5ed
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/0l0X5ZoGr4ECFKDXGx7VgiQVTHtta-gMiHVkOF9YHG8
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '221'
+source-wordcount: 227
 ht-degree: 0%
 
 ---

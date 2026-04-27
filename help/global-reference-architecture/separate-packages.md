@@ -13,9 +13,26 @@ old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: cbddc4a3-602f-4208-85cd-b906d2b81f8b
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/ihTCXVhaBPi5-6Xs1tiB-wDbVX-1CwHSgz80X0B02ts
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '2101'
+source-wordcount: 2132
 ht-degree: 0%
 
 ---
@@ -170,31 +187,31 @@ Com este comando, foi feito o check-out dos pacotes no namespace antonevers usan
 
 ### Incluir módulos de terceiros na base de GRA
 
-Adicione pacotes de terceiros ao metapackage GRA. Se o código de terceiros não estiver disponível para ser instalado a partir de um repositório do Composer, crie um pacote para ele. Crie um repositório Git, adicione o conteúdo dos pacotes (tudo o que estaria em app/code/Vendor/Package) e verifique se há um arquivo composer.json válido na raiz do repositório. Agora você pode instalar esse pacote através do Composer.
+Add third-party packages to the GRA metapackage. If third-party code is not available to be installed from a Composer repository, then create a package for it. Create a Git repo, add the packages contents (everything that would be in app/code/Vendor/Package) and make sure that there is a valid composer.json file at the root of the repository. You can now install this package through Composer.
 
-## Configurar um repositório privado do Composer
+## Set up a private Composer repository
 
-Um repositório privado não é obrigatório na arquitetura de referência global. Ele agiliza as implantações e a instalação, reduz a configuração do repositório no composer.json e aumenta a segurança. As credenciais para outros repositórios do Composer e o marketplace do Adobe Commerce são armazenadas em seu repositório privado. Não há mais credenciais confidenciais agrupadas com o código ou nos computadores dos desenvolvedores.
+A private repository is not mandatory in global reference architecture. It makes deployments and installation faster, reduces repository configuration in composer.json, and it increases security. Credentials to other Composer repositories and the Adobe Commerce marketplace are stored in your private repository. No more sensitive credentials bundled with the code or on developers&#39; machines.
 
-Além disso, alguns repositórios privados oferecem funcionalidades adicionais, como notificações por email quando uma de suas lojas contém uma vulnerabilidade de segurança em uma de suas dependências.
+Additionally, some private repositories offer extra functionalities such as email notifications when one of your stores contains a security vulnerability in one of its dependencies.
 
-O problema de lentidão é o que ocorre quando você tem vários repositórios VCS no composer.json. Cada repositório do Composer precisa ser lido ao fazer atualizações e ter 50 repositórios para 50 pacotes tem pelo menos 50 vezes a sobrecarga de apenas um único repositório do Composer.
+The slowness issue is what occurs when you have multiple VCS repositories in composer.json. Each Composer repository needs to be read when doing upgrades and having 50 repositories for 50 packages has at least 50 times the overhead of just a single Composer repository.
 
-![Um diagrama que mostra onde ocorre a lentidão quando um repositório do compositor está ausente](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"}
+![A diagram showing where slowness occurs when a composer repository is missing](/help/assets/global-reference-architecture/separate-packages-without-mirror-diagram.png){align="center"}
 
-Inclua um espelho do Composer na forma de um repositório privado do Composer. O espelho contém uma cópia de todos os pacotes de outros repositórios do Composer, bem como de todos os pacotes hospedados no Git. Com um repositório privado do Composer, você também obtém controle de acesso refinado.
+Include a Composer mirror in the form of a private Composer repository. The mirror contains a copy of all packages from other Composer repositories as well as all Git hosted packages. With a private Composer repository, you additionally get fine grained access control.
 
-Com a sincronização do Git, um repositório privado do Composer detecta automaticamente novos pacotes nos repositórios Git, bem como novas versões de pacotes existentes.
+With Git synchronization, a private Composer repository automatically detects new packages in your Git repositories as well as new versions of existing packages.
 
-Você pode hospedar seu próprio repositório privado com o Satis: <https://composer.github.io/satis/>. Veja um exemplo de repositório público em <https://antonevers.github.io/gra-composer-repository/>. Esse repositório é usado como o repositório do compositor nos exemplos de código. São necessárias medidas adicionais para tornar privado um repositório Satis.
+You can host your own private repository with Satis: <https://composer.github.io/satis/>. See an example public repository at <https://antonevers.github.io/gra-composer-repository/>. This repo is used as the composer repository in the code examples. Additional measures are necessary to make a Satis repository private.
 
-Há soluções que você pode configurar e esquecer: Private Packagist <https://packagist.com/>, que é feito pelas mesmas pessoas que escreveram o Composer ou JFrog Artifactory <https://jfrog.com/artifactory/>.
+There are solutions that you can configure and forget about: Private Packagist <https://packagist.com/>, which is made by the same people that wrote Composer or JFrog Artifactory <https://jfrog.com/artifactory/>.
 
-## Código de entrega
+## Deliver code
 
-Com metapackages, há 3 etapas para fornecer código.
+With metapackages, there are 3 steps to deliver code.
 
-1. Mesclar alterações em pacotes e criar versões dos pacotes alterados.
+1. Merge changes into packages and version the changed packages.
 2. (Opcional, somente se novos pacotes forem adicionados) Exigir os novos pacotes em metapackages e criar a versão dos metapackages.
 3. (Opcional, somente se novos pacotes forem adicionados) Exigir os novos metapackages no Adobe Commerce e implantar.
 

@@ -10,9 +10,20 @@ duration: 885
 last-substantial-update: 2025-1-2
 jira: KT-16723
 exl-id: e6b95ff0-9a41-43ac-9f02-c84a70747d64
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/sHAJy3AIwUgyWlGcViRb9ZT0ymIOap6HybG--NbI0jM
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: 160
 ht-degree: 0%
 
 ---
@@ -23,7 +34,7 @@ Saiba como personalizar a experiência de check-out no Adobe Commerce a partir d
 
 ## O que você vai aprender
 
-Saiba mais sobre exemplos para personalização da experiência de entrega ao carrinho do Edge Delivery Services removendo e adicionando novamente elementos, como opções de envio e custos estimados, e implementando um processo de finalização de várias etapas, tudo isso enquanto reutiliza o código existente e segue as práticas recomendadas. &#x200B;
+Saiba mais sobre exemplos para personalizar a experiência de entrega do carrinho do Edge Delivery Services removendo e adicionando novamente elementos, como opções de envio e custos estimados, e implementando um processo de finalização de várias etapas, tudo isso enquanto reutiliza o código existente e segue as práticas recomendadas. &#x200B;
 
 ## Para quem é este vídeo?
 

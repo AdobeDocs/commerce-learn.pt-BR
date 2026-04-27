@@ -6,15 +6,25 @@ doc-type: video
 duration: 979
 audience: all
 activity: use
-last-substantial-update: 2023-11-30T00:00:00Z
+last-substantial-update: 2023-11-30T00:00:00.000Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 3ad7125b-ef6d-4ea0-9fa7-8fc9eb399ec1
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/nosJh3ytiC54wmNWaUmSu9qjZCN-ssjolNZD702EpEg
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: 551
 ht-degree: 0%
 
 ---
@@ -204,7 +214,7 @@ Ao vincular os produtos simples ao produto agrupado, a carga continha algumas se
         }
 ```
 
-Na carga, o valor `link_type` de `associated` fornece o valor `{type}` necessário na solicitação DELETE. A URL da solicitação será semelhante a `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
+Na carga, o valor `associated` de `link_type` fornece o valor `{type}` necessário na solicitação DELETE. A URL da solicitação será semelhante a `/V1/products/my-new-grouped-product/links/associated/product-sku-three`.
 
 Consulte a solicitação de cURL para excluir o produto simples com o SKU `product-sku-three` do produto agrupado com o SKU `my-new-grouped-product`:
 
@@ -227,4 +237,4 @@ curl --location '{{your.url.here}}rest/default/V1/products/some-grouped-product-
 * [Criar e gerenciar produtos agrupados](https://developer.adobe.com/commerce/webapi/rest/tutorials/grouped-product/){target="_blank"}
 * [Produto agrupado](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-grouped.html?lang=pt-BR){target="_blank"}
 * [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-* [Documento Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [ReDoc Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

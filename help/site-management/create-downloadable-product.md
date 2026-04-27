@@ -6,15 +6,29 @@ doc-type: video
 duration: 946
 audience: all
 activity: use
-last-substantial-update: 2023-11-16T00:00:00Z
+last-substantial-update: 2023-11-16T00:00:00.000Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 90753b8d-eca0-4868-b40e-9563d2b0e1e8
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/YHtAD-NRQmIG58myhZk9X7-jJjwlk8S4NX9jYnZwnQc
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: 631
 ht-degree: 0%
 
 ---
@@ -45,7 +59,7 @@ Você deve especificar quais domínios têm permissão para downloads. Os domín
 
 Para definir o domínio, conecte-se ao servidor: `bin/magento downloadable:domains:add www.example.com`
 
-Após a conclusão, o `env.php` é modificado dentro da matriz _downloadable_domains_.
+Após a conclusão, o `env.php` é modificado dentro da matriz _downloadable_ domains_.
 
 ```php
     'downloadable_domains' => [
@@ -182,7 +196,7 @@ curl --location '{{your.url.here}}/rest/default/V1/products/POSTMAN-download-pro
 
 ## Atualizar o produto usando o Postman {#update-downloadable-links}
 
-Usar o ponto de extremidade `rest/all/V1/products/{sku}/downloadable-links`
+Usar o endpoint `rest/all/V1/products/{sku}/downloadable-links`
 O `SKU` é a ID do produto gerada quando o produto foi criado. Por exemplo, na amostra de código abaixo, é o número 39, mas certifique-se de que esteja atualizado para usar a ID do seu site. Isso atualiza os links dos produtos baixáveis.
 
 ```json
@@ -237,7 +251,7 @@ curl --location '{{your.url.here}}/rest/all/V1/products/abcd12345/downloadable-l
 
 ## Recursos adicionais
 
-* [Tipo de Produto Baixável](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=pt-BR){target="_blank"}
-* [Guia de Configuração de Domínios Baixáveis](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=pt-BR#downloadable_domains){target="_blank"}
+* [Tipo de produto baixável](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-downloadable.html?lang=pt-BR){target="_blank"}
+* [Guia de configuração de domínios baixáveis](https://experienceleague.adobe.com/docs/commerce-operations/configuration-guide/files/config-reference-envphp.html?lang=pt-BR#downloadable_domains){target="_blank"}
 * [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-* [Documento Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [ReDoc Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

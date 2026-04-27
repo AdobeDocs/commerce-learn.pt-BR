@@ -10,9 +10,21 @@ topic: Commerce, Development
 role: Developer
 level: Beginner
 exl-id: 5f2984d5-84f7-41d4-99e5-2a2c0ff1b1c7
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/MVbQ7QPYl6xvMms1F4mv5aiJlUZgJu5wzrcL-RYAaJo
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: 136
 ht-degree: 0%
 
 ---
@@ -45,5 +57,5 @@ Saiba como desenvolver um módulo simples do JavaScript que mostre a saudação 
 
 ## Recursos úteis
 
-* [guia do desenvolvedor do JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
-* [Chamando e inicializando o JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}
+* [Guia do desenvolvedor do JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/){target="_blank"}
+* [Chamada e inicialização do JavaScript](https://developer.adobe.com/commerce/frontend-core/javascript/init/){target="_blank"}

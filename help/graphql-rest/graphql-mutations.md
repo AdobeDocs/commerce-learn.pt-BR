@@ -7,16 +7,26 @@ kt: 13938
 doc-type: video
 duration: 268
 audience: all
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-12T00:00:00.000Z
 feature: GraphQL
 topic: Commerce, Architecture, Headless
 old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 6b82ffda-925f-4a81-8ca5-49a2b8ab4929
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/DyzC0YLv2eWrfSAUZb-32cMAePHjurmp1RyynMbsa7Q
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '404'
+source-wordcount: 406
 ht-degree: 0%
 
 ---
@@ -100,24 +110,24 @@ E, finalmente, você pode receber uma resposta como esta:
 ```
 
 O principal a ser observado sobre o exemplo acima é que, além do uso da palavra-chave `mutation` em vez de `query`,
-a sintaxe é idêntica a um query. Como consultas, a mutação inclui:
+the syntax is identical to a query. Like queries, the mutation includes:
 
-* Um nome de operação arbitrário (`doAddToCart`)
-* Uma lista de variáveis (por exemplo, `$cartId`)
-* Um campo inicial (`addProductsToCart`) com argumentos (por exemplo, `cartId`, definido como o valor de `$cartId`) entre parênteses
-* Uma subseleção de campos entre chaves
+* An arbitrary operation name (`doAddToCart`)
+* A list of variables (for example, `$cartId`)
+* An initial field (`addProductsToCart`) with arguments (for example, `cartId`, set to the value of `$cartId`) in parentheses
+* A subselection of fields in braces
 
-A subseleção de campos permite definir com flexibilidade os campos que você deseja retornar (do tipo atribuído como
-valor de retorno de `addProductsToCart` - `AddProductsToCartOutput`) após a conclusão da mutação.
+The fields subselection allows you to flexibly define the fields you would like returned (from the type assigned as the
+return value of `addProductsToCart` - `AddProductsToCartOutput`) after the mutation is completed.
 
-Como explicado anteriormente, os campos definidos em um esquema do GraphQL começam em um tipo raiz para consultas (normalmente chamados de `Query`). Da mesma forma,
-outro tipo de raiz existe para mutações (normalmente referido como `Mutation`). `addProductsToCart` é um campo
-nesse tipo de raiz.
+As explained previously, fields defined in a GraphQL schema start on a root type for queries (typically referred to as a `Query`). Similarly,
+another root type exists for mutations (typically referred to as `Mutation`). `addProductsToCart` is a field
+on that root type.
 
-Algumas outras observações sobre o exemplo acima:
+A few other notes about the above example:
 
-* O caractere `!` com os sufixos `String` e `CartItemInput` indica que a variável é obrigatória.
-* Os colchetes (`[]`) ao redor do tipo `CartItemInput` especificado para `$cartItems` indicam uma lista
-desse tipo em vez de um valor único.
+* The `!` character suffixing `String` and `CartItemInput` indicates that the variable is required.
+* The square brackets (`[]`) around the `CartItemInput` type specified for `$cartItems` indicate a list
+of that type rather than a single value.
 
 {{$include /help/_includes/graphql-rest-related-links.md}}

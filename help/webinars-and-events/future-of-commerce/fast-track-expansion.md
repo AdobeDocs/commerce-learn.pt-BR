@@ -1,45 +1,58 @@
 ---
-title: Expansão de rastreamento rápido
-description: Acelere o crescimento digital com os recursos de expansão multicanal, as ferramentas B2B e o catálogo escalável da Adobe Commerce.
+title: Fast track expansion
+description: Fast-track digital growth with Adobe Commerce's scalable catalog, B2B tools, and multi-channel expansion features.
 feature: Cloud, Extensibility
 topic: Commerce
 role: User
 level: Beginner
 doc-type: Value Video
 duration: 887
-last-substantial-update: 2025-05-16T00:00:00Z
+last-substantial-update: 2025-05-16T00:00:00.000Z
 jira: KT-18122
 exl-id: 4cca6730-1e55-47ab-9b86-ae23d59f4b7f
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/VUdDVdkqp8eUyZrF7YUD0loCnKd8jDlvjHsR2x2lY1Q
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b23e006f-0a29-4f1d-8fd0-77aa56f3d12b
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: 178
 ht-degree: 0%
 
 ---
 
-# Expansão de rastreamento rápido
+# Fast track expansion
 
-Descubra como a Adobe Commerce capacita as empresas a acelerar sua expansão digital com novos recursos avançados de gerenciamento de catálogos, comércio B2B e escalabilidade de vários canais. Essa sessão destaca a modelagem de dados flexível que oferece suporte a até 250 milhões de SKUs, preços dinâmicos entre regiões e integração contínua de sortimentos próprios e de terceiros. Com recursos B2B aprimorados, como estruturas de contas pai-filho, modelos de cotações e alternância de contexto de vitrine, o Adobe Commerce permite estratégias de entrada no mercado mais rápidas e experiências personalizadas do cliente — tudo isso enquanto reduz a complexidade operacional e o custo.
+Discover how Adobe Commerce empowers businesses to fast-track their digital expansion with powerful new capabilities in catalog management, B2B commerce, and multi-channel scalability. This session highlights flexible data modeling that supports up to 250 million SKUs, dynamic pricing across regions, and seamless integration of first- and third-party assortments. With enhanced B2B features like parent-child account structures, quote templates, and storefront context switching, Adobe Commerce enables faster go-to-market strategies and personalized customer experiences—all while reducing operational complexity and cost.
 
 ## Para quem é este vídeo?
 
-* Diretor Digital
-* Vice-presidente/diretor de comércio eletrônico
-* Diretor de tecnologia
-* Arquitetos da Commerce
+* Chief Digital Officer
+* VP/Director of E-commerce
+* Chief Technology Officer
+* Commerce Architects
 
 ## Conteúdo de vídeo {#video-content}
 
-* Modelagem flexível de dados de catálogo para escalabilidade
-* Ativação de várias marcas e de várias regiões do Commerce
-* Recursos avançados do Commerce B2B e estruturas de conta
-* Integração contínua de sortimentos de produtos originais e de terceiros
-* Desenvolvimento acelerado de vitrines com Drop-ins e temas
+* Flexible Catalog Data Modeling for Scalability
+* Multi-Brand and Multi-Region Commerce Enablement
+* Advanced B2B Commerce Features and Account Structures
+* Seamless Integration of First- and Third-Party Product Assortments
+* Accelerated Storefront Development with Drop-ins and Themes
 
 >[!VIDEO](https://video.tv.adobe.com/v/3458518?learn=on)
 
-## Vídeos adicionais nesta série
+## Additional Videos in this series
 
-[Anúncios de novos produtos](./new-product-announcements.md)
-[Reduzir drasticamente os custos](./drastically-cut-costs.md)
-[Taxas de conversão de sobrecarga](./supercharge-conversion-rates.md)
+[New Product Announcements](./new-product-announcements.md)
+[Drastically cut costs](./drastically-cut-costs.md)
+[Supercharge conversion rates](./supercharge-conversion-rates.md)
