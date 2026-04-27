@@ -8,17 +8,17 @@ level: Intermediate
 doc-type: Technical Video
 duration: 955
 jira: KT-20902
-last-substantial-update: 2026-04-24T00:00:00Z
-source-git-commit: b98e827d7017c59b0df4c459ea913d69a55f0d56
+last-substantial-update: 2026-04-27T00:00:00Z
+source-git-commit: b3a9cee9ab59307883444650e8ee2423ab630b6b
 workflow-type: tm+mt
-source-wordcount: '1045'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
 
 # Criar uma POC de pagamento dividido: demonstração completa do App Builder
 
-Esta é a apresentação completa da prova de conceito de pagamento dividido criada no Adobe Commerce e no Adobe App Builder. A demonstração pressupõe que você já tenha usado ferramentas de IA e um prompt para produzir a extensão do Commerce em andamento e o aplicativo do App Builder; este vídeo mostra o que acontece depois que o código é mesclado, implantado no Commerce na nuvem (Luma) e o projeto do App Builder está ativo.
+Esta é a apresentação completa da prova de conceito de pagamento dividido criada no Adobe Commerce e no Adobe App Builder. A demonstração pressupõe que você já tenha usado ferramentas de IA e um prompt para produzir a extensão em andamento do Commerce e o aplicativo do App Builder; este vídeo mostra o que acontece depois que o código é mesclado, implantado em um site da Adobe Commerce Cloud usando o tema nativo do Luma e o projeto do App Builder está ativo.
 
 Um comprador paga com parte em dinheiro e parte **[!UICONTROL Store Credit]**. A Commerce é proprietária da finalização síncrona e das APIs de que a loja precisa; a App Builder lida com orquestração, fluxos de trabalho de operador e consumidores de eventos de E/S. A implementação de referência usa um projeto Commerce (PaaS) e o checkout nativo do Luma, em vez de uma loja da Edge Delivery Services, que ainda é um caminho comum para muitos comerciantes. Se você usar o **Adobe Commerce as a Cloud Service** em uma topologia diferente, o código do App Builder permanecerá semelhante, mas o trabalho na loja e em andamento parecerão diferentes. Para locais, auto-hospedados e Commerce na nuvem no Luma, este vídeo mostra uma divisão prática entre o código em andamento e o App Builder para novas funcionalidades.
 
