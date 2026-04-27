@@ -46,7 +46,7 @@ Saiba mais sobre exemplos para personalizar a experiência de entrega do carrinh
 * Implementação da finalização em várias etapas&#x200B;
 * Reutilizar código e práticas recomendadas existentes
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442655?captions=por_br&learn=on)
 
 ## Documentação adicional
 

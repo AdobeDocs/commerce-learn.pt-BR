@@ -45,7 +45,7 @@ As regras de imposto incorporam uma combinação de classe de produto, classe de
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343657?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411983?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

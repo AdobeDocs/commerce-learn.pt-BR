@@ -47,7 +47,7 @@ Sua loja está carregada com locais onde você pode inserir metadados ricos em p
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343750?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411966?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

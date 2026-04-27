@@ -41,7 +41,7 @@ Learn how to create a search, review, commend and escalate a support ticket with
 * Learn how to add a comment to an open support ticket
 * Lean how and some reasons for escalating a support ticket
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445316?captions=por_br&learn=on)
 
 ## Commerce Knowledge Base help center guide
 

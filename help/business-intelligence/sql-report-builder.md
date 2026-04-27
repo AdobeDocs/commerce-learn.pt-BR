@@ -56,7 +56,7 @@ O Adobe Commerce Intelligence SQL Report Builder permite consultar o data wareho
 * Criar uma visualização a partir dos resultados da consulta.
 * Salve o relatório em um painel para sua equipe.
 
->[!VIDEO](https://video.tv.adobe.com/v/342406?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346415?captions=por_br&learn=on)
 
 ## Recursos úteis
 

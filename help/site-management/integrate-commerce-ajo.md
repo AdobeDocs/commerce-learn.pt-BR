@@ -55,7 +55,7 @@ Saiba como você pode usar a [Conexão de Dados](https://experienceleague.adobe.
 * No Adobe Journey Optimizer, crie e ative facilmente 1:1 jornadas de clientes, usando eventos prontos para uso que estão disponíveis com a Conexão de Dados
 * Interaja com compradores em todos os canais em tempo real usando os recursos nativos de mensagens do Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3426855?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452473?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

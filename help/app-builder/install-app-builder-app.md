@@ -42,4 +42,4 @@ Saiba como localizar, instalar e validar aplicativos Adobe Commerce App Builder 
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3471513?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3471529?captions=por_br&learn=on)

@@ -50,7 +50,7 @@ A equipe de suporte da Adobe Commerce e a comunidade da Magento Open Source dese
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344000?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412499?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

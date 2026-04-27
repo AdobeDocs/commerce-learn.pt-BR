@@ -43,7 +43,7 @@ Quando um cliente coloca um pedido, uma ordem de venda é criada como um registr
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343935?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412501?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

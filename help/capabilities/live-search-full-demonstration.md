@@ -60,4 +60,4 @@ Learn how to use Adobe Live Search configurations and settings. Get a better und
 * Rule based ranking types explained
 * GraphQL API Introspection
 
->[!VIDEO](https://video.tv.adobe.com/v/3418996?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454460?captions=por_br&learn=on)

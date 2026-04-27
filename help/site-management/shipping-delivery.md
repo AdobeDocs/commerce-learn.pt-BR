@@ -45,7 +45,7 @@ Gerenciar seus métodos de envio e entrega é essencial para garantir que você 
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343658?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411981?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

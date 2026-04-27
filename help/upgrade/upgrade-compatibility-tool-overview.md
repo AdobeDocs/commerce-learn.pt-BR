@@ -57,7 +57,7 @@ To learn more about the tool see the [Upgrade Compatibility Tool documentation](
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/341245?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344389?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

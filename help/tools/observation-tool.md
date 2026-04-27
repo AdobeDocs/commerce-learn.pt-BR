@@ -47,7 +47,7 @@ Neste vídeo, saiba mais sobre a Ferramenta de observação para o Adobe Commerc
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344444?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412493?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

@@ -45,7 +45,7 @@ Learn how Open Telemetry standardizes observability across logs, traces, and met
 * Correlate logs, traces, and metrics for faster root cause analysis
 * Maintain existing monitoring tools while unifying data streams
 
->[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478328?captions=por_br&learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

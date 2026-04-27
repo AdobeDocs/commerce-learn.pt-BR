@@ -46,7 +46,7 @@ Related product rules give you the ability to target the selection of products t
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343837?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3417363?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

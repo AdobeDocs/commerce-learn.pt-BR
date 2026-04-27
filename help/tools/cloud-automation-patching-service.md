@@ -43,7 +43,7 @@ O Cloud Automation Patching Service (CAPS) da Adobe, um recurso da Adobe Commerc
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3476247?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476252?captions=por_br&learn=on)
 
 ## Documentação relacionada
 

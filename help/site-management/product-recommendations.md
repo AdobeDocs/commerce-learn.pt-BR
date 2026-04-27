@@ -55,7 +55,7 @@ Neste vídeo, saiba como configurar recomendações de produto.
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343991?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449963?captions=por_br&learn=on)
 
 ## Recursos adicionais
 

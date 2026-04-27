@@ -54,7 +54,7 @@ Ao criar produtos agrupados do Administrador do Adobe Commerce, crie os produtos
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3425920?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454043?captions=por_br&learn=on)
 
 ## Configuração do produto agrupado
 

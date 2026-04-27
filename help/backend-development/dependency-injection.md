@@ -42,7 +42,7 @@ A injeção de dependência é um padrão de design que permite que um objeto A 
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/35799?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414163?captions=por_br&learn=on)
 
 ## Recursos úteis
 

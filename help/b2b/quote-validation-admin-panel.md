@@ -43,6 +43,6 @@ Learn the validation steps and areas that Adobe Commerce B2B Quote functionality
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423723?captions=por_br&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

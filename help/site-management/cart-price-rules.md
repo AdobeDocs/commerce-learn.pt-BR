@@ -45,7 +45,7 @@ As regras de preço do carrinho aplicam descontos aos itens do carrinho de compr
 * Crie regras de preço do carrinho e códigos de cupom opcionais.
 * Veja como os descontos são exibidos no carrinho e para promoções.
 
->[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412502?captions=por_br&learn=on)
 
 ## Problemas de exibição de preços
 

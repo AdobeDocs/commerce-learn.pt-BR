@@ -54,4 +54,4 @@ Seamlessly integrate with Adobe Experience Cloud products to create personalized
 * Increased Customer Engagement and Loyalty
 * Seamless Integration and Unified Customer View
 
->[!VIDEO](https://video.tv.adobe.com/v/3433568?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433574?captions=por_br&learn=on)

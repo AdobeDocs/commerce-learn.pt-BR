@@ -50,7 +50,7 @@ Learn how to use Adobe Commerce cart drop in and adjust the transactional flow t
 * Coupon discount displayed using cart rules and footer slots to display this information effectively.
 * Using product attributes and Slots to extend and customize the shopping cart functionality, ensuring that all project requirements are met.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441121?captions=por_br&learn=on)
 
 
 ## Documentação adicional

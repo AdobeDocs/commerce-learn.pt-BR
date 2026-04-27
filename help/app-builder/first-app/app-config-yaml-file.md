@@ -40,7 +40,7 @@ This file determines the configuration for the application.
 * The `app.config.yaml` file discussed
 * How are definitions link to other `.js` files
 
->[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430848?captions=por_br&learn=on)
 
 ## Amostra de código
 

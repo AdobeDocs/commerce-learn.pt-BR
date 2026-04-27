@@ -52,4 +52,4 @@ It integrates seamlessly with Adobe&#39;s digital experience tools, enabling bus
 * Enabling real-time personalization and efficient management of digital assets
 * Empowerment of Non-Technical Users
 
->[!VIDEO](https://video.tv.adobe.com/v/3431725?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448391?captions=por_br&learn=on)
