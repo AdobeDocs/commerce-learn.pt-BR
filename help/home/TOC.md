@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: e25c2abc470e1f3cb97b153d335482f8a004c644
+source-git-commit: 47b35088f2d3139d58791a2f7d327159db8f2175
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '915'
 ht-degree: 3%
 
 ---
@@ -148,6 +148,7 @@ ht-degree: 3%
    + Adobe Developer App Builder {#adobe-developer-app-builder}
       + [Instalação de aplicativos do Adobe Exchange](../app-builder/install-app-builder-app.md)
       + [Introdução ao App Builder](../app-builder/introduction-to-app-builder.md)
+      + [Criar uma POC de pagamento dividido: ferramentas do App Builder e da IA](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
       + [Estrutura de extensibilidade do App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
       + Criar taxas de envio personalizadas usando as Ferramentas de IA {#custom-shipping-rates-ai-tools}
          + [Introdução e configuração](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
@@ -164,7 +165,7 @@ ht-degree: 3%
          + [Testes locais](../app-builder/first-app/testing-locally.md)
          + [Teste usando o URL do App Builder](../app-builder/first-app/testing-app-builder-url.md)
          + [Conclusão](../app-builder/first-app/conclusion.md)
-         + [Código-fonte do módulo de exemplo](https://github.com/magento/app-builder-samples){target="_blank"}
+         + [Código-fonte do módulo de amostra](https://github.com/magento/app-builder-samples){target="_blank"}
       + Eventos de E/S para Adobe Commerce {#io-events}
          + [Introdução a eventos de E/S](../io-events/getting-started-io-events.md)
          + [Instalação do Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
