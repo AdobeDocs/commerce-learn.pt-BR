@@ -21,7 +21,7 @@ Este é o primeiro de um conjunto de tutoriais que apresentam o uso do desenvolv
 
 ## Vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3483933?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3483938?captions=por_br&learn=on)
 
 ## Detalhes importantes
 
