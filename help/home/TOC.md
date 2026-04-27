@@ -3,7 +3,7 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 2b41adb47f7e6dd482a9bf071f1b48b1456c8214
+source-git-commit: 68c27de91287f83f044ec777de3ee0cda37704b2
 workflow-type: tm+mt
 source-wordcount: '932'
 ht-degree: 3%
@@ -152,7 +152,6 @@ ht-degree: 3%
       + Use as ferramentas de IA para criar POC de pagamento dividido {#create-a-split-payment-poc}
          + [Criar uma POC de pagamento dividido: ferramentas do App Builder e da IA](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
          + [Criar uma POC de pagamento dividido: demonstração completa do App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
-
       + Criar taxas de envio personalizadas usando as Ferramentas de IA {#custom-shipping-rates-ai-tools}
          + [Introdução e configuração](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Ferramentas de IA e kit inicial do Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
