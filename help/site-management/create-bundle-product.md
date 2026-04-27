@@ -12,9 +12,15 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/9RhL9cCMdV9Cs9Q8LkCWUSfPlYIyB3XMoWtaXLI0PlM
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c18ed297-2187-4aec-affb-9d9654eca6fcid: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: 673
 ht-degree: 0%
 
 ---
@@ -62,7 +68,7 @@ Ao criar pacotes de produtos do administrador do Adobe Commerce, você pode cria
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3454504?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
 
 ## Criar produtos com REST
 
@@ -320,9 +326,9 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 ## Restaurar opções do produto
 
-Ao atualizar as opções de pacote de produtos, inclua todas as opções que deseja associar a este produto. Se o conjunto original de opções continha três produtos e um foi removido, inclua todas as três opções na solicitação POST para garantir que o pacote de produtos especifique todas as opções. Se você incluiu apenas a opção removida, o pacote de produtos atualizado incluirá apenas essa opção.
+Ao atualizar as opções de pacote de produtos, inclua todas as opções que deseja associar a este produto. Se o conjunto original de opções continha três produtos e um foi removido, inclua todas as três opções na solicitação POST para garantir que o pacote de produtos especifique todas as opções. If you included only the option you removed, then the updated product bundle includes only that option.
 
-Localize a ID de opção revisando a resposta da criação do produto do pacote. Na resposta, o `option_id` é `35`.
+Locate the option ID by reviewing the response from creation for the bundle product. In the that response, the `option_id` is `35`.
 
 ```json
 ...
@@ -373,7 +379,7 @@ Localize a ID de opção revisando a resposta da criação do produto do pacote.
 ...
 ```
 
-Atualize o pacote de produtos para adicionar a opção removida enviando a seguinte solicitação POST.
+Update the product bundle to add the option you removed by submitting the following POST request.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' \
@@ -430,7 +436,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## Recursos adicionais
 
-* [Tutorial sobre a criação de um pacote de produtos](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-* [Pacote de produtos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=pt-BR){target="_blank"}
+* [Create a bundle product tutorial](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+* [Bundle Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
 * [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-* [Documento Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [ReDoc Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

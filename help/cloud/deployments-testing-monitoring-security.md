@@ -8,13 +8,20 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 848
-last-substantial-update: 2024-03-08T00:00:00Z
+last-substantial-update: 2024-03-08T00:00:00.000Z
 jira: KT-15020
 kt: 15020
 exl-id: 8f107270-3df0-4bfe-b057-50208fa1e421
-source-git-commit: 3015914bce0b6fc1eba125f6a9c0b52a0b5c057f
+TQID: https://experienceleague.adobe.com/QHOsvzGfLm02oy40qCMQ5bw0wexFJw5866mgbP-ViiA
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2: id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: 157
 ht-degree: 0%
 
 ---
@@ -31,15 +38,15 @@ Saiba mais sobre as estratégias de implantação da Adobe Commerce Cloud, prát
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432828?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427818?learn=on)
 
 ## Documentação do Experience League mencionada no vídeo
 
-* [Processo de implantação](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html?lang=pt-BR)
-* [Ferramenta de análise do SWAT em todo o site](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html?lang=pt-BR)
-* [Assistente inteligente de ferramentas ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html?lang=pt-BR)
-* [Verificação de segurança](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html?lang=pt-BR)
-* [Fastly WAF Web Application Firewall](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html?lang=pt-BR)
-* [Visão geral do New Relic Service](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=pt-BR)
+* [Processo de implantação](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/process.html)
+* [Ferramenta de análise do site da SWAT](https://experienceleague.adobe.com/docs/commerce-operations/tools/site-wide-analysis-tool/intro.html)
+* [Assistente inteligente de ferramentas ECE](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/smart-wizards.html)
+* [Verificação de segurança](https://experienceleague.adobe.com/docs/commerce-admin/systems/security/security-scan.html)
+* [Firewall do WAF Web Application Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly-waf-service.html)
+* [Visão geral do serviço do New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

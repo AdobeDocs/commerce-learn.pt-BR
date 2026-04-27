@@ -11,9 +11,15 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 badge: Visualizador de AR disponível no Commerce Marketplace
 exl-id: c57d44b3-2a9c-4623-b45a-678203d9a894
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/K5mqLVuOB8-Pm3-EpKOKOzGGTgPGmbMIyKThQKlo3n8
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: 525
 ht-degree: 0%
 
 ---
@@ -58,8 +64,8 @@ Depois que o visitante digitaliza o código QR com seu dispositivo, o item é so
 
 ## Recursos úteis
 
-[Visualizador AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html?lang=pt-BR){target="_blank"}
-[Gerenciar modelos 3D de produto com o Visualizador de AR do Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html?lang=pt-BR){target="_blank"}
+Visualizador de [AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
+[Gerenciar modelos 3D de produto com o Visualizador de AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
 
 ## Extensão do Adobe Commerce Marketplace
 

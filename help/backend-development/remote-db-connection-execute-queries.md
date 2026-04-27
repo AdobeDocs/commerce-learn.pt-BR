@@ -7,12 +7,17 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Technical Video
 duration: 1024
-last-substantial-update: 2024-06-25T00:00:00Z
+last-substantial-update: 2024-06-25T00:00:00.000Z
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
-source-git-commit: d2c01abbc24ec14f6147004bb9a13ebdbfb8b60e
+TQID: https://experienceleague.adobe.com/9jR79l0ERhs4UsQ9da2juigSktpcVE5IsiBnk83gCzc
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: b5f00040-57a0-4a6d-a39e-383b1936c2c9id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '1010'
+source-wordcount: 1099
 ht-degree: 0%
 
 ---
@@ -26,7 +31,7 @@ Saiba como se conectar a um projeto do Adobe Commerce na nuvem, criar um despejo
 * Conecte-se a um projeto remoto da Adobe Commerce Cloud com uma ferramenta de GUI, como MySQL Workbench ou TablePlus.
 * Conecte-se ao projeto e execute o SQL a partir da linha de comando.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450041?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430507?learn=on)
 
 Você pode acessar os dados do Adobe Commerce do seu projeto na nuvem usando um dos seguintes métodos:
 
@@ -38,7 +43,7 @@ Prefira um dump de banco de dados que você depurar para remover as informaçõe
 
 ## Uso da ferramenta da CLI da Adobe Commerce Cloud
 
-Você precisa da [CLI da Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=pt-BR) instalada para criar um despejo de banco de dados. No computador local, abra um diretório e execute o comando a seguir. Substitua `your-project-id` pela ID do seu projeto (similar a `asasdasd45q`). Substitua `your-environment-name` pelo nome do ambiente, como `master` ou `staging`.
+Você precisa da [CLI da Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html) instalada para criar um despejo de banco de dados. No computador local, abra um diretório e execute o comando a seguir. Substitua `your-project-id` pela ID do seu projeto (similar a `asasdasd45q`). Substitua `your-environment-name` pelo nome do ambiente, como `master` ou `staging`.
 
 `magento-cloud db:dump -p your-project-id -e your-environment-name`
 
@@ -80,7 +85,7 @@ Creating SQL dump file: /Users/<username>/Downloads/db-tutorial/abasrpikfw4123--
 
 ## Utilização das ferramentas Adobe Commerce ECE
 
-Se você não tiver a ferramenta Adobe Commerce CLI, poderá `ssh` em seu projeto e executar o comando `ece` do `vendor/bin/ece-tools db-dump`:
+Se você não tiver a ferramenta Adobe Commerce CLI, poderá `ssh` em seu projeto e executar o comando `vendor/bin/ece-tools db-dump` do `ece`:
 Exemplo de resposta:
 
 ```bash
@@ -274,7 +279,7 @@ Para acessar o banco de dados do MariaDB diretamente, use o SSH para fazer logon
    magento-cloud ssh
    ```
 
-2. Recupere as credenciais de logon do MySQL das propriedades `database` e `type` na variável [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=pt-BR#relationships).
+2. Recupere as credenciais de logon do MySQL das propriedades `database` e `type` na variável [$MAGENTO_CLOUD_RELATIONSHIPS](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/app/properties/properties.html?lang=en#relationships).
 
    ```bash
    echo $MAGENTO_CLOUD_RELATIONSHIPS | base64 -d | json_pp
@@ -320,7 +325,7 @@ Após configurar a conexão, você pode usar uma GUI MySQL para executar consult
 
 ## Conectando diretamente ao banco de dados do projeto na nuvem para executar o SQL
 
-O método a seguir usa a CLI `magento-cloud` para se conectar diretamente ao banco de dados MySQL e executar o SQL para consultas mais rápidas. Se você precisar de uma cópia deste banco de dados, use um dos métodos alternativos para [criar um despejo de banco de dados](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=pt-BR).
+O método a seguir usa a CLI `magento-cloud` para se conectar diretamente ao banco de dados MySQL e executar o SQL para consultas mais rápidas. Se você precisar de uma cópia deste banco de dados, use um dos métodos alternativos para [criar um despejo de banco de dados](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html).
 
 ```bash
 magento-cloud db:sql    
@@ -380,7 +385,7 @@ MariaDB [main]>
 
 ## Recursos adicionais
 
-* [CLI da Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=pt-BR)
-* [Configurar o serviço MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html?lang=pt-BR)
-* [Configurar uma conexão remota com o banco de dados MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html?lang=pt-BR)
-* [Criar despejo de banco de dados no Adobe Commerce na infraestrutura de nuvem](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html?lang=pt-BR)
+* [CLI da Adobe Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+* [Configurar o serviço MySQL](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/mysql.html)
+* [Configurar uma conexão remota com o banco de dados MySQL](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql-remote.html)
+* [Criar despejo de banco de dados no Adobe Commerce na infraestrutura em nuvem](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/how-to/create-database-dump-on-cloud.html)

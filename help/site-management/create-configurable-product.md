@@ -1,46 +1,51 @@
 ---
-title: Criar um produto configurável
-description: Saiba como criar um produto configurável usando a REST API e o administrador do Commerce.
+title: Create a configurable product
+description: Learn how to create a configurable product using the REST API and the Commerce Admin.
 kt: 14586
 doc-type: video
 duration: 1760
 audience: all
 activity: use
-last-substantial-update: 2023-12-15T00:00:00Z
+last-substantial-update: 2023-12-15T00:00:00.000Z
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 112bec9a-0f8e-4252-8c52-f486a5e663b5
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/XAvtOnOIycqQ4z-uztWuVzzv0--eVit-I-QDnl67ba8
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c18ed297-2187-4aec-affb-9d9654eca6fcid: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: 994
 ht-degree: 0%
 
 ---
 
-# Criar um produto configurável
+# Create a configurable product
 
-Um produto configurável é um produto principal de vários produtos simples. Defina um produto configurável para exigir que o comprador faça uma ou mais escolhas para selecionar uma variação de produto específica. Por exemplo, se o produto for uma camisa, o comprador deverá escolher as opções de tamanho e cor para selecionar a camisa.
+A configurable product is a parent product of multiple simple products. Define a configurable product to require the buyer to make one or more choices to select a specific product variation. For example, if the product is a shirt, the buyer must choose the size and color options to select the shirt.
 
-Embora um produto configurável use mais SKUs e possa, inicialmente, levar um pouco mais para ser configurado, ele pode economizar seu tempo no final. Se você planeja expandir seu negócio, o tipo de produto configurável é uma boa escolha para produtos com várias opções.
+Although a configurable product uses more SKUs and may initially take a little longer to set up, it can save you time in the end. If you plan to grow your business, the configurable product type is a good choice for products with multiple options.
 
-Antes de criar um produto configurável, verifique se todos os produtos simples a serem incluídos no produto configurável estão disponíveis no Adobe Commerce. Crie qualquer um que não exista.
+Before creating a configurable product, verify that all the simple products to include in the configurable product are available in Adobe Commerce. Create any that do not exist.
 
-Neste tutorial, saiba como criar um produto configurável usando a API REST e o administrador do Adobe Commerce.
+In this tutorial, learn how to create a configurable product using the REST API and the Adobe Commerce Admin.
 
-Use a REST API para criar um produto configurável:
+Use the REST API to create a configurable product:
 
-1. Obtenha os atributos de um [conjunto de atributos](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html?lang=pt-BR) para usar os números de identificação para chamadas de API subsequentes.
-1. Crie produtos simples para usar no produto configurável.
-1. Crie um produto configurável vazio e associe os produtos simples.
-1. Defina os atributos do produto para o produto configurável.
-1. Preencha o produto configurável vazio com produtos simples.
-1. Obtenha o produto configurável e todos os atributos.
-1. Obtenha os produtos secundários atribuídos para o produto configurável.
-1. Exclua a associação de produtos simples a produtos configuráveis.
+1. Get the attributes for an [attribute set](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/create/attribute-sets.html) to use the ID numbers for subsequent API calls.
+1. Create simple products for use in the configurable product.
+1. Create an empty configurable product and associate the simple products.
+1. Set the product attributes for the configurable product.
+1. Populate the empty configurable product with simple products.
+1. Get the configurable product and all the attributes.
+1. Get the assigned children products for the configurable product.
+1. Delete the association of simple products to configurable products.
 
-Ao criar produtos configuráveis no Adobe Commerce Admin, você pode criar os produtos simples primeiro ou usar a ferramenta automatizada que cria novos produtos simples para usar usando o assistente.
+When creating configurable products from the Adobe Commerce Admin, you can either create the simple products first, or use the automated tool that creates new simple products for use using the wizard.
 
 ## Para quem é este vídeo?
 
@@ -349,6 +354,6 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/configurable
 ## Recursos adicionais
 
 * [Criar um tutorial de produto configurável](https://developer.adobe.com/commerce/webapi/rest/tutorials/configurable-product/){target="_blank"}
-* [Produto Configurável](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html?lang=pt-BR){target="_blank"}
+* [Produto configurável](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-configurable.html){target="_blank"}
 * [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
-* [Documento Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
+* [ReDoc Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

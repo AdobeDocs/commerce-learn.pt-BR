@@ -11,9 +11,15 @@ duration: 302
 last-substantial-update: 2025-3-25
 jira: KT-17595
 exl-id: 4a36de40-fb55-41ad-afef-35fc18a271ec
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/A-ecz3Yr1lCNQZmM9ung-lf7WIJZmB3h0TnsblyAbkQ
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: 200
 ht-degree: 0%
 
 ---
@@ -35,7 +41,7 @@ Se você acha que precisa desses arquivos de log, pode `rsync` ou usar outros m�
 * Onde alguns arquivos de log grandes comuns são encontrados
 * Método rápido para truncar um arquivo de log
 
->[!VIDEO](https://video.tv.adobe.com/v/3454588?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454572?learn=on)
 
 
 ## Comandos usados no vídeo
@@ -91,4 +97,4 @@ Depois de enviar para o projeto e ambiente corretos, altere para o diretório `v
 
 ## Documentação relacionada
 
-* [Notificações de integridade](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}
+* [Notificações de integridade](https://experienceleague.adobe.com/en/docs/commerce-on-cloud/user-guide/dev-tools/integrations/health-notifications){target="_blank"}

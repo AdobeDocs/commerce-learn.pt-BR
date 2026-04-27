@@ -4,15 +4,21 @@ description: Descubra como usar várias fontes para a API Mesh no Adobe Commerce
 jira: KT-11804
 doc-type: Tutorial
 duration: 409
-last-substantial-update: 2023-02-08T00:00:00Z
+last-substantial-update: 2023-02-08T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner, Intermediate
 exl-id: d788a068-9d20-4db0-a0eb-fd897873253d
-source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
+TQID: https://experienceleague.adobe.com/O6ONn4NzMP-VqN0nsCoD-OPkZGMBelLWB-KNP1fZqmA
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: 199
 ht-degree: 0%
 
 ---
@@ -32,7 +38,7 @@ Este vídeo ajuda os desenvolvedores a entender como criar uma malha com várias
 * Como solucionar erros, como conflitos de nome, disponibilidade de esquema e outros problemas de sintaxe de esquema
 * Atualização da malha com uma configuração modificada
 
->[!VIDEO](https://video.tv.adobe.com/v/3430765?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414125?learn=on)
 
 ## Criar o arquivo de configuração json
 

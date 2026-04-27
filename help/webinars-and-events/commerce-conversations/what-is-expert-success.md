@@ -1,36 +1,41 @@
 ---
-title: O que é o Expert Success
-description: Saiba mais sobre a success plan, os canais de suporte e as metas de nível de serviço especializadas da Adobe Commerce para oferecer suporte contínuo ao cliente.
+title: What is Expert Success
+description: Learn about Adobe Commerce's expert success plan, support channels, and service level targets for seamless customer support.
 feature: Site Management, Support
 topic: Administration, Commerce
 role: User
 level: Beginner
 doc-type: Value Video
 duration: 214
-last-substantial-update: 2025-04-08T00:00:00Z
+last-substantial-update: 2025-04-08T00:00:00.000Z
 jira: KT-17714
 exl-id: 5863babd-bab2-4ccd-8978-c9bb379500b7
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/lHugngNcvU2CNxc49jPDsXajipcu8Y2bayQwd-YDe7E
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: 110
 ht-degree: 0%
 
 ---
 
-# O que é o Expert Success
+# What is Expert Success
 
-Saiba mais sobre a success plan de especialistas da Adobe Commerce. Saiba mais sobre os detalhes, incluindo os três canais de suporte e metas de nível de serviço.
+Learn about the Adobe Commerce expert success plan. Learn more about the details including the three support channels and service level targets.
 
 ## Para quem é este vídeo?
 
-* Usuários do Adobe Commerce que precisam de suporte confiável e eficiente para sua plataforma Adobe Commerce.
-* Empresas: empresas que enfrentam problemas críticos, como paralisações do site, que exigem atenção imediata.
-* Equipes de suporte: equipes que procuram canais de suporte estruturados e colaborativos.
-* Gerentes de produto: pessoas que buscam um envolvimento direcionado com especialistas em soluções para lidar com os desafios de funcionalidade do produto.
+* Adobe Commerce Users who need reliable and efficient support for their Adobe Commerce platform.
+* Businesses: Companies experiencing critical issues like site outages that require immediate attention.
+* Support Teams: Teams looking for structured and collaborative support channels.
+* Product Managers: Individuals seeking targeted engagement with solution experts to address product functionality challenges.
 
 ## Conteúdo de vídeo {#video-content}
 
-* Três canais de suporte.
-* Alvos de nível de serviço.
+* Three support channels.
+* Service level targets.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457508?learn=on)

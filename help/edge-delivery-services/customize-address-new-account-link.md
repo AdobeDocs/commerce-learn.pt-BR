@@ -10,13 +10,18 @@ duration: 856
 last-substantial-update: 2025-1-13
 exl-id: 91535671-02ff-4611-b452-0325792ad70b
 jira: KT-16729
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/QnipDRCT13r3KSOOZj3G8A8EoAZNET6Y823qbjDAXE8
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: cc250cf1-34eb-4863-80d0-d170d45ea067id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: bce87dde-a4ab-44c9-8a18-ad66e4ddb377id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: 322
 ht-degree: 0%
 
 ---
-
 
 # Personalizar um layout de endereço
 
@@ -40,8 +45,8 @@ Gerentes de projeto que precisam acompanhar o progresso das tarefas de desenvolv
 * Validação e tratamento de erros para os campos de entrada de endereço, garantindo que os usuários recebam feedback imediato sobre entradas incorretas ou incompletas, melhorando a experiência do usuário.
 * Extensão do Painel da conta do usuário que adiciona um novo item de menu da barra lateral ao painel da conta do usuário.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442911?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## Documentação adicional
 
-* [Conta de usuário](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/?lang=pt-BR)
+* [Conta de usuário](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account/tutorials/)

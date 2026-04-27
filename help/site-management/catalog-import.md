@@ -1,6 +1,6 @@
 ---
-title: Saiba mais sobre as opções de importação de catálogo que vêm nativas com o Adobe Commerce
-description: Saiba mais sobre algumas das opções nativas para importar seu catálogo para a loja da Adobe Commerce.
+title: Learn about catalog import options that come native with Adobe Commerce
+description: Learn how a few of the native options for importing your catalog to your Adobe Commerce store.
 kt: 13634
 doc-type: tutorial
 duration: 211
@@ -12,66 +12,72 @@ topic: Commerce, Administration, Content Management
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 18713a44-df39-4b94-91ce-c7efeb4ce2b3
-source-git-commit: 9aa4d70ee6a3825f027aa2a9c6a1ac0f876ed59f
+TQID: https://experienceleague.adobe.com/-JG7blrxImSXjA2DP9soZfsicISW0hkP2zJeWdMpVBU
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: bd989d82-1e15-4534-88db-f1f51dd77ffaid: c18ed297-2187-4aec-affb-9d9654eca6fcid: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '818'
+source-wordcount: 898
 ht-degree: 0%
 
 ---
 
-# Opções de importação de um catálogo
+# Options for importing a catalog
 
-Existem alguns métodos nativos para importar um catálogo para o Adobe Commerce. Cada método tem seu próprio raciocínio para uso, juntamente com prós e contras que devem ser considerados.
+There are a few native methods for importing a catalog into Adobe Commerce. Each method has its own reasoning for usage along with pros and cons that must be considered.
 
-Escolha uma das opções abaixo para saber mais.
+Choose from one of the options below to learn more.
 
 >[!BEGINTABS]
 
->[!TAB Manual 1]
+>[!TAB Manual]
 
-## Criação manual dos produtos {#manual-import}
+## Creating the products manually {#manual-import}
 
-Se você tiver um catálogo limitado e as atualizações forem pouco frequentes, criá-las manualmente pode ser a melhor opção. É necessário tempo para entrar em cada produto e algum treinamento limitado sobre como usar o administrador do Commerce. O gerenciamento manual de catálogos não é a opção correta para a maioria das lojas, mas, em determinadas situações, pode fazer sentido. Para ver a documentação adicional deste processo, visite [Criar um produto](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=pt-BR){target="_blank"}. Não se esqueça: você pode usar mais de um método para gerenciar o catálogo. No entanto, uma vez que a automação for usada, as edições manuais deverão ser limitadas. As atualizações automatizadas têm a oportunidade de substituir qualquer alteração executada manualmente e, portanto, causar confusão. Quando a integração com o Adobe Commerce para gerenciar o catálogo estiver usando automação e APIs, é recomendável restringir o gerenciamento do catálogo do administrador por meio de [funções e permissões de usuário](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=pt-BR){target="_blank"}.
+If you have a limited catalog and updates are infrequent, creating them manually might be the best option. It requires time to enter each product and some limited training to how to use the Commerce Admin. Manual catalog management is not the right option for most stores, but in certain situations, it may make sense. To see additional documentation for this process, visit [Create a product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html){target="_blank"}. Do not forget, you can use more than one method to manage your catalog, however once automation is used, manual edits must be limited. Automated updates have the opportunity to overwrite any changes performed manually, and therefore cause confusion. Once the integration with Adobe Commerce to manage the catalog is using automation and APIs, it is advised to restrict management of the catalog from the admin through [user roles and permissions](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html){target="_blank"}.
 
-### Quando considerar esta abordagem
+### When to consider this approach
 
-* Catálogo muito pequeno, por exemplo, menos de 50 produtos
-* Atualizações pouco frequentes
-* Você tem todos os detalhes do produto, imagens, vídeos e não quer dedicar tempo para saber como converter os dados em CSV
-* Você deseja incluir a adição de imagens e vídeos ao criar os produtos
-* Sua equipe `not` está familiarizada com APIs e como o OAUTH funciona
+* Very small catalog, for example fewer than 50 products
+* Updates are infrequent
+* You have all the product details, images, videos, and you do not want to take the time to learn how to convert the data to CSV
+* You want to include adding images and videos when creating the products
+* Your team is `not` familiar with APIs and how OAUTH works
 
->[!TAB CSV de administrador]
+>[!TAB Admin CSV]
 
-## Ferramenta de importação de CSV do administrador {#admin-csv}
+## Admin CSV import tool {#admin-csv}
 
-Essa ferramenta permite que o proprietário de uma loja importe um catálogo usando um direito CSV do administrador de comércio.
-[Importar dados do administrador do Commerce](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=pt-BR){target="_blank"}
+This tool allows a store owner to import a catalog using a CSV right from the commerce admin.
+[Import Data from Commerce Admin](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
 
-Vantagens:
-Fazer upload de um CSV do administrador é uma abordagem direta para o gerenciamento de catálogos. Ele permite atualizações mais rápidas de produtos de catálogo para um catálogo de tamanho moderado.
+Pros:
+Uploading a CSV from the admin is a straight forward approach to catalog management. It allows for faster catalog product updates to a moderately sized catalog.
 
-Desvantagens:
+Cons:
 
-* Lento
-* O tamanho máximo do arquivo para upload está definido no servidor e pode não ser facilmente ajustado pelo proprietário da loja.
-* Requer acesso de administrador e alguém para executar a ação, a automação é limitada
-* As importações programadas são limitadas a no máximo 1x por dia
-* As imagens e os vídeos associados devem ser carregados separadamente
+* Slow
+* Maximum upload file sized defined on server and may not be easily adjusted by a store owner.
+* Requires admin access and someone to perform the action, automation is limited
+* Schedule imports are limited to 1x a day max
+* The images and videos associated must be uploaded separately
 
-### Quando considerar esta abordagem
+### When to consider this approach
 
-* O tamanho do catálogo é moderado
-* As atualizações não são feitas mais de uma vez ao dia
-* você tem acesso às configurações do servidor caso precise aumentar o tamanho máximo de upload de arquivo
-* Sua equipe `not` está familiarizada com APIs e como o OAUTH funciona
+* Catalog size is moderate
+* Updates are not more than once a day
+* you have some access to server configurations in case that you must increase max file upload size
+* Your team is `not` familiar with APIs and how OAUTH works
 
->[!TAB API REST em massa]
+>[!TAB Bulk REST API]
 
-## API REST em massa {#bulk-rest-api}
+## Bulk REST API {#bulk-rest-api}
 
-A API REST em massa permite automação e atualizações mais frequentes. Essa API é mais rápida do que usar o upload de administrador do CSV.
-[Documentação de pontos de extremidade em massa](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"}
+The bulk REST API allows for automation and more frequent updates. This API is faster than using the admin upload of CSV.
+[Bulk endpoints documentation](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"}
 
 Vantagens:
 A capacidade de importar grandes conjuntos de dados que não estejam no formato CSV.
@@ -116,7 +122,7 @@ Desvantagens:
 
 Essa opção de API permite importações extremamente rápidas em comparação a todas as outras opções nativas.
 
-[Importar API CSV REST de dados](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
+[Importar API CSV de dados REST](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 Vantagens:
 
 * Método mais rápido para processar os dados recebidos
@@ -140,6 +146,6 @@ Desvantagens:
 ## Recursos adicionais
 
 * [Importar dados usando o novo CSV REST](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [Importar documentação principal de dados](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=pt-BR){target="_blank"}
-* [Notas de versão do Adobe Commerce versão 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=pt-BR){target="_blank"}
+* [Importar documentação principal de dados](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html){target="_blank"}
+* [Notas de versão do Adobe Commerce versão 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html){target="_blank"}
 * [Usuários, funções e permissões](../site-management/users-roles-permissions.md){target="_blank"}

@@ -1,50 +1,56 @@
 ---
-title: Extensibilidade fora do processo para o Adobe Commerce
+title: Out-of-process extensibility for Adobe Commerce
 description: Saiba mais sobre o Adobe App Builder e por que ele é um aspecto importante da extensibilidade fora do processo.
 jira: KT-11433
 doc-type: Tutorial
 duration: 322
-last-substantial-update: 2023-02-16T00:00:00Z
+last-substantial-update: 2023-02-16T00:00:00.000Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner, Intermediate
 exl-id: 94f8d82a-4a95-46ea-8eed-edf9bed5760c
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+TQID: https://experienceleague.adobe.com/c3dl6gZ7Jtje5rZCB9HrwmCbFrcu8bllL0z0B9cl5Jg
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '698'
+source-wordcount: 777
 ht-degree: 2%
 
 ---
 
-# Introdução ao App Builder
+# Introduction to App Builder
 
-Historicamente, o desenvolvimento do Adobe Commerce tem usado extensibilidade no processo. O modelo em andamento requer que qualquer novo código seja compatível com as atualizações, a versão PHP do servidor e muitos outros aplicativos e serviços essenciais do servidor que o Commerce usa. O Adobe Developer App Builder usa extensibilidade fora do processo para evitar esses problemas de compatibilidade.
+Historically, Adobe Commerce development has used in-process extensibility. The in-process model requires any new code to be compatible with upgrades, the server&#39;s PHP version, and many other essential server applications and services that Commerce uses. Adobe Developer App Builder uses out-of-process extensibility to avoid these compatibility issues.
 
-## App Builder para Adobe Commerce {#app-builder}
+## App Builder for Adobe Commerce {#app-builder}
 
 >[!VIDEO](https://video.tv.adobe.com/v/3412839?learn=on)
 
-O Adobe Developer App Builder é uma plataforma de extensibilidade sem servidor para integrar e criar experiências personalizadas para estender as soluções da Adobe, e agora está disponível para o Adobe Commerce. Com o App Builder, você pode criar aplicativos seguros e escalonáveis que estendem a funcionalidade nativa da Commerce e se integram a soluções de terceiros. Como desenvolvedor, agora você pode aproveitar a extensibilidade fora do processo com o Adobe Commerce, o que, por sua vez, fornece benefícios imediatos e de longo prazo.
+Adobe Developer App Builder is a serverless extensibility platform for integrating and creating custom experiences to extend Adobe solutions, and it&#39;s now available for Adobe Commerce. With App Builder, you can build secure and scalable apps that extend Commerce-native functionality and integrate with third-party solutions. As a developer, you can now take advantage of out-of-process extensibility with Adobe Commerce and that in turn provides immediate and long-term benefits.
 
-A App Builder fornece uma estrutura unificada de extensibilidade de terceiros para integrar e criar aplicativos personalizados que estendam o [!DNL Adobe Commerce]. Como essa estrutura de extensibilidade é criada na infraestrutura da Adobe, os desenvolvedores podem criar microsserviços personalizados e estender e integrar o [!DNL Adobe Commerce] a outras soluções da Adobe e integrações de terceiros.
+App Builder provides a unified third-party extensibility framework for integrating and creating custom applications that extend [!DNL Adobe Commerce]. Since this extensibility framework is built on Adobe&#39;s infrastructure, developers can build custom microservices, and extend and integrate [!DNL Adobe Commerce] across other Adobe solutions and third-party integrations.
 
-A App Builder fornece uma maneira para os clientes estenderem o [!DNL Adobe Commerce] em vários casos de uso:
+App Builder provides a way for customers to extend [!DNL Adobe Commerce] in various use cases:
 
-* extensibilidade do middleware - conecte sistemas externos com aplicativos da Adobe criando conectores personalizados ou aproveite um conjunto de integrações pré-criadas.
-* extensibilidade dos principais serviços - amplie os principais recursos do aplicativo estendendo o comportamento padrão com recursos personalizados e lógica de negócios.
-* extensibilidade da experiência do usuário - Estenda a experiência principal para atender aos requisitos dos negócios ou criar propriedades digitais, vitrines e aplicativos back-office específicos do cliente.
+* middleware extensibility - Connect external systems with Adobe applications by building custom connectors or take advantage of a suite of pre-built integrations.
+* core services extensibility - Extend core application capabilities by extending the default behavior with custom features and business logic.
+* user experience extensibility - Extend core experience to support business requirements or build customer-specific digital properties, storefronts, and back-office applications.
 
-O Adobe Developer App Builder é uma solução baseada em nuvem, o que significa que é dimensionada automaticamente. Esse serviço também é distribuído globalmente para permitir o melhor desempenho, independentemente da sua localização geográfica.
+Adobe Developer App Builder is a cloud-based solution, which means that it automatically scales. This service is also globally distributed to allow the best performance regardless of your geographic location.
 
-## Por que você deve saber mais sobre o App Builder
+## Why should you learn more about App Builder
 
-Como o Adobe Commerce não é um produto totalmente SAAS, o código que você desenvolve pode adicionar problemas de complexidade e atualização. Ao usar a extensibilidade fora do processo, como o App Builder, você pode fornecer funcionalidade personalizada e exclusiva à loja da Adobe Commerce sem exigir métodos no processo.
+Since Adobe Commerce is not a fully SAAS product, the code you develop can add complexity and upgrade issues. By using out-of-process extensibility, such as App Builder, you can provide custom, unique functionality to your Adobe Commerce store without requiring in-process methods.
 
-Outros benefícios incluem:
+Other benefits include:
 
-* Os recursos dissociados possibilitam um tempo de lançamento mais rápido.
-* As atualizações agora são mais fáceis. Os recursos personalizados estão fora da base de código do Commerce, o que evita problemas de compatibilidade ao atualizar.
+* Decoupled features allow for faster time to launch.
+* Upgrades are now easier. Os recursos personalizados estão fora da base de código do Commerce, o que evita problemas de compatibilidade ao atualizar.
 * Mover recursos e lógica para fora do Commerce libera recursos que normalmente são usados por métodos de desenvolvimento em andamento.
 
 ## Arquitetura {#architecture}
@@ -87,6 +93,6 @@ Pronto para começar a desenvolver? O link a seguir contém aplicativos de exemp
 
 ## Suporte {#support}
 
-Para solicitações de suporte ao desenvolvedor, use o [fórum do Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly?profile.language=pt){target="_blank"} para obter assistência.
+Para solicitações de suporte ao desenvolvedor, use o [fórum do Experience League](https://experienceleaguecommunities.adobe.com/t5/app-builder/ct-p/project-firefly){target="_blank"} para obter assistência.
 
 {{$include /help/_includes/app-builder-related-links.md}}

@@ -1,25 +1,31 @@
 ---
-title: Níveis de validação de cotação B2B no administrador do Adobe Commerce
-description: Saiba como o aplicativo do Adobe Commerce tem processos de validação rigorosos.  Este tutorial em vídeo demonstra o processo de validação do painel de administração do Adobe Commerce para garantir que o procedimento de cotação seja válido e consistente
+title: B2B quote validation levels in the Adobe Commerce admin
+description: Learn how the Adobe Commerce application has strict validation processes.  This video tutorial demonstrates the validation process from the Adobe Commerce admin panel to ensure the quoting procedure is valid and consistent
 doc-type: Feature Video
 duration: 348
 jira: KT-13470
-last-substantial-update: 2023-06-13T00:00:00Z
+last-substantial-update: 2023-06-13T00:00:00.000Z
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: ca789f44-456a-461c-9249-41fdb2bd6804
-source-git-commit: 1e8f867de0a8c95fec285f99624c9079f0bdf9b7
+TQID: https://experienceleague.adobe.com/UVj-9pN-4ftzPsagPPa9wVPCyNl2WCt4-fJep95zueo
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: 81
 ht-degree: 0%
 
 ---
 
-# Validação de cotação de venda B2B usando o painel de administração
+# B2B sales quote validation using the admin panel
 
-Saiba mais sobre as etapas e áreas de validação que a funcionalidade de Cotação B2B do Adobe Commerce oferece para garantir um processo de cotação consistente e válido.
+Learn the validation steps and areas that Adobe Commerce B2B Quote functionality provides to ensure the consistent and valid quote process.
 
 {{b2b-feature}}
 
@@ -30,6 +36,6 @@ Saiba mais sobre as etapas e áreas de validação que a funcionalidade de Cota�
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3423723?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420413?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

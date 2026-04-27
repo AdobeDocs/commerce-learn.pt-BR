@@ -13,18 +13,24 @@ old-role: Architect, Developer
 role: Developer
 level: Intermediate
 exl-id: f2654873-256e-4c1b-abed-8bfbc4db3fbb
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/nUXdrsjzeD939jOjZS8ywPV3OeOaxpZCmeuveACtYrY
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: ba9e5be9-7de1-4f71-a5d2-baead0e425eeid: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: d095671a-1355-40aa-8b5f-06c33c68080b
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: 432
 ht-degree: 0%
 
 ---
 
 # Configurar, implantar e personalizar um webhook de assimilação
 
-Saiba mais sobre a configuração e personalização de um webhook de assimilação para integrar o Commerce a um sistema de back office de terceiros&#x200B; Este vídeo explica como o webhook pode resolver limitações na comunicação de eventos entre sistemas fornecendo um endpoint disponível publicamente para adaptar mensagens do sistema de terceiros para a API de evento do Adobe IO. O processo envolve a configuração do webhook no arquivo `actions.config.yaml`, sua habilitação no arquivo `app.config.yaml` e sua implantação para garantir a funcionalidade adequada.
+Saiba mais sobre a configuração e personalização de um webhook de assimilação para integrar o Commerce com um sistema de back office de terceiros.&#x200B; Este vídeo explica como o webhook pode resolver limitações na comunicação de eventos entre sistemas, fornecendo um terminal disponível publicamente para adaptar mensagens do sistema de terceiros à API de evento do Adobe IO. O processo envolve a configuração do webhook no arquivo `actions.config.yaml`, sua habilitação no arquivo `app.config.yaml` e sua implantação para garantir a funcionalidade adequada.
 
-O vídeo aborda as etapas para modificar o código do webhook para traduzir eventos de terceiros em formatos compatíveis com os tipos de evento inscritos da integração. Ele discute a adição de um arquivo `event-mapping.json` para facilitar essa tradução e enfatiza a importância de reimplantar a ação de tempo de execução depois de fazer alterações&#x200B; O vídeo também destaca a importância de validar e transformar cargas de evento recebidas para alinhar-se ao esquema esperado, garantindo o processamento e a integração bem-sucedidos com a API do Commerce para criar clientes.
+O vídeo aborda as etapas para modificar o código do webhook para traduzir eventos de terceiros em formatos compatíveis com os tipos de evento inscritos da integração. Ele discute a adição de um arquivo `event-mapping.json` para facilitar essa tradução e enfatiza a importância de reimplantar a ação de tempo de execução após fazer alterações.&#x200B; O vídeo também destaca a importância de validar e transformar cargas de evento recebidas para alinhar-se ao esquema esperado, garantindo um processamento bem-sucedido e a integração com a API do Commerce para criar clientes.
 
 ## Público-alvo
 
@@ -46,4 +52,4 @@ O vídeo aborda as etapas para modificar o código do webhook para traduzir even
 ## Amostras de código
 
 * [Webhook de assimilação personalizada](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/customize-ingestion-webhook)
-* [Adicionar agendador de assimilação](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/add-ingestion-scheduler)
+* [Adicionar programador de assimilação](https://github.com/adobe/adobe-commerce-samples/tree/main/starter-kit/add-ingestion-scheduler)

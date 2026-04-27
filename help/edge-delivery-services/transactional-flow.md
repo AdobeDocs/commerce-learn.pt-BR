@@ -1,44 +1,49 @@
 ---
-title: Fluxo transacional do Edge Delivery Services
-description: Saiba mais sobre os serviços de entrega de borda da Adobe e como alterar o fluxo transacional.
+title: Edge Delivery Services transactional flow
+description: Learn about Adobe Edge Delivery Services and how to change the transactional flow.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 525
-last-substantial-update: 2024-12-16T00:00:00Z
+last-substantial-update: 2024-12-16T00:00:00.000Z
 jira: KT-16685
 exl-id: 1f48fc74-400d-42c3-80f0-cd6aa95e4344
-source-git-commit: b859664f02cf6eac99a551e5f58dff34ca55e37a
+TQID: https://experienceleague.adobe.com/w2hP8PL0E4TWrDAcvF4F79z2IoYGKu7Rsvc9wEFZSfg
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: 217
 ht-degree: 0%
 
 ---
 
-# Ajustar fluxo transacional para check-out
+# Adjust transactional flow for checkout
 
-Saiba como ajustar o fluxo transacional para check-out usando o menu suspenso do carrinho do Edge Delivery Services.
+Learn how to adjust the transactional flow for checkout using Edge Delivery Services cart drop-in.
 
 ## O que você vai aprender
 
-Entenda como usar o menu suspenso do carrinho do Adobe Commerce e ajustar o fluxo transacional para mostrar aos clientes um novo conjunto de recursos, alterando algumas linhas de código.  Saiba também como converter essas alterações para serem gerenciadas do Sharepoint para realizar testes AB.
+Gain an understanding on how to use Adobe Commerce cart drop in and adjust the transactional flow to show customers a new set of features by changing a few lines of code.  Also learn how to convert these changes to be managed from Sharepoint to conduct AB testing.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores e proprietários de lojas aprendendo sobre o Edge Delivery Services com a necessidade de alterar alguns elementos do menu suspenso do carrinho.
-* Profissionais de marketing e outras pessoas interessadas em usar o SharePoint para gerenciar recursos e testes AB.
+* Developers and store owners learning about Edge Delivery Services with a need to change some cart drop-in elements.
+* Marketers and others who are interested in using SharePoint to manage features and AB testing.
 
 ## Conteúdo de vídeo
 
-* Atualização do Seletor de Quantidade. Atualize o seletor de quantidade de produto de um incrementador para uma lista suspensa, personalizada para exibir valores de 1 a 20.
-* Exibição de desconto. Recursos implementados para mostrar porcentagens de desconto e descontos de quantia em dólar para itens de venda no carrinho.
-* Flexibilidade no teste A/B. Configurações habilitadas por meio do SharePoint, permitindo que os profissionais de marketing controlem e testem esses recursos.
-* Controle de marketing aprimorado. Gerencie e teste configurações facilmente, melhorando a experiência do usuário e a eficácia do marketing.
+* Quantity Selector Update. Update the product quantity selector from an incrementor to a dropdown, customized to display values from 1 to 20.
+* Discount Display. Implemented features to show discount percentages and dollar amount discounts for sale items in the cart.
+* A/B Testing Flexibility. Enabled configurations through SharePoint, empowering marketers to control and test these features.
+* Enhanced Marketing Control. Easily manage and test configurations, improving user experience and marketing effectiveness.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442356?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
 
-## Documentação adicional
+## Additional Documentation
 
-* [Configurar o resumo do carrinho](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=pt-BR)
+* [Configure Cart Summary](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
