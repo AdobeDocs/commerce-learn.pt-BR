@@ -51,4 +51,4 @@ Sua loja está carregada com locais onde você pode inserir metadados ricos em p
 
 ## Recursos adicionais
 
-[Dados do Meta -  [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html)
+[Dados do Meta -  [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/seo/meta-data.html?lang=pt-BR)

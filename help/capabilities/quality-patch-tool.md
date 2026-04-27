@@ -89,8 +89,8 @@ Antes de aplicar patches, é crucial testá-los em um ambiente de preparo. Garan
 
 ## Artigos e vídeos relacionados
 
-* [Pesquisa de ferramentas de correção de qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
-* [Notas de versão](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/release-notes)
+* [Pesquisa de ferramentas de correção de qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=pt-BR)
+* [Notas de versão](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/quality-patches-tool/release-notes)
 * [Github para patches](https://github.com/magento/quality-patches/blob/master/patches/os/)
-* [Uso da ferramenta de correção de qualidade](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/quality-patches-tool/usage)
-* [Vídeo técnico no QPT](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/tools/quality-patch-tool)
+* [Uso da ferramenta de correção de qualidade](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/quality-patches-tool/usage)
+* [Vídeo técnico no QPT](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/tools/quality-patch-tool)

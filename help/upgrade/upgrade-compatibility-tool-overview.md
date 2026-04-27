@@ -48,7 +48,7 @@ Neste vídeo:
 * How it can help you quickly identify the errors and fixes required to upgrade to a newer Adobe Commerce version
 * How to access the HTML results to help visualize modules by severity and number of incompatibilities
 
-To learn more about the tool see the [Upgrade Compatibility Tool documentation](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en). If you want to know more about performing and simplifying your upgrades, see the [Upgrade Guide](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html).
+To learn more about the tool see the [Upgrade Compatibility Tool documentation](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=pt-BR). If you want to know more about performing and simplifying your upgrades, see the [Upgrade Guide](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=pt-BR).
 
 ## Para quem é este vídeo?
 
@@ -61,7 +61,7 @@ To learn more about the tool see the [Upgrade Compatibility Tool documentation](
 
 ## Recursos adicionais
 
-* [Upgrade Compatibility Tool documentation](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=en)
-* [Guia de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
-* [Released versions](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
-* [Release schedule](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)
+* [Upgrade Compatibility Tool documentation](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=pt-BR)
+* [Guia de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=pt-BR)
+* [Released versions](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=pt-BR)
+* [Release schedule](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=pt-BR)

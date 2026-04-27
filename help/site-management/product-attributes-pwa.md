@@ -50,5 +50,5 @@ Neste vídeo, saiba como gerenciar atributos de produto quando você tem uma loj
 
 ## Recursos adicionais
 
-* [Atributos do produto -  [!DNL Commerce] Guia de Gerenciamento do Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html)
+* [Atributos do produto -  [!DNL Commerce] Guia de Gerenciamento do Catálogo](https://experienceleague.adobe.com/docs/commerce-admin/catalog/product-attributes/product-attributes.html?lang=pt-BR)
 * [PWA Studio - Documentação do desenvolvedor](https://developer.adobe.com/commerce/pwa-studio/)

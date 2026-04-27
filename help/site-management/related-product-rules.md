@@ -50,4 +50,4 @@ Related product rules give you the ability to target the selection of products t
 
 ## Recursos adicionais
 
-[Related  Product Rules  - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)
+[Related  Product Rules  - [!DNL Commerce] Merchandising and Promotions Guide](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=pt-BR)

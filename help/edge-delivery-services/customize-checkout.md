@@ -50,4 +50,4 @@ Saiba mais sobre exemplos para personalizar a experiência de entrega do carrinh
 
 ## Documentação adicional
 
-* [Check-out de convidado em várias etapas](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Check-out de convidado em várias etapas](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=pt-BR)

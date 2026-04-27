@@ -45,4 +45,4 @@ Learn how to create a search, review, commend and escalate a support ticket with
 
 ## Commerce Knowledge Base help center guide
 
-[Submit a support case](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Submit a support case](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

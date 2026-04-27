@@ -51,4 +51,4 @@ Gain an understanding on how to use Adobe Commerce cart drop in and adjust the t
 
 ## Additional Documentation
 
-* [Configure Cart Summary](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
+* [Configure Cart Summary](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=pt-BR)

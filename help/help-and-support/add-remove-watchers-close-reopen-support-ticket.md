@@ -45,4 +45,4 @@ Saiba como adicionar e remover observadores, bem como fechar e reabrir um tíque
 
 ## Guia da central de ajuda da Base de conhecimento Commerce
 
-[Enviar um caso de suporte](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Enviar um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)

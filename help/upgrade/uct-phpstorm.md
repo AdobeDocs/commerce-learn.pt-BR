@@ -54,6 +54,6 @@ Neste vídeo:
 
 ## Recursos adicionais
 
-* [Ferramenta de compatibilidade de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html){target="_blank"}
+* [Ferramenta de compatibilidade de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=pt-BR){target="_blank"}
 * [Plug- in PhpStorm para MagentoName](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm){target="_blank"}
-* [Versões lançadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html){target="_blank"}
+* [Versões lançadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=pt-BR){target="_blank"}
