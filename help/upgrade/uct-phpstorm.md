@@ -11,11 +11,17 @@ level: Intermediate
 jira: KT-9651
 exl-id: 9b56306c-578b-4c9f-9566-b8c9560d1b1c
 TQID: https://experienceleague.adobe.com/ptjrFsuwRKnQJTsjfBNx4TS9ZHauv9uoRnU-UCk--6Q
-product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2: id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
 source-wordcount: 147

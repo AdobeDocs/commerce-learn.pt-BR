@@ -11,10 +11,15 @@ last-substantial-update: 2024-06-25T00:00:00.000Z
 jira: KT-14910
 exl-id: e740bbd0-5ec7-4272-89cb-0bed776eb149
 TQID: https://experienceleague.adobe.com/9jR79l0ERhs4UsQ9da2juigSktpcVE5IsiBnk83gCzc
-product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2: id: b5f00040-57a0-4a6d-a39e-383b1936c2c9id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2:
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
 workflow-type: tm+mt
 source-wordcount: 1099
