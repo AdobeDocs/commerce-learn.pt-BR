@@ -3,9 +3,9 @@ user-guide-title: Vídeos e tutoriais
 user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Source por meio de vídeos e tutoriais.
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
-source-git-commit: 68c27de91287f83f044ec777de3ee0cda37704b2
+source-git-commit: 4ce3ef13cbfc5a0001d4a89a6c040eb3fb605c82
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: '1001'
 ht-degree: 3%
 
 ---
@@ -97,7 +97,7 @@ ht-degree: 3%
 
 + Extensibilidade {#extensibility}
    + Desenvolvimento de back-end {#backend-development}
-      + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+      + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
       + [Criar um módulo](../backend-development/create-module.md)
       + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
       + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
@@ -152,6 +152,15 @@ ht-degree: 3%
       + Use as ferramentas de IA para criar POC de pagamento dividido {#create-a-split-payment-poc}
          + [Criar uma POC de pagamento dividido: ferramentas do App Builder e da IA](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
          + [Criar uma POC de pagamento dividido: demonstração completa do App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
+         + [POC de pagamento dividido: decisões de arquitetura e design](../app-builder/split-payment-ai-tools/split-payment-poc-architecture-and-decisions.md)
+         + [POC de pagamento dividido: pré-requisitos e configuração de ambiente](../app-builder/split-payment-ai-tools/split-payment-poc-prerequisites-and-setup.md)
+         + [POC de pagamento dividido: referência de variáveis de ambiente](../app-builder/split-payment-ai-tools/split-payment-poc-env-reference.md)
+         + [POC de pagamento dividido: prompt do Commerce Module AI](../app-builder/split-payment-ai-tools/split-payment-poc-commerce-module-prompt.md)
+         + [POC de pagamento dividido: prompt do App Builder orchestrator AI](../app-builder/split-payment-ai-tools/split-payment-poc-app-builder-orchestrator-prompt.md)
+         + [POC de pagamento dividido: prompt da IA de extensão da interface do usuário do Experience Cloud](../app-builder/split-payment-ai-tools/split-payment-poc-experience-cloud-ui-prompt.md)
+         + [POC de pagamento dividido: guia de teste e verificação](../app-builder/split-payment-ai-tools/split-payment-poc-testing-and-verification.md)
+         + [POC de pagamento dividido: próximas etapas após a prova de conceito](../app-builder/split-payment-ai-tools/split-payment-poc-next-steps.md)
+         + [POC de pagamento dividido: referência rápida de tutorial para autores](../app-builder/split-payment-ai-tools/split-payment-poc-tutorial-quick-reference.md)
       + Criar taxas de envio personalizadas usando as Ferramentas de IA {#custom-shipping-rates-ai-tools}
          + [Introdução e configuração](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Ferramentas de IA e kit inicial do Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)

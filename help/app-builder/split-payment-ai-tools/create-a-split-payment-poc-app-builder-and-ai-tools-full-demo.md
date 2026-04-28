@@ -6,12 +6,12 @@ topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
 level: Intermediate
 doc-type: Technical Video
-duration: 955
+duration: 933
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: b3a9cee9ab59307883444650e8ee2423ab630b6b
+source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
 workflow-type: tm+mt
-source-wordcount: '1050'
+source-wordcount: '1031'
 ht-degree: 0%
 
 ---
@@ -88,6 +88,4 @@ Uma pontuação de risco, regra de região ou similar pode ser conectada aqui; *
 
 A apresentação corresponde **[!UICONTROL Adobe Commerce]** em uma infraestrutura que você gerencia ou **[!UICONTROL Commerce in the cloud]** (PaaS) com uma loja tradicional. Para o **[!UICONTROL Adobe Commerce as a Cloud service]** (SaaS) com um front-end diferente e nenhum módulo em andamento nessa forma, as partes do App Builder são praticamente as mesmas, enquanto a loja e o trabalho de extensão seriam diferentes. Em todos os casos, o mesmo princípio é válido: deixe **[!UICONTROL Commerce]** fazer o que deve acontecer dentro da solicitação **[!UICONTROL Commerce]**, e use **[!UICONTROL App Builder]** para o resto da experiência.
 
-## Recursos adicionais
-
-* [Criar uma POC de pagamento dividido: Ferramentas de IA e App Builder](create-a-split-payment-poc-app-builder-and-ai-tools.md) — a introdução da série às metas e à arquitetura.
+{{$include /help/_includes/split-payment-ai-tools-related-links.md}}
