@@ -1,25 +1,28 @@
 ---
-title: Split Payment POC AI Tools related pages
-description: Links to related pages in Extensiblilty - Adobe Developer App Builder - Use AI Tools to create split payment POC
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+title: Páginas relacionadas às Ferramentas de IA POC para pagamento dividido
+description: Links para páginas relacionadas em Extensibilidade - Adobe Developer App Builder - Use as ferramentas de IA para criar POC de pagamento dividido
+source-git-commit: be274a0e69527597ddad238ecbb7a46a7546ed84
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '80'
 ht-degree: 0%
 
 ---
 
-# Split Payment POC related links
+# Dividir links relacionados ao POC de pagamento
 
-## Related split payment POC resources
+## Todos os recursos desta série
 
-* [Criar uma POC de pagamento dividido: ferramentas do App Builder e da IA](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools.md)
-* [Criar uma POC de pagamento dividido: demonstração completa do App Builder](../app-builder/split-payment-ai-tools/create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md)
-* [POC de pagamento dividido: decisões de arquitetura e design](../app-builder/split-payment-ai-tools/split-payment-poc-architecture-and-decisions.md)
-* [POC de pagamento dividido: pré-requisitos e configuração de ambiente](../app-builder/split-payment-ai-tools/split-payment-poc-prerequisites-and-setup.md)
-* [POC de pagamento dividido: referência de variáveis de ambiente](../app-builder/split-payment-ai-tools/split-payment-poc-experience-cloud-ui-prompt.md)
-* [Split payment POC: Commerce module AI prompt](../app-builder/split-payment-ai-tools/split-payment-poc-commerce-module-prompt.md)
-* [POC de pagamento dividido: prompt do App Builder orchestrator AI](../app-builder/split-payment-ai-tools/split-payment-poc-app-builder-orchestrator-prompt.md)
-* [POC de pagamento dividido: prompt da IA de extensão da interface do usuário do Experience Cloud](../app-builder/split-payment-ai-tools/split-payment-poc-experience-cloud-ui-prompt.md)
-* [POC de pagamento dividido: guia de teste e verificação](../app-builder/split-payment-ai-tools/split-payment-poc-testing-and-verification.md)
-* [POC de pagamento dividido: próximas etapas após a prova de conceito](../app-builder/split-payment-ai-tools/split-payment-poc-next-steps.md)
-* [Split payment POC: tutorial quick reference for authors](../app-builder/split-payment-ai-tools/split-payment-poc-tutorial-quick-reference.md)
+* [Ferramentas do App Builder e AI](../app-builder/split-payment-ai-tools/overview.md)
+* [Demonstração completa](../app-builder/split-payment-ai-tools/full-demo.md)
+* [Guia de implementação passo a passo](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
+* [Decisões de arquitetura e design](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
+* [Pré-requisitos e configuração do ambiente](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
+* [Teste e verificação](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+* [Próximas etapas](../app-builder/split-payment-ai-tools/next-steps.md)
+
+## Recursos de referência
+
+* [Referência de variáveis de ambiente](../app-builder/split-payment-ai-tools/env-reference.md)
+* [Prompt do Commerce Module AI](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+* [prompt do App Builder orchestrator AI](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+* [Prompt da IA de extensão da interface do usuário do Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)

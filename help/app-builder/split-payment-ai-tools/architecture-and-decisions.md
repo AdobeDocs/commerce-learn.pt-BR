@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 293
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
 workflow-type: tm+mt
 source-wordcount: '863'
 ht-degree: 1%
@@ -74,9 +74,9 @@ Quando um ERP (ou um operador no painel) confirma que o dinheiro foi recebido, `
 
 ### &#x200B;4. Painel do operador: `demo-dashboard`
 
-Um painel do HTML independente veiculado a partir de uma ação da Web do App Builder. Ele busca pedidos que estão aguardando dinheiro do Commerce REST e fornece **[!UICONTROL Accept]** / **[!UICONTROL Decline]** ações que chamam as ações do App Builder acima. Commerce **[!UICONTROL Admin]** is not required.
+Um painel do HTML independente veiculado a partir de uma ação da Web do App Builder. Ele busca pedidos que estão aguardando dinheiro do Commerce REST e fornece **[!UICONTROL Accept]** / **[!UICONTROL Decline]** ações que chamam as ações do App Builder acima. O Commerce **[!UICONTROL Admin]** não é necessário.
 
-## The threshold: enforced twice on purpose
+## O limite: aplicado duas vezes de propósito
 
 ```text
 Customer at checkout
@@ -92,9 +92,9 @@ Customer at checkout
                               [evaluateThreshold()]  <- Async audit, records failure comment
 ```
 
-**Commerce owns the user-facing guard; App Builder owns the post-placement audit.** That is intentional.
+**A Commerce é proprietária da proteção voltada para o usuário; a App Builder é proprietária da auditoria de pós-posicionamento.** Isso é intencional.
 
-## The store credit: why it stays in PHP
+## O crédito da loja: por que ele fica no PHP
 
 ```text
 What you might think would work (it does not):
@@ -109,11 +109,11 @@ What actually works:
   -> I/O event: App Builder (store credit is already applied)
 ```
 
-The `store-credit.js` file in the orchestrator documents this. It is a no-op stub with comments that explain why it is not used.
+O arquivo `store-credit.js` no orquestrador documenta isso. É um stub no-op com comentários que explicam por que não é usado.
 
-## Extension attributes: the glue
+## Atributos de extensão: a cola
 
-Split amounts move through the system on extension attributes:
+As quantidades divididas são movidas pelo sistema em atributos de extensão:
 
 ```text
 Checkout JavaScript (Knockout)
@@ -133,17 +133,17 @@ App Builder `payment-orchestrator` reads the split amounts
 
 ## Modelo de dados
 
-**`sales_order`flat columns that this module adds**
+**`sales_order`colunas simples que este módulo adiciona**
 
-| Column | Tipo | Finalidade |
+| Coluna | Tipo | Finalidade |
 | --- | --- | --- |
-| `split_store_credit_amount` | float | Store credit that was applied |
-| `split_cash_amount` | float | Cash amount due |
-| `split_cash_status` | varchar | `pending`, `received`, or `declined` |
-| `split_sc_invoice_id` | int | Entity ID of the store credit invoice |
-| `split_cash_invoice_id` | int | Entity ID of the cash invoice |
+| `split_store_credit_amount` | flutuante | Crédito de armazenamento aplicado |
+| `split_cash_amount` | flutuante | Valor do pagamento à vista devido |
+| `split_cash_status` | varchar | `pending`, `received` ou `declined` |
+| `split_sc_invoice_id` | int | ID da entidade da fatura de crédito de armazenamento |
+| `split_cash_invoice_id` | int | ID da entidade da fatura de pagamento à vista |
 
-**Extension attributes** (on `CartInterface`, `OrderInterface`, and `OrderPaymentInterface`)
+**Atributos de extensão** (em `CartInterface`, `OrderInterface` e `OrderPaymentInterface`)
 
 * `split_store_credit_amount` (flutuante)
 * `split_cash_amount` (flutuante)

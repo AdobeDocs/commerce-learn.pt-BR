@@ -1,6 +1,6 @@
 ---
 title: 'POC de pagamento dividido: referência rápida do tutorial'
-description: 'Saiba mais sobre o mapa de arquivos POC de pagamento dividido: qual página do Experience League corresponde a cada prompt da IA, ordem de seção sugerida e notas do autor para o check-out da Luma.'
+description: Saiba mais sobre o mapa de arquivos POC de pagamento dividido. Qual página do Experience League corresponde a cada prompt do AI, ordem de seção sugerida e notas do autor para o check-out do Luma.
 feature: App Builder, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
-source-wordcount: '1455'
+source-wordcount: '1444'
 ht-degree: 0%
 
 ---
@@ -23,27 +23,25 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 
 ## Referência arquivo a arquivo
 
-### [Criar uma POC de pagamento dividido: Ferramentas de IA e App Builder](create-a-split-payment-poc-app-builder-and-ai-tools.md)
-
-**Rótulo do Source:** `00_TUTORIAL_OVERVIEW.md` (visão geral conceitual; a série publicada abre com esta página.)
+### [Criar uma POC de pagamento dividido: Ferramentas de IA e App Builder](./overview.md)
 
 **Finalidade:** Introdução e orientação para o tutorial.
 
-**Por que é necessário:** oferece aos desenvolvedores o &quot;por que&quot; antes do &quot;como&quot;. Explica o que eles vão construir, quem é o público-alvo e criticamente — o que eles devem personalizar se o site for diferente de uma instalação limpa da Luma. Also serves as the table of contents for the rest of the series.
+**Por que é necessário:** oferece aos desenvolvedores o &quot;por que&quot; antes do &quot;como&quot;. Explica o que eles vão construir, quem é o público-alvo e criticamente — o que eles devem personalizar se o site for diferente de uma instalação limpa da Luma. Também serve como índice para o restante da série.
 
 **Uso do tutorial:** Abrindo seção. Define o contexto antes de qualquer etapa técnica.
 
 
-### [POC de pagamento dividido: decisões de arquitetura e design](split-payment-poc-architecture-and-decisions.md)
+### [POC de pagamento dividido: decisões de arquitetura e design](./architecture-and-decisions.md)
 
 
 **Propósito:** explicação detalhada de cada decisão arquitetônica na PoC.
 
-**Why it&#39;s needed:** The single most common point of confusion when working with this PoC is understanding *why* something is in PHP versus App Builder. Sem esse contexto, os desenvolvedores tentam mover itens que não podem ser movidos (como a aplicação de crédito da loja) e falham. This document pre-empts those failures with clear reasoning.
+**Por que é necessário:** O único ponto de confusão mais comum ao trabalhar com esta PoC é entender *por que* algo está no PHP versus App Builder. Sem esse contexto, os desenvolvedores tentam mover itens que não podem ser movidos (como a aplicação de crédito da loja) e falham. Este documento antecipa essas falhas com um raciocínio claro.
 
 **Principais tópicos abordados:**
 
-* The &quot;what must stay in PHP&quot; rule and why
+* A regra &quot;o que deve ficar no PHP&quot; e o porquê
 * O padrão de dupla imposição de limite
 * Por que o aplicativo de crédito de armazenamento não pode ser assíncrono
 * Os cinco casos de borda do Commerce tratados por plug-ins
@@ -52,7 +50,7 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** seção &quot;Arquitetura&quot; ou &quot;Como funciona&quot;. Pode ser ignorado por desenvolvedores experientes do Commerce, mas é essencial para os recém-chegados do App Builder.
 
 
-### [POC de pagamento dividido: pré-requisitos e configuração de ambiente](split-payment-poc-prerequisites-and-setup.md)
+### [POC de pagamento dividido: pré-requisitos e configuração de ambiente](./prerequisites-and-setup.md)
 
 
 **Finalidade:** Conclua a lista de verificação de pré-impressão antes que qualquer código seja gravado ou que os prompts sejam executados.
@@ -68,7 +66,7 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** &quot;Pré-requisitos&quot; ou seção &quot;Introdução&quot;. Deve ser concluído interativamente — não apenas lido.
 
 
-### [POC de pagamento dividido: referência de variáveis de ambiente](split-payment-poc-env-reference.md)
+### [POC de pagamento dividido: referência de variáveis de ambiente](./env-reference.md)
 
 
 **Propósito:** Todas as variáveis de ambiente para todos os três componentes em um único local.
@@ -84,7 +82,7 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** Barra lateral de referência ou seção &quot;Configuração&quot;. Também usado como um complemento para os prompts de build.
 
 
-### [POC de pagamento dividido: prompt de IA do módulo Commerce](split-payment-poc-commerce-module-prompt.md)
+### [POC de pagamento dividido: prompt de IA do módulo Commerce](./commerce-module-prompt.md)
 
 
 **Propósito:** Prompt completo de IA independente para gerar todo o módulo PHP `Client_SplitPayment`.
@@ -103,7 +101,7 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** seção &quot;Criar o módulo Commerce&quot;. O prompt em si é o artefato — os desenvolvedores o copiam em sua ferramenta de IA e a executam.
 
 
-### [POC de pagamento dividido: prompt da IA do App Builder orchestrator](split-payment-poc-app-builder-orchestrator-prompt.md)
+### [POC de pagamento dividido: prompt da IA do App Builder orchestrator](./orchestrator-prompt.md)
 
 
 **Propósito:** Concluir prompt de IA independente para gerar o aplicativo do App Builder `split-payment-orchestrator`.
@@ -122,7 +120,7 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** seção &quot;Criar o aplicativo do App Builder&quot;. Companheiro para o prompt do módulo Commerce.
 
 
-### [POC de pagamento dividido: prompt da IA de extensão da interface do Experience Cloud](split-payment-poc-experience-cloud-ui-prompt.md)
+### [POC de pagamento dividido: prompt da IA de extensão da interface do Experience Cloud](./experience-cloud-ui-prompt.md)
 
 
 **Propósito:** Prompt de IA para gerar a extensão opcional SDK da interface do usuário do administrador do Experience Cloud.
@@ -139,7 +137,7 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** seção opcional &quot;Indo além&quot; ou &quot;Caminho de produção&quot;. Pode ser ignorado se o tutorial se concentrar somente na PoC.
 
 
-### [POC de pagamento dividido: guia de teste e verificação](split-payment-poc-testing-and-verification.md)
+### [POC de pagamento dividido: guia de teste e verificação](./testing-and-verification.md)
 
 
 **Propósito:** guia de teste passo a passo que cobre cada componente na ordem de verificação correta.
@@ -162,7 +160,7 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** seção &quot;Teste&quot; ou &quot;Verificação&quot;. Também é importante como referência para a solução de problemas.
 
 
-### [POC de pagamento dividido: próximas etapas após a prova de conceito](split-payment-poc-next-steps.md)
+### [POC de pagamento dividido: próximas etapas após a prova de conceito](./next-steps.md)
 
 
 **Propósito:** Roteiro para transformar a POC em padrões prontos para produção.
@@ -186,16 +184,16 @@ Com base nesses arquivos, uma estrutura típica para leitores é:
 
 | Seção Tutorial | Página do Experience League |
 | --- | --- |
-| Introdução e objetivos de aprendizagem | [Criar uma POC de pagamento dividido: Ferramentas de IA e App Builder](create-a-split-payment-poc-app-builder-and-ai-tools.md) |
-| Demonstração completa (vídeo) | [Criar POC de pagamento dividido: demonstração completa do App Builder](create-a-split-payment-poc-app-builder-and-ai-tools-full-demo.md) |
-| Arquitetura: o que vive onde | [POC de pagamento dividido: decisões de arquitetura e design](split-payment-poc-architecture-and-decisions.md) |
-| Pré-requisitos e configuração | [POC de pagamento dividido: pré-requisitos e configuração de ambiente](split-payment-poc-prerequisites-and-setup.md) |
-| Variáveis de ambiente | [POC de pagamento dividido: referência de variáveis de ambiente](split-payment-poc-env-reference.md) |
-| Etapa 1: criar o módulo Commerce | [POC de pagamento dividido: prompt de IA do módulo Commerce](split-payment-poc-commerce-module-prompt.md) |
-| Etapa 2: criar o App Builder orchestrator | [POC de pagamento dividido: prompt da IA do App Builder orchestrator](split-payment-poc-app-builder-orchestrator-prompt.md) |
-| Etapa 3: testar o fluxo de ponta a ponta | [POC de pagamento dividido: guia de teste e verificação](split-payment-poc-testing-and-verification.md) |
-| Etapa 4 (opcional): extensão da interface do usuário do administrador | [POC de pagamento dividido: prompt da IA de extensão da interface do Experience Cloud](split-payment-poc-experience-cloud-ui-prompt.md) |
-| Próximas etapas e caminho de produção | [POC de pagamento dividido: próximas etapas após a prova de conceito](split-payment-poc-next-steps.md) |
+| Introdução e objetivos de aprendizagem | [Criar uma POC de pagamento dividido: Ferramentas de IA e App Builder](./overview.md) |
+| Demonstração completa (vídeo) | [Criar POC de pagamento dividido: demonstração completa do App Builder](./full-demo.md) |
+| Arquitetura: o que vive onde | [POC de pagamento dividido: decisões de arquitetura e design](./architecture-and-decisions.md) |
+| Pré-requisitos e configuração | [POC de pagamento dividido: pré-requisitos e configuração de ambiente](./prerequisites-and-setup.md) |
+| Variáveis de ambiente | [POC de pagamento dividido: referência de variáveis de ambiente](./env-reference.md) |
+| Etapa 1: criar o módulo Commerce | [POC de pagamento dividido: prompt de IA do módulo Commerce](./commerce-module-prompt.md) |
+| Etapa 2: criar o App Builder orchestrator | [POC de pagamento dividido: prompt da IA do App Builder orchestrator](./orchestrator-prompt.md) |
+| Etapa 3: testar o fluxo de ponta a ponta | [POC de pagamento dividido: guia de teste e verificação](./testing-and-verification.md) |
+| Etapa 4 (opcional): extensão da interface do usuário do administrador | [POC de pagamento dividido: prompt da IA de extensão da interface do Experience Cloud](./experience-cloud-ui-prompt.md) |
+| Próximas etapas e caminho de produção | [POC de pagamento dividido: próximas etapas após a prova de conceito](./next-steps.md) |
 
 
 ## Observações importantes para autores tutoriais

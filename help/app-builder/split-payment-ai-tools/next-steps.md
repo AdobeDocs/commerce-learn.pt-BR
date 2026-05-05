@@ -1,6 +1,6 @@
 ---
 title: 'POC de pagamento dividido: próximas etapas após a prova de conceito'
-description: 'Saiba como mover a POC de pagamento dividido para produção: interface do usuário do Experience Cloud, ganchos de ERP, malha de API, escopo do PHP, fluxos de trabalho do App Builder e lista de verificação de implantação.'
+description: Saiba como mover a POC de pagamento dividido para produção. Interface do usuário do Experience Cloud, ganchos de ERP, malha de API, escopo do PHP, fluxos de trabalho do App Builder e lista de verificação de implantação.
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%
@@ -25,7 +25,7 @@ O painel de demonstração e o script de simulação que você criou neste tutor
 
 A ação da Web `demo-dashboard` serve o HTML de uma cadeia de caracteres dentro de uma função Node.js. Funciona, mas não é o padrão de produção.
 
-A substituição adequada é a extensão `commerce-backend-ui-1` no `commerce-checkout-starter-kit` — um aplicativo React incorporado no Commerce Admin Shell por meio da interface do usuário SDK do Adobe Admin. Consulte [POC de pagamento dividido: prompt da IA de extensão da interface do usuário do Experience Cloud](split-payment-poc-experience-cloud-ui-prompt.md) para o prompt de geração.
+A substituição adequada é a extensão `commerce-backend-ui-1` no `commerce-checkout-starter-kit` — um aplicativo React incorporado no Commerce Admin Shell por meio da interface do usuário SDK do Adobe Admin. Consulte [POC de pagamento dividido: prompt da IA de extensão da interface do usuário do Experience Cloud](./experience-cloud-ui-prompt.md) para o prompt de geração.
 
 **O que muda:**
 * Os operadores fazem logon por meio do Commerce Admin Shell (autenticação IMS em vez de um segredo compartilhado)
@@ -72,37 +72,37 @@ Atualmente, o App Builder chama o Commerce REST diretamente com credenciais OAut
 
 ## Etapa 4 — Reduzir a Pegada PHP
 
-O módulo PHP atual lida com cinco itens que devem permanecer em andamento (consulte [POC de pagamento dividido: decisões de arquitetura e design](split-payment-poc-architecture-and-decisions.md)). À medida que a superfície da API do Adobe Commerce amadurece, alguns deles podem se tornar móveis:
+O módulo PHP atual lida com cinco itens que devem permanecer em andamento (consulte [POC de pagamento dividido: decisões de arquitetura e design](./architecture-and-decisions.md)). À medida que a superfície da API do Adobe Commerce amadurece, alguns deles podem se tornar móveis:
 
 **Potencialmente móvel no futuro:**
 * A API REST de crédito da loja está evoluindo — as versões futuras podem oferecer suporte à aplicação de crédito pós-pedido ou a carrinhos inativos
 * À medida que mais operações do Commerce se tornam assíncronas, o protetor de limite pode ser movido para um resolvedor de malha de API de pré-ordem
 
-**Not movable (architectural constraints):**
-* Quote manipulation before `placeOrder()` will always require in-process code unless Commerce exposes a clean hook via an API-first extension point
-* The REST endpoints (`/V1/split-payment/*`) are specific to this feature; they live in Commerce because they call Commerce-internal services
+**Não móvel (restrições de arquitetura):**
+* A manipulação de aspas antes de `placeOrder()` sempre exigirá um código em andamento, a menos que a Commerce exponha um gancho limpo por meio de um ponto de extensão API-first
+* Os endpoints REST (`/V1/split-payment/*`) são específicos para esse recurso; eles residem no Commerce porque chamam os serviços internos da Commerce
 
 
-## Step 5 — Add More Workflow to App Builder
+## Etapa 5 — adicionar mais fluxo de trabalho ao App Builder
 
-The current PoC does one thing: listen for order placement, then enable accept/decline. Natural extensions:
+A PoC atual faz uma coisa: escuta a disposição do pedido e, em seguida, habilita a aceitação/recusa. Extensões naturais:
 
-**Fraud scoring before accept:**
-In `payment-orchestrator`, after recording cash pending, call a fraud scoring API before the orchestration result is considered final. If the score is above a threshold, auto-decline instead of waiting for operator action.
+**Pontuação de fraude antes de aceitar:**
+Em `payment-orchestrator`, depois de registrar dinheiro pendente, chame uma API de pontuação de fraude antes que o resultado da orquestração seja considerado final. Se a pontuação estiver acima de um limite, recuse automaticamente em vez de aguardar a ação do operador.
 
-**Notification emails:**
-When `payment-accept` succeeds, trigger an email (via Adobe Campaign, SendGrid, or any HTTPS API) notifying the customer that their cash payment was confirmed.
+**Emails de notificação:**
+Quando `payment-accept` tiver êxito, acione um email (via Adobe Campaign, SendGrid ou qualquer API HTTPS) notificando o cliente que seu pagamento em dinheiro foi confirmado.
 
-**Loyalty point awards:**
-After cash is confirmed, call a loyalty API to award points. This is pure App Builder — no PHP required.
+**Prêmios de pontos de fidelidade:**
+Depois que o dinheiro for confirmado, chame uma API de fidelidade para atribuir pontos. Isto é App Builder puro — não é necessário PHP.
 
-**Timeout handling:**
-Add a scheduled App Builder action (using `cron` in `app.config.yaml`) that scans for orders with `split_cash_status = 'pending'` older than X days and auto-declines them.
+**Manipulação de tempo limite:**
+Adicione uma ação agendada do App Builder (usando `cron` em `app.config.yaml`) que verifica pedidos com `split_cash_status = 'pending'` mais de X dias e os recusa automaticamente.
 
 
-## Step 6 — Deploy to Production
+## Etapa 6 — implantação para produção
 
-The PoC is configured for `Stage` workspace. Moving to production:
+A POC está configurada para o espaço de trabalho `Stage`. Movendo para produção:
 
 ```bash
 # Switch to production workspace
@@ -116,12 +116,12 @@ aio app use
 aio app deploy
 ```
 
-**Checklist for production readiness:**
-* [ ] `DEMO_UI_SECRET` set (or demo dashboard replaced with Experience Cloud UI)
-* [ ] `LOG_LEVEL=warn` or `error` in production (not `debug`)
-* [ ] `PAYMENT_THRESHOLD` matches Commerce production config
-* [ ] Commerce Integration credentials in `.env` are for a dedicated production integration (not staging)
-* [ ] Fastly IP allowlist updated with App Builder production egress IPs (Commerce Cloud)
+**Lista de verificação para prontidão de produção:**
+* [ Conjunto ] `DEMO_UI_SECRET` (ou painel de demonstração substituído pela interface do Experience Cloud)
+* [ ] `LOG_LEVEL=warn` ou `error` em produção (não `debug`)
+* [ ] `PAYMENT_THRESHOLD` corresponde à configuração de produção do Commerce
+* [ As credenciais de Integração do Commerce ] em `.env` são para uma integração de produção dedicada (não de preparo)
+* [ ] incluo na lista de permissões de IP do Fastly atualizado com os IPs de saída de produção do App Builder (Commerce Cloud)
 * [ ] Registro de evento de E/S confirmado no espaço de trabalho de produção
 
 

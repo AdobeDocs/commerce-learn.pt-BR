@@ -1,6 +1,6 @@
 ---
 title: 'POC de pagamento dividido: guia de teste e verificação'
-description: 'Saiba como verificar a POC de pagamento dividido: instalação do Commerce, REST, check-out, limite, simulação de aceitação e recusa, painel de demonstração e logs do App Builder.'
+description: Saiba como verificar a POC de pagamento fracionado. Instalação do Commerce, REST, check-out, limite, aceitação e recusa da simulação, painel de demonstração e logs do App Builder.
 feature: App Builder, Configuration, Extensibility, Paas, Payments, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 359
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '907'
 ht-degree: 0%
@@ -105,12 +105,12 @@ Após o envio do pedido, verifique no Commerce Admin:
    2. `"Split payment orchestration completed. Order awaiting cash confirmation."` (do App Builder)
 * Os valores do pagamento parcelado estão visíveis no bloco de pagamento da ordem
 
-> **Se nenhum comentário do App Builder for exibido:** Verifique os logs de ação do App Builder com `aio app logs`. The event may not have fired or the action may have an error.
+> **Se nenhum comentário do App Builder for exibido:** Verifique os logs de ação do App Builder com `aio app logs`. O evento pode não ter sido acionado ou a ação pode ter um erro.
 
 
-## Step 7 — Test Accept via Simulation Script
+## Etapa 7 — Testar aceitação por meio do script de simulação
 
-The simulation script is the fastest way to test the accept/decline flow without the full operator UI.
+O script de simulação é a maneira mais rápida de testar o fluxo de aceitação/recusa sem a interface completa do operador.
 
 ```bash
 cd commerce-checkout-starter-kit
@@ -127,52 +127,52 @@ node commerce-backend-ui-1/scripts/simulate-split-payment.mjs show 42
 node commerce-backend-ui-1/scripts/simulate-split-payment.mjs accept 42
 ```
 
-After accept, verify in Commerce Admin order view:
-* Order status is `processing`
-* History comment: `"Cash payment of $X.XX received."`
-* Cash invoice created (visible in Invoices tab)
-* Shipment created (visible in Shipments tab, if applicable)
-* History comment: `"Split payment: cash portion invoiced #XXXXXXXX."`
-* History comment: `"Split payment: shipment created after cash was accepted (App Builder / API)."`
+Depois de aceitar, verifique na exibição da ordem do administrador do Commerce:
+* O status do pedido é `processing`
+* Comentário do histórico: `"Cash payment of $X.XX received."`
+* NFF de caixa criada (visível na guia NFFs)
+* Entrega criada (visível na guia Entregas, se aplicável)
+* Comentário do histórico: `"Split payment: cash portion invoiced #XXXXXXXX."`
+* Comentário do histórico: `"Split payment: shipment created after cash was accepted (App Builder / API)."`
 
 
-## Step 8 — Test Decline via Simulation Script
+## Etapa 8 — Rejeição do teste por meio do script de simulação
 
-Place another test order (same setup as Step 6), then:
+Coloque outra ordem de teste (mesma configuração da Etapa 6) e:
 
 ```bash
 node commerce-backend-ui-1/scripts/simulate-split-payment.mjs decline <orderId>
 ```
 
-After decline, verify in Commerce Admin:
-* Order status is `canceled`
-* History comment: `"Cash payment declined (simulated fraud check)."`
+Depois de recusar, verifique no Commerce Admin:
+* O status do pedido é `canceled`
+* Comentário do histórico: `"Cash payment declined (simulated fraud check)."`
 * `split_cash_status` = `declined`
 
 
-## Step 9 — Test the Demo Dashboard
+## Etapa 9 — testar o painel de demonstração
 
-After deploying the `split-payment-orchestrator`, `aio app deploy` prints the action URLs.
+Depois de implantar o `split-payment-orchestrator`, `aio app deploy` imprime as URLs de ação.
 
-Open the `demo-dashboard` URL in a browser:
+Abra a URL `demo-dashboard` em um navegador:
 
 ```
 https://[runtime-host]/api/v1/web/split_payment_orchestrator/demo-dashboard
 ```
 
-If `DEMO_UI_SECRET` is set:
+Se `DEMO_UI_SECRET` estiver definido:
 
 ```
 https://[runtime-host]/api/v1/web/split_payment_orchestrator/demo-dashboard?secret=<your-secret>
 ```
 
-With a pending order:
-1. The dashboard should show the order in the pending list
-2. Click **Accept** → order should move to `processing` in Commerce
-3. Place another order; click **Decline** → order should be `canceled` in Commerce
+Com um pedido pendente:
+1. O painel deve mostrar a ordem na lista pendente
+2. Clique em **Aceitar** → a ordem deve ser movida para `processing` no Commerce
+3. Faça outro pedido; clique em **Recusar** → a ordem deve ser `canceled` no Commerce
 
 
-## Step 10 — Test App Builder Action Logs
+## Etapa 10 — Testar logs de ação do App Builder
 
 ```bash
 # Follow logs in real-time
@@ -183,7 +183,7 @@ aio runtime activation list --limit 10
 aio runtime activation logs <activation-id>
 ```
 
-For the `payment-orchestrator`, look for:
+Para o `payment-orchestrator`, procure por:
 
 ```
 [INFO] Split payment orchestration finished { orderId: '42' }

@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 262
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 1%
@@ -197,7 +197,7 @@ Antes de iniciar os prompts de build, confirme o seguinte:
 * [ ] O projeto do App Builder tem o serviço de Eventos de E/S e o provedor de eventos do Commerce configurados
 * [ ] `aio login` está concluído e o espaço de trabalho correto está selecionado com `aio app use`
 * [ ] Node.js 18 ou posterior está instalado e a CLI do `aio` está instalada
-* [ ] `.env` arquivos são preparados por [POC de pagamento dividido: referência de variáveis de ambiente](split-payment-poc-env-reference.md) (e seu pacote de origem, se você usar um)
+* [ ] `.env` arquivos são preparados por [POC de pagamento dividido: referência de variáveis de ambiente](./env-reference.md) (e seu pacote de origem, se você usar um)
 
 
 {{$include /help/_includes/split-payment-ai-tools-related-links.md}}

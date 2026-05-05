@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 192
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 7ea8492b082fb3f6e9ed7794526b0f83cb0481b3
+source-git-commit: 629bbb6fe26f128e346d85c857111c2f8dbb6d76
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # POC de pagamento dividido: prompt da IA de extensão da interface do usuário do Experience Cloud
 
-Esta é a etapa opcional que incorpora um painel de ordens de pagamento divididas no Experience Cloud (Admin Shell) do **[!UICONTROL Adobe Commerce]** usando o padrão `commerce-checkout-starter-kit` e `commerce-backend-ui-1`. O [painel de demonstração](split-payment-poc-app-builder-orchestrator-prompt.md) autônomo do App Builder Orchestrator cobre o mesmo fluxo de aceitação e recusa sem a integração do shell do administrador.
+Esta é a etapa opcional que incorpora um painel de ordens de pagamento divididas no Experience Cloud (Admin Shell) do **[!UICONTROL Adobe Commerce]** usando o padrão `commerce-checkout-starter-kit` e `commerce-backend-ui-1`. O [painel de demonstração](./orchestrator-prompt.md) autônomo do App Builder Orchestrator cobre o mesmo fluxo de aceitação e recusa sem a integração do shell do administrador.
 
 ## Como usar este prompt
 
@@ -26,8 +26,8 @@ Copie tudo de **PROMPT START** para **End of prompt** no Cursor ou Claude. Execu
 
 ## Antes de executar
 
-* Este caminho precisa de credenciais de **IMS**, além dos valores de OAuth (consulte [POC de pagamento dividido: referência de variáveis de ambiente](split-payment-poc-env-reference.md) para as variáveis `commerce-checkout-starter-kit`).
-* Conclua a POC [Dividir pagamento: prompt da IA do App Builder orchestrator](split-payment-poc-app-builder-orchestrator-prompt.md) primeiro se desejar que o mesmo comportamento de `payment-accept` e `payment-decline` seja comparado; a extensão da interface reutiliza essa lógica com nomes de ambiente `COMMERCE_INTEGRATION_*`.
+* Este caminho precisa de credenciais de **IMS**, além dos valores de OAuth (consulte [POC de pagamento dividido: referência de variáveis de ambiente](./env-reference.md) para as variáveis `commerce-checkout-starter-kit`).
+* Conclua a POC [Dividir pagamento: prompt da IA do App Builder orchestrator](./orchestrator-prompt.md) primeiro se desejar que o mesmo comportamento de `payment-accept` e `payment-decline` seja comparado; a extensão da interface reutiliza essa lógica com nomes de ambiente `COMMERCE_INTEGRATION_*`.
 
 
 ## O prompt

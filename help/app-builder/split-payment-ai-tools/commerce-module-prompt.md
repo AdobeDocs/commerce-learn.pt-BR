@@ -1,6 +1,6 @@
 ---
-title: 'Split payment POC: Commerce module AI prompt'
-description: 'Learn how to use this prompt to generate Client_SplitPayment: REST, plugins, checkout JavaScript, I/O events, and enable, compile, and deploy commands.'
+title: 'POC de pagamento dividido: prompt do Commerce Module AI'
+description: Saiba como usar esse prompt para gerar Client_SplitPayment. REST, plug-ins, check-out do JavaScript, eventos de E/S e comandos enable, compile e deploy.
 feature: App Builder, Backend Development, Eventing, Extensibility, Paas, REST, Orders
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,42 +9,42 @@ doc-type: Tutorial
 duration: 503
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '1207'
 ht-degree: 1%
 
 ---
 
-# Split payment POC: Commerce module AI prompt
+# POC de pagamento dividido: prompt do Commerce Module AI
 
-Use this page to copy the full prompt that generates the `Client_SplitPayment` in-process module: REST, session handling, **[!UICONTROL Checkout]**, and **[!UICONTROL Admin]** display for the split payment proof of concept. Operator workflow stays in App Builder.
+Use esta página para copiar o prompt completo que gera o módulo em andamento `Client_SplitPayment`: REST, manipulação de sessão, **[!UICONTROL Checkout]** e exibição **[!UICONTROL Admin]** para a prova de conceito do pagamento dividido. O fluxo de trabalho do operador permanece no App Builder.
 
 ## Como usar este prompt
 
-Copie tudo de **PROMPT START** para **End of prompt** no Cursor (com Claude) ou diretamente no Claude. Run it from the root of your Commerce project or a directory where the AI can create files.
+Copie tudo de **PROMPT START** para **End of prompt** no Cursor (com Claude) ou diretamente no Claude. Execute-o a partir da raiz do seu projeto Commerce ou de um diretório em que a IA possa criar arquivos.
 
-## Customize before you run
+## Personalizar antes de executar
 
-* Replace `Client` with your real vendor name.
-* Change `SplitPayment` if you want a different module name.
-* If the site uses a custom theme, layout XML and RequireJS paths may need changes.
-* If your **[!UICONTROL Cash on delivery]** method uses a different code than `cashondelivery`, update `payment-method-helper.js`.
+* Substitua `Client` pelo nome real do fornecedor.
+* Altere `SplitPayment` se quiser um nome de módulo diferente.
+* Se o site usar um tema personalizado, os caminhos XML do layout e RequireJS poderão precisar de alterações.
+* Se o método **[!UICONTROL Cash on delivery]** usar um código diferente de `cashondelivery`, atualize `payment-method-helper.js`.
 
 
 ## O prompt
 
 **INÍCIO DA SOLICITAÇÃO**
 
-You are generating a complete, production-ready Adobe Commerce 2.4.5+ in-process module for a split payment feature. This module is the thin PHP adapter that exposes the right REST surface and attaches the right data at the right moments in the Commerce lifecycle. All operator workflow logic lives in Adobe App Builder (not in this module).
+Você está gerando um módulo em andamento completo e pronto para produção do Adobe Commerce 2.4.5+ para um recurso de pagamento dividido. Este módulo é o adaptador PHP fino que expõe a superfície REST correta e anexa os dados corretos nos momentos certos no ciclo de vida do Commerce. Toda a lógica do fluxo de trabalho do operador reside no Adobe App Builder (não neste módulo).
 
-**Module identity:**
-* Vendor: `Client`
-* Module: `SplitPayment`
-* Full name: `Client_SplitPayment`
+**Identidade do módulo:**
+* Fornecedor: `Client`
+* Módulo: `SplitPayment`
+* Nome completo: `Client_SplitPayment`
 * Namespace: `Client\SplitPayment`
-* Location: `app/code/Client/SplitPayment/`
-* Dependencies: `Magento_Checkout`, `Magento_CustomerBalance`, `Magento_Sales`, `Magento_Quote`, `Magento_WebApi`, `Magento_AdobeCommerceEventsClient`
+* Localização: `app/code/Client/SplitPayment/`
+* Dependências: `Magento_Checkout`, `Magento_CustomerBalance`, `Magento_Sales`, `Magento_Quote`, `Magento_WebApi`, `Magento_AdobeCommerceEventsClient`
 
 Gere cada arquivo listado na estrutura de arquivo abaixo. Não omita nenhum arquivo. Use `declare(strict_types=1)` em todos os arquivos PHP.
 
@@ -349,14 +349,14 @@ Valores padrão de configuração do sistema:
 
 **Nunca exponha detalhes de erros internos ao cliente.** Todos os blocos `catch` que superam para respostas REST devem lançar `LocalizedException('Payment could not be processed. Please try again or contact support.')`.
 
-**`entity_id`is the numeric database ID.** REST calls from App Builder always use `entity_id`, not `increment_id`.
+**`entity_id`é a ID numérica do banco de dados.** As chamadas REST do App Builder sempre usam `entity_id`, não `increment_id`.
 
-**`SplitInvoiceService`should catch and log errors rather than propagate them.** Invoice creation failure should not cancel an already-placed order — log the failure and let the Admin handle it manually.
+**`SplitInvoiceService`deve capturar e registrar erros em vez de propagá-los.** A falha na criação da fatura não deve cancelar um pedido já feito — registre a falha e deixe que o administrador a manipule manualmente.
 
 
 ### Após gerar os arquivos
 
-Run these commands in the Commerce project root:
+Execute estes comandos na raiz do projeto Commerce:
 
 ```bash
 bin/magento module:enable Client_SplitPayment

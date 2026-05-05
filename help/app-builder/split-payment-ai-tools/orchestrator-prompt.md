@@ -1,6 +1,6 @@
 ---
 title: 'POC de pagamento dividido: prompt do App Builder orchestrator AI'
-description: 'Saiba como usar este prompt para criar o aplicativo split-payment-orchestrator: eventos de E/S, payment-orchestrator, ações da Web, painel de demonstração e implantação de aplicativo aio.'
+description: Saiba como usar este prompt para criar o aplicativo split-payment-orchestrator. Eventos de E/S, orquestrador de pagamentos, ações da Web, painel de demonstração e implantação do aplicativo aio.
 feature: App Builder, Configuration, Eventing, Extensibility, Paas, REST
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
 role: Developer, Leader, User
@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 421
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: beb22335cec97141b46ddbbca97d21b216c55a80
+source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
 workflow-type: tm+mt
 source-wordcount: '927'
 ht-degree: 0%
@@ -26,8 +26,8 @@ Copie tudo de **PROMPT START** para **End of prompt** no Cursor (com Claude) ou 
 
 ## Antes de executar
 
-* Concluir [POC de pagamento dividido: pré-requisitos e configuração de ambiente](split-payment-poc-prerequisites-and-setup.md).
-* Tenha seu arquivo [Split payment POC: environment variables reference](split-payment-poc-env-reference.md) and `.env` pronto no projeto.
+* Concluir [POC de pagamento dividido: pré-requisitos e configuração de ambiente](./prerequisites-and-setup.md).
+* Tenha seu arquivo [Split payment POC: environment variables reference](./env-reference.md) and `.env` pronto no projeto.
 
 
 ## O prompt
@@ -111,15 +111,15 @@ Defina quatro ações no pacote `split_payment_orchestrator`:
 * `web: "yes"`
 * `runtime: nodejs:18`
 * `require-adobe-auth: true`, `final: true`
-* Same Commerce credential inputs
+* Mesmas entradas de credencial do Commerce
 
 **`demo-dashboard`**
 * `web: "yes"`
 * `runtime: nodejs:18`
-* `require-adobe-auth: false` ← Dashboard is publicly accessible (protected only by `DEMO_UI_SECRET` if set)
-* Inputs: all Commerce credentials + `DEMO_UI_SECRET`, `DEMO_UI_BASE_URL`
+* `require-adobe-auth: false` ← O painel está acessível publicamente (protegido apenas por `DEMO_UI_SECRET`, se estiver definido)
+* Entradas: todas as credenciais do Commerce + `DEMO_UI_SECRET`, `DEMO_UI_BASE_URL`
 
-**Events registration** (under `events.registrations`):
+**Registro de eventos** (em `events.registrations`):
 
 ```yaml
 Split payment — sales order place before:
@@ -134,35 +134,35 @@ Split payment — sales order place before:
 
 ### `actions/payment-orchestrator/commerce-client.js`
 
-Shared OAuth 1.0a REST client for Adobe Commerce. Implements:
+Cliente REST OAuth 1.0a compartilhado para Adobe Commerce. Implementa:
 
-**`createCommerceClient(params, logger)`** — returns `{ request, baseUrl }`
+**`createCommerceClient(params, logger)`** — retorna `{ request, baseUrl }`
 
-* Reads `COMMERCE_BASE_URL`, `COMMERCE_CONSUMER_KEY`, `COMMERCE_CONSUMER_SECRET`, `COMMERCE_ACCESS_TOKEN`, `COMMERCE_ACCESS_TOKEN_SECRET` from `params`
-* Throws if any credential is missing
-* Uses `oauth-1.0a` with `HMAC-SHA256` (Node.js `crypto.createHmac`)
-* Uses `got@11` (not `got@12+` — the project uses CJS) with `prefixUrl = ${baseUrl}/rest/V1/`
-* Adds `Authorization` header via `beforeRequest` hook
-* `request(method, path, options)` — normalizes the path (strips leading `/`), returns `{ statusCode, body }`
-* `throwHttpErrors: false` — never throws on 4xx/5xx; always returns the status code
+* Lê `COMMERCE_BASE_URL`, `COMMERCE_CONSUMER_KEY`, `COMMERCE_CONSUMER_SECRET`, `COMMERCE_ACCESS_TOKEN`, `COMMERCE_ACCESS_TOKEN_SECRET` de `params`
+* Gera se alguma credencial estiver ausente
+* Usa `oauth-1.0a` com `HMAC-SHA256` (Node.js `crypto.createHmac`)
+* Usa `got@11` (não `got@12+` — o projeto usa CJS) com `prefixUrl = ${baseUrl}/rest/V1/`
+* Adiciona o cabeçalho `Authorization` através do gancho `beforeRequest`
+* `request(method, path, options)` — normaliza o caminho (remove a entrelinha `/`), retorna `{ statusCode, body }`
+* `throwHttpErrors: false` — nunca lança em 4xx/5xx; sempre retorna o código de status
 
 
 ### `actions/payment-orchestrator/threshold.js`
 
-**`evaluateThreshold({ orderTotal, storeCreditAmount, cashAmount, params, logger })`** — returns `{ pass: boolean, reason: string }`
+**`evaluateThreshold({ orderTotal, storeCreditAmount, cashAmount, params, logger })`** — retorna `{ pass: boolean, reason: string }`
 
-Logic:
-1. Read `params.PAYMENT_THRESHOLD`; parse as float; default to `100` if missing, NaN, or ≤ 0
-2. If `orderTotal > threshold`: return `{ pass: false, reason: 'PAYMENT_THRESHOLD_EXCEEDED' }`
-3. If `Math.abs((storeCreditAmount + cashAmount) - orderTotal) > 0.02`: return `{ pass: false, reason: 'SPLIT_AMOUNT_MISMATCH' }`
-4. Otherwise: return `{ pass: true, reason: '' }`
+Lógica:
+1. Ler `params.PAYMENT_THRESHOLD`; analisar como flutuante; padrão: `100` se ausente, NaN ou ≤ 0
+2. Se `orderTotal > threshold`: retornar `{ pass: false, reason: 'PAYMENT_THRESHOLD_EXCEEDED' }`
+3. Se `Math.abs((storeCreditAmount + cashAmount) - orderTotal) > 0.02`: retornar `{ pass: false, reason: 'SPLIT_AMOUNT_MISMATCH' }`
+4. Caso contrário: retornar `{ pass: true, reason: '' }`
 
 
 ### `actions/payment-orchestrator/cash-payment.js`
 
-**`recordCashPending({ commerce, orderId, cashAmount, logger })`** — returns `{ ok: boolean, error? }`
+**`recordCashPending({ commerce, orderId, cashAmount, logger })`** — retorna `{ ok: boolean, error? }`
 
-* Calls `POST orders/${orderId}/comments` with:
+* Chama `POST orders/${orderId}/comments` com:
 
   ```json
   {
@@ -177,13 +177,13 @@ Logic:
   }
   ```
 
-* Returns `{ ok: true }` on 2xx; returns `{ ok: false, error: { code, message } }` otherwise
-* Wraps in try/catch; returns error object, never throws
+* Retorna `{ ok: true }` em 2xx; caso contrário, retorna `{ ok: false, error: { code, message } }`
+* Envolve try/catch; retorna o objeto de erro, nunca lança
 
 
 ### `actions/payment-orchestrator/order-update.js`
 
-**`updateOrderAfterOrchestration({ commerce, orderId, success, detail, logger })`** — returns `{ ok: boolean, error? }`
+**`updateOrderAfterOrchestration({ commerce, orderId, success, detail, logger })`** — retorna `{ ok: boolean, error? }`
 
 * Se `success`: postou um comentário de histórico `"Split payment orchestration completed. Order awaiting cash confirmation."`
 * Se `!success`: postagens `"Payment could not be processed. Please try again or contact support."` — nunca inclua `detail` no comentário visível ao cliente; registre `detail` apenas internamente
@@ -226,42 +226,42 @@ Os Eventos do Adobe Commerce I/O podem fornecer a carga de várias formas. Extra
 3. Chamada `createCommerceClient(params, logger)` — se falhar, retornar o erro 200
 4. Se `storeCredit > 0`, registrar que o crédito de armazenamento foi aplicado no check-out (nenhuma chamada REST é necessária)
 5. Chamada `recordCashPending(...)` — se falhar, chama `updateOrderAfterOrchestration(..., success: false)` e retorna o erro 200
-6. Call `updateOrderAfterOrchestration(..., success: true)`
-7. Return `{ statusCode: 200, body: { ok: true, message: 'processed' } }`
+6. Ligar para `updateOrderAfterOrchestration(..., success: true)`
+7. Retornar `{ statusCode: 200, body: { ok: true, message: 'processed' } }`
 
-**Important:** Always return `statusCode: 200` — I/O Runtime will retry non-200 responses, which would cause duplicate order processing. Errors are reported in the body.
+**Importante:** sempre retornar `statusCode: 200` — o I/O Runtime tentará novamente respostas não-200, o que pode causar processamento de pedido duplicado. Erros são relatados no corpo.
 
-**`PUBLIC_ERROR`constant:** `"Payment could not be processed. Please try again or contact support."` — used for all external-facing error messages.
+**`PUBLIC_ERROR`constante:** `"Payment could not be processed. Please try again or contact support."` — usada para todas as mensagens de erro direcionadas para o exterior.
 
 
 ### `actions/payment-accept/index.js`
 
-HTTP web action. Calls `POST /V1/split-payment/orders/:orderId/cash-received`.
+Ação da Web HTTP. Chama `POST /V1/split-payment/orders/:orderId/cash-received`.
 
-**Order ID resolution:** Check `params.orderId`, then `params.payload.orderId`, then `params.__ow_body` (parsed JSON). Return 400 if missing.
+**Resolução da ID do pedido:** Verifique `params.orderId`, depois `params.payload.orderId`, depois `params.__ow_body` (JSON analisado). Retorna 400 se estiver faltando.
 
 **Fluxo:**
-1. Resolve `orderId`; return 400 if missing
-2. Init commerce client; return 500 if fails
-3. Call `POST split-payment/orders/${orderId}/cash-received` with empty JSON body
-4. If 2xx: return `{ statusCode: 200, body: { ok: true, orderId, message: 'accepted' } }`
-5. If error: log and return `{ statusCode: 200, body: { ok: false, message: PUBLIC_ERROR } }`
+1. Resolver `orderId`; retornar 400 se ausente
+2. Init commerce client; retorna 500 se falhar
+3. Chamar `POST split-payment/orders/${orderId}/cash-received` com corpo JSON vazio
+4. Se 2xx: retornar `{ statusCode: 200, body: { ok: true, orderId, message: 'accepted' } }`
+5. Em caso de erro: registrar e retornar `{ statusCode: 200, body: { ok: false, message: PUBLIC_ERROR } }`
 
 
 ### `actions/payment-decline/index.js`
 
-HTTP web action. Same pattern as `payment-accept` but calls `POST /V1/split-payment/orders/:orderId/cash-decline`.
+Ação da Web HTTP. Mesmo padrão de `payment-accept`, mas chama `POST /V1/split-payment/orders/:orderId/cash-decline`.
 
-Return `{ ok: true, orderId, message: 'declined' }` on success.
+Retornar `{ ok: true, orderId, message: 'declined' }` em caso de sucesso.
 
 
 ### `actions/demo-dashboard/index.js`
 
-Self-contained demo operator dashboard. Serves an HTML dashboard for listing pending cash orders and triggering accept/decline actions. This is a single web action that serves both the HTML UI and a JSON API.
+Painel de operador de demonstração independente. Serve um painel do HTML para listar ordens de caixa pendentes e acionar ações de aceitação/recusa. Essa é uma única ação da Web que atende à interface do usuário do HTML e a uma API JSON.
 
-**Security:**
-* Optional `DEMO_UI_SECRET` check: if set, require `?secret=<value>` query param or `x-demo-secret` header on all requests. Return 401 if missing/wrong.
-* Log a warning if `DEMO_UI_SECRET` is not set (dashboard is unprotected)
+**Segurança:**
+* Verificação `DEMO_UI_SECRET` opcional: se definida, requer `?secret=<value>` parâmetro de consulta ou cabeçalho `x-demo-secret` em todas as solicitações. Retorna 401 se ausente/incorreto.
+* Registrar um aviso se `DEMO_UI_SECRET` não estiver definido (o painel está desprotegido)
 
 **Roteamento (com base no método HTTP + caminho/corpo):**
 

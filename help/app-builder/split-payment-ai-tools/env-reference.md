@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 115
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 1e2c7e0e6d0f2d174b88406ce3fb7c787676ecee
+source-git-commit: d5f1e76c3a5127698f2933810fca218b79082571
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # POC de pagamento dividido: referência de variáveis de ambiente
 
-As mesmas quatro credenciais do Commerce OAuth são usadas em cada componente. Em **[!UICONTROL Commerce Admin]**, crie um **[!UICONTROL Integration]** e reutilize os quatro valores em cada arquivo `.env` abaixo. (Consulte [POC de pagamento dividido: pré-requisitos e configuração de ambiente](split-payment-poc-prerequisites-and-setup.md) para as etapas de ativação.)
+As mesmas quatro credenciais do Commerce OAuth são usadas em cada componente. Em **[!UICONTROL Commerce Admin]**, crie um **[!UICONTROL Integration]** e reutilize os quatro valores em cada arquivo `.env` abaixo. (Consulte [POC de pagamento dividido: pré-requisitos e configuração de ambiente](./prerequisites-and-setup.md) para as etapas de ativação.)
 
 ## As quatro credenciais OAuth (usadas em todos os lugares)
 
