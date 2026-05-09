@@ -2,17 +2,18 @@
 cloud: Experience Cloud
 solution-title: Commerce
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/commerce-learn.pt-BR
+git-repo: https://github.com/AdobeDocs/commerce-learn.en
 index: true
 type: Tutorial
 solution: Commerce
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
 feature-set: Commerce
 landing-page-name: commerce
 landing-page-breadcrumb-title: Commerce
 product: Magento
-source-git-commit: 3c1f9d2c38adb80c54d7c59b9f8dd8b978387a98
+source-git-commit: a2c6b86b7afa72c4d7f0c4ad898c1f9eca180535
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: 148
 ht-degree: 0%
 
 ---
