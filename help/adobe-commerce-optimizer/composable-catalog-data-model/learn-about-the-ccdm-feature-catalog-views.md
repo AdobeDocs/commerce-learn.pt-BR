@@ -31,7 +31,7 @@ As exibições de catálogo mostram como você atende cada público-alvo de form
 * Como uma loja usa uma exibição de catálogo para filtrar produtos e preços (por exemplo, Celport)
 * IDs exclusivas de visualização de catálogo e o valor comercial de uma única fonte da verdade
 
->[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491267?captions=por_br&learn=on)
 
 ## Cenário: Carvelo Automobiles
 

@@ -31,7 +31,7 @@ Equipes de comércio modernas geralmente vendem em **marcas**, **regiões**, **c
 * Como as exibições de catálogo atuam como as &quot;lentes&quot; entre um catálogo base compartilhado e uma loja ou público-alvo específico
 * Como as APIs de serviços de merchandising consomem essas visualizações para que as experiências headless permaneçam alinhadas ao catálogo configurado
 
->[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491290?captions=por_br&learn=on)
 
 ## O desafio com catálogos em silos
 
