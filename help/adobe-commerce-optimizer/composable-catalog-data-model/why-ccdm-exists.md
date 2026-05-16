@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 259
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-18624
-source-git-commit: e3257f9713b26b0ab8ca2e827aeaac4532ff9dff
+source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Equipes de comércio modernas geralmente vendem em **marcas**, **regiões**, **c
 * Como as exibições de catálogo atuam como as &quot;lentes&quot; entre um catálogo base compartilhado e uma loja ou público-alvo específico
 * Como as APIs de serviços de merchandising consomem essas visualizações para que as experiências headless permaneçam alinhadas ao catálogo configurado
 
->[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491290?captions=por_br&learn=on)
 
 ## O desafio com catálogos em silos
 

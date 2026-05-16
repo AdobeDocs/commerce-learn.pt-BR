@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 297
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: e3257f9713b26b0ab8ca2e827aeaac4532ff9dff
+source-git-commit: 96a1356a399fa5cdca9d9befd7c14ebad1b0162f
 workflow-type: tm+mt
 source-wordcount: '543'
 ht-degree: 0%
@@ -31,7 +31,7 @@ As exibições de catálogo mostram como você atende cada público-alvo de form
 * Como uma loja usa uma exibição de catálogo para filtrar produtos e preços (por exemplo, Celport)
 * IDs exclusivas de visualização de catálogo e o valor comercial de uma única fonte da verdade
 
->[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491267?captions=por_br&learn=on)
 
 ## Cenário: Carvelo Automobiles
 
