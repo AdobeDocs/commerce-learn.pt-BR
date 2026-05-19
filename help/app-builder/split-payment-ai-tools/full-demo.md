@@ -24,7 +24,7 @@ Um comprador paga com parte em dinheiro e parte **[!UICONTROL Store Credit]**. A
 
 ## Vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3484104?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3484087?learn=on)
 
 ## Para quem é este vídeo?
 
