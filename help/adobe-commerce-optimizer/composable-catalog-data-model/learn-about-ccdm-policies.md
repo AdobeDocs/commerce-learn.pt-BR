@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 378
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 43fee759ba8ea76dfa91f9ae838a6ad3474d2bcb
+source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
 workflow-type: tm+mt
-source-wordcount: '672'
+source-wordcount: '563'
 ht-degree: 0%
 
 ---
@@ -32,22 +32,7 @@ Se uma **exibição de catálogo** for a lente que molda o que os compradores ve
 * Políticas de ACIONAMENTO ativadas por cabeçalhos de solicitação de API (por exemplo `AC-Policy-Brand`)
 * Atualização de políticas em operações diárias sem reconstrução de catálogo
 
->[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
-
-## Cenário: Carvelo Automobiles e Celport
-
-**Carvelo Automobiles** é uma empresa fictícia de autopeças usada em demonstrações no Adobe Commerce. A Carvelo vende peças em três marcas —**Aurora**, **Bolt** e **Cruz** — por meio de concessionárias incluindo o **Celport**.
-
-Na [exibição do catálogo Celport](./learn-about-the-ccdm-feature-catalog-views.md), duas políticas funcionam juntas:
-
-1. **Filtro de marca** — permite somente **Parafusar** e **Cruz** marcas. Os produtos Aurora não passam por esse filtro.
-2. **Filtro de categoria** — restringe os produtos visíveis somente a **freios** e **suspensão**.
-
-Um produto deve atender a **cada política ativa** para ficar visível. Todo o resto é filtrado.
-
-As políticas avaliam atributos de produto como **marca**, **modelo de veículo** ou **categoria de parte** e definem quais produtos são permitidos para a exibição do catálogo.
-
-## O que é uma política?
+>[!VIDEO](https://video.tv.adobe.com/v/3491429?captions=por_br&learn=on)
 
 Uma **política** é um **filtro de acesso a dados**. Ele inspeciona os atributos do produto e aplica regras que determinam quais produtos uma exibição de catálogo pode expor. As políticas ficam na parte superior do catálogo de composição compartilhado — elas não duplicam os dados do catálogo.
 
