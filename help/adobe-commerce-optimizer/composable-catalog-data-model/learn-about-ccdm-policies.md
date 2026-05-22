@@ -32,7 +32,7 @@ Se uma **exibição de catálogo** for a lente que molda o que os compradores ve
 * Políticas de ACIONAMENTO ativadas por cabeçalhos de solicitação de API (por exemplo `AC-Policy-Brand`)
 * Atualização de políticas em operações diárias sem reconstrução de catálogo
 
->[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491429?captions=por_br&learn=on)
 
 Uma **política** é um **filtro de acesso a dados**. Ele inspeciona os atributos do produto e aplica regras que determinam quais produtos uma exibição de catálogo pode expor. As políticas ficam na parte superior do catálogo de composição compartilhado — elas não duplicam os dados do catálogo.
 
