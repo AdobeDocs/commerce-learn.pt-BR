@@ -36,4 +36,4 @@ A porta de entrada para o comércio não é mais uma página inicial — é uma 
 
 ## Recursos adicionais
 
-[Documentação do [!DNL Brand Concierge]](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+[Documentação do [!DNL Brand Concierge]](https://experienceleague.adobe.com/pt-br/docs/brand-concierge/content/home){target="_blank"}
