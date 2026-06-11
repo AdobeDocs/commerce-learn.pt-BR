@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21570
 duration: 303
-source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
+source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Visão geral da IA do Brand Concierge e do Commerce
 
-[!BADGE Beta]{type=Informative tooltip="No momento, esse recurso está na versão beta e está sujeito a alterações."}
+[!BADGE Em breve]{type=Informative tooltip="Este recurso será disponibilizado em breve e está sujeito a alterações."}
 
 A porta de entrada para o comércio não é mais uma página inicial — é uma conversa. O Brand Concierge, integrado ao Adobe Commerce, substitui filtros, barras de pesquisa e páginas de categoria por um Assistente de IA que entende a intenção do comprador, consulta o catálogo e gerencia o carrinho em uma conversa. Os compradores referenciados por IA convertem 31% mais, geram 254% mais receita por visita e gastam 45% mais tempo no site (Adobe Digital Insights, janeiro de 2026).
 
@@ -38,4 +38,4 @@ A porta de entrada para o comércio não é mais uma página inicial — é uma 
 
 ## Recursos adicionais
 
-[Documentação do [!DNL Brand Concierge]](https://experienceleague.adobe.com/pt-br/docs/brand-concierge/content/home){target="_blank"}
+[Documentação do [!DNL Brand Concierge]](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}

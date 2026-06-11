@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21572
 duration: 451
-source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
+source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Descoberta de produtos Brand Concierge e Commerce AI
 
-[!BADGE Beta]{type=Informative tooltip="No momento, esse recurso está na versão beta e está sujeito a alterações."}
+[!BADGE Em breve]{type=Informative tooltip="Este recurso será disponibilizado em breve e está sujeito a alterações."}
 
 Mesmo os catálogos de produtos mais ricos têm apenas visibilidade parcial dos grandes modelos linguísticos (LLMs). Atributos avançados, como variantes de produtos, tipo de moagem, notas de sabor e embalagens, geralmente ficam ocultos atrás de painéis recolhíveis e pop-ups que os rastreadores de IA não podem ler. O agente de catálogo da Brand Concierge identifica automaticamente essas lacunas de visibilidade e as soluciona — sem alterar a loja voltada para o comprador.
 
@@ -38,4 +38,4 @@ Mesmo os catálogos de produtos mais ricos têm apenas visibilidade parcial dos 
 
 ## Recursos adicionais
 
-[Documentação do [!DNL Brand Concierge]](https://experienceleague.adobe.com/pt-br/docs/brand-concierge/content/home){target="_blank"}
+[Documentação do [!DNL Brand Concierge]](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}

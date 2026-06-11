@@ -7,7 +7,7 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: a1e5b576b9e4a75e1dcc26d64a89d1072f6c4bcb
+source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 # Pesquisa semântica
 
-[!BADGE Beta]{type=Informative tooltip="No momento, esse recurso está na versão beta e está sujeito a alterações."}
+[!BADGE Em breve]{type=Informative tooltip="Este recurso será disponibilizado em breve e está sujeito a alterações."}
 
 A pesquisa tradicional por palavra-chave corresponde a palavras exatas, mas os compradores raramente conhecem as palavras certas. A pesquisa semântica no Adobe Commerce usa IA para entender a intenção por trás de uma consulta, correspondendo os compradores aos produtos com base no significado em vez de texto literal. Isso melhora a descoberta de produtos, aumenta o engajamento e impulsiona conversões mais altas, retornando resultados que refletem o que os compradores querem.
 
@@ -37,4 +37,4 @@ A pesquisa tradicional por palavra-chave corresponde a palavras exatas, mas os c
 
 ## Recursos adicionais
 
-[Visão geral das [!DNL Live Search]](https://experienceleague.adobe.com/pt-br/docs/commerce/live-search/overview){target="_blank"}
+[Visão geral das [!DNL Live Search]](https://experienceleague.adobe.com/en/docs/commerce/live-search/overview){target="_blank"}
