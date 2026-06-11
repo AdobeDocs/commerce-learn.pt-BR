@@ -37,4 +37,4 @@ A pesquisa tradicional por palavra-chave corresponde a palavras exatas, mas os c
 
 ## Recursos adicionais
 
-[Visão geral das [!DNL Live Search]](https://experienceleague.adobe.com/en/docs/commerce/live-search/overview){target="_blank"}
+[Visão geral das [!DNL Live Search]](https://experienceleague.adobe.com/pt-br/docs/commerce/live-search/overview){target="_blank"}
