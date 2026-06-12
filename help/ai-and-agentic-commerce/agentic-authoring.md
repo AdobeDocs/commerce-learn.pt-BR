@@ -34,7 +34,7 @@ O Experience Workspace é o ambiente de criação agênico que oferece aos profi
 * Solicitações de linguagem natural para consultar o catálogo e gerar páginas completas da campanha
 * Edição em nível de bloco e pré-visualização renderizada por borda ao vivo antes da publicação
 
->[!VIDEO](https://video.tv.adobe.com/v/3492281)
+>[!VIDEO](https://video.tv.adobe.com/v/3492300?captions=por_br)
 
 <!-- ## Additional resources -->
 
