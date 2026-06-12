@@ -7,9 +7,9 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21570
 duration: 303
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
 workflow-type: tm+mt
-source-wordcount: '193'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE Em breve]{type=Informative tooltip="Este recurso será disponibilizado em breve e está sujeito a alterações."}
 
-A porta de entrada para o comércio não é mais uma página inicial — é uma conversa. O Brand Concierge, integrado ao Adobe Commerce, substitui filtros, barras de pesquisa e páginas de categoria por um Assistente de IA que entende a intenção do comprador, consulta o catálogo e gerencia o carrinho em uma conversa. Os compradores referenciados por IA convertem 31% mais, geram 254% mais receita por visita e gastam 45% mais tempo no site (Adobe Digital Insights, janeiro de 2026).
+O Brand Concierge traz compras conversacionais para o Adobe Commerce, permitindo que os compradores descrevam o que desejam em linguagem simples e obtenham produtos correspondentes do catálogo ao vivo — sem filtros e sem necessidade de barras de pesquisa. A mesma conversa lida com atualizações de carrinho, check-out e orientação pós-compra, mantendo o contexto completo durante toda a sessão.
 
 ## Para quem é este vídeo?
 
@@ -34,7 +34,7 @@ A porta de entrada para o comércio não é mais uma página inicial — é uma 
 * Check-out concluído na conversa, sem sair
 * Orientação contextual pós-compra específica para o produto comprado
 
->[!VIDEO](https://video.tv.adobe.com/v/3492285)
+>[!VIDEO](https://video.tv.adobe.com/v/3492318?captions=por_br)
 
 ## Recursos adicionais
 
