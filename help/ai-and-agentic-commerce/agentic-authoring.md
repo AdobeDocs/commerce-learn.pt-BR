@@ -7,9 +7,9 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21574
 duration: 376
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: cac02a33a2fcbfb83989178b6b2b41f364da1d43
 workflow-type: tm+mt
-source-wordcount: '177'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!BADGE Em breve]{type=Informative tooltip="Este recurso será disponibilizado em breve e está sujeito a alterações."}
 
-O Experience Workspace é o ambiente de criação de agente integrado à loja da Adobe Commerce. Ele fornece aos profissionais de marketing e desenvolvedores uma superfície unificada — estrutura de arquivos, conteúdo da página, metadados e pré-visualização ao vivo — tudo em um só lugar. Seu assistente de criação de IA é executado no MCP. Ele se conecta diretamente ao catálogo de produtos e ao conteúdo da marca para que você possa descrever o que deseja criar e vê-lo aparecer, sem alternar guias, copiar e colar ou registrar tíquetes.
+O Experience Workspace é o ambiente de criação agênico que oferece aos profissionais de marketing e desenvolvedores uma superfície unificada — estrutura de arquivos, conteúdo da página, metadados e pré-visualização ao vivo — tudo em um só lugar. Seu assistente de criação de IA é executado no MCP. Ele se conecta diretamente ao catálogo de produtos e ao conteúdo da marca para que você possa descrever o que deseja criar e vê-lo aparecer, sem alternar guias, copiar e colar ou registrar tíquetes.
 
 ## Para quem é este vídeo?
 
