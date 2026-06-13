@@ -34,7 +34,7 @@ Tradicionalmente, a criação de personalizações de comércio exigia várias e
 * Validação e otimização simultâneas em toda a visualização do sistema
 * Fluxo de implantação contínua sem entrega ou perda de contexto
 
->[!VIDEO](https://video.tv.adobe.com/v/3492284)
+>[!VIDEO](https://video.tv.adobe.com/v/3492291?captions=por_br)
 
 <!-- ## Additional resources -->
 

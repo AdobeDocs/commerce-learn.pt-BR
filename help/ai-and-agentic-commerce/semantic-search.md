@@ -33,7 +33,7 @@ A pesquisa tradicional por palavra-chave corresponde a palavras exatas, mas os c
 * Indexação automática de catálogo que transforma dados de produtos em sinais semânticos
 * Aumento de resultado, limites de similaridade e configuração de pesquisa difusa
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492309?captions=por_br)
 
 ## Recursos adicionais
 
