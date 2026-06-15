@@ -53,14 +53,14 @@ Essa separação—**de onde os dados vêm** (origem do catálogo) versus **como
 
 ## Exibições de catálogo como lentes de vitrine
 
-Conforme descrito em [Exibições de Catálogo para Serviços de Merchandising](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, uma exibição de catálogo se comporta como uma **lente**: os compradores só veem os produtos, os preços e as regras permitidos pela exibição, enquanto o **catálogo base** permanece o sistema compartilhado de registro. Esse modelo é emparelhado diretamente com os **Serviços de merchandising** para que os clientes da API passem a exibição correta (e os cabeçalhos relacionados) e recebam uma resposta consistente e orientada por políticas para cada experiência.
+Conforme descrito em [Exibições de Catálogo para Serviços de Merchandising](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, uma exibição de catálogo se comporta como uma **lente**: os compradores só veem os produtos, os preços e as regras permitidos pela exibição, enquanto o **catálogo base** permanece o sistema compartilhado de registro. Esse modelo é emparelhado diretamente com os **Serviços de merchandising** para que os clientes da API passem a exibição correta (e os cabeçalhos relacionados) e recebam uma resposta consistente e orientada por políticas para cada experiência.
 
 Para obter uma apresentação mais detalhada de como essas partes se encaixam em um fluxo de ponta a ponta, consulte a apresentação do desenvolvedor [Criar um catálogo combinável para sua loja](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}.
 
 ## Conteúdo relacionado
 
 * [Saiba mais sobre Exibições de catálogo](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Exibições de catálogo para serviços de merchandising](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Exibições de catálogo para serviços de merchandising](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [Criar um catálogo combinável para sua loja](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
-* [Guia do [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Guia do [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/overview){target="_blank"}
 * [Introdução à API de merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
