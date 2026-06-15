@@ -1,17 +1,17 @@
 ---
 title: Saiba mais sobre políticas do CCDM no Modelo de dados de catálogo combinável
-description: Saiba como as políticas do Modelo de dados de catálogo combinável do Adobe filtram produtos com regras ESTÁTICAS e cabeçalhos ACIONADORES em cada exibição de catálogo.
+description: Saiba como as políticas ESTÁTICAS e DE ACIONAMENTO no Modelo de dados do catálogo combinável do Adobe controlam a visibilidade do produto em visualizações de catálogo sem reconstruir o catálogo.
 feature: Saas, Storefront
 topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 378
+duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Se uma **exibição de catálogo** for a lente que molda o que os compradores ve
 * Políticas de ACIONAMENTO ativadas por cabeçalhos de solicitação de API (por exemplo `AC-Policy-Brand`)
 * Atualização de políticas em operações diárias sem reconstrução de catálogo
 
->[!VIDEO](https://video.tv.adobe.com/v/3491429?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
 
 Uma **política** é um **filtro de acesso a dados**. Ele inspeciona os atributos do produto e aplica regras que determinam quais produtos uma exibição de catálogo pode expor. As políticas ficam na parte superior do catálogo de composição compartilhado — elas não duplicam os dados do catálogo.
 
@@ -79,6 +79,6 @@ As políticas são filtros leves em um **catálogo compartilhado**, não regras 
 
 * [Por que existe o modelo de dados do catálogo de composição](./why-ccdm-exists.md)
 * [Saiba mais sobre Exibições de catálogo](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Exibições de catálogo para serviços de merchandising](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [Guia do [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/overview){target="_blank"}
-* [Introdução à API de merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [Exibições de catálogo para serviços de merchandising](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Guia do [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Introdução à API de merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}

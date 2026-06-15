@@ -6,10 +6,10 @@ topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 297
+duration: 208
 last-substantial-update: 2026-05-15T00:00:00Z
 jira: KT-21132
-source-git-commit: e0d9101a875d7f3181af0c945461b40d119b784d
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
@@ -30,9 +30,9 @@ As exibições de catálogo mostram como você atende cada público-alvo de form
 * Como uma loja usa uma exibição de catálogo para filtrar produtos e preços (por exemplo, Celport)
 * IDs exclusivas de visualização de catálogo e o valor comercial de uma única fonte da verdade
 
->[!VIDEO](https://video.tv.adobe.com/v/3491267?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491261?learn=on)
 
 ## Conteúdo relacionado
 
-* [Guia do [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/overview){target="_blank"}
-* [Introdução à API de merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [Guia do [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Introdução à API de merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
