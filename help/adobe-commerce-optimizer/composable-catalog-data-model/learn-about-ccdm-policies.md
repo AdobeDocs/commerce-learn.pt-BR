@@ -1,17 +1,17 @@
 ---
 title: Saiba mais sobre políticas do CCDM no Modelo de dados de catálogo combinável
-description: Saiba como as políticas do Modelo de dados de catálogo combinável do Adobe filtram produtos com regras ESTÁTICAS e cabeçalhos ACIONADORES em cada exibição de catálogo.
+description: Saiba como as políticas ESTÁTICAS e DE ACIONAMENTO no Modelo de dados do catálogo combinável do Adobe controlam a visibilidade do produto em visualizações de catálogo sem reconstruir o catálogo.
 feature: Saas, Storefront
 topic: Commerce
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 378
+duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: 84a3cb5868dd7c6f4adb0d46d53ed718133a6895
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '563'
+source-wordcount: '564'
 ht-degree: 0%
 
 ---
@@ -81,4 +81,4 @@ As políticas são filtros leves em um **catálogo compartilhado**, não regras 
 * [Saiba mais sobre Exibições de catálogo](./learn-about-the-ccdm-feature-catalog-views.md)
 * [Exibições de catálogo para serviços de merchandising](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [Guia do [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/overview){target="_blank"}
-* [Introdução à API de merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api/#make-your-first-request){target="_blank"}
+* [Introdução à API de merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}

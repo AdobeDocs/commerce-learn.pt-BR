@@ -1,6 +1,6 @@
 ---
 title: App Builder Starter Kit para Salesforce Commerce Cloud
-description: Saiba mais sobre o kit inicial do Adobe App Builder para o Salesforce Commerce Cloud com o Adobe Commerce Optimizer.
+description: Saiba como configurar e implantar o kit inicial do App Builder para Salesforce Commerce Cloud com Adobe Commerce Optimizer, desde a configuração do Dev Console até a implantação.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
@@ -10,9 +10,9 @@ duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
 exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---

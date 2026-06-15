@@ -1,13 +1,13 @@
 ---
-title: Como assimilar dados de amostra para uma instância do Adobe Commerce Optimizer
-description: Saiba como assimilar dados de amostra para uma instância do Adobe Commerce Optimizer.
+title: Assimilar dados de amostra na Adobe Commerce Optimizer
+description: Saiba como assimilar dados de amostra no Adobe Commerce Optimizer passo a passo, usando o repositório oficial do GitHub para criar políticas e visualizações de catálogo.
 feature: Saas, Storefront
 topic: Commerce, Performance
-role: Admin, User
+role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 446
-last-substantial-update: 2025-08-05T00:00:00.000Z
+duration: 445
+last-substantial-update: 2025-08-05
 jira: KT-18663
 exl-id: 629f3781-1f64-4417-b51f-03be4ccfc06a
 TQID: https://experienceleague.adobe.com/KeK3RtTA95vbPO1dlH-GLkqXt2j-h4hJ85Q46-mvZ5k
@@ -18,9 +18,9 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: 145
+source-wordcount: 153
 ht-degree: 0%
 
 ---

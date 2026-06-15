@@ -1,6 +1,6 @@
 ---
-title: Visão geral da arquitetura do Salesforce Commerce Cloud Connector
-description: Saiba mais sobre a arquitetura do Salesforce Commerce Cloud com o Adobe Commerce Optimizer.
+title: Arquitetura do Salesforce Commerce Cloud Connector
+description: Saiba como o Salesforce Commerce Cloud Connector Starter Kit usa ações de tempo de execução e exportações delta do App Builder para sincronizar catálogos com o Adobe Commerce Optimizer.
 feature: App Builder,Saas
 topic: Administration,Commerce,Integrations
 role: Developer
@@ -10,9 +10,9 @@ duration: 288
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
 exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
-source-git-commit: 8c330bb8aa35c143672f37da954d5cf6b4edb729
+source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
