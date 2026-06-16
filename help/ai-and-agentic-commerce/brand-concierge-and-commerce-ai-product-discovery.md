@@ -38,5 +38,5 @@ Mesmo os catálogos de produtos mais ricos têm apenas visibilidade parcial dos 
 
 ## Recursos adicionais
 
-[Documentação do [!DNL Brand Concierge]](https://experienceleague.adobe.com/en/docs/brand-concierge/content/home){target="_blank"}
+[Documentação do [!DNL Brand Concierge]](https://experienceleague.adobe.com/pt-br/docs/brand-concierge/content/home){target="_blank"}
 
