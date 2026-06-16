@@ -2,7 +2,7 @@
 user-guide-title: Vídeos e tutoriais do Commerce sobre IA e funcionamento
 user-guide-description: Saiba mais sobre os recursos de IA e comércio agênico no Adobe Commerce por meio de vídeos e tutoriais.
 breadcrumb-title: IA e Commerce Agentic
-source-git-commit: 618ab9f643122b2155afb07bcaf779f59ef37837
+source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 2%
@@ -16,6 +16,6 @@ ht-degree: 2%
    + [Visão geral](./brand-concierge-and-commerce-ai-overview.md)
 + [Pesquisa semântica](./semantic-search.md)
 + Commerce Agentic {#agentic-commerce}
-   + [Descoberta de produto](./brand-concierge-and-commerce-ai-product-discovery.md)
+   + [Descoberta de produto](./commerce-ai-product-discovery.md)
    + [Criação de agente](./agentic-authoring.md)
    + [Desenvolvimento de agente](./agentic-development.md)
