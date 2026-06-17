@@ -34,4 +34,4 @@ O Commerce MCP para Adobe Commerce ajuda os desenvolvedores a criarem experiênc
 * Check-out concluído na conversa, sem sair
 * Orientação contextual pós-compra específica para o produto comprado
 
->[!VIDEO](https://video.tv.adobe.com/v/3492285)
+>[!VIDEO](https://video.tv.adobe.com/v/3492318?captions=por_br)
