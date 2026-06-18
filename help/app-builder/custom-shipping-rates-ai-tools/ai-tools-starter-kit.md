@@ -1,18 +1,18 @@
 ---
 title: Crie o recurso para taxas de envio personalizadas com ferramentas de IA
-description: Saiba como usar as ferramentas de IA da Adobe para criar taxas de envio personalizadas e estender os recursos de check-out com uma API fictícia e configurações seguras.
+description: Saiba como usar as ferramentas de IA do Adobe para criar taxas de envio personalizadas, estender os recursos de check-out com uma API fictícia e configurar pontos de extremidade de serviço seguros.
 feature: Extensibility
 topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 341
+duration: 327
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20516
 exl-id: 874c8512-a57e-4e0b-882d-be700dcb501b
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Descubra como utilizar as ferramentas alimentadas por IA do Adobe para simplific
 * O agente de IA analisa o contexto e usa habilidades com base em funções para orientar o desenvolvimento.
 * O Starter kit fornece estrutura e padrões de amostra para uma construção de extensão mais rápida.
 * As ferramentas do MCP expõem os comandos e dados que o agente usa para planejar e gerar código.
-* A IA automatiza os requisitos, a arquitetura e a decisão de implementação.
+* A IA automatiza os requisitos, a arquitetura e as decisões de implementação.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3481349?captions=por_br&learn=on)
 

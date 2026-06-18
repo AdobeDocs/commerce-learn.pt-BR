@@ -6,13 +6,13 @@ topic: Artificial Intelligence
 role: Developer
 level: Beginner
 doc-type: Tutorial
-duration: 101
+duration: 87
 last-substantial-update: 2026-03-10T00:00:00Z
 jira: KT-20518
 exl-id: 7d1487be-2e3b-4067-8382-297a040a820b
-source-git-commit: 82c30f9cce110c2315822fe236c06a6fc33d54bf
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---

@@ -1,15 +1,15 @@
 ---
-title: 'POC de pagamento dividido: próximas etapas após a prova de conceito'
-description: Saiba como mover a POC de pagamento dividido para produção. Interface do usuário do Experience Cloud, ganchos de ERP, malha de API, escopo do PHP, fluxos de trabalho do App Builder e lista de verificação de implantação.
+title: POC de pagamento dividido — próximas etapas após a prova de conceito
+description: Saiba como mover a POC de pagamento dividido para produção. Interface da Experience Cloud, ganchos ERP, malha de API, escopo PHP, fluxos de trabalho do App Builder e lista de verificação de implantação.
 feature: App Builder, API Mesh, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 269
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '852'
 ht-degree: 0%
@@ -21,11 +21,11 @@ ht-degree: 0%
 O painel de demonstração e o script de simulação que você criou neste tutorial são intencionalmente ásperos. Eles existem para provar o padrão. Esta página descreve um caminho prático, da prova de conceito ao desenvolvimento de App Builder no estilo de produção.
 
 
-## Etapa 1 — Substituir o painel de demonstração por uma extensão da interface do usuário do Experience Cloud
+## Etapa 1 — Substituir o painel de demonstração por uma extensão da interface do usuário da Experience Cloud
 
 A ação da Web `demo-dashboard` serve o HTML de uma cadeia de caracteres dentro de uma função Node.js. Funciona, mas não é o padrão de produção.
 
-A substituição adequada é a extensão `commerce-backend-ui-1` no `commerce-checkout-starter-kit` — um aplicativo React incorporado no Commerce Admin Shell por meio da interface do usuário SDK do Adobe Admin. Consulte [POC de pagamento dividido: prompt da IA de extensão da interface do usuário do Experience Cloud](./experience-cloud-ui-prompt.md) para o prompt de geração.
+A substituição adequada é a extensão `commerce-backend-ui-1` no `commerce-checkout-starter-kit` — um aplicativo React incorporado no Commerce Admin Shell por meio da interface do usuário SDK do Adobe Admin. Consulte [POC de pagamento dividido: prompt da IA de extensão da interface do usuário da Experience Cloud](./experience-cloud-ui-prompt.md) para o prompt de geração.
 
 **O que muda:**
 * Os operadores fazem logon por meio do Commerce Admin Shell (autenticação IMS em vez de um segredo compartilhado)
@@ -117,7 +117,7 @@ aio app deploy
 ```
 
 **Lista de verificação para prontidão de produção:**
-* [ Conjunto ] `DEMO_UI_SECRET` (ou painel de demonstração substituído pela interface do Experience Cloud)
+* [ Conjunto de ] `DEMO_UI_SECRET` (ou painel de demonstração substituído pela interface do usuário da Experience Cloud)
 * [ ] `LOG_LEVEL=warn` ou `error` em produção (não `debug`)
 * [ ] `PAYMENT_THRESHOLD` corresponde à configuração de produção do Commerce
 * [ As credenciais de Integração do Commerce ] em `.env` são para uma integração de produção dedicada (não de preparo)

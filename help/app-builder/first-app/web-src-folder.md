@@ -1,7 +1,7 @@
 ---
 title: A pasta web-src
-description: Saiba mais sobre os tipos de arquivos na pasta web-src e os arquivos e pastas aninhados para este aplicativo de amostra.
-jira: KT-12425
+description: Saiba mais sobre a estrutura de pastas web-src, seus arquivos JavaScript e pastas aninhadas e como essa pasta oferece suporte à interface do usuário em seu aplicativo de amostra do App Builder.
+jira: KT-21683
 doc-type: Tutorial
 duration: 285
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -20,16 +20,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 173
+source-wordcount: 179
 ht-degree: 0%
 
 ---
 
 # Descubra a finalidade da pasta web-src {#web-src-folder}
 
-A pasta web-src para este aplicativo de amostra contém muitos arquivos e pastas do JavaScript. Esta pasta é usada para aplicativos que têm uma interface de usuário. Nem todos os aplicativos usam esse recurso. Por exemplo, uma integração do Commerce com um sistema de gerenciamento de inventário externo pode não exigir uma interface de front-end e código.
+A pasta web-src para este aplicativo de amostra contém muitos arquivos e pastas do JavaScript. Esta pasta é usada para aplicativos que têm uma interface de usuário. Nem todos os aplicativos usam esse recurso. Por exemplo, uma integração do Commerce com um sistema de gerenciamento de inventário externo não requer uma interface e um código de front-end.
 
 ## Para quem é este vídeo?
 

@@ -1,6 +1,6 @@
 ---
-title: The app.config.yaml file
-description: Learn about the types of files in the app.config.yaml file for this sample application.
+title: O arquivo app.config.yaml
+description: Saiba como o arquivo app.config.yaml determina a configuração do aplicativo e como suas definições são vinculadas aos arquivos do JavaScript no aplicativo de amostra do Adobe Developer App Builder.
 jira: KT-12929
 doc-type: Tutorial
 duration: 136
@@ -20,25 +20,25 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: 86
+source-wordcount: 96
 ht-degree: 0%
 
 ---
 
-# Description and usage of the app.config.yaml file {#app-config-yaml}
+# Descrição e uso do arquivo app.config.yaml {#app-config-yaml}
 
-This file determines the configuration for the application.
+Esse arquivo determina a configuração do aplicativo.
 
 ## Para quem é este vídeo?
 
-* Developers new to Adobe Commerce with limited experience with Adobe App Builder who are learning about the `app.config.yaml` in the sample application.
+* Desenvolvedores novatos no Adobe Commerce com experiência limitada no Adobe App Builder que estão aprendendo sobre o `app.config.yaml` no aplicativo de amostra.
 
 ## Conteúdo de vídeo
 
-* The `app.config.yaml` file discussed
-* How are definitions link to other `.js` files
+* O arquivo `app.config.yaml` foi discutido
+* Como as definições estão vinculadas a outros arquivos do `.js`
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430848?captions=por_br&learn=on)
 
@@ -62,7 +62,7 @@ SERVICE_API_KEY=
 #COMMERCE_ACCESS_TOKEN_SECRET=ggg7nb19jhr5gi9jzfan9ggzipe8yrus
 ```
 
-You can see these static values being used in the sample module in file `actions/commerce.index.js`
+Você pode ver esses valores estáticos sendo usados no módulo de exemplo no arquivo `actions/commerce.index.js`
 
 ```javascript
         const oauth = getCommerceOauthClient(
