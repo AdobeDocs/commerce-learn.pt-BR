@@ -1,6 +1,6 @@
 ---
 title: Kit inicial da malha de API usando códigos GitHub
-description: Introdução à API em malha do Adobe Commerce usando um kit inicial baseado em GitHub, sem necessidade de configuração local.
+description: Saiba como começar a usar a API em malha do Adobe Commerce usando um kit inicial do GitHub Codesaces, sem nenhuma configuração de ambiente local necessária.
 jira: KT-18367
 doc-type: Tutorial
 duration: 253
@@ -19,16 +19,16 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: 182
+source-wordcount: 188
 ht-degree: 0%
 
 ---
 
 # Kit inicial da malha de API usando códigos GitHub
 
-Esta sessão apresenta o Adobe Commerce API Mesh Starter Kit, projetado para ajudar os desenvolvedores a explorar rapidamente a API Mesh usando Códigos do GitHub sem configuração local. Ele aborda a configuração de um repositório, a configuração de endpoints e o uso de ferramentas integradas, como o GraphQL Yoga, para testes.
+Esta sessão apresenta o Adobe Commerce API Mesh Starter Kit. Ele foi projetado para ajudar os desenvolvedores a explorar rapidamente a API Mesh usando Códigos do GitHub sem configuração local. Ele aborda a configuração de um repositório, a configuração de endpoints e o uso de ferramentas integradas, como o GraphQL Yoga, para testes.
 
 ## Para quem é este vídeo?
 
@@ -40,7 +40,7 @@ Esta sessão apresenta o Adobe Commerce API Mesh Starter Kit, projetado para aju
 
 * Use Códigos do GitHub para explorar a API em malha do Adobe Commerce sem configurar um ambiente local.
 * Ferramentas integradas para teste: inclui um servidor GraphQL pré-configurado (Yoga) e reinicializações automáticas do servidor para desenvolvimento contínuo.
-* Aprendizado prático: clone o kit inicial, configure endpoints e teste de respostas da API diretamente no navegador.
+* Aprendizado prático: clone o kit inicial, configure endpoints e teste as respostas da API diretamente no navegador.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464022?captions=por_br&learn=on)
 

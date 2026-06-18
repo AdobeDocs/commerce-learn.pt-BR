@@ -1,18 +1,18 @@
 ---
-title: Instalação da interface de linha de comando do Adobe I/O Runtime e do plug-in do API Mesh
-description: Saiba como instalar a interface de linha de comando do Adobe I/O Runtime e o plug-in da API Mesh
+title: Instalar o plug-in da CLI e da API Mesh do Adobe I/O Runtime
+description: Saiba como instalar a interface de linha de comando do Adobe I/O Runtime e o plug-in do API Mesh para começar a usar o API Mesh para Adobe Developer App Builder.
 jira: KT-11801
 doc-type: Tutorial
-duration: 433
+duration: 410
 last-substantial-update: 2023-02-08T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 898a0918-0362-4fa4-9204-d770ff1a7e6f
-source-git-commit: 003d55eac7e13a02ee633bed5ea9ab98825db151
+source-git-commit: c73744d503de5023e5c001d0534200522db55b04
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '167'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 # Instalação do plug-in do Adobe I/O Runtime CLI e do Mesh
 
 Antes de começar a usar o API Mesh para Adobe Developer App Builder, você precisa instalar o `aio` CLI e o plug-in do API Mesh.
-Para obter instruções de instalação e pré-requisitos, visite a página API Mesh [Introdução](https://developer.adobe.com/graphql-mesh-gateway/gateway/getting-started/){target="_blank"}.
+Para obter instruções de instalação e pré-requisitos, visite a página API Mesh [Introdução](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/){target="_blank"}.
 
 ## Para quem é este vídeo?
 
@@ -36,7 +36,7 @@ Para obter instruções de instalação e pré-requisitos, visite a página API 
 
 ## Instalando o plug-in da CLI e da API Mesh do `aio`
 
-Após instalar o `node` e o `npm`, execute o seguinte comando para instalar a CLI do `aio`:
+Para instalar a CLI do `aio`, execute o seguinte comando após instalar o `node` e o `npm`:
 
 ```bash
 npm install -g @adobe/aio-cli
