@@ -1,14 +1,14 @@
 ---
 title: O Representante de Vendas inicia a cotação
-description: Saiba como o representante de vendas pode iniciar a cotação com o administrador do Adobe Commerce
-doc-type: Feature Video
-duration: 283
+description: Saiba como os representantes de vendas podem iniciar cotações B2B no painel de administração do Adobe Commerce, filtrar por usuário e site, criar rascunhos e controlar a visibilidade da cotação.
+doc-type: Technical Video
+duration: 264
 jira: KT-13794
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
-level: Beginner, Intermediate
+level: Beginner
 exl-id: eddf5b36-8b63-4d73-a66b-b3f14da3747f
 TQID: https://experienceleague.adobe.com/qYOv5KZHwdRE4jBIyEaiiiDFLEWJmRfYSd1PgynEeJ4
 product_v2:
@@ -25,14 +25,14 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: ba15ff4f563b57cdfb176b6d4423309dae61897d
 workflow-type: tm+mt
-source-wordcount: 61
+source-wordcount: 72
 ht-degree: 0%
 
 ---
 
-# O Representante de Vendas inicia a cotação
+# O representante de vendas inicia a cotação
 
 Saiba como o representante de vendas pode iniciar a cotação no painel de administração, filtrar por usuário e site, cotações de rascunho, visibilidade da cotação e muitos outros recursos.
 
