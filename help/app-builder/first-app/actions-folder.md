@@ -1,7 +1,7 @@
 ---
 title: A pasta de ações
-description: Saiba mais sobre os tipos de arquivos na pasta de ações para este aplicativo de amostra.
-jira: KT-12422
+description: Saiba mais sobre os arquivos e pastas do JavaScript na pasta de ações do App Builder, incluindo a autenticação OAuth e os padrões de conexão do Commerce para seu aplicativo de amostra.
+jira: KT-21680
 doc-type: Tutorial
 duration: 465
 last-substantial-update: 2023-03-13T00:00:00.000Z
@@ -11,25 +11,20 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: d13ed1e7-b18e-4bf5-af87-2a69e2588d65
 TQID: https://experienceleague.adobe.com/v3hBL3cNfFO-xM8Dat2Be21-ihyORvvSrvZYZ-6wzf0
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
 workflow-type: tm+mt
-source-wordcount: 189
+source-wordcount: 199
 ht-degree: 0%
 
 ---
 
 # Saiba mais sobre a pasta de ações {#actions-folder}
 
-A pasta `actions` para este aplicativo de exemplo contém alguns arquivos JavaScript e uma pasta chamada `commerce`. O JavaScript mostrado é um excelente exemplo de arquivo que pode ser reutilizado se for relevante para o seu trabalho. Esta pasta pode economizar seu tempo em esforços de desenvolvimento ao se conectar ao aplicativo do Adobe Commerce usando OAuth e REST.
+A pasta `actions` para este aplicativo de exemplo contém alguns arquivos JavaScript e uma pasta chamada `commerce`. O JavaScript mostrado é um arquivo de exemplo útil que pode ser reutilizado se for relevante para o seu trabalho. Esta pasta pode economizar seu tempo em esforços de desenvolvimento ao se conectar ao aplicativo do Adobe Commerce usando OAuth e REST.
 
 Os nomes reais das pastas neste exemplo são arbitrários, mas conhecer seus nomes pode ajudar a interpretar o código de amostra. Ao usar uma convenção de nomenclatura significativa, é possível evitar confusão se o aplicativo se tornar mais complexo.
 

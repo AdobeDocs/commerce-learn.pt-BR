@@ -1,15 +1,15 @@
 ---
-title: 'POC de pagamento dividido: referência rápida do tutorial'
+title: POC de pagamento dividido — referência rápida do tutorial
 description: Saiba mais sobre o mapa de arquivos POC de pagamento dividido. Qual página do Experience League corresponde a cada prompt do AI, ordem de seção sugerida e notas do autor para o check-out do Luma.
 feature: App Builder, Extensibility, Paas, REST, Eventing
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 8dfbf2694378aae76c91afa11bfee7d93077d8ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
 source-wordcount: '1444'
 ht-degree: 0%
@@ -120,10 +120,10 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** seção &quot;Criar o aplicativo do App Builder&quot;. Companheiro para o prompt do módulo Commerce.
 
 
-### [POC de pagamento dividido: prompt da IA de extensão da interface do Experience Cloud](./experience-cloud-ui-prompt.md)
+### [POC de pagamento dividido: prompt da IA de extensão da interface do usuário da Experience Cloud](./experience-cloud-ui-prompt.md)
 
 
-**Propósito:** Prompt de IA para gerar a extensão opcional SDK da interface do usuário do administrador do Experience Cloud.
+**Propósito:** Prompt de IA para gerar a extensão opcional SDK da interface do usuário do administrador da Experience Cloud.
 
 **Por que é necessário:** O painel de demonstração no prompt do orquestrador é intencionalmente áspero; é uma prova de conceito, não uma produção. Esta seção mostra aos desenvolvedores a próxima etapa: incorporar o painel de pagamento dividido ao Commerce Admin Shell usando a interface de usuário de administração do SDK. Ele estava faltando inteiramente dos prompts originais.
 
@@ -165,7 +165,7 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 
 **Propósito:** Roteiro para transformar a POC em padrões prontos para produção.
 
-**Por que é necessário:** um tutorial PoC corre o risco de deixar os desenvolvedores com um &quot;e agora?&quot; sentimento. Este documento mapeia os avanços naturais da demonstração à produção: substituição do painel de demonstração por uma extensão do Experience Cloud, conexão de um ERP real, adição de uma API Mesh, expansão do fluxo de trabalho do App Builder e lista de verificação de implantação de produção.
+**Por que é necessário:** um tutorial PoC corre o risco de deixar os desenvolvedores com um &quot;e agora?&quot; sentimento. Este documento mapeia os progressos naturais da demonstração à produção: substituição do painel de demonstração por uma extensão da Experience Cloud, conexão de um ERP real, adição de uma API Mesh, expansão do fluxo de trabalho do App Builder e lista de verificação de implantação de produção.
 
 **Conteúdo da chave:**
 
@@ -192,7 +192,7 @@ Com base nesses arquivos, uma estrutura típica para leitores é:
 | Etapa 1: criar o módulo Commerce | [POC de pagamento dividido: prompt de IA do módulo Commerce](./commerce-module-prompt.md) |
 | Etapa 2: criar o App Builder orchestrator | [POC de pagamento dividido: prompt da IA do App Builder orchestrator](./orchestrator-prompt.md) |
 | Etapa 3: testar o fluxo de ponta a ponta | [POC de pagamento dividido: guia de teste e verificação](./testing-and-verification.md) |
-| Etapa 4 (opcional): extensão da interface do usuário do administrador | [POC de pagamento dividido: prompt da IA de extensão da interface do Experience Cloud](./experience-cloud-ui-prompt.md) |
+| Etapa 4 (opcional): extensão da interface do usuário do administrador | [POC de pagamento dividido: prompt da IA de extensão da interface do usuário da Experience Cloud](./experience-cloud-ui-prompt.md) |
 | Próximas etapas e caminho de produção | [POC de pagamento dividido: próximas etapas após a prova de conceito](./next-steps.md) |
 
 

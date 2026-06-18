@@ -1,17 +1,17 @@
 ---
-title: 'Criar uma POC de pagamento dividido: demonstração completa do App Builder'
+title: POC de pagamento dividido — Demonstração completa do App Builder
 description: Saiba como o pagamento dividido, REST, E/S da App Builder e o operador aceitam/rejeitam o trabalho nesta demonstração do Luma, além de um total de pré-pedido configurável que pode bloquear o carrinho.
 feature: App Builder, Paas, Payments
 topic: App Builder, Commerce, Development, I/O Events, Integrations, Runtime
-role: Developer, Leader, User
+role: Developer, User
 level: Intermediate
 doc-type: Technical Video
-duration: 933
+duration: 861
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 9add0b4bfa1eba33ec359adaa766b64711df25ba
+source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '1031'
+source-wordcount: '1029'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Um comprador paga com parte em dinheiro e parte **[!UICONTROL Store Credit]**. A
 
 ## Vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3484104?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3484087?learn=on)
 
 ## Para quem é este vídeo?
 
