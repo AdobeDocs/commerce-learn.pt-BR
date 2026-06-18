@@ -47,4 +47,4 @@ Saiba mais sobre os fluxos de trabalho do GitHub incluídos no kit inicial da AP
 
 * [Repo GitHub do kit inicial da malha da API](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Guia de implementação do servidor para servidor do Adobe Developer OAuth](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [Lista de reprodução de vídeos da API Mesh](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Lista de reprodução de vídeos da API Mesh](https://experienceleague.adobe.com/pt-br/playlists/commerce-get-started-app-builder-and-api-mesh)
