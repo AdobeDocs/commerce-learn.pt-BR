@@ -1,17 +1,14 @@
 ---
-title: Saiba mais sobre as práticas recomendadas e o processo de integração do Adobe Commerce Integration Starter Kit.
-description: Dominar as integrações do Commerce aprendendo as práticas recomendadas e dicas de integração com o Adobe Starter Kit.
-landing-page-description: Saiba como oferecer insights práticos sobre os processos de instalação, configuração e implantação envolvidos usando o kit inicial.
-kt: 15867
-doc-type: video
+title: Práticas recomendadas do Commerce Integration Starter Kit
+description: Conheça as práticas recomendadas para integrações do Adobe Commerce usando o kit inicial, desde a configuração e integração do GitHub até a implantação, validação e ativação.
+doc-type: Technical Video
 duration: 602
-audience: all
-last-substantial-update: 2024-7-30
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15867
 exl-id: 59b9016e-4327-4669-b0ae-e4299433724f
 TQID: https://experienceleague.adobe.com/Vdd-DzzdFA8aFlqceP2AWwbM8lqRsz029nsWtWUkpVo
 product_v2:
@@ -26,9 +23,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 187
+source-wordcount: 175
 ht-degree: 0%
 
 ---
@@ -41,14 +38,14 @@ Saiba como integrar o Adobe Commerce a sistemas externos, oferecendo insights pr
 
 * Desenvolvedores que desejam conhecer as práticas recomendadas para integração comercial, da clonagem à implantação ativa.
 * Qualquer pessoa que quiser entender sobre integração e validação de implantação bem-sucedida.
-* Engenheiros de software e programadores que desejam que o insight configure provedores de eventos, assinaturas e sincronização entre sistemas.
+* Engenheiros e desenvolvedores de software que desejam informações sobre como configurar provedores de eventos, assinaturas e sincronização entre sistemas.
 
 ## Conteúdo de vídeo
 
 * Práticas recomendadas para a integração comercial, da clonagem à implantação ativa.
 * Etapas necessárias para integração, incluindo a validação da implantação bem-sucedida.
-* Os arquivos de configuração personalizam o processo de integração.
-* Execução de scripts para criar e configurar provedores de eventos e assinaturas.
+* Os arquivos de configuração são usados para personalizar o processo de integração.
+* Para criar e configurar provedores de eventos e assinaturas, execute scripts.
 * Atualização de eventos no Commerce e no App Builder para sincronização.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3452774?captions=por_br&learn=on)

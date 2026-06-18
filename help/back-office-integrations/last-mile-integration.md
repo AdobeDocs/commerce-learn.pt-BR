@@ -1,17 +1,14 @@
 ---
-title: Integração da última milha no kit inicial de integração do Commerce.
-description: Integração do último quilômetro no Commerce, destacando os ganchos de extensibilidade como validação, transformação, pré-processamento, envio e pós-processamento.​
-landing-page-description: Saiba mais sobre a estrutura e as funções dos ganchos de extensibilidade na integração de última milha para sistemas Commerce.
-kt: 15869
-doc-type: video
+title: Integração do último quilômetro no kit inicial do Commerce
+description: Saiba mais sobre a integração de última milha no Commerce usando ganchos de extensibilidade para validação, transformação, pré-processamento, envio e pós-processamento.
+doc-type: Technical Video
 duration: 557
-audience: all
-last-substantial-update: 2024-7-30
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15869
 exl-id: e86e8c7b-d5d2-484d-90a2-9c5309c7ea1d
 TQID: https://experienceleague.adobe.com/TCR23A98L8XrVDEQeqLQoOXKQPBQu-Wb7YnGUkBXgak
 product_v2:
@@ -24,16 +21,16 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 359
+source-wordcount: 342
 ht-degree: 0%
 
 ---
 
 # Integração do último quilômetro usando o Adobe Starter Kit
 
-Saiba mais sobre os itens a serem considerados ao iniciar a integração de última milha com o Adobe Commerce, com foco no uso de ganchos de extensibilidade para melhorar a conectividade com sistemas de terceiros. Este vídeo descreve uma abordagem estruturada em que vários ganchos, como validação, transformação, pré-processamento, envio e pós-processamento, garantem o fluxo de dados e a sincronização do sistema perfeitos. Cada gancho tem um propósito distinto, incluindo:
+Saiba mais sobre os itens a serem considerados ao iniciar a integração de última milha com o Adobe Commerce, com foco nos ganchos de extensibilidade para melhorar a conectividade com sistemas de terceiros. Este vídeo descreve uma abordagem estruturada em que vários ganchos, como validação, transformação, pré-processamento, envio e pós-processamento, garantem o fluxo de dados e a sincronização do sistema perfeitos. Cada gancho tem um propósito distinto, incluindo:
 
 * Validação de dados de entrada em relação a esquemas
 * Transformando objetos de dados entre sistemas

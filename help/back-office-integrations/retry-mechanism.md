@@ -1,17 +1,14 @@
 ---
 title: Usar a funcionalidade nativa de um mecanismo de repetição
-description: Aproveite o mecanismo de repetição do Adobe I/O Events para aplicativos resilientes, incluindo condições de repetição e indicadores visuais.
-landing-page-description: Entenda e utilize o mecanismo de repetição integrado do Adobe I/O Events para aprimorar a resiliência dos aplicativos e gerenciar as ativações de eventos com eficiência.
-kt: 15872
-doc-type: video
+description: Saiba como usar o mecanismo de repetição do Adobe I/O Events para criar aplicativos resilientes, cobrindo condições de repetição, estratégias de retirada e indicadores visuais.
+doc-type: Technical Video
 duration: 402
-audience: all
-last-substantial-update: 2024-7-31
+last-substantial-update: 2024-07-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15872
 exl-id: 412060b3-76ae-4c27-bf96-8eb2a0f0d0e8
 TQID: https://experienceleague.adobe.com/hrzcmSY8cAke4LBLRtqfkP8-t6jP4KMoMc7iL3WPRng
 product_v2:
@@ -22,14 +19,14 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 394
+source-wordcount: 382
 ht-degree: 0%
 
 ---
 
-# Aproveitar o mecanismo de repetição do Adobe I/O Events para resiliência de aplicativos
+# Usar o mecanismo de repetição do Adobe I/O Events para resiliência de aplicativos
 
 O vídeo descreve um guia abrangente sobre como aproveitar o mecanismo de repetição integrado do Adobe I/O Events para melhorar a resiliência dos aplicativos. Saiba como códigos de status de resposta HTTP específicos acionam novas tentativas de evento. O Adobe I/O Events emprega estratégias de recuo exponenciais e fixas para tentativas, com intervalos que aumentam de um minuto a 15 minutos. A documentação também detalha como os indicadores de repetição são exibidos no console do desenvolvedor, com dicas visuais como ícones de aviso e setas circulares que indicam eventos de falha e de repetição, respectivamente.
 
@@ -41,7 +38,7 @@ Saiba como o mecanismo de repetição funciona no contexto das ações de tempo 
 * Equipes que desejam aprender sobre as estratégias de retrocesso exponencial e fixo empregadas pelo Adobe I/O Events para tentativas.
 * Desenvolvedores que desejam entender como os indicadores visuais no console do desenvolvedor representam eventos com falha e repetidos.
 
-## Doente de vídeo
+## Conteúdo de vídeo
 
 * O Adobe I/O Events tem um mecanismo de repetição integrado e pronto para uso que repete automaticamente as ativações de eventos com base em códigos de status de resposta HTTP específicos.
 * O mecanismo de repetição implementado pelo Adobe I/O Events envolve estratégias de retrocesso exponenciais e fixas.

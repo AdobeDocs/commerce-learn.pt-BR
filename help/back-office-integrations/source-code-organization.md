@@ -1,17 +1,14 @@
 ---
-title: Saiba mais sobre o Commerce Integration Starter Kit com as principais pastas e scripts de automação explicados
-description: Saiba mais sobre a organização do código-fonte no kit inicial de integração do Commerce. ​
-landing-page-description: Explorar a organização do código Source em um kit inicial de integração do Commerce
-kt: 15868
-doc-type: video
+title: Organização do código Source no kit inicial do Commerce
+description: Saiba mais sobre a organização do código-fonte no kit inicial de integração do Commerce, incluindo pastas principais como ações e scripts, scripts de automação e manipulação de eventos.
+doc-type: Technical Video
 duration: 534
-audience: all
-last-substantial-update: 2024-7-30
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-15868
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
 TQID: https://experienceleague.adobe.com/P6-sK18TcpC91YXJcXohIvzmii3N66ZKh3nZha-RYQY
 product_v2:
@@ -25,9 +22,9 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
 workflow-type: tm+mt
-source-wordcount: 371
+source-wordcount: 252
 ht-degree: 0%
 
 ---
