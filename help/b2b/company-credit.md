@@ -57,5 +57,5 @@ Você pode definir os seguintes parâmetros relacionados a crédito para cada pe
 
 ## Recursos adicionais
 
-* [Configurar pagamento por conta](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [Gerenciar Crédito da Empresa](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)
+* [Configurar pagamento por conta](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Gerenciar Crédito da Empresa](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/credit-company)
