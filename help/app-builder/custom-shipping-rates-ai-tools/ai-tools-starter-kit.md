@@ -34,6 +34,6 @@ Descubra como utilizar as ferramentas alimentadas por IA do Adobe para simplific
 * As ferramentas do MCP expõem os comandos e dados que o agente usa para planejar e gerar código.
 * A IA automatiza os requisitos, a arquitetura e as decisões de implementação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481344?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481349?captions=por_br&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}

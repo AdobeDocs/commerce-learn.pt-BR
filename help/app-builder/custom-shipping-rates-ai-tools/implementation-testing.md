@@ -33,6 +33,6 @@ O agente de IA finaliza a implementação, limpa o código não usado e prepara 
 As credenciais e o ambiente são configurados para implantar e registrar a nova extensão de envio.
 O teste de vitrine confirma que as taxas de envio externo aparecem e funcionam conforme esperado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481362?captions=por_br&learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
