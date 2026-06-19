@@ -1,16 +1,14 @@
 ---
-title: Saiba como o Percona Toolkit pt-query-digest funciona e por que ele é usado
-description: Analisar consultas MySQL de arquivos de log lentos, gerais e binários. Ele também pode analisar queries de "SHOW PROCESSLIST" e dados de protocolo MySQL de tcpdump.
-kt: 13846
-doc-type: video
-duration: 510
-activity: use
-last-substantial-update: 2023-8-28
+title: Analisar consultas MySQL com o Percona Toolkit pt-query-digest
+description: Saiba como usar pt-query-digest para analisar consultas MySQL de arquivos de log lentos, gerais e binários, SHOW PROCESSLIST e dados de protocolo MySQL de tcpdump.
+doc-type: Technical Video
+duration: 506
+last-substantial-update: 2023-08-28
 feature: Backend Development, Tools and External Services, Logs
 topic: Commerce, Development
-old-role: Architect, Developer
 role: Developer
 level: Intermediate
+jira: KT-13846
 exl-id: 77e91f1b-b3ae-4c6d-bb6d-4fd7ebbb0baf
 TQID: https://experienceleague.adobe.com/lh-fBjlhZO6W-K08KNb-KaG-N2slLZVpNOSg6LAp0n8
 product_v2:
@@ -21,18 +19,18 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 113
+source-wordcount: 105
 ht-degree: 0%
 
 ---
 
 # Percona Toolkit pt-query-digest
 
-Saiba por que você usa o pt-query-digest e alguns exemplos reais para ajudar a aprofundar o raciocínio.
+Saiba por que usar pt-query-digest e alguns exemplos práticos para ajudar a melhorar a análise.
 
-## Para quem é este vídeo?
+## Público-alvo
 
 * Arquitetos
 * Desenvolvedores

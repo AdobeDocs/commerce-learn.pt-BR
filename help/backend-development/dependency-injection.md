@@ -1,15 +1,14 @@
 ---
 title: Exemplo de injeção de dependência
-description: A injeção de dependência permite que um objeto declare suas dependências, que são fornecidas por um objeto externo, promovendo flexibilidade e modularidade.
-kt: 5621
-doc-type: video
+description: Saiba mais sobre a injeção de dependência no Adobe Commerce — um padrão de design em que os objetos declaram suas dependências para injeção externa, melhorando a flexibilidade.
+doc-type: Technical Video
 duration: 313
-activity: use
-last-substantial-update: 2023-2-10
+last-substantial-update: 2026-06-19
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
-role: Admin, Developer
+role: Developer
 level: Beginner, Intermediate
+jira: KT-5621
 exl-id: 17203385-6786-4dd2-9fff-8fb6c4024eb2
 TQID: https://experienceleague.adobe.com/YeGW-u2OTpZLdYjV7P6lToQ-C0L8Qh9Uco8bNPIvjuA
 product_v2:
@@ -25,9 +24,9 @@ level_v2:
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 98
+source-wordcount: 85
 ht-degree: 0%
 
 ---
@@ -36,7 +35,7 @@ ht-degree: 0%
 
 A injeção de dependência é um padrão de design que permite que um objeto A declare suas dependências a um objeto externo B que fornece essas dependências. As dependências declaradas pelo A geralmente são interfaces de classe e as dependências fornecidas pelo B são implementações concretas para essas interfaces.
 
-## Para quem é este vídeo?
+## Público-alvo
 
 * Desenvolvedores
 
@@ -46,5 +45,4 @@ A injeção de dependência é um padrão de design que permite que um objeto A 
 
 ## Recursos úteis
 
-* [Injeção de dependência](https://developer.adobe.com/commerce/php/development/components/dependency-injection/)
 * [Guia do desenvolvedor do PHP](https://developer.adobe.com/commerce/php/development/)
