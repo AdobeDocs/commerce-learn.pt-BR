@@ -1,38 +1,30 @@
 ---
 title: Criar um atributo de produto
-description: Crie uma página que retorne json com um parâmetro.
-kt: 14131
-doc-type: video
-duration: 605
-activity: use
-last-substantial-update: 2023-2-10
+description: Saiba como criar um atributo de produto de forma programática no Adobe Commerce, incluindo atributos do tipo suspenso com modelos personalizados de back-end, front-end e origem.
+doc-type: Tutorial
+duration: 491
+last-substantial-update: 2023-02-10
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, User
 level: Beginner, Intermediate
+jira: KT-14131
 exl-id: 98257e62-b23d-4fa9-a0eb-42e045c53195
 TQID: https://experienceleague.adobe.com/nK2d0LjWl88FCVRW6IRCa-euZ8cTawlY3YOzjMyNq-Y
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: c1256247-af4b-46d8-9dca-0c654ecfa157
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: c1256247-af4b-46d8-9dca-0c654ecfa157id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
 workflow-type: tm+mt
-source-wordcount: 325
+source-wordcount: 337
 ht-degree: 0%
 
 ---
 
 # Criar um atributo de produto
 
-Adicionar um atributo de produto é uma das operações mais populares do [!DNL Commerce]. Os atributos são uma maneira avançada de resolver muitas tarefas práticas relacionadas a um produto. Há um processo simples de adicionar um atributo do tipo suspenso a um produto.
+Adicionar um atributo de produto é uma das operações mais populares do [!DNL Commerce]. Os atributos são uma maneira eficiente de lidar com muitas tarefas práticas relacionadas a um produto. Há um processo simples de adicionar um atributo do tipo suspenso a um produto.
 
 Neste vídeo:
 
@@ -43,11 +35,11 @@ Neste vídeo:
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novatos no comércio que precisam aprender a criar um atributo de produto de forma programática
+* Desenvolvedores novos no [!DNL Commerce] que precisam aprender a criar um atributo de produto de forma programática
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3414162?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35789?learn=on)
 
 ## Amostra de código
 
@@ -84,7 +76,7 @@ ComponentRegistrar::register(
 
 ```xml
 <?xml version="1.0"?>
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+<config xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Learning_ClothingMaterial" setup_version="0.0.1"/>
 </config>
