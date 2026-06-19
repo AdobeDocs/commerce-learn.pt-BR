@@ -7,16 +7,14 @@ doc-type: Value Video
 last-substantial-update: 2026-06-11T00:00:00Z
 jira: KT-21573
 duration: 192
-source-git-commit: e8599fadf01440009348ce105a2fcef3603bbdfc
+source-git-commit: 48d47dcb7e559513b72e8e24ec678613d9163515
 workflow-type: tm+mt
-source-wordcount: '152'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
 
 # Pesquisa semântica
-
-[!BADGE Em breve]{type=Informative tooltip="Este recurso será disponibilizado em breve e está sujeito a alterações."}
 
 A pesquisa tradicional por palavra-chave corresponde a palavras exatas, mas os compradores raramente conhecem as palavras certas. A pesquisa semântica no Adobe Commerce usa IA para entender a intenção por trás de uma consulta, correspondendo os compradores aos produtos com base no significado em vez de texto literal. Isso melhora a descoberta de produtos, aumenta o engajamento e impulsiona conversões mais altas, retornando resultados que refletem o que os compradores querem.
 
@@ -33,8 +31,9 @@ A pesquisa tradicional por palavra-chave corresponde a palavras exatas, mas os c
 * Indexação automática de catálogo que transforma dados de produtos em sinais semânticos
 * Aumento de resultado, limites de similaridade e configuração de pesquisa difusa
 
->[!VIDEO](https://video.tv.adobe.com/v/3492309?captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3492286)
 
 ## Recursos adicionais
 
-[Visão geral das [!DNL Live Search]](https://experienceleague.adobe.com/pt-br/docs/commerce/live-search/overview){target="_blank"}
+- Para implantações no Adobe Commerce na Nuvem, no Local e no Adobe Commerce as a Cloud Service, consulte a [[!DNL Live Search] pesquisa semântica](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} no _Guia do Live Search_.
+- Para implantações que usam o Adobe Commerce Optimizer, consulte [Configurações - Pesquisa Avançada](https://experienceleague.adobe.com/en/docs/commerce/optimizer/settings#advanced-search){target="_blank"} no _Guia do Commerce Optimizer_.
