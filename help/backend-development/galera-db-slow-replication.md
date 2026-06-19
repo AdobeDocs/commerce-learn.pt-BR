@@ -44,7 +44,7 @@ Para ajudar os bancos de dados de réplica a manterem-se sincronizados com o ban
 * Execuções em massa ocorrem somente no principal. As replicações ocorrem uma de cada vez
 * Para ajudar a replicação a acompanhar o principal, faça o lote de grandes confirmações.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421688?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423544?captions=por_br&learn=on)
 
 ## Recursos úteis
 
