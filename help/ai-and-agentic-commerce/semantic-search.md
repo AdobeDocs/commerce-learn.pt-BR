@@ -35,5 +35,5 @@ A pesquisa tradicional por palavra-chave corresponde a palavras exatas, mas os c
 
 ## Recursos adicionais
 
-&#x200B;- Para implantações no Adobe Commerce na Nuvem, no Local e no Adobe Commerce as a Cloud Service, consulte a [[!DNL Live Search] pesquisa semântica](https://experienceleague.adobe.com/en/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} no _Guia do Live Search_.
-&#x200B;- Para implantações que usam o Adobe Commerce Optimizer, consulte [Configurações - Pesquisa Avançada](https://experienceleague.adobe.com/en/docs/commerce/optimizer/settings#advanced-search){target="_blank"} no _Guia do Commerce Optimizer_.
+&#x200B;- Para implantações no Adobe Commerce na Nuvem, no Local e no Adobe Commerce as a Cloud Service, consulte a [[!DNL Live Search] pesquisa semântica](https://experienceleague.adobe.com/pt-br/docs/commerce/live-search/live-search-admin/semantic-search){target="_blank"} no _Guia do Live Search_.
+&#x200B;- Para implantações que usam o Adobe Commerce Optimizer, consulte [Configurações - Pesquisa Avançada](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/settings#advanced-search){target="_blank"} no _Guia do Commerce Optimizer_.
