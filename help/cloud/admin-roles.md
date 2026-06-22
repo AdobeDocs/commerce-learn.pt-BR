@@ -1,6 +1,6 @@
 ---
 title: Funções de administrador para usuários de back office
-description: Saiba como os usuários empresariais fazem logon no Adobe Commerce Admin Portal e como os administradores de loja criam e gerenciam o acesso com base em funções ao Admin Portal.
+description: Saiba como os usuários empresariais fazem logon no Adobe Commerce Admin Portal e como os administradores de loja criam, gerenciam e atribuem permissões de acesso com base em função aos usuários.
 feature: Admin Workspace, Roles/Permissions, Security
 topic: Administration, Commerce, Security
 role: Admin, User
@@ -24,9 +24,9 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: e17ffe0eba640671baacbc7e8aef3a97c7785307
 workflow-type: tm+mt
-source-wordcount: 195
+source-wordcount: 192
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Saiba mais sobre o processo de fazer logon no Portal de administração do Adobe
 ## Conteúdo de vídeo
 
 * Saiba mais sobre os métodos de logon mais recentes.
-* Obter uma boa compreensão da criação e do gerenciamento de funções
+* Entender a criação e o gerenciamento de funções
 * Entenda a atribuição de usuários e os níveis de acesso. &#x200B;
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433518?captions=por_br&learn=on)
