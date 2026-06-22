@@ -47,4 +47,4 @@ Saiba mais sobre o processo de fazer logon no Portal de administração do Adobe
 * Entender a criação e o gerenciamento de funções
 * Entenda a atribuição de usuários e os níveis de acesso. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433518?captions=por_br&learn=on)
