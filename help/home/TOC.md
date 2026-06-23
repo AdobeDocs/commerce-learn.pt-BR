@@ -4,7 +4,7 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: be274a0e69527597ddad238ecbb7a46a7546ed84
+source-git-commit: f5b1e429dc7c3732d0c9e7be4b2ac972d259143e
 workflow-type: tm+mt
 source-wordcount: '958'
 ht-degree: 3%
@@ -162,7 +162,7 @@ ht-degree: 3%
             + [Referência de variáveis de ambiente](../app-builder/split-payment-ai-tools/env-reference.md)
             + [Prompt do Commerce Module AI](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
             + [prompt do App Builder orchestrator AI](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
-            + [Prompt da IA de extensão da interface do usuário do Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
+            + [Prompt da IA de extensão da interface do usuário da Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
       + Criar taxas de envio personalizadas usando as Ferramentas de IA {#custom-shipping-rates-ai-tools}
          + [Introdução e configuração](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
          + [Ferramentas de IA e kit inicial do Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
@@ -289,4 +289,3 @@ ht-degree: 3%
    + [Report Builder de coorte](../business-intelligence/cohort-report-builder.md)
    + [SQL REPORT BUILDER](../business-intelligence/sql-report-builder.md)
    + [Preparando para o futuro](../business-intelligence/prepare-for-future.md)
-
