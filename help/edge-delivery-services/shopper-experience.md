@@ -1,12 +1,12 @@
 ---
 title: Experiência do comprador com o Edge Delivery Services
-description: Saiba o que os compradores veem e fazem na loja da Adobe Commerce equipada com Edge Delivery Services, incluindo carrinho, check-out, descontos, tarefas de conta, pedidos e devoluções.
+description: Saiba mais sobre a experiência do comprador nas vitrines do Adobe Commerce Edge Delivery Services, incluindo carrinho, check-out, descontos, tarefas de conta, pedidos e devoluções.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: User
 level: Beginner
 doc-type: Technical Video
-duration: 596
+duration: 588
 last-substantial-update: 2024-02-21T00:00:00.000Z
 jira: KT-17259
 exl-id: 27a2aaa6-7748-4ec2-919f-9e5dc07e94e7
@@ -24,20 +24,20 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 204
+source-wordcount: 174
 ht-degree: 0%
 
 ---
 
 # Experiência do comprador
 
-Saiba como a loja do Commerce habilitada pela Edge Delivery Services oferece suporte a tarefas comuns de compradores: adicionar itens ao carrinho, aplicar regras de preço do carrinho e códigos de cupom, fazer check-out como convidado, atualizar informações da conta, cancelar pedidos, reordenar e iniciar devoluções. O vídeo também aborda o gerenciamento de pedidos, como os clientes aplicam descontos e quando vários códigos de cupom podem ser empilhados.
+Saiba como a loja da Commerce no Edge Delivery Services oferece suporte a tarefas comuns de compradores: adicionar itens, aplicar descontos, check-out de convidado, atualizações de conta, cancelar pedidos, reordenar e devolver. O vídeo também aborda o Order Management, como os clientes aplicam descontos e quando vários códigos de cupom podem ser empilhados.
 
 ## O que você aprende
 
-Você aprende a navegar na experiência da loja da Adobe Commerce no Edge Delivery Services, incluindo o carrinho, descontos e códigos de cupom, check-out de convidado, atualizações de conta, cancelamento e reordenação, retornos e um caminho mais suave para o check-out.
+Você aprende a navegar na loja da Adobe Commerce no Edge Delivery Services, incluindo gerenciamento de carrinho, descontos, check-out de convidado, atualizações de conta, ações de pedido e check-out.
 
 ## Para quem é este vídeo?
 
@@ -55,7 +55,7 @@ Você aprende a navegar na experiência da loja da Adobe Commerce no Edge Delive
 ## Conteúdo de vídeo
 
 * Aplique regras de preço do carrinho e códigos de cupom durante o check-out, inclusive quando o empilhamento estiver disponível.
-* Trabalhar com o carrinho e os pedidos: adicionar itens, fazer check-out como convidado, cancelar pedidos, reordenar e processar devoluções.
-* Atualize as informações da conta, mescle carrinhos de convidado e de cliente e mantenha o check-out consistente.
+* Trabalhar com o carrinho e as ordens: adicionar itens, fazer check-out como convidado, cancelar ordens, reordenar e processar devoluções.
+* Atualize as informações da conta, mescle carrinhos de convidados e clientes e mantenha a consistência de check-out.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446767?captions=por_br&learn=on)

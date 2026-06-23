@@ -1,6 +1,6 @@
 ---
 title: Resumo do pedido Edge Delivery Services na finalização da compra
-description: Saiba mais sobre os serviços de entrega de borda da Adobe e como atualizar a seção de resumo do pedido do menu suspenso do Commerce na finalização da compra.
+description: Saiba como atualizar o resumo do pedido suspenso do carrinho do Adobe Commerce, incluindo estimativas de envio, exibição do total de economia e layout de seção recolhível.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -22,25 +22,25 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 196
+source-wordcount: 197
 ht-degree: 0%
 
 ---
 
 # Atualizar o resumo do carrinho no check-out
 
-Saiba como fazer alterações no resumo do pedido de entrega do carrinho do Adobe Commerce no Edge Delivery Services.  Há vários exemplos de como melhorar rapidamente o layout ou as informações fornecidas a um cliente na finalização da compra.
+Saiba como fazer alterações no resumo do pedido do menu suspenso do carrinho do Adobe Commerce para Edge Delivery Services. Há vários exemplos de como melhorar o layout ou as informações fornecidas a um cliente na finalização da compra.
 
 ## O que você vai aprender
 
-Saiba como usar o menu suspenso do carrinho do Adobe Commerce e ajustar a experiência do carrinho.  Há várias maneiras de aprimorar o carrinho, fazendo pequenas alterações ou atualizações no código.
+Saiba como usar o menu suspenso do carrinho do Adobe Commerce e ajustar a experiência do carrinho. Há várias maneiras de aprimorar o carrinho, fazendo pequenas alterações ou atualizações no código.
 
 ## Para quem é este vídeo?
 
 * Desenvolvedores que precisam aprender como implementar essas personalizações para o resumo do pedido.
-* Merchandisers para entender quais opções estão disponíveis usando recursos nativos para aprimorar a experiência do cliente em relação ao resumo do pedido.
+* Merchandisers que desejam entender quais opções estão disponíveis usando recursos nativos para aprimorar a experiência do cliente em relação ao resumo do pedido.
 
 ## Conteúdo de vídeo
 

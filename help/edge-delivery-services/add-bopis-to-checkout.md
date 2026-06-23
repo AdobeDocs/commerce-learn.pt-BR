@@ -1,6 +1,6 @@
 ---
 title: BOPIS DO EDGE DELIVERY SERVICES
-description: Saiba mais sobre os Serviços de entrega de borda da Adobe e adicione uma coleta online na loja ou a funcionalidade BOPIS para fazer check-out.
+description: Saiba como adicionar suporte a compra online, retirada na loja (BOPIS) a uma finalização do Edge Delivery Services usando componentes do carrinho e fragmentos de conteúdo do Adobe Commerce.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
@@ -20,24 +20,24 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 147
+source-wordcount: 158
 ht-degree: 0%
 
 ---
 
-# Adicionar BOPIS para check-out
+# Adicionar BOPIS ao check-out
 
-Saiba como adicionar os componentes necessários ao checkout do Edge Delivery Services, que acomoda uma compra online e uma retirada na loja, também conhecidas como BOPIS.
+Saiba como adicionar os componentes necessários ao check-out do Edge Delivery Services, que acomoda a compra online e a retirada na loja, também chamadas de BOPIS.
 
 ## O que você vai aprender
 
-Saiba como usar o carrinho do Adobe Commerce do Edge Delivery Services para fornecer a funcionalidade BOPIS.
+Saiba como usar o carrinho do Adobe Commerce da Edge Delivery Services para fornecer a funcionalidade de compra online e coleta na loja.
 
 ## Para quem é este vídeo?
 
-* Empresas de comércio eletrônico que procuram melhorar o carrinho de compras com compra on-line e retirada na loja.
+* Empresas de comércio eletrônico que procuram aprimorar o carrinho de compras com compras online e compras na loja.
 * Desenvolvedores que precisam aprender como implementar o BOPIS.
 
 ## Conteúdo de vídeo

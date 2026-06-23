@@ -1,12 +1,12 @@
 ---
-title: Edge Delivery Services cart items
-description: Learn about Adobe Edge Delivery Services and how to use product attributes to display new information for cart items.
+title: Itens do carrinho do Edge Delivery Services
+description: Saiba como usar atributos e slots do produto no Adobe Commerce Edge Delivery Services para exibir cronogramas de entrega, avisos de venda e descontos de carrinho.
 feature: Best Practices, Compliance, Extensibility, Storefront, Tools and External Services
 topic: Architecture, Commerce, Headless
 role: Developer
 level: Beginner
 doc-type: Technical Video
-duration: 429
+duration: 430
 last-substantial-update: 2024-12-16T00:00:00.000Z
 jira: KT-16686
 exl-id: a9a6deb3-6431-4cb2-a3c2-0d584d3da3b5
@@ -22,37 +22,37 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d394484608d6ee530932387938e04030ed3b590e
 workflow-type: tm+mt
-source-wordcount: 284
+source-wordcount: 287
 ht-degree: 0%
 
 ---
 
 # Usar atributos de produto para itens de carrinho
 
-Learn how to customize and extend the Adobe Commerce shopping cart. In this demonstration, there are three updates.  The demo begins by displaying delivery timelines for back-order products, showing returnable and final sale notices, and applying a 25% discount for carts with a subtotal of $75 or more. By leveraging product attributes and slots, adding these features into the shopping cart enhances the overall user experience.
+Saiba como personalizar e estender o carrinho de compras do Adobe Commerce. Nesta demonstração, há três atualizações.  A demonstração começa exibindo os cronogramas de entrega de produtos de backorder, mostrando avisos de venda retornáveis e finais e aplicando um desconto de 25% para carrinhos com um subtotal de US$ 75 ou mais. Ao aproveitar os atributos e slots do produto, adicionar esses recursos ao carrinho de compras melhora a experiência geral do usuário.
 
 ## O que você vai aprender
 
-Learn how to use Adobe Commerce cart drop in and adjust the transactional flow to show customers a new set of features by changing a few lines of code.  Also learn how to convert these changes to be managed from Sharepoint to conduct AB testing.
+Saiba como usar o menu suspenso do carrinho do Adobe Commerce e ajustar o fluxo transacional para mostrar aos clientes um novo conjunto de recursos, alterando algumas linhas de código.  Saiba também como converter essas alterações para serem gerenciadas do Sharepoint para realizar testes A/B.
 
 ## Para quem é este vídeo?
 
-* E-commerce Businesses looking to enhance the shopping cart with delivery timelines, sale information, and discounts.
-* Developers who need to learn how to implement these customizations for cart items.
-* Merchandisers to understand what options are available using native features to enhance the customer experience.
+* Empresas de comércio eletrônico que procuram aprimorar o carrinho de compras com cronogramas de entrega, informações de vendas e descontos.
+* Desenvolvedores que precisam aprender a implementar essas personalizações para itens de carrinho.
+* Merchandisers que desejam entender quais opções estão disponíveis usando recursos nativos para aprimorar a experiência do cliente.
 
 ## Conteúdo de vídeo
 
-* Customization of product detail and display customized delivery timelines for back-order products in the shopping cart.
-* Returnable and Final Sale Information examples using out of the box functionality for the cart items.
-* Coupon discount displayed using cart rules and footer slots to display this information effectively.
-* Using product attributes and Slots to extend and customize the shopping cart functionality, ensuring that all project requirements are met.
+* Personalize os detalhes do produto e exiba linhas do tempo de entrega personalizadas para produtos de ordem pendente no carrinho de compras.
+* Exemplos de Informações sobre Vendas Retornáveis e Finais usando a funcionalidade padrão para os itens do carrinho.
+* Desconto de cupom exibido usando regras de carrinho e slots de rodapé para exibir essas informações de forma eficaz.
+* Usar atributos de produto e Slots para estender e personalizar a funcionalidade do carrinho de compras, garantindo que todos os requisitos do projeto sejam atendidos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441121?captions=por_br&learn=on)
 
 
 ## Documentação adicional
 
-* [Add Product lines to cart](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=pt-BR)
+* [Adicionar linhas de produto ao carrinho](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=pt-BR)
