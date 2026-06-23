@@ -51,4 +51,4 @@ Saiba como usar o menu suspenso de carrinho do Adobe Commerce e ajustar o fluxo 
 
 ## Documentação adicional
 
-* [Configurar resumo do carrinho](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/)
+* [Configurar resumo do carrinho](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=pt-BR)

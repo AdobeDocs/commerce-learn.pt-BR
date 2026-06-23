@@ -50,4 +50,4 @@ Saiba como personalizar a experiência de entrega do carrinho do Edge Delivery S
 
 ## Documentação adicional
 
-* [Checkout de várias etapas](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)
+* [Checkout de várias etapas](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=pt-BR)
