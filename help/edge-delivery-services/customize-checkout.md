@@ -46,7 +46,7 @@ Saiba como personalizar a experiência de entrega do carrinho do Edge Delivery S
 * Implementação da finalização em várias etapas
 * Reutilizar código e práticas recomendadas existentes
 
->[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442655?captions=por_br&learn=on)
 
 ## Documentação adicional
 

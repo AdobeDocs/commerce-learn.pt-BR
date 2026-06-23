@@ -47,7 +47,7 @@ Saiba como usar o menu suspenso de carrinho do Adobe Commerce e ajustar o fluxo 
 * Flexibilidade no teste A/B. Configurações habilitadas por meio do SharePoint, permitindo que os profissionais de marketing controlem e testem esses recursos.
 * Controle de marketing aprimorado. Gerencie e teste configurações facilmente, melhorando a experiência do usuário e a eficácia do marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442351?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442356?captions=por_br&learn=on)
 
 ## Documentação adicional
 
