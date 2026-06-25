@@ -9,7 +9,7 @@ doc-type: Tutorial
 duration: 349
 last-substantial-update: 2026-05-21T00:00:00Z
 jira: KT-21258
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '564'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Se uma **exibição de catálogo** for a lente que molda o que os compradores ve
 * Políticas de ACIONAMENTO ativadas por cabeçalhos de solicitação de API (por exemplo `AC-Policy-Brand`)
 * Atualização de políticas em operações diárias sem reconstrução de catálogo
 
->[!VIDEO](https://video.tv.adobe.com/v/3491429?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491413?learn=on)
 
 Uma **política** é um **filtro de acesso a dados**. Ele inspeciona os atributos do produto e aplica regras que determinam quais produtos uma exibição de catálogo pode expor. As políticas ficam na parte superior do catálogo de composição compartilhado — elas não duplicam os dados do catálogo.
 
@@ -79,6 +79,7 @@ As políticas são filtros leves em um **catálogo compartilhado**, não regras 
 
 * [Por que existe o modelo de dados do catálogo de composição](./why-ccdm-exists.md)
 * [Saiba mais sobre Exibições de catálogo](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Exibições de catálogo para serviços de merchandising](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
-* [Guia do [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/overview){target="_blank"}
+* [Exibições de catálogo para serviços de merchandising](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Guia do [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Introdução à API de merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
+

@@ -11,14 +11,10 @@ role: Developer
 level: Beginner, Intermediate
 exl-id: 5d3ced3f-174d-4481-8511-82616bb77c43
 TQID: https://experienceleague.adobe.com/84OKfd7Xbb1q-EoEPOVt9l2bISkQJVqfXdIJFr4jCis
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: e03f0a058d1a08b1a67fd278c1b6127566a370ac
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: 122
 ht-degree: 0%
@@ -162,3 +158,4 @@ describe('getBearerToken', () => {
 ```
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
+

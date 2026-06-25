@@ -10,7 +10,7 @@ duration: 87
 last-substantial-update: 2026-03-10T00:00:00Z
 jira: KT-20518
 exl-id: 7d1487be-2e3b-4067-8382-297a040a820b
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
@@ -32,6 +32,7 @@ Descubra como criar taxas de envio personalizadas usando ferramentas de IA. Este
 * Saiba como a ferramenta de feedback MCP funciona
 * Entenda como é possível fornecer feedback do IDE para o Adobe
 
->[!VIDEO](https://video.tv.adobe.com/v/3481311?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481306?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
+
