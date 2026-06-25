@@ -9,7 +9,7 @@ topic: Commerce, Development
 role: Admin, Developer, Leader, User
 level: Beginner
 exl-id: 436003ca-df48-4441-a1f4-bd8ea977a9cc
-badgePaas: label="Somente PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Aplica-se somente a projetos do Adobe Commerce na nuvem (infraestrutura do PaaS gerenciada pela Adobe) e a projetos locais."
+badgePaas: label="Somente PaaS" type="Informative" url="https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/product-solutions" tooltip="Aplica-se somente a projetos do Adobe Commerce na nuvem (infraestrutura do PaaS gerenciada pela Adobe) e a projetos locais."
 TQID: https://experienceleague.adobe.com/tdGN8O7QLLq8NkcXY6by--1k1-7gXUJB7HlWlNd1zdA
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -48,7 +48,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->Este conteúdo reflete a versão 1.0.0 do Page Builder para Adobe Commerce 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão do Page Builder](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/release-notes).
+>Este conteúdo reflete a versão 1.0.0 do Page Builder para Adobe Commerce 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão do Page Builder](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/page-builder/release-notes).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35709?learn=on)
 
@@ -56,4 +56,4 @@ Neste vídeo:
 
 [Documentação do desenvolvedor do Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guia do Page Builder](https://experienceleague.adobe.com/en/docs/commerce-admin/page-builder/introduction)
+[Guia do Page Builder](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/page-builder/introduction)
