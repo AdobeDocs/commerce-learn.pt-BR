@@ -1,14 +1,13 @@
 ---
 title: Page Builder para desenvolvedores - Temas
-description: Saiba mais sobre as práticas e convenções de temas​, incluindo o local de cada parte do tema do Page Builder.
-kt: 5652
-doc-type: video
+description: Saiba mais sobre as práticas e convenções de temas do Page Builder, incluindo onde cada componente de tema está localizado e como aplicar estilos personalizados à sua loja.
+jira: KT-5652
+doc-type: Technical Video
 duration: 204
-activity: use
 feature: Page Content, Native Luma Frontend Development, Themes
 topic: Commerce, Development
-role: Admin, Developer, User
-level: Beginner, Intermediate
+role: Admin, Developer, Leader
+level: Beginner
 exl-id: 3c86bf88-b5f9-42be-aabb-f9db1957911f
 badgePaas: label="Somente PaaS" type="Informative" url="https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/product-solutions" tooltip="Aplica-se somente a projetos do Adobe Commerce na nuvem (infraestrutura do PaaS gerenciada pela Adobe) e a projetos locais."
 TQID: https://experienceleague.adobe.com/dAPwxoXoJ-mHMu0WVXfQ1-RMFrkIxSEBIVubAs-nwNI
@@ -23,9 +22,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 395023facc7578bacbacefa6b63b6a3f215e02e6
 workflow-type: tm+mt
-source-wordcount: 145
+source-wordcount: 151
 ht-degree: 0%
 
 ---
@@ -37,8 +36,8 @@ ht-degree: 0%
 Neste vídeo:
 
 * Visão geral das práticas de temas
-* Descrição das convenções de temas&#x200B;
-* Onde cada parte do tema do Page Builder está localizada &#x200B;
+* Descrição das convenções de tema
+* Local de cada componente de tema do Page Builder
 
 ## Para quem é este vídeo?
 
@@ -49,7 +48,7 @@ Neste vídeo:
 
 >[!NOTE]
 >
->Este conteúdo reflete a versão 1.0.0 do Page Builder para Adobe Commerce 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/release-notes.html?lang=pt-BR).
+>Este conteúdo reflete a versão 1.0.0 do Page Builder para Adobe Commerce 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão do Page Builder](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/page-builder/release-notes).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430905?captions=por_br&learn=on)
 
@@ -57,4 +56,4 @@ Neste vídeo:
 
 [Documentação do desenvolvedor do Page Builder](https://developer.adobe.com/commerce/frontend-core/page-builder/)
 
-[Guia do Page Builder](https://experienceleague.adobe.com/docs/commerce-admin/page-builder/introduction.html?lang=pt-BR)
+[Guia do Page Builder](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/page-builder/introduction)
