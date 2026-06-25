@@ -1,8 +1,8 @@
 ---
-title: Learn how to install IO events for Adobe Commerce 2.4.5
-description: Learn how to install modules needed for IO events in Adobe Commerce 2.4.5 for use in Adobe Developer App Builder
-landing-page-description: Learn how to install several modules needed for Adobe Commerce 2.4.5 using composer.
-short-description: Learn how to install several modules needed for Adobe Commerce 2.4.5 using composer.
+title: Saiba como instalar eventos de IO para o Adobe Commerce 2.4.5
+description: Saiba como instalar módulos necessários para eventos de E/S no Adobe Commerce 2.4.5 para uso no Adobe Developer App Builder
+landing-page-description: Saiba como instalar vários módulos necessários para o Adobe Commerce 2.4.5 usando o Composer.
+short-description: Saiba como instalar vários módulos necessários para o Adobe Commerce 2.4.5 usando o Composer.
 kt: 11886
 doc-type: tutorial
 duration: 214
@@ -26,24 +26,24 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: 190
 ht-degree: 0%
 
 ---
 
-# Adobe Commerce 2.4.5 Installation
+# Instalação do Adobe Commerce 2.4.5
 
-Learn how to install several new modules in Adobe Commerce using Composer for version 2.4.5. This sets up the required modules to be used in the Adobe Commerce application. Documentação adicional encontrada em [Instalar o Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Saiba como instalar vários módulos novos no Adobe Commerce usando o Composer para versão 2.4.5. Isso configura os módulos necessários a serem usados no aplicativo do Adobe Commerce. Documentação adicional encontrada em [Instalar o Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
 
 ## Para quem é este vídeo?
 
-* Developers new to Adobe Commerce and Adobe Developer App Builder using I/O Events
+* Desenvolvedores novatos no Adobe Commerce e no Adobe Developer App Builder usando eventos de E/S
 
 ## Conteúdo de vídeo {#video-content}
 
-* Installation of required modules using composer
+* Instalação dos módulos necessários usando o compositor
 * Comandos a serem executados para hospedagem local
 * Comandos a serem executados para a Adobe Commerce Cloud
 * Edição do yaml da Adobe Commerce Cloud necessária
@@ -87,3 +87,4 @@ stage:
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+

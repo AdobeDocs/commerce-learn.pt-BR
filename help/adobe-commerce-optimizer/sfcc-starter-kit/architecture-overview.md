@@ -10,7 +10,7 @@ duration: 288
 last-substantial-update: 2025-10-20T00:00:00Z
 jira: KT-19014
 exl-id: 1e0edcbb-5619-45c2-b06d-9133f23a634f
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -33,3 +33,4 @@ Saiba mais sobre a arquitetura e a funcionalidade do Commerce Optimizer Connecto
 * As ações de tempo de execução do App Builder gerenciam sincronizações completas e delta, validação e rastreamento de estado para garantir atualizações precisas e sem conflitos no Commerce Optimizer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476056?captions=por_br&learn=on)
+

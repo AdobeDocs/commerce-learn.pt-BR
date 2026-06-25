@@ -10,7 +10,7 @@ duration: 430
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19017
 exl-id: 0b7d6adb-e535-4dc1-82cc-cb3a5be9a124
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '224'
 ht-degree: 0%
@@ -35,3 +35,4 @@ Assista a uma demonstração completa mostrando a configuração e a execução 
 * Atualizações em tempo real e demonstração de fluxo de dados e sincronização ininterruptos entre sistemas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476098?captions=por_br&learn=on)
+

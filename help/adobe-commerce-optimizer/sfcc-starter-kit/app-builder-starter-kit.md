@@ -10,7 +10,7 @@ duration: 644
 last-substantial-update: 2025-10-21T00:00:00Z
 jira: KT-19016
 exl-id: c856ec28-e757-4bb5-95c3-6237554820c0
-source-git-commit: bfe282e4f1ef04985cffb109bce90bc05a70fda0
+source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -34,3 +34,4 @@ Saiba mais sobre como configurar e implantar o App Builder Starter Kit para Sale
 * Implante o aplicativo e confirme se o registro de ações e eventos foi bem-sucedido no espaço de trabalho.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3476087?captions=por_br&learn=on)
+
