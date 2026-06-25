@@ -41,7 +41,7 @@ Saiba como gerenciar uma instância do Adobe Commerce Optimizer para atualizar o
 * Atualizar nome e descrições
 * Encontrar endpoints e identificadores-chave para integrações
 
->[!VIDEO](https://video.tv.adobe.com/v/3470232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470237?captions=por_br&learn=on)
 
 ## Conteúdo relacionado
 
