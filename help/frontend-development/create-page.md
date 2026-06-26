@@ -22,7 +22,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 395023facc7578bacbacefa6b63b6a3f215e02e6
+source-git-commit: fbed285653d7ed0daa8f6ac947c75e4a03647a23
 workflow-type: tm+mt
 source-wordcount: 106
 ht-degree: 0%
@@ -60,3 +60,4 @@ Crie uma página que retorne JSON com um parâmetro.
 ## Recursos úteis
 
 [Guia do desenvolvedor de front-end](https://developer.adobe.com/commerce/frontend-core/guide/)
+
