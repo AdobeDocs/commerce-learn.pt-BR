@@ -57,4 +57,4 @@ Saiba mais sobre a arquitetura e os principais recursos do Adobe Commerce as a C
 * Cobertura de API abrangente: a plataforma oferece suporte à ampla cobertura de API usando APIs do GraphQL e REST, permitindo uma integração perfeita com sistemas de terceiros.
 * Arquitetura dissociada: a arquitetura totalmente dissociada permite que os desenvolvedores usem várias estruturas front-end, oferecendo flexibilidade e desempenho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443232?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443272?captions=por_br&learn=on)
