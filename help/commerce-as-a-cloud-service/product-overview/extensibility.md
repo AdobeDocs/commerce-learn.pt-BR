@@ -1,5 +1,5 @@
 ---
-title: Estender o Adobe Commerce com App Builder e API Mesh
+title: Estender o Adobe Commerce com o App Builder e a API Mesh
 description: Saiba como a estrutura de extensibilidade do Adobe Commerce permite aplicativos, integrações e fluxos de trabalho personalizados usando o App Builder e a API Mesh.
 feature: App Builder, API Mesh, Extensibility
 topic: Development, Architecture
@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 200
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20093
 exl-id: c30da63a-f161-4195-a3b4-bc16930bc147
 TQID: https://experienceleague.adobe.com/KilUWtLwWqQx47q6TCzbng7ChQZdFOG4gi47-i-aa6w
@@ -21,14 +21,14 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
-source-wordcount: 108
+source-wordcount: 110
 ht-degree: 0%
 
 ---
 
-# Estender o Adobe Commerce com App Builder e API Mesh
+# Estender o Adobe Commerce com o App Builder e a API Mesh
 
 Descubra como o Adobe Commerce as a Cloud Service oferece suporte à extensibilidade por meio do App Builder e da API Mesh. Saiba como integrar sistemas de back-end, automatizar fluxos de trabalho e criar aplicativos personalizados sem interromper a experiência da loja.
 

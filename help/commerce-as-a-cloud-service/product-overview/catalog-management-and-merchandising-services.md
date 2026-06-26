@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 326
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20088
 exl-id: a410f40d-01b4-4cc6-a965-08f2b0e77038
 TQID: https://experienceleague.adobe.com/BN6-F6iL9ydAQWk8g3fKLNpMbocpxqdevUq1MsT3qJA
@@ -24,14 +24,14 @@ level_v2:
 topic_v2:
   - id: bcc5edb5-84c3-4940-9f84-ed88b6c16274
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
 workflow-type: tm+mt
-source-wordcount: 103
+source-wordcount: 105
 ht-degree: 0%
 
 ---
 
-# Simplifique o gerenciamento de catálogos e o merchandising
+# Simplificar o gerenciamento de catálogos e o merchandising
 
 Descubra como o Adobe Commerce as a Cloud Service simplifica o gerenciamento de catálogos e o merchandising. Saiba como atualizar dados do produto, preços e regras de visibilidade em tempo quase real e usar recomendações inteligentes para personalizar experiências de compra.
 

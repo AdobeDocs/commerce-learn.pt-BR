@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 457
-last-substantial-update: 2026-01-27T00:00:00.000Z
+last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
@@ -26,9 +26,9 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
 workflow-type: tm+mt
-source-wordcount: 505
+source-wordcount: 507
 ht-degree: 0%
 
 ---
@@ -46,23 +46,23 @@ Saiba como usar as novas APIs REST do cliente no Adobe Commerce as a Cloud Servi
 
 * Autentique com o Adobe IMS usando credenciais de servidor para servidor para obter um token de acesso para solicitações de API
 * Use o formato correto de endpoint da API REST para o Commerce as a Cloud Service
-* Crie e atualize contas de clientes de forma programática usando solicitações POST e PUT com cargas JSON adequadas
+* Criar e atualizar contas de cliente de forma programática usando solicitações POST e PUT com cargas JSON adequadas
 
 >[!VIDEO](https://video.tv.adobe.com/v/3479367?captions=por_br&learn=on)
 
 ## Amostras de código
 
-Antes de iniciar, colete todos os valores necessários do [Experience Cloud](https://experience.adobe.com) e do [Adobe Developer Console](https://developer.adobe.com/console). Ter esses valores prontos garante um processo de configuração tranquilo.
+Antes de iniciar, colete todos os valores necessários da [Experience Cloud](https://experience.adobe.com) e da [Adobe Developer Console](https://developer.adobe.com/console). Ter esses valores prontos garante um processo de configuração tranquilo.
 
 >[!NOTE]
 >
->Verifique se você está trabalhando na organização correta. A seleção de sua organização afeta quais instâncias e ambientes estão visíveis no Experience Cloud e na Developer Console.
+>Verifique se você está trabalhando na organização correta. A seleção de sua organização afeta quais instâncias e ambientes estão visíveis na Experience Cloud e na Developer Console.
 
 ### Detalhes da instância - experience.adobe.com
 
 Os detalhes da instância contêm informações como ID da instância, endpoints do GraphQL e credenciais.
 
-### Detalhes do desenvolvedor - https://developer.adobe.com/console/
+### Detalhes do desenvolvedor - [developer.adobe.com/console](https://developer.adobe.com/console/)
 
 O Developer Console é onde você gerencia as credenciais da API, incluindo IDs do cliente, segredos do cliente e tokens de acesso. Você também pode criar novos tipos de credenciais, como autenticação de Servidor para Servidor ou de Aplicativo Nativo.
 
@@ -74,7 +74,6 @@ O Developer Console é onde você gerencia as credenciais da API, incluindo IDs 
 | Endpoint REST | `<rest_endpoint>` | experience.adobe.com |
 | ID do cliente | `<client_id>` | developer.adobe.com/console |
 | Segredo do cliente | `<client_secret>` | developer.adobe.com/console |
-
 
 ## Etapa 1: Obter Token de Acesso (Autenticação de Servidor para Servidor)
 
@@ -150,7 +149,7 @@ curl -X POST \
 >
 > O URL fornecido nesta amostra não é válido. Use seu URL base REST. Troque &#39;&lt;rest_endpoint>&#39; por seu URL. É semelhante a este `https://na1-sandbox.api.commerce.adobe.com/AbCYab34cdEfGHiJ27123`.
 
-The number `5` in the following example is the ID from the previously created customer using POST `"id": 5,`. Be sure to change`5` to whatever id was returned in your request.
+O número `5` no exemplo a seguir é a ID do cliente criado anteriormente usando o POST `"id": 5,`. Certifique-se de alterar `5` para qualquer ID retornada em sua solicitação.
 
 **Ponto de extremidade:** `PUT /V1/customers/{customerId}`
 
@@ -187,11 +186,11 @@ curl -X PUT \
 }
 ```
 
-## Complete script (all-in-one)
+## Script completo (all-in-one)
 
 >[!IMPORTANT]
 >
-> As variáveis mostradas neste exemplo não são válidas. Use the client ID and client secret from your project credentials. Use seu URL base REST. Exchange &#39;&lt;rest_endpoint>&#39; with your REST endpoint URL from experience.adobe.com. It looks similar to this  `https://na1-sandbox.api.commerce.adobe.com/AbCDefGHiJ1234567`.
+> As variáveis mostradas neste exemplo não são válidas. Use a ID do cliente e o segredo do cliente das credenciais do projeto. Use seu URL base REST. Troque &#39;&lt;rest_endpoint>&#39; pela URL do ponto de extremidade REST de experience.adobe.com. É semelhante a este `https://na1-sandbox.api.commerce.adobe.com/AbCDefGHiJ1234567`.
 
 ```bash
 #!/bin/bash
@@ -251,15 +250,15 @@ curl -s -X PUT \
   }" | jq .
 ```
 
-## Important notes about this tutorial
+## Observações importantes sobre este tutorial
 
-1. **URL Path**: Use `https://<server>.api.commerce.adobe.com/<tenant-id>/V1/customers` — **NOT** `https://<host>/rest/<store-view-code>/V1/customers`
-1. **Authentication**: This tutorial used Server-to-Server (`client_credentials` grant type)
-1. **Required Scope**: `commerce.accs`
-1. **Token Expiry**: 86400 seconds (24 hours)
+1. **Caminho da URL**: Usar `https://<server>.api.commerce.adobe.com/<tenant-id>/V1/customers` — **NÃO** `https://<host>/rest/<store-view-code>/V1/customers`
+1. **Autenticação**: este tutorial usou Servidor a Servidor (tipo de concessão `client_credentials`)
+1. **Escopo Necessário**: `commerce.accs`
+1. **Expiração do token**: 86.400 segundos (24 horas)
 
-## References
+## Referências
 
-* [Adobe Commerce as a Cloud Service Release Notes](https://experienceleague.adobe.com/pt-br/docs/commerce/cloud-service/release-notes)
-* [SaaS REST API Reference](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
-* [User Authentication Guide](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
+* [Notas de versão do Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/pt-br/docs/commerce/cloud-service/release-notes)
+* [Referência da API REST SaaS](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
+* [Guia de autenticação do usuário](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
