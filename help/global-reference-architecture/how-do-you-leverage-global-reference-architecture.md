@@ -51,6 +51,6 @@ Saiba como aproveitar a Global Reference Architecture ou GRA. Para preparar melh
 * Coleta de requisitos
 * Quando você envolve a equipe de controle de qualidade?
 
->[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456005?captions=por_br&learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}
