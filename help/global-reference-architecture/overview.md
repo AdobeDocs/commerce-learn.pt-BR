@@ -1,38 +1,25 @@
 ---
 title: Otimização da reutilização do código com o Adobe Commerce
 description: Saiba como otimizar a reutilização de código no Adobe Commerce com padrões de arquitetura de referência global, melhorando o desempenho e a conformidade em várias instâncias.
-kt: 15773
-doc-type: tutorial
-duration: 287
-audience: all
-last-substantial-update: 2025-1-6
+jira: KT-15773
+doc-type: Tutorial
+duration: 284
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
-badge: label="Contribuição de Tony Evers, arquiteto técnico sênior, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contribuição de Tony Evers"
+badge: label="Contribuição de Tony Evers, arquiteto técnico sênior, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contribuição de Tony Evers"
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
 level: Beginner, Intermediate
 exl-id: 5475ade8-028c-4b24-a563-60dcda5ba93a
 TQID: https://experienceleague.adobe.com/1-cE8TS4syjsMuX3VmhQu5zhFX-z3yxV-GlwxVl7eqM
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: b5f00040-57a0-4a6d-a39e-383b1936c2c9id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 1127
+source-wordcount: 1116
 ht-degree: 0%
 
 ---
@@ -45,13 +32,13 @@ Há várias maneiras de otimizar a reutilização do código com o Adobe Commerc
 
 ## Quando usar a arquitetura de referência global
 
-A arquitetura de referência global pode ser valiosa, dependendo do número de instâncias que você possui. Uma instância é uma instalação independente do Adobe Commerce usando seu próprio banco de dados. Conte o número de bancos de dados de produção para saber quantas instâncias você possui. Se você mantiver mais de uma instância ou se previr esse cenário no futuro, poderá se beneficiar da arquitetura de referência global. Quanto mais funcionalidades as instâncias compartilham, mais valor uma arquitetura de referência global agrega.
+A arquitetura de referência global pode ser valiosa, dependendo do número de instâncias que você possui. Uma instância é uma instalação independente do Adobe Commerce usando seu próprio banco de dados. Para saber quantas instâncias você possui, conte o número de bancos de dados de produção. Se você mantiver mais de uma instância ou se previr esse cenário no futuro, poderá se beneficiar da arquitetura de referência global. Quanto mais funcionalidades as instâncias compartilham, mais valor uma arquitetura de referência global agrega.
 
 Em qualquer um desses cenários, é aconselhável explorar o uso de várias instâncias do Adobe Commerce.
 
-1. **Proprietários de Repositório Diferentes**: se você mantiver o código para vários proprietários de repositórios, cada um com seu próprio repositório distinto, instâncias separadas poderão ser necessárias para manter seus requisitos individuais de maneira eficaz.
+1. **Operadores de Armazenamento Diferentes**: se você mantiver o código para vários operadores de armazenamento, cada um com seu próprio armazenamento distinto, serão necessárias instâncias separadas para manter seus requisitos individuais de maneira eficaz.
 2. **Conformidade com as Regulamentações Nacionais**: certas regulamentações exigem que os dados do cliente sejam armazenados em regiões específicas. Nesses casos, instâncias separadas são essenciais para garantir a conformidade com essas regulamentações.
-3. **Variações operacionais entre regiões geográficas**: operar em várias regiões pode significar diferentes agendamentos e requisitos de manutenção. O uso de instâncias separadas permite flexibilidade no gerenciamento eficiente dessas variações.
+3. **Variações operacionais entre regiões geográficas**: operar em várias regiões significa diferentes agendamentos e requisitos de manutenção. O uso de instâncias separadas permite flexibilidade no gerenciamento eficiente dessas variações.
 4. **Vendas de Flash de Alta Intensidade**: lojas que realizam vendas de flash em larga escala geralmente exigem desempenho otimizado de servidor. A infraestrutura dedicada fornecida por instâncias separadas garante o desempenho ideal durante esses períodos de alta demanda.
 5. **Diferenças Significativas entre Marcas ou Países**: quando a diferença entre marcas ou países é grande, o uso de uma única instância resulta em um código que é usado apenas para algumas marcas ou países. Instâncias separadas podem melhorar o desempenho e a estabilidade, eliminando códigos desnecessários para marcas e países que não precisam deles.
 
@@ -73,7 +60,7 @@ Quando um padrão GRA não é usado, cada instância do Adobe Commerce é um apl
 
 ![Um ícone que representa o padrão GRA &quot;dividido&quot;](/help/assets/global-reference-architecture/split-git.png){align="center"}
 
-Esse padrão consiste em repositórios Git para desenvolvimento e um repositório Git por instância. Cada arquivo na instância é mantido em um dos repositórios de desenvolvimento. Eles se unem como uma trança formando todo o GRA. Cada linha de código existe apenas em um único repositório de desenvolvimento e é instalada nas instâncias usando a técnica de encadeamento, resultando na reutilização do código.
+Esse padrão consiste em repositórios Git para desenvolvimento e um repositório Git por instância. Cada arquivo na instância é mantido em um repositório de desenvolvimento. Combinam-se para formar a totalidade da GRA. Cada linha de código existe apenas em um único repositório de desenvolvimento e é instalada nas instâncias usando a técnica de encadeamento, resultando na reutilização do código.
 
 ![Um diagrama que mostra onde o código está armazenado em um padrão GRA dividido](/help/assets/global-reference-architecture/split-git-gra-pattern-diagram.png){align="center"}
 
@@ -103,7 +90,7 @@ Todo o desenvolvimento ocorre em um único repositório de código. A automaçã
 
 ## Escolha de um padrão GRA
 
-A escolha de um padrão GRA é feita avaliando a complexidade do projeto, a necessidade de flexibilidade e a capacidade de adaptação da equipe de desenvolvimento.
+Avaliar a complexidade do projeto, a necessidade de flexibilidade e a capacidade de adaptação da equipe de desenvolvimento para escolher um padrão de GRA.
 
 Equipes com pouca experiência em Adobe Commerce têm um início simples. No entanto, se o projeto exigir um padrão GRA mais complexo devido às suas características, não comprometa.
 
@@ -111,9 +98,9 @@ Características comuns do projeto relacionadas a cada padrão:
 
 1. **Nenhum padrão GRA**: instância única do Adobe Commerce sem planos de estender. Várias instâncias do Adobe Commerce com compatibilidade mínima entre elas.
 
-2. **Padrão Git GRA dividido**: equipes que desejam evitar o Composer para suas personalizações. Na maioria dos casos, o padrão de pacotes em massa é um padrão preferencial para o Git dividido.
+2. **Padrão Git GRA dividido**: equipes que desejam evitar o Composer para suas personalizações; na maioria dos casos, o padrão Pacotes em massa é um padrão preferencial para o Git dividido.
 
-3. **Padrão GRA de pacote em massa**: base de código de personalização com alta interdependência. Todas as instâncias têm combinações muito semelhantes de pacotes personalizados. Nenhuma promoção ou rebaixamento frequentes de pacotes individuais. Equipes com pouca experiência em gerenciamento de código e que precisam de simplicidade.
+3. **Padrão GRA de pacote em massa**: base de código de personalização com alta interdependência. As instâncias têm combinações muito semelhantes de pacotes personalizados. Nenhuma promoção ou rebaixamento frequentes de pacotes individuais. Equipes com pouca experiência em gerenciamento de código e necessidade de simplicidade.
 
 4. **Padrão GRA de pacotes separados**: gerenciamento flexível do escopo de versão necessário. Há previsão de 50 ou menos pacotes personalizados para os próximos 5 anos. Potencialmente, camadas globais e regionais de código comum. Não há planos para migrar para um padrão Monorepo. A equipe é tecnicamente adepta e tem estrita adesão ao processo.
 
