@@ -1,15 +1,13 @@
 ---
-title: Global Reference Architecture Monorepo
-description: Learn how to use the monorepo approach for global reference architecture to establish a scalable and resilient commerce experience
+title: Arquitetura de referência global Monorepo
+description: Saiba como usar a abordagem monorepo para arquitetura de referência global para estabelecer uma experiência de comércio escalável e resiliente
 jira: KT-16728
-doc-type: tutorial
-duration: 441
-audience: all
-last-substantial-update: 2025-1-6
+doc-type: Tutorial
+duration: 349
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
-badge: label="Contribuição de Tony Evers, arquiteto técnico sênior, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony/" tooltip="Contribuição de Tony Evers"
+badge: label="Contribuição de Tony Evers, arquiteto técnico sênior, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contribuição de Tony Evers"
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
 level: Experienced
 exl-id: ebdc13cf-c452-4728-af00-c3ea1149c2fa
@@ -25,20 +23,20 @@ role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 1418
+source-wordcount: 1399
 ht-degree: 0%
 
 ---
 
-# Monorepo Global Reference Architecture pattern
+# Padrão de arquitetura de referência global Monorepo
 
 {{only-for-on-prem-commerce-cloud}}
 
-This guide explains how to set up Adobe Commerce with the Monorepo Global Reference Architecture (GRA) Pattern.
+Este guia explica como configurar o Adobe Commerce com o padrão Monorepo Global Reference Architecture (GRA).
 
-The Monorepo GRA pattern involves a single Git repository to host all common customizations. This single Git repository is exposed through Composer as a separate composer packages.
+O padrão Monorepo GRA envolve um único repositório Git para hospedar todas as personalizações comuns. Esse único repositório Git é exposto por meio do Composer como pacotes separados do Composer.
 
 ![Um diagrama que mostra onde o código está armazenado em um padrão GRA monorepo](/help/assets/global-reference-architecture/monorepo-gra-pattern-diagram.png){align="center"}
 
@@ -46,24 +44,24 @@ The Monorepo GRA pattern involves a single Git repository to host all common cus
 
 Vantagens
 
-* Ideal for functional testing
-* Reutilização de código por meio de repositórios de código compartilhados
+* Ideal para testes funcionais
+* Reutilização de código por meio de um repositório de código compartilhado
 * Flexibilidade total na instalação de pacotes, cada pacote de GRA pode ser atualizado, rebaixado ou ter backport individualmente
 * Suporte completo para controle de versão semântico
 * Não é necessária nenhuma ferramenta especial, infraestrutura complexa ou estratégia especial de ramificação
 * Suporte para todos os tipos de encapsulamento que o Composer suporta
-* Ideal for ephemeral environments, which are optional, but for high volume delivery teams they are very useful
+* Ideal para ambientes efêmeros, que são opcionais, mas são úteis para equipes de entrega de alto volume
 
 Desvantagens:
 
 * Possível implantar combinações de pacotes que não foram desenvolvidos na mesma configuração; necessidade de procedimentos de teste rigorosos
-* The monorepo GRA pattern can be complex at the start. Assign a lead that helps the team work with the system
+* O padrão de monorepo GRA pode ser complexo no início. Atribuir um líder que ajude a equipe a trabalhar com o sistema
 
 ## Configurar o Adobe Commerce com o padrão GRA de pacotes separados
 
 ### A estrutura de diretório
 
-The final directory structure of a full Adobe Commerce installation with the Separate Packages GRA pattern has this directory structure:
+A estrutura de diretório final de uma instalação completa do Adobe Commerce com o padrão GRA de pacotes separados tem esta estrutura de diretório:
 
 ```text
 .
@@ -76,7 +74,7 @@ The final directory structure of a full Adobe Commerce installation with the Sep
 └── composer.lock
 ```
 
-A production Git repository has this directory structucture:
+Um repositório Git de produção tem esta estrutura de diretório:
 
 ```text
 .
@@ -87,9 +85,9 @@ A production Git repository has this directory structucture:
 └── composer.lock
 ```
 
-The difference is that the production instances install from Composer, where the monorepo holds its own copy of every package inside the packages directory.
+A diferença é que as instâncias de produção são instaladas no Composer, onde o monorepo mantém sua própria cópia de cada pacote dentro do diretório de pacotes.
 
-### Prepare a production repository
+### Preparar um repositório de produção
 
 Crie um repositório para a primeira instância do Adobe Commerce, que representa uma loja da Web para a Marca X.
 
@@ -104,11 +102,11 @@ git commit -m 'initialize Brand X repository'
 git push -u origin main
 ```
 
-Instale o Adobe Commerce com `bin/magento setup:install`. Commit the resulting `app/etc/config.php` and the composer files. Composer manages anything else so nothing else should be in Git.
+Instale o Adobe Commerce com `bin/magento setup:install`. Confirmar os arquivos resultantes `app/etc/config.php` e o compositor. O compositor gerencia qualquer outra coisa para que nada mais esteja no Git.
 
-### Prepare the monorepo repository
+### Preparar o repositório do monorepo
 
-The monorepo repository starts with the same steps.
+O repositório do monorepo começa com as mesmas etapas.
 
 ```bash
 mkdir gra-monorepo 
@@ -116,7 +114,7 @@ cd gra-monorepo
 composer create-project --repository-url=https://repo.magento.com/ magento/project-enterprise-edition .
 ```
 
-Install Adobe Commerce with `bin/magento setup:install`, commit and push.
+Instalar o Adobe Commerce com `bin/magento setup:install`, confirmar e enviar.
 
 ```bash
 git init
@@ -126,18 +124,18 @@ git commit -m 'initialize monorepo GRA development repository'
 git push -u origin main
 ```
 
-### Prepare for monorepo development
+### Prepare-se para o desenvolvimento do monorepo
 
-For monorepo development, make the following changes to your composer.json file:
+Para o desenvolvimento do monorepo, faça as seguintes alterações no arquivo composer.json:
 
-1. Change the name and description of the package so that it is clear that this package is your monorepo package.
-1. Delete the version attribute from composer.json, because the version is managed using Git tags for this repository.
-1. Replace the require section with a meta package which is created later.
-1. Change minimum stability to dev.
-1. Add a path type repository that points to `packages/*/*` to host monorepo packages, including branch aliases for each package it contains
-1. Add a branch alias for the project itself
+1. Altere o nome e a descrição do pacote para que fique claro que este pacote é o seu pacote monorepo.
+1. Exclua o atributo de versão do composer.json, pois a versão é gerenciada usando as tags Git para este repositório.
+1. Substitua a seção necessária por um meta pacote que será criado posteriormente.
+1. Alterar estabilidade mínima para desenvolvimento.
+1. Adicione um repositório de tipo de caminho que aponte para `packages/*/*` para hospedar pacotes monorepo, incluindo aliases de ramificação para cada pacote que ele contém
+1. Adicionar um alias de ramificação para o próprio projeto
 
-The following Git diff shows the difference between a clean Adobe Commerce install and the changes mentioned above:
+O seguinte diff do Git mostra a diferença entre uma instalação limpa do Adobe Commerce e as alterações mencionadas acima:
 
 ```diff
 @@ -1,6 +1,6 @@
@@ -201,7 +199,7 @@ The following Git diff shows the difference between a clean Adobe Commerce insta
 
 ### Usar metapackages
 
-Baixe o código de exemplo de [AntonEvers/gra-meta-foundation](https://github.com/AntonEvers/gra-meta-foundation) no GitHub para obter os metapackages e os módulos de amostra usados neste exemplo.
+Para obter os metapackages e os módulos de amostra usados neste exemplo, baixe o código de exemplo de [AntonEvers/gra-meta-foundation](https://github.com/AntonEvers/gra-meta-foundation) no GitHub.
 
 Os metapackages de compositor agrupam vários pacotes de compositor em um único pacote. Quando um metapackage é necessário, todos os pacotes que ele agrupa são instalados automaticamente por meio da seção Composer require do metapackage.
 
@@ -250,7 +248,7 @@ antonevers/gra-meta-foundation:
 }
 ```
 
-Os metapackages são uma boa maneira de organizar o código que pertence a nós. Use metapackages para definir grupos de pacotes que sejam regionais, globais, específicos da marca ou qualquer agrupamento que faça sentido para você. Se você mantiver várias instalações do Adobe Commerce, o empacotamento será uma maneira segura e versátil de definir o contexto em que um pacote é esperado.
+Os metapackages são uma boa maneira de organizar o código que pertence a nós. Use metapackages para definir grupos de pacotes que sejam regionais, globais, específicos da marca ou qualquer agrupamento que faça sentido para você. Se você mantiver várias instalações do Adobe Commerce, os pacotes de correspondência serão uma maneira segura e versátil de definir o contexto em que um pacote é esperado.
 
 Existem metapackages no monorepo dentro do diretório `packages`. Lá, a estrutura de diretório de `vendor` é espelhada:
 
@@ -268,9 +266,9 @@ Existem metapackages no monorepo dentro do diretório `packages`. Lá, a estrutu
 
 ### Adicionar e desenvolver módulos
 
-Existem módulos no monorepo no diretório `packages`. Dessa forma, o Composer pode encontrá-los no repositório de tipo de caminho.
+Os módulos Monorepo existem no diretório `packages`. Dessa forma, o Composer pode encontrá-los no repositório de tipo de caminho.
 
-Baixe o código de exemplo de [AntonEvers/gra-meta-foundation](https://github.com/AntonEvers/gra-meta-foundation) no GitHub para obter os metapackages e os módulos de amostra usados neste exemplo.
+Para obter os metapackages e os módulos de amostra usados neste exemplo, baixe o código de exemplo de [AntonEvers/gra-meta-foundation](https://github.com/AntonEvers/gra-meta-foundation) no GitHub.
 
 ```text
 .
@@ -289,9 +287,9 @@ Você pode ter vários namespaces dentro do diretório `packages`, se necessári
 
 O desenvolvimento ocorre no diretório packages. Os symlinks para os pacotes dentro do diretório `packages` são criados no diretório `vendor` depois que você executa `composer update`. Dessa forma, o código se torna parte da instalação do Adobe Commerce.
 
-Run `bin/magento module:enable --all` or for only specific modules to enable the modules that were added.
+Para habilitar os módulos que foram adicionados, execute `bin/magento module:enable --all` ou apenas para módulos específicos.
 
-By now you should have a working Adobe Commerce installation with the three sample modules installed and working. You can validate if the modules are installed and working by running the commands:
+Agora você deve ter uma instalação do Adobe Commerce em funcionamento com os três módulos de amostra instalados e em funcionamento. Você pode validar se os módulos estão instalados e funcionando executando os comandos:
 
 ```bash
 bin/magento test:gra
@@ -299,35 +297,35 @@ bin/magento test:3rdparty
 bin/magento test:local
 ```
 
-### Achieve automated package creation
+### Obter criação automatizada de pacotes
 
-There are multiple options to achieve automated package creation. Some options are:
+Há várias opções para obter a criação automática de pacotes. Algumas opções são:
 
-1. [Private Packagist](https://packagist.com/)
-1. [Simplyfy Monorepo Builder](https://github.com/symplify/monorepo-builder)
-1. Build your own solution
+1. [Packagist Particular](https://packagist.com/)
+1. [Simplificar o Monorepo Builder](https://github.com/symplify/monorepo-builder)
+1. Crie sua própria solução
 
-[Private Packagist](https://packagist.com/) automates recognizing packages in the Git monorepo and exposes them through Composer. It is compatible with Adobe Commerce, fast, low-maintenance and error-prone, which is why this guide focuses on the Private Packagist option.
+[Private Packagist](https://packagist.com/) automatiza o reconhecimento de pacotes no monorepo do Git e os expõe por meio do Composer. Ele é compatível com o Adobe Commerce, rápido, de baixa manutenção e não sujeito a erros, e é por isso que este guia se concentra na opção Private Packagist.
 
-It is beyond the scope of this guide to explain how to set up Private Packagist, please see the [docs](https://packagist.com/docs).
+Está além do escopo deste guia para explicar como configurar o Private Packagist; consulte os [documentos](https://packagist.com/docs).
 
-There is the possibility to turn a package into a monorepo once you have set up organization syncing and your Git repositories are automatically syncing to Private Packagist.
+Há a possibilidade de transformar um pacote em um monorepo depois de configurar a sincronização da organização e seus repositórios Git estiverem sincronizando automaticamente com o Private Packagist.
 
-First, go to the packages tab and find the monorepo:
+Primeiro, vá para a guia packages e localize o monorepo:
 
-![Private Packagist screen shot with the monorepo package visible in the packages screen](/help/assets/global-reference-architecture/packagist-packages-before-multi-package.png){align="center"}
+![Captura de tela de Packagist Particular com o pacote monorepo visível na tela de pacotes](/help/assets/global-reference-architecture/packagist-packages-before-multi-package.png){align="center"}
 
-Click on the monorepo package and click &quot;Edit&quot; in the details screen, which takes you to the following page:
+Clique no pacote monorepo e clique em &quot;Editar&quot; na tela de detalhes, que leva à seguinte página:
 
-![Private Packagist screen shot with the monorepo package edit page](/help/assets/global-reference-architecture/packagist-packages-edit.png)
+![Captura de tela do Packagist Particular com a página de edição do pacote monorepo](/help/assets/global-reference-architecture/packagist-packages-edit.png)
 
-Underneath the first input field, there is a link saying: Create a multi-package repository. Click this link.
+Abaixo do primeiro campo de entrada, há um link que diz: Create a multi-package repository (Criar um repositório de vários pacotes). Clique neste link.
 
-![Private Packagist screen shot with the multi-package configuration](/help/assets/global-reference-architecture/packagist-packages-multi-package.png)
+![Captura de tela do Packagist Particular com a configuração de vários pacotes](/help/assets/global-reference-architecture/packagist-packages-multi-package.png)
 
-Define the location where composer packages can be found inside your monorepo. In the example, the location is `packages/**/composer.json`. Change the location to limit or broaden where Private Packagist searches for packages to extract.
+Defina o local onde os pacotes do compositor podem ser encontrados dentro do monorepo. No exemplo, o local é `packages/**/composer.json`. Para limitar ou ampliar o local em que o Agente de pacotes privados procura pacotes a serem extraídos, altere o local.
 
-A guia Pacotes mostrará todos os pacotes encontrados após salvar, e o monorepo em si não estará mais visível como um pacote do Composer:
+A guia Pacotes mostra todos os pacotes encontrados após salvar, e o monorepo em si não é mais visível como um pacote do Composer:
 
 ![Captura de tela de Packagist Particular com todos os pacotes monorepo visíveis na tela de pacotes](/help/assets/global-reference-architecture/packagist-packages-after-multi-package.png)
 
@@ -335,7 +333,7 @@ Uma versão é criada no Composer para cada pacote dentro do monorepo, para cada
 
 ## Instalar os pacotes no ambiente de produção
 
-Siga as instruções de Private Packagist para adicionar Private Packagist como um repositório do compositor. O Packagist privado pode e deve ser usado como um espelho para todos os repositórios Composer e repositórios Git, incluindo packagist.org. Dessa forma, as credenciais não precisam ser compartilhadas com desenvolvedores e você tem controle total sobre cada pacote. Este exemplo não segue essa prática recomendada, pois exporia a base de código do Adobe Commerce publicamente.
+Siga as instruções de Private Packagist para adicionar Private Packagist como um repositório do compositor. O Packagist privado pode e deve ser usado como um espelho para todos os repositórios Composer e repositórios Git, incluindo packagist.org. Dessa forma, as credenciais não precisam ser compartilhadas com desenvolvedores e você tem controle total sobre cada pacote. Este exemplo não segue essa prática recomendada, pois expõe a base de código do Adobe Commerce publicamente.
 
 Baixe a [Marca GRA Monorepo X](https://github.com/AntonEvers/gra-monorepo-brand-x) do GitHub para ver um exemplo de uma loja de produção.
 
@@ -355,11 +353,11 @@ Todos os pacotes no monorepo recebem a mesma versão que o monorepo em si. Pense
 
 ## Ambientes efêmeros
 
-Se você usar ambientes efêmeros ou planeja usá-los, o monorepo é uma excelente escolha. Cada versão e ramificação do monorepo contém todos os arquivos de módulo Adobe Commerce, de terceiros e personalizados. Com uma instalação completa em cada ramificação, é possível executar todos os tipos de teste, incluindo testes funcionais. Com outras configurações de GRA, como os pacotes separados ou pacotes em massa GRA, primeiro seria necessário criar um ambiente de trabalho do Adobe Commerce antes de poder executar testes funcionais. Da perspectiva do DevOps, o monorepo o torna muito mais simples.
+Se você usar ambientes efêmeros ou planeja usá-los, o monorepo é uma excelente escolha. Cada versão e ramificação do monorepo contém todos os arquivos de módulo Adobe Commerce, de terceiros e personalizados. Com uma instalação completa em cada ramificação, é possível executar todos os tipos de teste, incluindo testes funcionais. Com outras configurações de GRA, como os pacotes separados ou pacotes em massa GRA, você primeiro cria um ambiente de trabalho do Adobe Commerce antes de executar testes funcionais. Da perspectiva do DevOps, o monorepo o torna muito mais simples.
 
 ## Exemplos de código
 
-Os exemplos de código deste artigo foram combinados em um conjunto de repositórios Git, que podem ser usados para reproduzir com a prova de conceito.
+Os exemplos de código deste artigo foram combinados em um conjunto de repositórios Git, que podem ser usados para experimentar a prova de conceito.
 
 * Um exemplo de repositório monorepo: <https://github.com/AntonEvers/gra-monorepo>
 * Um exemplo de armazenamento de produção: <https://github.com/AntonEvers/gra-monorepo-brand-x>

@@ -1,17 +1,14 @@
 ---
 title: Como implementar a arquitetura de referência global?
 description: Saiba como implementar uma arquitetura de referência global. Aprenda ideias para distribuir seus sites, as chaves para o sucesso e as funções necessárias para garantir que seu projeto de Arquitetura de referência global comece no caminho certo.
-landing-page-description: Saiba como implementar uma arquitetura de referência global com o Adobe Commerce
-kt: 14042
-doc-type: video
-duration: 2289
-audience: all
-last-substantial-update: 2023-10-6
+jira: KT-14042
+doc-type: Value Video
+duration: 2273
+last-substantial-update: 2023-10-06
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
-old-role: Architect, Developer
 role: Developer, User, Leader
-level: Beginner, Intermediate
+level: Beginner
 exl-id: 0eb1f994-24a7-491f-b267-00202f6086e6
 TQID: https://experienceleague.adobe.com/gvluu4w1CEQOC6Ar77DspSSx9ED682P41DSEqG44cok
 product_v2:
@@ -29,16 +26,16 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 776428136218d5d3cf5b1720832798822039aee2
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: 157
 ht-degree: 0%
 
 ---
 
 # Implementação da arquitetura de referência global
 
-Saiba como implementar a arquitetura de referência global ou GRA (Global Reference Architecture, arquitetura de referência global) para abreviar. Saiba mais sobre as decisões antecipadas que ajudam a configurar um GRA bem-sucedido. Obtenha ideias sobre como separar sites, chaves para o sucesso e alguns conceitos para desenvolver recursos de maneira organizada.
+Saiba como implementar a Global Reference Architecture, ou GRA. Saiba mais sobre as decisões antecipadas que ajudam a configurar uma GRA bem-sucedida. Obtenha ideias sobre como separar sites, chaves para o sucesso e alguns conceitos para desenvolver recursos de maneira organizada.
 
 ## Público-alvo
 
