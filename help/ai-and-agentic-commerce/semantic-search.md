@@ -33,7 +33,7 @@ A pesquisa tradicional por palavra-chave corresponde a palavras exatas, mas os c
 * Exemplos reais de intenção do comprador e relevância aprimorada da pesquisa
 * Principais benefícios: melhor relevância, menos pesquisas sem resultados e melhores experiências de comprador
 
->[!VIDEO](https://video.tv.adobe.com/v/3492286)
+>[!VIDEO](https://video.tv.adobe.com/v/3492309?captions=por_br)
 
 ## Recursos adicionais
 
