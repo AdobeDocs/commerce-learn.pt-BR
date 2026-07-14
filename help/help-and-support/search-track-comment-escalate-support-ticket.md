@@ -38,7 +38,7 @@ Saiba como pesquisar, revisar, comentar e escalonar um tíquete de suporte no Ad
 * Saiba como adicionar um comentário a um tíquete de suporte aberto
 * Saiba como e alguns motivos para escalonar um tíquete de suporte
 
->[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445316?captions=por_br&learn=on)
 
 ## Guia da Central de ajuda da Adobe da Base de conhecimento Commerce
 
