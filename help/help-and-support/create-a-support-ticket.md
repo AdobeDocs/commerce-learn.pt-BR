@@ -50,4 +50,4 @@ Saiba como criar um tíquete de suporte no Adobe Experience League para o Adobe 
 
 ## Guia da Central de ajuda da Adobe da Base de conhecimento Commerce
 
-[Enviar um caso de suporte](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Enviar um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
