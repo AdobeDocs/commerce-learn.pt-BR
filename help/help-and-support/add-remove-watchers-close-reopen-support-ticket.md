@@ -1,11 +1,11 @@
 ---
-title: Adicionar e remover observadores e fechar e reabrir um tíquete de suporte
-description: Utilização do Experience League para adicionar e remover observadores e fechar e reabrir um tíquete de suporte
+title: Adicionar ou remover observadores, fechar ou reabrir um tíquete
+description: Saiba como adicionar e remover observadores, fechar um tíquete de suporte e reabrir um tíquete fechado dentro de 14 dias no Adobe Experience League para Adobe Commerce.
 feature: Customer Service, Support
 topic: Commerce
-role: Admin, Developer, User
-level: Beginner, Intermediate
-doc-type: Technical Video
+role: Admin
+level: Beginner
+doc-type: Tutorial
 duration: 173
 last-substantial-update: 2024-08-23T00:00:00.000Z
 jira: KT-16050
@@ -14,26 +14,23 @@ TQID: https://experienceleague.adobe.com/oMaFarsBJxR0XQzrXGDV0Ry4ZGBKU0EzUMFHIQe
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
 role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 6001d4daa94035f4165a760bd97d4be1d5c0f319
 workflow-type: tm+mt
-source-wordcount: 130
+source-wordcount: 143
 ht-degree: 0%
 
 ---
 
-# Adicionar e remover observadores, fechar e reabrir tíquetes
+# Gerenciar vigias, fechar e reabrir tíquetes
 
-Saiba como adicionar e remover observadores, bem como fechar e reabrir um tíquete de suporte no Experience League para Adobe Commerce.
+Saiba como adicionar e remover observadores, bem como fechar e reabrir um tíquete de suporte na Adobe Experience League para Adobe Commerce.
 
 ## Para quem é este vídeo?
 
-* Qualquer pessoa que possa gerenciar solicitações de suporte para o Adobe Commerce no Experience League
+* Qualquer pessoa que possa gerenciar solicitações de suporte para o Adobe Commerce na Adobe Experience League
 
 ## Conteúdo de vídeo {#video-content}
 
@@ -43,6 +40,6 @@ Saiba como adicionar e remover observadores, bem como fechar e reabrir um tíque
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441357?captions=por_br&learn=on)
 
-## Guia da central de ajuda da Base de conhecimento Commerce
+## Guia da Central de ajuda da Adobe da Base de conhecimento Commerce
 
-[Enviar um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide#support-case)
+[Enviar um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
