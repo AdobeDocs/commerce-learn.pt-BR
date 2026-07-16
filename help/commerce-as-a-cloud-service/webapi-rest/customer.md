@@ -11,24 +11,15 @@ last-substantial-update: 2026-01-27
 jira: KT-20160
 exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
 TQID: https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0
-product_v2:
-  - id: eadea719-cf89-469b-a6fd-a236a7138047
-feature_v2:
-  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
-  - id: c32adafa-ed01-4b31-997e-2413013911b0
-  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
-  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
-subfeature_v2:
-  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
-role_v2:
-  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2:
-  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
-source-git-commit: a919fc30133c58050d260bea8562e920694f5c58
+product_v2: id: eadea719-cf89-469b-a6fd-a236a7138047
+feature_v2: id: bd989d82-1e15-4534-88db-f1f51dd77ffaid: c32adafa-ed01-4b31-997e-2413013911b0id: dac87252-6066-4d6e-a9d2-f6d84c323de7id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+subfeature_v2: id: f8ddfd3b-6194-46e8-a176-0e918039be56
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: 507
+source-wordcount: 509
 ht-degree: 0%
 
 ---
@@ -48,7 +39,7 @@ Saiba como usar as novas APIs REST do cliente no Adobe Commerce as a Cloud Servi
 * Use o formato correto de endpoint da API REST para o Commerce as a Cloud Service
 * Criar e atualizar contas de cliente de forma programática usando solicitações POST e PUT com cargas JSON adequadas
 
->[!VIDEO](https://video.tv.adobe.com/v/3479367?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
 
 ## Amostras de código
 
@@ -62,7 +53,9 @@ Antes de iniciar, colete todos os valores necessários da [Experience Cloud](htt
 
 Os detalhes da instância contêm informações como ID da instância, endpoints do GraphQL e credenciais.
 
-### Detalhes do desenvolvedor - [developer.adobe.com/console](https://developer.adobe.com/console/)
+### Detalhes do desenvolvedor - developer.adobe.com/console
+
+[developer.adobe.com/console](https://developer.adobe.com/console/)
 
 O Developer Console é onde você gerencia as credenciais da API, incluindo IDs do cliente, segredos do cliente e tokens de acesso. Você também pode criar novos tipos de credenciais, como autenticação de Servidor para Servidor ou de Aplicativo Nativo.
 
@@ -259,6 +252,6 @@ curl -s -X PUT \
 
 ## Referências
 
-* [Notas de versão do Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/pt-br/docs/commerce/cloud-service/release-notes)
+* [Notas de versão do Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
 * [Referência da API REST SaaS](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
 * [Guia de autenticação do usuário](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)
