@@ -9,9 +9,9 @@ doc-type: Tutorial
 duration: 398
 jira: KT-20902
 last-substantial-update: 2026-04-27T00:00:00Z
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: a9472912c20d157e310abfece16519156b10945f
 workflow-type: tm+mt
-source-wordcount: '1444'
+source-wordcount: '1515'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,9 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 
 ## Referência arquivo a arquivo
 
-### [Criar uma POC de pagamento dividido: Ferramentas de IA e App Builder](./overview.md)
+### Criar uma POC de pagamento dividido: ferramentas do App Builder e da IA
+
+[Criar uma POC de pagamento dividido: ferramentas do App Builder e da IA](./overview.md)
 
 **Finalidade:** Introdução e orientação para o tutorial.
 
@@ -32,8 +34,9 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** Abrindo seção. Define o contexto antes de qualquer etapa técnica.
 
 
-### [POC de pagamento dividido: decisões de arquitetura e design](./architecture-and-decisions.md)
+### POC de pagamento dividido: decisões de arquitetura e design
 
+[POC de pagamento dividido: decisões de arquitetura e design](./architecture-and-decisions.md)
 
 **Propósito:** explicação detalhada de cada decisão arquitetônica na PoC.
 
@@ -50,8 +53,9 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** seção &quot;Arquitetura&quot; ou &quot;Como funciona&quot;. Pode ser ignorado por desenvolvedores experientes do Commerce, mas é essencial para os recém-chegados do App Builder.
 
 
-### [POC de pagamento dividido: pré-requisitos e configuração de ambiente](./prerequisites-and-setup.md)
+### POC de pagamento dividido: pré-requisitos e configuração de ambiente
 
+[POC de pagamento dividido: pré-requisitos e configuração de ambiente](./prerequisites-and-setup.md)
 
 **Finalidade:** Conclua a lista de verificação de pré-impressão antes que qualquer código seja gravado ou que os prompts sejam executados.
 
@@ -66,8 +70,9 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** &quot;Pré-requisitos&quot; ou seção &quot;Introdução&quot;. Deve ser concluído interativamente — não apenas lido.
 
 
-### [POC de pagamento dividido: referência de variáveis de ambiente](./env-reference.md)
+### POC de pagamento dividido: referência de variáveis de ambiente
 
+[POC de pagamento dividido: referência de variáveis de ambiente](./env-reference.md)
 
 **Propósito:** Todas as variáveis de ambiente para todos os três componentes em um único local.
 
@@ -82,8 +87,9 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** Barra lateral de referência ou seção &quot;Configuração&quot;. Também usado como um complemento para os prompts de build.
 
 
-### [POC de pagamento dividido: prompt de IA do módulo Commerce](./commerce-module-prompt.md)
+### POC de pagamento dividido: prompt do Commerce Module AI
 
+[POC de pagamento dividido: prompt do Commerce Module AI](./commerce-module-prompt.md)
 
 **Propósito:** Prompt completo de IA independente para gerar todo o módulo PHP `Client_SplitPayment`.
 
@@ -101,8 +107,9 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** seção &quot;Criar o módulo Commerce&quot;. O prompt em si é o artefato — os desenvolvedores o copiam em sua ferramenta de IA e a executam.
 
 
-### [POC de pagamento dividido: prompt da IA do App Builder orchestrator](./orchestrator-prompt.md)
+### POC de pagamento dividido: prompt do App Builder orchestrator AI
 
+[POC de pagamento dividido: prompt do App Builder orchestrator AI](./orchestrator-prompt.md)
 
 **Propósito:** Concluir prompt de IA independente para gerar o aplicativo do App Builder `split-payment-orchestrator`.
 
@@ -120,8 +127,9 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** seção &quot;Criar o aplicativo do App Builder&quot;. Companheiro para o prompt do módulo Commerce.
 
 
-### [POC de pagamento dividido: prompt da IA de extensão da interface do usuário da Experience Cloud](./experience-cloud-ui-prompt.md)
+### POC de pagamento dividido: prompt da IA da extensão da interface do usuário da Experience Cloud
 
+[POC de pagamento dividido: prompt da IA da extensão da interface do usuário da Experience Cloud](./experience-cloud-ui-prompt.md)
 
 **Propósito:** Prompt de IA para gerar a extensão opcional SDK da interface do usuário do administrador da Experience Cloud.
 
@@ -137,8 +145,9 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** seção opcional &quot;Indo além&quot; ou &quot;Caminho de produção&quot;. Pode ser ignorado se o tutorial se concentrar somente na PoC.
 
 
-### [POC de pagamento dividido: guia de teste e verificação](./testing-and-verification.md)
+### POC de pagamento dividido: guia de teste e verificação
 
+[POC de pagamento dividido: guia de teste e verificação](./testing-and-verification.md)
 
 **Propósito:** guia de teste passo a passo que cobre cada componente na ordem de verificação correta.
 
@@ -160,8 +169,9 @@ Esta página resume como é organizada a série de tutoriais de prova de conceit
 **Uso do tutorial:** seção &quot;Teste&quot; ou &quot;Verificação&quot;. Também é importante como referência para a solução de problemas.
 
 
-### [POC de pagamento dividido: próximas etapas após a prova de conceito](./next-steps.md)
+### POC de pagamento dividido: próximas etapas após a prova de conceito
 
+[POC de pagamento dividido: próximas etapas após a prova de conceito](./next-steps.md)
 
 **Propósito:** Roteiro para transformar a POC em padrões prontos para produção.
 
