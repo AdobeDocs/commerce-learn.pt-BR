@@ -33,4 +33,4 @@ Defina as URLs da instância de destino, as credenciais do Adobe IMS e as config
 * Recupere a ID de cliente do Adobe IMS e o segredo do cliente do **Projeto** > **Servidor para servidor OAuth** na Adobe Developer Console.
 * Copie a ID da organização de destino e defina as configurações de host, porta e servidor local do CDMS para corresponder ao seu ambiente.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496167?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496171?captions=por_br&learn=on)
