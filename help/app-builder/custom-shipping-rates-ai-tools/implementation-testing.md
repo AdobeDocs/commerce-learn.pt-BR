@@ -10,7 +10,7 @@ duration: 371
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20517
 exl-id: aff6de33-46ae-48f1-a6c3-e9dd342e2642
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -33,7 +33,8 @@ O agente de IA finaliza a implementação, limpa o código não usado e prepara 
 As credenciais e o ambiente são configurados para implantar e registrar a nova extensão de envio.
 O teste de vitrine confirma que as taxas de envio externo aparecem e funcionam conforme esperado.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481362?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481357?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
+
 

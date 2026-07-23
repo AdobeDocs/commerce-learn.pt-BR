@@ -10,7 +10,7 @@ duration: 180
 last-substantial-update: 2026-03-11T00:00:00Z
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -33,7 +33,8 @@ Descubra como configurar ferramentas de IA para criar taxas de envio personaliza
 * Descreve a configuração do ambiente de desenvolvimento, incluindo a clonagem do repositório, a revisão da estrutura do starter-kit e a instalação das ferramentas necessárias.
 * Prepara o sistema para o desenvolvimento assistido por IA, fazendo logon, configurando o acesso e garantindo que todas as dependências e pré-requisitos estejam em vigor.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481333?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3481328?learn=on)
 
 {{$include /help/_includes/ai-shipping-rates-related-links.md}}
+
 
