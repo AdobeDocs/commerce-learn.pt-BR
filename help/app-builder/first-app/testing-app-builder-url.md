@@ -4,7 +4,7 @@ description: Saiba como implantar e testar seu primeiro aplicativo do Adobe Deve
 jira: KT-21684
 doc-type: Tutorial
 duration: 78
-last-substantial-update: 2023-03-13T00:00:00.000Z
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -18,7 +18,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 3f243b43695e65d63cb25142ec5a886ce390d502
 workflow-type: tm+mt
 source-wordcount: 100
 ht-degree: 0%

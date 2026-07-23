@@ -4,7 +4,7 @@ description: Saiba como gerar e configurar o arquivo .env para seu aplicativo do
 jira: KT-21681
 doc-type: Tutorial
 duration: 177
-last-substantial-update: 2023-03-13T00:00:00.000Z
+last-substantial-update: 2023-03-13
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -22,7 +22,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 3f243b43695e65d63cb25142ec5a886ce390d502
 workflow-type: tm+mt
 source-wordcount: 147
 ht-degree: 0%
