@@ -40,7 +40,7 @@ Esse arquivo determina a configuração do aplicativo.
 * O arquivo `app.config.yaml` foi discutido
 * Como as definições estão vinculadas a outros arquivos do `.js`
 
->[!VIDEO](https://video.tv.adobe.com/v/3416592?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430848?captions=por_br&learn=on)
 
 ## Amostra de código
 
