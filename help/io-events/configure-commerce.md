@@ -1,16 +1,12 @@
 ---
 title: Configurar Adobe Commerce
 description: Saiba como configurar o Adobe Commerce para permitir que eventos sejam usados no Adobe Developer App Builder.
-landing-page-description: Saiba como configurar o Adobe Commerce para usar o mecanismo de evento para consumo do Adobe Developer App Builder.
-short-description: Saiba como configurar o Adobe Commerce para usar o mecanismo de evento para consumo do Adobe Developer App Builder.
-kt: 11889
-doc-type: tutorial
-duration: 299
-audience: all
-last-substantial-update: 2023-02-21T00:00:00.000Z
+jira: KT-11889
+doc-type: Tutorial
+duration: 268
+last-substantial-update: 2023-02-21
 feature: App Builder, Configuration, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer, User
 level: Beginner, Intermediate
 exl-id: b8062042-2e90-4750-92ef-d55a76f2d842
@@ -26,24 +22,24 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: 114
 ht-degree: 0%
 
 ---
 
 # Configurar Adobe Commerce
 
-Saiba como configurar o Adobe Commerce para expor os eventos. Documentação adicional encontrada em [Instalar o Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/installation/){target="_blank"}.
+Saiba como configurar o Adobe Commerce para expor os eventos. Documentação adicional encontrada em [Instalar o Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/installation){target="_blank"}.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novatos no Adobe Commerce e no Adobe Developer App Builder usando eventos de E/S e precisam criar um projeto do Adobe App Builder.
+* Desenvolvedores novatos no Adobe Commerce e no Adobe Developer App Builder que usam eventos de E/S e precisam criar um projeto do Adobe App Builder.
 
 ## Conteúdo de vídeo {#video-content}
 
-* Configuração dos eventos do Adobe I/O no administrador do Commerce
+* Configuração do Adobe I/O Events no administrador do Commerce
 * Salvamento de uma chave privada no administrador do Commerce
 * Salvar o identificador exclusivo no administrador do Commerce
 * Criar um provedor de eventos
@@ -59,4 +55,5 @@ bin/magento events:subscribe observer.catalog_product_save_after --fields=name -
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+
 

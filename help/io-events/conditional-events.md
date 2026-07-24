@@ -1,16 +1,12 @@
 ---
 title: Saiba como usar eventos condicionais no Adobe Commerce
 description: Saiba como usar eventos condicionais no Adobe Developer App Builder.
-landing-page-description: Saiba como usar eventos condicionais do Adobe Commerce.
-short-description: Saiba como usar eventos condicionais do Adobe Commerce.
-kt: 11890
-doc-type: tutorial
-duration: 421
-audience: all
-last-substantial-update: 2023-02-21T00:00:00.000Z
+jira: KT-11890
+doc-type: Tutorial
+duration: 387
+last-substantial-update: 2023-02-21
 feature: App Builder, Eventing, Backend Development
 topic: Commerce, Architecture
-old-role: Architect, Developer
 role: Developer
 level: Beginner, Intermediate
 exl-id: 03787aa3-051b-4a35-b2e8-ecf6762b5eb4
@@ -25,20 +21,20 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 456f3cae8c45d137a195456692c2d11204126bb7
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
-source-wordcount: 144
+source-wordcount: 128
 ht-degree: 0%
 
 ---
 
 # Eventos condicionais do Adobe Commerce
 
-Saiba mais sobre eventos condicionais no Adobe Commerce que podem ser usados no Adobe Developer App Builder. Documentação adicional encontrada em [Instalar o Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events/){target="_blank"}.
+Saiba mais sobre eventos condicionais no Adobe Commerce que podem ser usados no Adobe Developer App Builder. Documentação adicional encontrada em [Instalar o Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/extensibility/events/conditional-events){target="_blank"}.
 
 ## Para quem é este vídeo?
 
-* Desenvolvedores novatos no Adobe Commerce e no Adobe Developer App Builder usando eventos de E/S e precisam criar um projeto do Adobe App Builder.
+* Desenvolvedores novatos no Adobe Commerce e no Adobe Developer App Builder que usam eventos de E/S e precisam criar um projeto do Adobe App Builder.
 
 ## Conteúdo de vídeo {#video-content}
 
@@ -65,4 +61,5 @@ bin/magento events:list -v
 ```
 
 {{$include /help/_includes/io-events-related-links.md}}
+
 

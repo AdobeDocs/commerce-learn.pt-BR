@@ -22,7 +22,7 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 3f243b43695e65d63cb25142ec5a886ce390d502
+source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
 workflow-type: tm+mt
 source-wordcount: 147
 ht-degree: 0%
@@ -82,4 +82,5 @@ Você pode ver esses valores estáticos sendo usados no módulo de exemplo no ar
 ```
 
 {{$include /help/_includes/app-builder-first-app-related-links.md}}
+
 
