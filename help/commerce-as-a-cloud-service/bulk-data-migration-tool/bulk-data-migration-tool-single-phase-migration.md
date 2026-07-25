@@ -34,4 +34,4 @@ Execute uma migração de fase única quando o ambiente de origem puder permanec
 * Verifique o relatório de resumo da migração — a etapa 8 (verificação da integridade dos dados) registra falhas sem interromper o pipeline, de modo que uma execução concluída não garanta uma verificação limpa.
 * Esse comando monofásico é um pipeline completo e independente — não o use como uma etapa no fluxo de trabalho do modo de manutenção (migração em fases), que tem seus próprios comandos dedicados.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496316?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496320?captions=por_br&learn=on)

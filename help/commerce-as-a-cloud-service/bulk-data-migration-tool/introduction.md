@@ -33,4 +33,4 @@ Prepare o Docker e acesse a Ferramenta de Migração de Dados em Massa para migr
 * Extraia o pacote de ferramentas e defina as permissões de pasta corretas.
 * Revise o arquivo `.env.example` configurado nos próximos vídeos desta série.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496121?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496126?captions=por_br&learn=on)
