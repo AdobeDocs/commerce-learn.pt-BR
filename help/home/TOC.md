@@ -4,9 +4,9 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 838387ffddbd8bee3ef3ec22694818eb2de5fe2d
+source-git-commit: c3b81a5ffc652bc7ce7640b67fe5529067607251
 workflow-type: tm+mt
-source-wordcount: '972'
+source-wordcount: '975'
 ht-degree: 3%
 
 ---
@@ -71,6 +71,7 @@ ht-degree: 3%
       + [Credenciais do BD](../commerce-as-a-cloud-service/bulk-data-migration-tool/db-credentials.md)
       + [Credenciais do Target](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
       + [Migração monofásica](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
+      + [Migração de várias fases](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
   + Migração para o Adobe Commerce{#migrating-to-adobe-commerce}
     + [Visão geral](../migrating-to-adobe-commerce/overview.md)
     + Preparação{#preparation}
