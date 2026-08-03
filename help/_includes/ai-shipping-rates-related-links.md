@@ -1,18 +1,18 @@
 ---
-title: Ferramentas de IA taxas de envio páginas relacionadas
-description: Links para páginas relacionadas nas taxas de envio das ferramentas de IA
-source-git-commit: da87b2bf340c4229f15f0ea22664aec3c10a55c4
+title: Páginas relacionadas às taxas de envio das Ferramentas de IA
+description: Links para páginas relacionadas em taxas de envio de ferramentas de IA
+source-git-commit: dfb2e7146ddb881646a3d219282e36056f246824
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# Links relacionados às taxas de envio das Ferramentas AI
+# Links relacionados às taxas de envio das Ferramentas de IA
 
 ## Tutoriais relacionados
 
-* [Introdução e configuração](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-* [Ferramentas de IA e kit inicial de Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
-* [Implementação e teste](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-* [Feedback](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
+* [Introdução e configuração](/help/app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+* [Ferramentas de IA e kit inicial do Adobe](/help/app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+* [Implementação e teste](/help/app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+* [Feedback](/help/app-builder/custom-shipping-rates-ai-tools/feedback.md)
