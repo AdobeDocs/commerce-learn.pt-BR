@@ -4,13 +4,13 @@ description: Saiba como usar o Adobe Developer Console para trabalhar com projet
 jira: KT-11803
 doc-type: Tutorial
 duration: 572
-last-substantial-update: 2023-02-08T00:00:00Z
+last-substantial-update: 2026-08-03T00:00:00Z
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
 level: Beginner
 exl-id: ab51f68c-5d28-495b-8472-27b60c4aa8c1
-source-git-commit: c73744d503de5023e5c001d0534200522db55b04
+source-git-commit: 8155d699c1dd34cba776ffb928ab2d835b5a4d4b
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -34,15 +34,15 @@ Este tutorial discute a criação de um projeto e um espaço de trabalho para co
 * Alterando a organização, o projeto ou o espaço de trabalho selecionado na CLI
 * Teste de comandos simples do API Mesh
 
->[!VIDEO](https://video.tv.adobe.com/v/3430778?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?learn=on)
 
 ## Saiba mais sobre a Adobe Developer Console
 
-Na Adobe Developer Console, a seguinte hierarquia representa como as APIs são organizadas na organização: `Organization > Project > Workspace > [API]`. Para saber mais sobre o Adobe App Builder, fazer logon no console e solucionar problemas básicos, visite [Criando seu Primeiro Aplicativo App Builder](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
+Na Adobe Developer Console, a hierarquia a seguir descreve como as APIs são organizadas na organização: `Organization > Project > Workspace > [API]`. Para saber mais sobre o Adobe App Builder, fazer logon no console e solucionar problemas básicos, visite [Criando seu Primeiro Aplicativo App Builder](https://developer.adobe.com/app-builder/docs/get_started/app_builder_get_started/first-app){target="_blank"}.
 
 ## Introdução a projetos na Adobe Developer Console
 
-Todo o trabalho de desenvolvimento no Adobe Developer Console é feito como parte de um projeto. Um projeto pode incluir um ou vários produtos e uma combinação de APIs, eventos, tempos de execução e plug-ins. Para obter mais detalhes sobre projetos no console Adobe Developer, visite [Projetos](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
+Todo o trabalho de desenvolvimento no Adobe Developer Console é executado como parte de um projeto. Um projeto pode incluir um ou vários produtos e uma combinação de APIs, eventos, tempos de execução e plug-ins. Para obter mais detalhes sobre projetos no console Adobe Developer, visite [Projetos](https://developer.adobe.com/developer-console/docs/guides/projects/){target="_blank"}.
 
 Para obter mais informações sobre como usar projetos e espaços de trabalho no contexto da API Mesh, consulte [Modificar projetos e espaços de trabalho](https://developer.adobe.com/graphql-mesh-gateway/mesh/basic/create-mesh){target="_blank"}.
 
