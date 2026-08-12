@@ -3,16 +3,14 @@ title: Demonstração das recomendações de produtos do Adobe Commerce - Vídeo
 description: Saiba como adicionar recomendações de produto do Adobe Sensei a uma página de detalhes do produto do Adobe Commerce, incluindo regras de faixa de preço e exclusão indisponíveis.
 feature: Recommendations
 topic: Commerce
-role:
-  - Admin
-  - User
+role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 235
 last-substantial-update: 2026-08-11T00:00:00Z
 nudge-edit: 2026-08-12T00:00:00Z
 jira: KT-20981
-source-git-commit: 8312ab50a3e31461d2ae676d9e5fb9c911741d74
+source-git-commit: 1d321567c30b4f7f6df5dbab1b71260f2a291a63
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
@@ -36,4 +34,4 @@ O Adobe Commerce permite que os usuários adicionem recomendações de produtos 
 * Excluindo produtos indisponíveis e de baixo estoque, com um limite de estoque configurável
 * Ativar a recomendação e confirmá-la aparecem no PDP
 
->[!VIDEO](https://video.tv.adobe.com/v/3484918?captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3484913)
