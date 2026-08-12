@@ -15,6 +15,8 @@ product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
 level_v2:
@@ -22,7 +24,8 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
+autotag-review: '2026-08-11T19:18:20.957Z'
+source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
 workflow-type: tm+mt
 source-wordcount: 147
 ht-degree: 0%
