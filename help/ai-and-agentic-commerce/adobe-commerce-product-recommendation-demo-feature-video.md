@@ -3,7 +3,9 @@ title: Demonstração das recomendações de produtos do Adobe Commerce - Vídeo
 description: Saiba como adicionar recomendações de produto do Adobe Sensei a uma página de detalhes do produto do Adobe Commerce, incluindo regras de faixa de preço e exclusão indisponíveis.
 feature: Recommendations
 topic: Commerce
-role: AdminUser
+role:
+  - Admin
+  - User
 level: Beginner
 doc-type: Feature Video
 duration: 235
