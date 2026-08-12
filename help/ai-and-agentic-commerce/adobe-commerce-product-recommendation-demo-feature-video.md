@@ -36,4 +36,4 @@ O Adobe Commerce permite que os usuários adicionem recomendações de produtos 
 * Excluindo produtos indisponíveis e de baixo estoque, com um limite de estoque configurável
 * Ativar a recomendação e confirmá-la aparecem no PDP
 
->[!VIDEO](https://video.tv.adobe.com/v/3484913)
+>[!VIDEO](https://video.tv.adobe.com/v/3484918?captions=por_br)
