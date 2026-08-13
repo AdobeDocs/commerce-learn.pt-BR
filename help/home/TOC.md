@@ -4,7 +4,7 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: c3b81a5ffc652bc7ce7640b67fe5529067607251
+source-git-commit: ac5024c37b1cee5aa090ea8163c3fd7758b811a5
 workflow-type: tm+mt
 source-wordcount: '975'
 ht-degree: 3%
@@ -105,7 +105,7 @@ ht-degree: 3%
 
 + Extensibilidade {#extensibility}
   + Desenvolvimento de back-end {#backend-development}
-    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Criar um módulo](../backend-development/create-module.md)
     + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
     + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
