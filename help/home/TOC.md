@@ -4,9 +4,9 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: ac5024c37b1cee5aa090ea8163c3fd7758b811a5
+source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
 workflow-type: tm+mt
-source-wordcount: '975'
+source-wordcount: '999'
 ht-degree: 3%
 
 ---
@@ -104,8 +104,17 @@ ht-degree: 3%
     + [Mecanismo de repetição](../back-office-integrations/retry-mechanism.md)
 
 + Extensibilidade {#extensibility}
+  + Agente de desenvolvedor do Commerce {#commerce-developer-agent}
+    + [Visão geral](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
+    + [Blueprint e estágios de desenvolvimento](../commerce-developer-agent/adobe-commerce-developer-agent-blueprint-and-develop-stages-technical-video.md)
+    + [Conectar integrações](../commerce-developer-agent/adobe-commerce-developer-agent-connect-integrations-technical-video.md)
+    + [Implantar, associar, instalar](../commerce-developer-agent/adobe-commerce-developer-agent-deploy-associate-and-install-technical-video.md)
+    + [Configurar e testar](../commerce-developer-agent/adobe-commerce-developer-agent-configure-and-test-technical-video.md)
+    + [Migrar código existente](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
+    + [Conclusão](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
+    + [simulação do App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Desenvolvimento de back-end {#backend-development}
-    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Criar um módulo](../backend-development/create-module.md)
     + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
     + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
