@@ -9,9 +9,9 @@ doc-type: Technical Video
 duration: 136
 last-substantial-update: 2026-08-28T00:00:00Z
 jira: KT-22475
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '176'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,7 @@ O código gerado precisa de um local para ser executado e uma conexão com sua l
 
 {{$include /help/_includes/commerce-developer-agent-related-links.md}}
 
-<!-- ## Additional resources -->
+## Recursos adicionais
 
-<!-- Link to related Experience League or Adobe Developer documentation. -->
+* [Visão geral do Commerce Developer Agent](https://developer.adobe.com/commerce/extensibility/developer-agent/)
+* [Introdução ao Commerce Developer Agent](https://developer.adobe.com/commerce/extensibility/developer-agent/getting-started)
