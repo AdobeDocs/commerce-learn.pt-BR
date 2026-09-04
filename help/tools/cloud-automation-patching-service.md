@@ -47,4 +47,4 @@ A Automação de patch do Adobe Commerce é um recurso da Ferramenta de análise
 
 ## Documentação relacionada
 
-* [Documentação de automação de patches](https://experienceleague.adobe.com/en/docs/commerce-operations/tools/caps-tool/intro)
+* [Documentação de automação de patches](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/caps-tool/intro)
