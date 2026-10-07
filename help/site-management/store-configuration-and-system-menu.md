@@ -49,6 +49,6 @@ O menu [!UICONTROL Stores] fornece acesso às configurações de armazenamento. 
 
 * [Filtros de grade de administração](admin-grids-and-filters.md)
 * [Exibir e definir configurações de Administrador usando a linha de comando](view-update-store-configuration-cli.md)
-* [As ferramentas e o espaço de trabalho do administrador](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [Controles de grade de administração](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [Site, loja e escopo de exibição](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
+* [As ferramentas e o espaço de trabalho do administrador](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [Controles de grade de administração](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [Site, loja e escopo de exibição](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/setup/websites-stores-views)
