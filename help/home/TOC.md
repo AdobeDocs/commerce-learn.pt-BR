@@ -4,13 +4,11 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 6ce75fe023cfb9c3be988787e8993db556cf3150
+source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1006'
 ht-degree: 3%
-
 ---
-
 
 # Vídeos e tutoriais do Adobe Commerce {#tutorials}
 
@@ -238,6 +236,7 @@ ht-degree: 3%
   + [Métodos de envio e entrega](../site-management/shipping-delivery.md)
   + [Grades e filtros de administração](../site-management/admin-grids-and-filters.md)
   + [cli do Commerce](../site-management/view-update-store-configuration-cli.md)
+  + [Navegar pela configuração da loja e pelo menu Sistema](../site-management/store-configuration-and-system-menu.md)
   + Serviços da Adobe Commerce {#adobe-commerce-services}
     + [Configurar o Commerce Services Connector](../site-management/configure-adobe-commerce-services-connector.md)
     + [Configurar serviços de pagamento](../site-management/configure-adobe-payment-services.md)
