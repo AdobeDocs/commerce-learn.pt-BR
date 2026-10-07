@@ -35,7 +35,7 @@ Explore o espaço de trabalho do Administrador do Adobe Commerce, desde a filtra
 * Alternar entre a exibição padrão e as salvas, além de atualizar uma exibição existente.
 * Navegue até a configuração da loja e explore as configurações gerais, de catálogo, de segurança, de cliente e de vendas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473176?captions=por_br&learn=on)
 
 ## Exibições de grade salvas
 
