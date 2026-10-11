@@ -4,10 +4,8 @@ description: Links para páginas relacionadas na seção GraphQL REST
 source-git-commit: a285852b7960d93687388e09ad901bb9a1ee675a
 workflow-type: tm+mt
 source-wordcount: '25'
-ht-degree: 0%
-
+ht-degree: 4%
 ---
-
 # Links relacionados ao GraphQL REST
 
 ## Recursos úteis do GraphQL
