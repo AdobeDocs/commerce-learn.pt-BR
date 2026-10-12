@@ -10,33 +10,50 @@ duration: 451
 last-substantial-update: 2024-04-17T00:00:00.000Z
 jira: KT-15180
 exl-id: c6adb2c2-f194-4a3d-9290-e0837ef062ae
-TQID: https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE
+TQID: 'https://experienceleague.adobe.com/czbb8zkX55fzgKiZthAj4whBCF-IL2bEox0M7rDr9oE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
 subfeature_v2:
   - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+    internal-label: Cloud architecture
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 2365
+source-wordcount: '2365'
 ht-degree: 0%
-
 ---
-
 # Lista de verificação de pré-lançamento
 
 Esta página resume a [Documentação de inicialização do site](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/launch/overview){target="_blank"} do Adobe Commerce.
@@ -73,7 +90,7 @@ Se você tiver um CTA/CSE atribuído à conta, entre em contato com ele e com o 
 ## &#x200B;3. Configurações do Fastly
 
 1. [!BADGE Bloqueador]{type=caution tooltip="Bloqueador potencial"} Verifique se o cache está funcionando ([Cache de Página Inteira](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/systems/tools/cache-management){target="_blank"} ou [cache do GraphQL](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}). Leia o [Guia de configuração do Fastly](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/cdn/fastly){target="_blank"}.
-2. Use o método do GET para consultas do GraphQL em sites do PWA/Headless, quando aplicável.
+2. Use o método GET para consultas do GraphQL em sites do PWA/Headless, quando aplicável.
 
    >[!NOTE]
    > Somente as consultas enviadas com uma operação HTTP GET podem ser armazenadas em cache (se aplicável). [Não é possível armazenar consultas POST em cache](https://developer.adobe.com/commerce/webapi/graphql/usage/caching/){target="_blank"}.
@@ -182,34 +199,34 @@ A Adobe Commerce Cloud emprega um cluster MariaDB Galera como banco de dados par
 Quando for a hora de transferir, execute as seguintes etapas (para obter mais informações, consulte [Configurações de DNS](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/launch/checklist){target="_blank"}):
 
 1. Acesse o serviço DNS e atualize os registros A e CNAME para cada um dos domínios e nomes de host:
-   1. Adicione um registro CNAME para _&lt;&lt;www.yourdomain.com>_, apontando para **prod.magentocloud.map.fastly.net**
-   2. Set four A records for _&lt;&lt;yourdomain.com>>_, pointing at:\
+   1. Adicionar um registro CNAME para _&lt;&lt;www.yourdomain.com>_, apontando para **prod.magentocloud.map.fastly.net**
+   2. Defina quatro registros A para _&lt;&lt;yourdomain.com>_, apontando para:\
       151.101.1.124\
       151.101.65.124\
       151.101.129.124\
       151.101.193.124
-2. Change the Adobe Commerce Base URL to _&lt;&lt;www.yourdomain.com>>_
-3. Wait for the TTL time to pass, then restart the web browser.
-4. Test the website.
+2. Alterar a URL Base do Adobe Commerce para _&lt;&lt;www.yourdomain.com>>_
+3. Aguarde o tempo de TTL passar e reinicie o navegador da Web.
+4. Teste o site.
 
-### If you have an issue blocking the go-live:
+### Se você tiver um problema bloqueando a ativação:
 
-If you encounter any problems preventing you from launching during the cutover, the fastest way to get timely support is to use the help desk and open a ticket with the reason &quot;Unable to launch my store&quot;, and call a hotline support number (see [Adobe Commerce P1 notification hotline](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-p1-notification-hotline){target="_blank"} for current numbers and procedures):
+Se você encontrar problemas que o impeçam de iniciar durante a transferência, a maneira mais rápida de obter suporte em tempo hábil é usar o suporte técnico e abrir um tíquete com o motivo &quot;Não é possível iniciar minha loja&quot; e ligar para um número de suporte de linha direta (consulte [linha direta de notificação P1 da Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-p1-notification-hotline){target="_blank"} para saber os números e procedimentos atuais):
 
-* US Toll Free: (+1) 877 282 7436 (direct to Adobe Commerce P1 hotline)
-* US Toll Free: (+1) 800 685 3620 (At first menu, press 7 for Adobe Commerce P1 hotline)
-* US Local: (+1) 408 537 8777
+* Chamada Gratuita dos EUA: (+1) 877 282 7436 (direto para a linha direta Adobe Commerce P1)
+* Chamada Gratuita dos EUA: (+1) 800 685 3620 (No primeiro menu, pressione 7 para obter a linha direta Adobe Commerce P1)
+* Local EUA: (+1) 408 537 8777
 
 ## &#x200B;11. Pós-ativação
 
-Once the site is live, email the assigned CTA (Customer Technical Advisor), CSE (Customer Success Engineer), and AM (Account Manager). However, if you do not have an account manager assigned to the project, you can create a support ticket asking for High SLA monitoring to be enabled once the site has gone live. The CTA/CSE performs the following tasks as soon as the site is verified to be launched with Fastly enabled and caching:
+Quando o site estiver ativo, envie um email para a CTA (Consultor técnico do cliente), o CSE (Engenheiro de sucesso do cliente) e o AM (Gerente de conta) designados. No entanto, se você não tiver um gerente de conta atribuído ao projeto, poderá criar um tíquete de suporte solicitando que o Monitoramento de alta SLA seja ativado assim que o site for ativado. O CTA/CSE executa as seguintes tarefas assim que o site é verificado para ser iniciado com o Fastly ativado e o armazenamento em cache:
 
-* Tag the cluster as live and create a support ticket to activate High SLA (Service Level Agreements) monitoring.
-* Activate New Relic Synthetics for uptime monitoring.
+* Marque o cluster como ativo e crie um tíquete de suporte para ativar o monitoramento do High SLA (Service Level Agreements, Contratos de Nível de Serviço).
+* Ative o New Relic Synthetics para monitoramento do tempo de atividade.
 
 >[!MORELIKETHIS]
 > 
-> * [Launch Readiness Overview - Implementation Playbook](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
-> * [Launch Checklist - User Guide](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/launch/checklist){target="_blank"}
-> * [Prelaunch Checklist - Site Manager/Commerce Admin&#39;s Guide](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
-> * [Shared responsibility security model](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}
+> * [Visão geral da preparação para o lançamento - Manual de implementação](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/implementation-playbook/best-practices/launch/overview){target="_blank"}
+> * [Lista de Verificação do Launch - Guia do Usuário](https://experienceleague.adobe.com/pt-br/docs/commerce-on-cloud/user-guide/launch/checklist){target="_blank"}
+> * [Lista de Verificação do Pré-lançamento - Guia do Administrador do Gerenciador de Sites/Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/setup/prelaunch-checklist){target="_blank"}
+> * [Modelo de segurança de responsabilidade compartilhada](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/security-and-compliance/shared-responsibility){target="_blank"}

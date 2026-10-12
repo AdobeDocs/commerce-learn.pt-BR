@@ -12,26 +12,44 @@ topic: Commerce, Integrations, Content Management
 role: Developer, User
 level: Beginner
 exl-id: 5d688e6a-ae8c-4a55-b16c-5d3ae2d1bfd5
-TQID: https://experienceleague.adobe.com/9RhL9cCMdV9Cs9Q8LkCWUSfPlYIyB3XMoWtaXLI0PlM
+TQID: 'https://experienceleague.adobe.com/9RhL9cCMdV9Cs9Q8LkCWUSfPlYIyB3XMoWtaXLI0PlM'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Optimization
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 673
+source-wordcount: '673'
 ht-degree: 0%
-
 ---
-
 # Criar um produto do pacote
 
 Um produto combinado é uma maneira de agrupar vários produtos em um produto principal. Esses produtos secundários podem ser um conjunto definido de produtos ou oferecer algumas variações que fornecem opções de configuração flexíveis para os clientes. Os tipos de produtos do pacote levam um pouco mais de tempo para serem configurados e você deve fazer um planejamento antes de configurá-los. No entanto, a oferta de pacotes de produtos melhora a experiência de compra, facilitando para os clientes a personalização de suas seleções de produtos.
@@ -47,9 +65,9 @@ Quando desejar flexibilidade adicional, é recomendável permitir várias opçõ
 * Uma prancha de surf padrão
 * Uma coleira típica de prancha de surf
 * Escolha da cor da barbatana:
-   * Vermelho
-   * Azul
-   * Amarelo
+  * Vermelho
+  * Azul
+  * Amarelo
 
 Seja o pacote um grupo estático de produtos simples ou vários produtos com variações, as opções flexíveis de configuração tornam os tipos de produto agrupados uma ferramenta de merchandising exclusiva e poderosa para a loja da Adobe Commerce.
 
@@ -333,9 +351,9 @@ curl --location --request DELETE '{{your.url.here}}/rest/default/V1/bundle-produ
 
 ## Restaurar opções do produto
 
-Ao atualizar as opções de pacote de produtos, inclua todas as opções que deseja associar a este produto. Se o conjunto original de opções continha três produtos e um foi removido, inclua todas as três opções na solicitação POST para garantir que o pacote de produtos especifique todas as opções. If you included only the option you removed, then the updated product bundle includes only that option.
+Ao atualizar as opções de pacote de produtos, inclua todas as opções que deseja associar a este produto. Se o conjunto original de opções continha três produtos e um foi removido, inclua todas as três opções na solicitação POST para garantir que o pacote de produtos especifique todas as opções. Se você incluiu apenas a opção removida, o pacote de produtos atualizado incluirá apenas essa opção.
 
-Locate the option ID by reviewing the response from creation for the bundle product. In the that response, the `option_id` is `35`.
+Localize a ID de opção revisando a resposta da criação do produto do pacote. Na resposta, o `option_id` é `35`.
 
 ```json
 ...
@@ -386,7 +404,7 @@ Locate the option ID by reviewing the response from creation for the bundle prod
 ...
 ```
 
-Update the product bundle to add the option you removed by submitting the following POST request.
+Atualize o pacote de produtos para adicionar a opção removida enviando a seguinte solicitação POST.
 
 ```bash
 curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' \
@@ -443,7 +461,7 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 
 ## Recursos adicionais
 
-* [Create a bundle product tutorial](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-* [Bundle Product](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=pt-BR){target="_blank"}
+* [Tutorial de criação de um pacote de produtos](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
+* [Produto do pacote](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=pt-BR){target="_blank"}
 * [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [ReDoc Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

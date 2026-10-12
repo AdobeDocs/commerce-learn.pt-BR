@@ -10,22 +10,29 @@ duration: 838
 last-substantial-update: 2025-05-15T00:00:00.000Z
 jira: KT-18109
 exl-id: e3b7ca08-e8a7-4ff0-a408-4e7e0460e5ed
-TQID: https://experienceleague.adobe.com/0l0X5ZoGr4ECFKDXGx7VgiQVTHtta-gMiHVkOF9YHG8
+TQID: 'https://experienceleague.adobe.com/0l0X5ZoGr4ECFKDXGx7VgiQVTHtta-gMiHVkOF9YHG8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 5a951749-fac9-5bc7-9a98-ebe4ff066437
+    internal-label: Cloud
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Customer experience
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 227
+source-wordcount: '227'
 ht-degree: 0%
-
 ---
-
 # Anúncios de novos produtos
 
 Na primeira de uma série de webinários de quatro partes, a Adobe Commerce apresenta dois produtos inovadores projetados para transformar o varejo digital. Adobe Commerce as a Cloud Service, uma solução SaaS escalável que oferece atualizações perfeitas e ferramentas integradas alimentadas por IA.  Adobe Commerce Optimizer, que moderniza as experiências do cliente sem exigir uma migração completa da plataforma. Essas inovações têm como objetivo reduzir os custos operacionais, aumentar as taxas de conversão e acelerar a expansão do mercado — permitindo que as empresas evoluam em seu próprio ritmo com caminhos de adoção flexíveis e incrementais.

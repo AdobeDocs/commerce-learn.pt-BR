@@ -10,23 +10,28 @@ duration: 253
 last-substantial-update: 2024-10-02T00:00:00.000Z
 jira: KT-15993
 exl-id: dc1d609f-af81-44ea-b0f0-f48ed6fc8d47
-TQID: https://experienceleague.adobe.com/Mbmg-rxEYfI18vB2NGZ0vB31mLhEKETlpBTS-8THaLs
+TQID: 'https://experienceleague.adobe.com/Mbmg-rxEYfI18vB2NGZ0vB31mLhEKETlpBTS-8THaLs'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 232
+source-wordcount: '232'
 ht-degree: 0%
-
 ---
-
 # Migração para o Adobe Commerce - Congelamento de código
 
 {{only-for-on-prem-commerce-cloud}}

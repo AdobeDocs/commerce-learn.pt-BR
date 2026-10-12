@@ -10,23 +10,34 @@ duration: 130
 last-substantial-update: 2025-04-16T00:00:00.000Z
 jira: KT-17808
 exl-id: 8957dbbe-9bed-41e4-b21e-5371f91085fd
-TQID: https://experienceleague.adobe.com/Mjy1W-NPjazJUYLSHUvS040K6Co-sG1aqvDTWCeCdoE
+TQID: 'https://experienceleague.adobe.com/Mjy1W-NPjazJUYLSHUvS040K6Co-sG1aqvDTWCeCdoE'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 938d2364-5176-55ec-80f1-9415253e5e51
+    internal-label: Site Management
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: a59f76dc-e003-5617-951e-dffa5bd3de81
+    internal-label: Support
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 157
+source-wordcount: '157'
 ht-degree: 0%
-
 ---
-
 # Adoção e capacitação dos Aceleradores de sucesso
 
 Os Adobe Commerce Success Accelerators para adoção e capacitação incluem três serviços principais: desenvolvimento de caso de uso e KPI, coaching técnico e estratégia de governança de ferramentas e recursos. Esses serviços fornecem orientação para o desenvolvimento de planos estratégicos e roteiros, capacitação em várias sessões para preencher lacunas de habilidades e estratégias de governança para garantir a adoção adequada dos produtos. O objetivo é aprimorar o uso e a eficácia dos produtos Adobe Commerce por meio de práticas recomendadas e suporte focado.

@@ -3,32 +3,42 @@ title: Organização do código Source no kit inicial do Commerce
 description: Saiba mais sobre a organização do código-fonte no kit inicial de integração do Commerce, incluindo pastas principais como ações e scripts, scripts de automação e manipulação de eventos.
 doc-type: Technical Video
 duration: 534
-last-substantial-update: 2024-07-30
+last-substantial-update: 2024-07-30T00:00:00.000Z
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
 level: Intermediate
 jira: KT-15868
 exl-id: 678f4d2b-c57e-4afb-a535-1048a88bc3b1
-TQID: https://experienceleague.adobe.com/P6-sK18TcpC91YXJcXohIvzmii3N66ZKh3nZha-RYQY
+TQID: 'https://experienceleague.adobe.com/P6-sK18TcpC91YXJcXohIvzmii3N66ZKh3nZha-RYQY'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 9568f37b026d0e659e8092282cb923c7ecde58ac
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 252
+source-wordcount: '369'
 ht-degree: 0%
-
 ---
-
 # Organização do código Source para o Adobe Starter Kit
 
 Saiba mais sobre a organização do código-fonte no kit inicial da Integração do Adobe Commerce.&#x200B; Explore a estrutura do projeto, destacando as principais pastas, como `actions` e `scripts`, e seus respectivos conteúdos.&#x200B; A pasta &quot;ações&quot; contém subpastas, como `ingestion` e `webhook`, que contêm código essencial para a manipulação e o rastreamento de eventos. Você também aprenderá sobre as pastas `starter-kit-info` e `scripts`. A pasta `scripts` foca em scripts de automação como `commerce-event-subscribe` e `onboarding` que otimizam a configuração de eventos e a configuração de provedores no projeto.

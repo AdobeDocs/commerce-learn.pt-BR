@@ -12,28 +12,37 @@ topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
 exl-id: c2f154e0-c5b3-4fcc-aa7b-20dcaabfadbe
-TQID: https://experienceleague.adobe.com/b8ji-JSMVHOqnjJAkvDMeSMeIDC28dufnSnCdhCGhM8
+TQID: 'https://experienceleague.adobe.com/b8ji-JSMVHOqnjJAkvDMeSMeIDC28dufnSnCdhCGhM8'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c1256247-af4b-46d8-9dca-0c654ecfa157
+    internal-label: Order Management System
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 156
+source-wordcount: '156'
 ht-degree: 0%
-
 ---
-
 # Inventory management
 
 Comerciantes com uma única loja para vários depósitos, lojas, locais de retirada, entregadores diretos e muito mais podem usar os recursos de gerenciamento de inventário para manter quantidades para vendas e controlar entregas para ordens completas. Você pode rastrear as quantidades de seu inventário, fornecer quantidades precisas de estoque comercializável aos clientes para todos os seus sites e entregar de acordo com as recomendações com base na distância ou na prioridade. Você também pode definir as configurações de produto de sua preferência globalmente (para todas as lojas e produtos), por origem e por produto. Esses recursos crescem junto com a sua empresa, permitindo que você trabalhe a partir de um único warehouse ou de uma rede de transporte complexa.

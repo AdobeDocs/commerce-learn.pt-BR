@@ -4,37 +4,53 @@ description: Descubra a arquitetura do Adobe Commerce as a cloud service e os pr
 jira: KT-17220
 doc-type: Technical Video
 duration: 235
-last-substantial-update: 2025-01-30
+last-substantial-update: 2025-01-30T00:00:00.000Z
 feature: Catalog Management, Catalog Service, Services
 topic: Architecture, Commerce, Headless, Performance
 role: Developer
 level: Beginner
 exl-id: 63450575-b15c-4f26-82ec-36fae5d62127
-TQID: https://experienceleague.adobe.com/pQAnr0G7c7lFtXj0xPQu3OnYkUvkW-T9sZh-dEHJ3rY
+TQID: 'https://experienceleague.adobe.com/pQAnr0G7c7lFtXj0xPQu3OnYkUvkW-T9sZh-dEHJ3rY'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: ba9e5be9-7de1-4f71-a5d2-baead0e425ee
+    internal-label: Security
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: 4273989f-0bf2-5361-a17a-6909488d18ab
+    internal-label: Catalog Service
+  - id: da76473c-f99b-5ad0-9b14-896aed473f8a
+    internal-label: Services
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
-source-git-commit: 496cf8fad3c8178ae50839deb4b9f9cd8ffded2e
+    internal-label: Security
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 291
+source-wordcount: '291'
 ht-degree: 0%
-
 ---
-
 # Arquitetura do Adobe Commerce as a Cloud Service
 
 O Adobe Commerce as a Cloud Service oferece uma plataforma de hospedagem segura e automatizada com recursos de autoatendimento para gerenciar aplicativos de comércio. Os principais recursos incluem gerenciamento de ativos por meio do Adobe Experience Manager, cobertura de API abrangente com APIs GraphQL e REST e serviços inteligentes da Adobe Merchandising. A plataforma oferece suporte a uma arquitetura totalmente headless, permitindo que os desenvolvedores usem várias estruturas front-end, como o React e o Angular. Ele também fornece uma loja headless moderna com criação baseada em documentos e testes A/B nativos. Além disso, o Adobe Commerce se integra à Adobe Experience Cloud para experiências de comércio personalizadas e oferece ferramentas abrangentes para desenvolvedores, incluindo o Adobe Developer App Builder e a malha de API.
