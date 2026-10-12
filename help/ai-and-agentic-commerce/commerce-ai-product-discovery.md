@@ -41,5 +41,5 @@ Mesmo os catálogos de produtos mais ricos têm apenas visibilidade parcial dos 
 * Enriquecimento de catálogo que gera nomes e descrições de produtos otimizados para IA
 * Validação de melhorias usando o AI Content Visibility Checker
 
->[!VIDEO](https://video.tv.adobe.com/v/3492287)
+>[!VIDEO](https://video.tv.adobe.com/v/3492327?captions=por_br)
 
