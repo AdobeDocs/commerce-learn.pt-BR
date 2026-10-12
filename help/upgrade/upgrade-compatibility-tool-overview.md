@@ -10,27 +10,42 @@ topic: Commerce, Administration
 role: Developer, Admin
 level: Beginner, Intermediate
 exl-id: 93a59d1c-54a8-4efe-bf98-9d65389bfb27
-TQID: https://experienceleague.adobe.com/fnqBc7jx73o5fYnWlx2NkSHGMaQYNVGeynsu6lfRHnk
+TQID: 'https://experienceleague.adobe.com/fnqBc7jx73o5fYnWlx2NkSHGMaQYNVGeynsu6lfRHnk'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: a8ae7a5a-6cdc-5922-bd0d-6feb44b04984
+    internal-label: Upgrade
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 017826b50bdb0e78c8271cb633ab19a03c43858c
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 218
+source-wordcount: '218'
 ht-degree: 0%
-
 ---
-
 # Visão geral da Ferramenta de compatibilidade de atualização
 
 {{only-for-on-prem-commerce-cloud}}
@@ -43,7 +58,7 @@ Neste vídeo:
 * Como ele pode ajudar você a identificar rapidamente os erros e as correções necessárias para atualizar para uma versão mais recente do Adobe Commerce
 * Para ajudar a visualizar módulos por gravidade e número de incompatibilidades, acesse os resultados do HTML
 
-Para saber mais sobre a ferramenta, consulte a [documentação da Ferramenta de Compatibilidade de Atualização](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview). Se quiser saber mais sobre como executar e simplificar suas atualizações, consulte o [Guia de Atualização](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/upgrade-guide/overview).
+Para saber mais sobre a ferramenta, consulte a [documentação da Ferramenta de Compatibilidade de Atualização](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview). Se quiser saber mais sobre como executar e simplificar suas atualizações, consulte o [Guia de Atualização](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/overview).
 
 ## Para quem é este vídeo?
 
@@ -52,11 +67,11 @@ Para saber mais sobre a ferramenta, consulte a [documentação da Ferramenta de 
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/344389?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341245?learn=on)
 
 ## Recursos adicionais
 
-* [Documentação da Ferramenta de compatibilidade de atualização](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)
-* [Guia de atualização](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/upgrade-guide/overview)
-* [Versões lançadas](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/versions)
-* [Programação de lançamento](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/planning/schedule)
+* [Documentação da Ferramenta de compatibilidade de atualização](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview)
+* [Guia de atualização](https://experienceleague.adobe.com/en/docs/commerce-operations/upgrade-guide/overview)
+* [Versões lançadas](https://experienceleague.adobe.com/en/docs/commerce-operations/release/versions)
+* [Programação de lançamento](https://experienceleague.adobe.com/en/docs/commerce-operations/release/planning/schedule)

@@ -10,34 +10,56 @@ duration: 1345
 last-substantial-update: 2024-09-09T00:00:00.000Z
 jira: KT-16201
 exl-id: cd8485ca-86d9-4306-8767-7b0b4e319117
-TQID: https://experienceleague.adobe.com/pCnOnvFR7MWPKs4oHzYqrz0-1fRzNpLgv10Jyg0qEzc
+TQID: 'https://experienceleague.adobe.com/pCnOnvFR7MWPKs4oHzYqrz0-1fRzNpLgv10Jyg0qEzc'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
   - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
   - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: 19d9b313-1a3c-5bed-9da7-4364f71c3a28
+    internal-label: Promotions/Events
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
 subfeature_v2:
   - id: e91a50b1-0b31-436e-9033-00e4776e94cb
+    internal-label: Categories
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
+  - id: a1d22079-48b9-5e69-9ee6-eb236068ef34
+    internal-label: Search
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c2296997-5d79-4905-b32e-99b5aa892429
+    internal-label: Search optimization
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
+    internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Administration
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 489
+source-wordcount: '489'
 ht-degree: 0%
-
 ---
-
 # Dados e promoções de clientes potenciais de experiência  
 
 Saiba mais sobre os recursos avançados de pesquisa da Adobe Commerce, viabilizados pelo Adobe AI, e seus eficientes recursos de gerenciamento de catálogos. Conheça alguns dos destaques das ferramentas de otimização, facetagem e merchandising orientadas por IA para aprimorar a experiência do usuário. &#x200B; Além disso, você aprenderá sobre o agrupamento de produtos, o gerenciamento de promoções e a integração perfeita com sistemas de terceiros, oferecendo uma solução abrangente para as necessidades de comércio eletrônico B2B e B2C.
@@ -59,7 +81,7 @@ Descubra as poderosas ferramentas de gerenciamento de catálogos da Adobe Commer
 * Integração e personalização avançadas.
 * Experiência de compra aprimorada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434069?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434039?learn=on)
 
 ## Live Search
 
@@ -71,7 +93,7 @@ Descubra os recursos de pesquisa avançada do Adobe Commerce Live Search, viabil
 * Experiência de pesquisa personalizável: recursos como regras de pesquisa avançada, sinônimos e aspectos permitem uma experiência de pesquisa personalizada e otimizada para clientes.
 * Integração B2B: o Live Search suporta modelos B2B com catálogos compartilhados e preços específicos, melhorando sua versatilidade para várias necessidades comerciais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434047?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434040?learn=on)
 
 ## Promoções  
 
@@ -83,5 +105,5 @@ O Adobe Commerce capacita os gerentes de loja a criar e gerenciar facilmente pac
 * Estratégias de promoção avançadas.
 * Integração contínua com sistemas de terceiros, melhorando a flexibilidade e a automação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434058?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434041?learn=on)
 >

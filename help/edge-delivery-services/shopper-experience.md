@@ -10,7 +10,7 @@ duration: 588
 last-substantial-update: 2024-02-21T00:00:00.000Z
 jira: KT-17259
 exl-id: 27a2aaa6-7748-4ec2-919f-9e5dc07e94e7
-TQID: https://experienceleague.adobe.com/3AYupbUJJncbDDt6wnSXU0MO2Em-6gOeCbzwgxMzpBQ
+TQID: 'https://experienceleague.adobe.com/3AYupbUJJncbDDt6wnSXU0MO2Em-6gOeCbzwgxMzpBQ'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -23,16 +23,29 @@ feature_v2:
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+    internal-label: Compliance
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: d394484608d6ee530932387938e04030ed3b590e
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -64,4 +77,4 @@ Você aprende a navegar na loja da Adobe Commerce no Edge Delivery Services, inc
 * Trabalhar com o carrinho e as ordens: adicionar itens, fazer check-out como convidado, cancelar ordens, reordenar e processar devoluções.
 * Atualize as informações da conta, mescle carrinhos de convidados e clientes e mantenha a consistência de check-out.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446767?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)

@@ -4,16 +4,23 @@ description: Saiba como o agente de catálogo da Commerce elimina as lacunas de 
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00Z
+last-substantial-update: 2026-06-11T00:00:00.000Z
 jira: KT-21572
 duration: 451
-source-git-commit: 23a3ecdc06ec2738f524359169668a1423c34493
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
-
 ---
-
 # Descoberta de produtos Commerce AI
 
 [!BADGE Em breve]{type=Informative tooltip="Este recurso será disponibilizado em breve e está sujeito a alterações."}
@@ -32,7 +39,7 @@ Mesmo os catálogos de produtos mais ricos têm apenas visibilidade parcial dos 
 * O painel Oportunidades de otimização exibe recomendações de enriquecimento de alto impacto
 * Enriquecimento da página de detalhes do produto para expor atributos ocultos a rastreadores LLM
 * Enriquecimento de catálogo que gera nomes e descrições de produtos otimizados para IA
-* Validação de melhorias usando o Verificador de Visibilidade do conteúdo de IA
+* Validação de melhorias usando o AI Content Visibility Checker
 
->[!VIDEO](https://video.tv.adobe.com/v/3492327?captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3492287)
 

@@ -11,30 +11,52 @@ duration: 3770
 last-substantial-update: 2024-05-08T00:00:00.000Z
 jira: KT-15388
 exl-id: deebb9ba-f975-4cf9-bf63-59cb4ff360eb
-TQID: https://experienceleague.adobe.com/8mKB3-vCyc3wOad-hoxkap5VOD-5DHo7JG3HS4xxars
+TQID: 'https://experienceleague.adobe.com/8mKB3-vCyc3wOad-hoxkap5VOD-5DHo7JG3HS4xxars'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: b5f00040-57a0-4a6d-a39e-383b1936c2c9
+    internal-label: Compliance
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: 125c1f49-aefd-5f34-a252-288937f95f6b
+    internal-label: Marketing Tools
+subfeature_v2:
+  - id: 618ab558-d6ad-5352-99d6-d5702c6fdf80
+    internal-label: Tools and External Services
 role_v2:
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: cc72dcf1-72e1-48cc-b434-e7c27d62d67c
+    internal-label: Accessibility
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+    internal-label: Insights
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 389
+source-wordcount: '389'
 ht-degree: 1%
-
 ---
-
 # Edge Delivery Services com Adobe Commerce
 
 Este webinário explora a importância do Edge Delivery Services em implementações do Adobe Commerce e o impacto que elas têm em vários aspectos do desempenho do site e da experiência do usuário. Ele destaca a integração de produtos de conteúdo e comércio com o Edge Delivery Services para melhorar as taxas de conversão, a velocidade de carregamento do site e o desempenho da SEO. O webinário também apresenta insights de especialistas do setor que discutem os benefícios do Edge Delivery Services, como melhor desempenho, acessibilidade e classificações de SEO. A parceira da Adobe, BlueAcorn ICI, também compartilha suas experiências de migração bem-sucedida de sites para o Edge Delivery Services e o impacto positivo que isso teve nas taxas de conversão e na experiência do usuário.

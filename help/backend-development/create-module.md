@@ -4,30 +4,38 @@ description: Crie e registre um módulo no Adobe Commerce, execute a configuraç
 jira: KT-5614
 doc-type: Technical Video
 duration: 958
-last-substantial-update: 2026-03-23
+last-substantial-update: 2026-03-23T00:00:00.000Z
 feature: Configuration, System, Backend Development
 topic: Commerce, Development
 role: Admin, Developer
 level: Beginner, Intermediate
 exl-id: 941c04ee-54b8-4b81-b77d-fff5875927f0
-TQID: https://experienceleague.adobe.com/AQGDT8dQWONS9hrlCvFZcRdN8gLW-MBmQ5N3FCs4nOA
+TQID: 'https://experienceleague.adobe.com/AQGDT8dQWONS9hrlCvFZcRdN8gLW-MBmQ5N3FCs4nOA'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: add3e29f8841ca4ca99f4c40afc656f00e93ec36
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '272'
 ht-degree: 0%
-
 ---
-
 # Criar um módulo
 
 Um módulo é um elemento estrutural de [!DNL Commerce]—módulos formam a base do sistema. Normalmente, você inicia uma personalização criando um módulo.
@@ -44,7 +52,7 @@ Um módulo é um elemento estrutural de [!DNL Commerce]—módulos formam a base
 4. Para registrar e instalar o módulo, execute `bin/magento setup:upgrade`.
 5. Verifique se o módulo está funcionando.
 
->[!VIDEO](https://video.tv.adobe.com/v/3414164?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35792?learn=on)
 
 ### O arquivo module.xml
 

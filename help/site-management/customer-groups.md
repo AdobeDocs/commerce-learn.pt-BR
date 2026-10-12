@@ -4,19 +4,27 @@ description: Saiba mais sobre os grupos de clientes da Adobe Commerce e como ele
 jira: KT-19057
 doc-type: Feature Video
 duration: 97
-last-substantial-update: 2026-10-07
+last-substantial-update: 2026-10-07T00:00:00.000Z
 feature: Configuration, System, Personalization, Taxes, Price Rules
 topic: Commerce, Administration
 role: Admin, Developer, User
 level: Beginner
 exl-id: b43c5464-e103-4956-8352-3444f09e1ceb
-TQID: https://experienceleague.adobe.com/Bh-sCZxbjIFMqXP6rQmPOYYoBT18aKZ8oy0YjzLFmJk
+TQID: 'https://experienceleague.adobe.com/Bh-sCZxbjIFMqXP6rQmPOYYoBT18aKZ8oy0YjzLFmJk'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: f37757d8-3174-5335-b977-1161792f965d
+    internal-label: Personalization
+  - id: 42e094d8-211b-5acf-b52f-d8979151ab30
+    internal-label: Taxes
+  - id: a507b1ed-4937-53da-97ae-57d36bd5b9e0
+    internal-label: Price Rules
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -24,6 +32,8 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
@@ -36,7 +46,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: f7237ab6839bb588490adf7a3d64cec9a1a620f1
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -52,8 +62,8 @@ Os grupos de clientes no Adobe Commerce permitem oferecer promoções direcionad
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3473325?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473262?learn=on)
 
 ## Recursos adicionais
 
-* [Grupos de Clientes - [!DNL Commerce] Guia de Gerenciamento de Clientes](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/customers/customer-groups)
+* [Grupos de Clientes - [!DNL Commerce] Guia de Gerenciamento de Clientes](https://experienceleague.adobe.com/en/docs/commerce-admin/customers/customer-groups)

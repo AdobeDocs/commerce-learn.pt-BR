@@ -7,15 +7,25 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 39
-last-substantial-update: 2026-08-28T00:00:00Z
+last-substantial-update: 2026-08-28T00:00:00.000Z
 jira: KT-22479
-source-git-commit: 92af5355fa31c1ce9e627679b0a1bb92cce0e1d8
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: 72863f3c-9d27-5dda-afe1-d9f934b1fba0
+    internal-label: Extensibility
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
-
 ---
-
 # Conclusão do Adobe Commerce Developer Agent
 
 Este breve resumo recapitula a jornada do Adobe Commerce Developer Agent — de um requisito em inglês simples ou extensão herdada a um recurso de armazenamento testado e em funcionamento, sem codificação manual.

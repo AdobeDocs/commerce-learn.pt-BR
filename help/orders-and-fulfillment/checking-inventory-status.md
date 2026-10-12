@@ -7,10 +7,10 @@ role: Developer
 level: Intermediate, Experienced
 doc-type: Tutorial
 duration: 496
-last-substantial-update: 2024-05-09
+last-substantial-update: 2024-05-09T00:00:00.000Z
 jira: KT-15462
 exl-id: bd2be562-5738-4398-8afb-2faeb0ba6b83
-TQID: https://experienceleague.adobe.com/IfBm4JSpLXViUNTHo7amAL6GIYJsC4O-rdITtbqJV24
+TQID: 'https://experienceleague.adobe.com/IfBm4JSpLXViUNTHo7amAL6GIYJsC4O-rdITtbqJV24'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
     internal-label: Commerce
@@ -23,6 +23,10 @@ feature_v2:
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
+  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
+    internal-label: Best Practices
+  - id: 8dc0e58b-adf0-51bb-8db5-bb36e3e656fb
+    internal-label: Inventory
 subfeature_v2:
   - id: b01a71b7-d17a-42b2-a9ac-af4b8d9d2ef5
     internal-label: 2FA
@@ -34,6 +38,8 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
@@ -41,14 +47,14 @@ topic_v2:
     internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: fcf0f5116ba75bd618f4ed80591ecc96132cdb45
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '1834'
 ht-degree: 0%
 ---
 # O status do estoque verifica as considerações de desenvolvimento e desempenho
 
-A precisão com o inventário é uma consideração importante. Há alguns recursos nativos que podem ajudar a garantir que esse risco seja o mais baixo possível, como pedidos pendentes e definição do limite de estoque. Ambos os tópicos podem ser lidos na [Adobe Experience League](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/inventory/configuration/backorders) para obter mais explicações.
+A precisão com o inventário é uma consideração importante. Há alguns recursos nativos que podem ajudar a garantir que esse risco seja o mais baixo possível, como pedidos pendentes e definição do limite de estoque. Ambos os tópicos podem ser lidos na [Adobe Experience League](https://experienceleague.adobe.com/en/docs/commerce-admin/inventory/configuration/backorders) para obter mais explicações.
 
 Há projetos e casos de uso em que as verificações de status do estoque em tempo real são solicitadas para uma loja da Adobe Commerce. Este tutorial fornece o insight para lidar com essa conversa com considerações de desenvolvimento e desempenho.
 
@@ -62,7 +68,7 @@ Outra consideração é o custo para desenvolver, testar e manter esse recurso. 
 
 Tente considerar as verificações de inventário e como isso é realizado em três abordagens. Cada uma tem vantagens e limitações. Elas também aumentam a complexidade e exigem mais testes e ideias para o tratamento de erros. Lembre-se de que, quando decidir implementar uma solução personalizada, haverá mais responsabilidades e considerações. Os exemplos incluem um processo de fallback, monitoramento, teste e solução de problemas, que pertencem à equipe de desenvolvimento. Alguns bons itens a serem incluídos são nova documentação de suporte, treinamento e monitoramento para garantir que a equipe de desenvolvimento possa dar suporte a todo o recurso. Um efeito colateral é que a equipe de desenvolvimento é proprietária do processo e não aproveita mais a funcionalidade nativa fornecida pelo aplicativo principal do Adobe Commerce. O suporte da Adobe não pode ajudar com esse nível de personalização.
 
-A primeira abordagem é usar a funcionalidade nativa. Usar a funcionalidade nativa é a menor quantidade de risco e tem muitos benefícios. Seguir essa abordagem significa que você pode confiar em toda a documentação e nos tutoriais existentes fornecidos pela Adobe Commerce para o uso do recurso. Há muitos aspectos no gerenciamento de inventário; portanto, use o que vem com o aplicativo como a primeira consideração. No entanto, há casos de uso em que os dados encontrados no comércio no momento do pedido não são precisos. Um exemplo de como os dados não são sincronizados é que as vendas são permitidas fora do aplicativo do Adobe Commerce diretamente no sistema do Order Management. Um motivo é que, para garantir que os níveis precisos de inventário sejam representados no Adobe Commerce, é necessário algum tipo de integração para manter as informações do Adobe Commerce o mais precisas possível. Se a venda em excesso não for aceitável, adicionar um limite de falta de estoque será um bom método para interromper a venda de itens antes que você chegue a zero. A funcionalidade de sincronização nativa do Adobe Commerce é de no máximo 1 vez por dia. Essa frequência é suficiente para alguns casos de uso, no entanto, não é frequente o suficiente para outros. Leia [Importação e exportação agendadas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/systems/data-transfer/data-scheduled-import-export) para obter informações detalhadas.
+A primeira abordagem é usar a funcionalidade nativa. Usar a funcionalidade nativa é a menor quantidade de risco e tem muitos benefícios. Seguir essa abordagem significa que você pode confiar em toda a documentação e nos tutoriais existentes fornecidos pela Adobe Commerce para o uso do recurso. Há muitos aspectos no gerenciamento de inventário; portanto, use o que vem com o aplicativo como a primeira consideração. No entanto, há casos de uso em que os dados encontrados no comércio no momento do pedido não são precisos. Um exemplo de como os dados não são sincronizados é que as vendas são permitidas fora do aplicativo do Adobe Commerce diretamente no sistema do Order Management. Um motivo é que, para garantir que os níveis precisos de inventário sejam representados no Adobe Commerce, é necessário algum tipo de integração para manter as informações do Adobe Commerce o mais precisas possível. Se a venda em excesso não for aceitável, adicionar um limite de falta de estoque será um bom método para interromper a venda de itens antes que você chegue a zero. A funcionalidade de sincronização nativa do Adobe Commerce é de no máximo 1 vez por dia. Essa frequência é suficiente para alguns casos de uso, no entanto, não é frequente o suficiente para outros. Leia [Importação e exportação agendadas](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/data-scheduled-import-export) para obter informações detalhadas.
 
 A segunda abordagem é `near real-time`. O tempo quase real ainda usa a funcionalidade nativa. No entanto, isso inclui trabalho extra para fornecer uma integração que alimenta o comércio com frequência para atualizar seu inventário em um cronograma. Por exemplo, a cada hora. Essa opção requer reflexão sobre como uma integração funciona, mas usar a &quot;api em massa&quot; e fazer com que algum middleware faça a transformação dos dados e os envie para o comércio é uma ótima abordagem. Considere usar o Adobe App Builder ou plataformas semelhantes para realizar a maior parte do trabalho e enviar as informações para o Adobe Commerce com mais frequência.
 

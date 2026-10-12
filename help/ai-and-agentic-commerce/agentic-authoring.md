@@ -4,16 +4,23 @@ description: Saiba como a Experience Workspace usa um assistente de IA agêntica
 role: User
 level: Beginner
 doc-type: Value Video
-last-substantial-update: 2026-06-11T00:00:00Z
+last-substantial-update: 2026-06-11T00:00:00.000Z
 jira: KT-21574
 duration: 376
-source-git-commit: cac02a33a2fcbfb83989178b6b2b41f364da1d43
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
-
 ---
-
 # Criação de agente
 
 [!BADGE Em breve]{type=Informative tooltip="Este recurso será disponibilizado em breve e está sujeito a alterações."}
@@ -34,7 +41,7 @@ O Experience Workspace é o ambiente de criação agênico que oferece aos profi
 * Solicitações de linguagem natural para consultar o catálogo e gerar páginas completas da campanha
 * Edição em nível de bloco e pré-visualização renderizada por borda ao vivo antes da publicação
 
->[!VIDEO](https://video.tv.adobe.com/v/3492300?captions=por_br)
+>[!VIDEO](https://video.tv.adobe.com/v/3492281)
 
 <!-- ## Additional resources -->
 
