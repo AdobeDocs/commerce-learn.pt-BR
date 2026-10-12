@@ -61,5 +61,5 @@ Para pequenas empresas, empresas de médio porte ou grandes empresas, os Payment
 
 ## Recursos adicionais
 
-* [Guia dos serviços de pagamento](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html)
-* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+* [Guia dos serviços de pagamento](https://experienceleague.adobe.com/docs/commerce-merchant-services/payment-services/guide-overview.html?lang=pt-BR)
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=pt-BR)
