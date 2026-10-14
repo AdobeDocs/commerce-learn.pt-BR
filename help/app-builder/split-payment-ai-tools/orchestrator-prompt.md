@@ -8,14 +8,12 @@ level: Intermediate
 doc-type: Tutorial
 duration: 421
 jira: KT-20902
-last-substantial-update: 2026-04-27T00:00:00Z
+last-substantial-update: 2026-04-27
 source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
 workflow-type: tm+mt
-source-wordcount: '927'
-ht-degree: 0%
-
+source-wordcount: '945'
+ht-degree: 1%
 ---
-
 # POC de pagamento dividido: prompt do App Builder orchestrator AI
 
 Use esta página para copiar o prompt completo que gera o projeto **split-payment-orchestrator**: o **payment-orchestrator** consumidor de Eventos de E/S, **payment-accept** e **payment-deny** ações da Web, o **demo-dashboard** e o cliente REST da Commerce.
@@ -217,8 +215,8 @@ Os Eventos do Adobe Commerce I/O podem fornecer a carga de várias formas. Extra
 * `orderId = value.entity_id || value.id`
 * `orderTotal = parseFloat(value.grand_total ?? value.base_grand_total ?? value.subtotal ?? '0')`
 * Dividir valores de `value.extension_attributes` (verificar `extension_attributes` e `extensionAttributes`):
-   * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
-   * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
+  * `storeCredit = parseFloat(ext.split_store_credit_amount ?? value.split_store_credit_amount ?? '0')`
+  * `cash = parseFloat(ext.split_cash_amount ?? value.split_cash_amount ?? '0')`
 
 **Fluxo:**
 1. Extrair valor; se `orderId` estiver ausente, registrar erro e retornar `{ statusCode: 200, body: { ok: false, message: PUBLIC_ERROR } }`

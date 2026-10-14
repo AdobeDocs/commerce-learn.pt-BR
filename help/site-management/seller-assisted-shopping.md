@@ -56,9 +56,9 @@ ht-degree: 0%
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411979?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343662?learn=on)
 
 ## Recursos adicionais
 
-* [Fornecer Assistência ao Cliente - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html?lang=pt-BR)
-* [Assistência para compras - [!DNL Commerce] Guia de Experiência para Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html?lang=pt-BR#shopping-assistance)
+* [Fornecer Assistência ao Cliente - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/customers/customer-accounts/manage/login-as-customer.html)
+* [Assistência para compras - [!DNL Commerce] Guia de Experiência para Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/introduction.html#shopping-assistance)

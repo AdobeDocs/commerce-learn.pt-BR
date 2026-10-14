@@ -51,7 +51,7 @@ ht-degree: 0%
 ---
 # Gerenciar Crédito da Empresa
 
-As empresas que têm _[!UICONTROL Payment on Account]_&#x200B;habilitado e o crédito da empresa disponível podem fazer compras em sua conta até o limite de crédito concedido. Com esse recurso, os clientes podem verificar o status do crédito da empresa no painel de conta.
+As empresas que têm _[!UICONTROL Payment on Account]_habilitado e o crédito da empresa disponível podem fazer compras em sua conta até o limite de crédito concedido. Com esse recurso, os clientes podem verificar o status do crédito da empresa no painel de conta.
 
 Você pode definir os seguintes parâmetros relacionados a crédito para cada perfil de empresa:
 
@@ -70,9 +70,9 @@ Você pode definir os seguintes parâmetros relacionados a crédito para cada pe
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412495?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## Recursos adicionais
 
-* [Configurar pagamento por conta](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [Gerenciar Crédito da Empresa](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/credit-company)
+* [Configurar pagamento por conta](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Gerenciar Crédito da Empresa](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)

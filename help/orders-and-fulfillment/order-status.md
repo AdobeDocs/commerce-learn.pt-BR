@@ -51,9 +51,9 @@ Quando um cliente coloca um pedido, uma ordem de venda é criada como um registr
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412501?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343935?learn=on)
 
 ## Recursos adicionais
 
-* [Processar um pedido - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html?lang=pt-BR#process-an-order)
-* [Status do Pedido - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html?lang=pt-BR)
+* [Processar um pedido - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-processing.html#process-an-order)
+* [Status do Pedido - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/docs/commerce-admin/stores-sales/order-management/orders/order-status.html)

@@ -54,7 +54,7 @@ ht-degree: 0%
 ---
 # Gerenciar contas da empresa
 
-Para comerciantes B2B, a página _[!UICONTROL Companies]_&#x200B;lista todas as contas da empresa atual e seus status. É possível gerenciar as contas da empresa aqui e qualquer solicitação pendente de aprovação é exibida na parte superior da lista. Os controles padrão do local de trabalho podem ser usados para filtrar a lista, alterar o layout da coluna, salvar visualizações e exportar dados.
+Para comerciantes B2B, a página _[!UICONTROL Companies]_lista todas as contas da empresa atual e seus status. É possível gerenciar as contas da empresa aqui e qualquer solicitação pendente de aprovação é exibida na parte superior da lista. Os controles padrão do local de trabalho podem ser usados para filtrar a lista, alterar o layout da coluna, salvar visualizações e exportar dados.
 
 {{b2b-feature}}
 
@@ -66,9 +66,9 @@ Para comerciantes B2B, a página _[!UICONTROL Companies]_&#x200B;lista todas as 
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412497?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344447?learn=on)
 
 ## Recursos adicionais
 
-* [Contas da empresa](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
-* [Gerenciar contas da empresa](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
+* [Contas da empresa](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-companies){target="_blank"}
+* [Gerenciar contas da empresa](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/account-company-manage){target="_blank"}
