@@ -10,9 +10,6 @@ topic: Commerce, Administration
 role: Admin, User
 level: Beginner
 exl-id: eddf5b36-8b63-4d73-a66b-b3f14da3747f
-subFeature_v2:
-  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
-    internal-label: B2B
 autotag-review: '2026-08-11T19:20:58.973Z'
 TQID: 'https://experienceleague.adobe.com/qYOv5KZHwdRE4jBIyEaiiiDFLEWJmRfYSd1PgynEeJ4'
 product_v2:
@@ -47,7 +44,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
@@ -65,6 +62,6 @@ Saiba como o representante de vendas pode iniciar a cotação no painel de admin
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3430584?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420390?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

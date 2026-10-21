@@ -39,7 +39,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '192'
 ht-degree: 0%
@@ -60,4 +60,4 @@ Saiba mais sobre o processo de fazer logon no Portal de administração do Adobe
 * Entender a criação e o gerenciamento de funções
 * Entenda a atribuição de usuários e os níveis de acesso. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3433518?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433512?learn=on)

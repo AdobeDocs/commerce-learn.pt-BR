@@ -39,7 +39,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -62,8 +62,8 @@ Saiba como personalizar a experiência de entrega do carrinho do Edge Delivery S
 * Implementação da finalização em várias etapas
 * Reutilizar código e práticas recomendadas existentes
 
->[!VIDEO](https://video.tv.adobe.com/v/3442655?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442650?learn=on)
 
 ## Documentação adicional
 
-* [Checkout de várias etapas](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/?lang=pt-BR)
+* [Checkout de várias etapas](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/checkout/tutorials/multi-step/)

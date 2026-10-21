@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -63,4 +63,4 @@ A Adobe Commerce está facilitando o crescimento das empresas, ajudando-as a mig
 * A extensibilidade do App Builder permite que a lógica personalizada seja dissociada em funções sem servidor para facilitar a manutenção.
 * As melhorias nas vitrines melhoram o desempenho e a criação de conteúdo com componentes integrados e entrega de borda.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475753?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)

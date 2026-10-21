@@ -52,14 +52,14 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
 ---
 # Integrar o Adobe Commerce e o Adobe Journey Optimizer
 
-Saiba como você pode usar a [Conexão de Dados](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=pt-BR){target="blank"} no Adobe Commerce para desbloquear dados do Commerce e fornecer experiências completas e personalizadas aos compradores em tempo real com a ajuda da Adobe Journey Optimizer.
+Saiba como você pode usar a [Conexão de Dados](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="blank"} no Adobe Commerce para desbloquear dados do Commerce e fornecer experiências completas e personalizadas aos compradores em tempo real com a ajuda da Adobe Journey Optimizer.
 
 ## Para quem é este vídeo?
 
@@ -76,9 +76,9 @@ Saiba como você pode usar a [Conexão de Dados](https://experienceleague.adobe.
 * No Adobe Journey Optimizer, crie e ative facilmente jornadas 1:1 do cliente, usando eventos prontos para uso que estão disponíveis com a conexão de dados
 * Interaja com compradores em todos os canais em tempo real usando os recursos nativos de mensagens do Adobe Journey Optimizer
 
->[!VIDEO](https://video.tv.adobe.com/v/3452473?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426855?learn=on)
 
 ## Recursos adicionais
 
-[Visão Geral da Conexão de Dados](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html?lang=pt-BR){target="_blank"}
-[Instalar Conexão de Dados](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html?lang=pt-BR){target="_blank"}
+[Visão Geral da Conexão de Dados](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/overview.html){target="_blank"}
+[Instalar Conexão de Dados](https://experienceleague.adobe.com/docs/commerce-merchant-services/data-connection/fundamentals/install.html){target="_blank"}

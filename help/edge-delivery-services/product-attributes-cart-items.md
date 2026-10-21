@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -67,9 +67,9 @@ Saiba como usar o menu suspenso do carrinho do Adobe Commerce e ajustar o fluxo 
 * Desconto de cupom exibido usando regras de carrinho e slots de rodapé para exibir essas informações de forma eficaz.
 * Usar atributos de produto e Slots para estender e personalizar a funcionalidade do carrinho de compras, garantindo que todos os requisitos do projeto sejam atendidos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441121?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441114?learn=on)
 
 
 ## Documentação adicional
 
-* [Adicionar linhas de produto ao carrinho](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/?lang=pt-BR)
+* [Adicionar linhas de produto ao carrinho](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/add-product-lines-to-cart-summary/)

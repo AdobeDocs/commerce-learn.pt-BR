@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -65,8 +65,8 @@ Saiba como usar o menu suspenso do carrinho do Adobe Commerce e ajustar a experi
 * Saiba como incluir um valor total salvo no resumo do carrinho.
 * Entenda como mesclar linhas no resumo do carrinho em uma seção que pode ser recolhida.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441190?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441185?learn=on)
 
 ## Documentação adicional
 
-* [Resumo do pedido](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/?lang=pt-BR)
+* [Resumo do pedido](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/order-summary-lines/)

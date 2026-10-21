@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -63,9 +63,9 @@ A equipe de suporte da Adobe Commerce e a comunidade da Magento Open Source dese
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412499?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344000?learn=on)
 
 ## Recursos adicionais
 
-* [Ferramenta de correção de qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=pt-BR)
+* [Ferramenta de correção de qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html)
 * [Ferramenta de correção de qualidade no GitHub](https://github.com/magento/quality-patches)

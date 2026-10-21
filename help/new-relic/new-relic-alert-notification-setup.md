@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -61,4 +61,4 @@ Saiba como localizar alertas, políticas, fluxos de trabalho e destinos no New R
 * Saiba mais sobre notificações de alerta, políticas e fluxos de trabalho
 * Salvar o destino e validar o novo email foi adicionado a uma política
 
->[!VIDEO](https://video.tv.adobe.com/v/3441206?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3432774?learn=on)

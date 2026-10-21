@@ -44,7 +44,7 @@ topic_v2:
     internal-label: Personalization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -69,8 +69,8 @@ No front-end, a experiência com implementações headless pode simplificar o pr
 * Saiba mais sobre considerações de front-end e back-end.
 * Planeje uma migração tranquila, avaliando os módulos existentes, atualizando os aplicativos principais e integrando com outras soluções da Adobe.
  
->[!VIDEO](https://video.tv.adobe.com/v/3447449?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435682?learn=on)
 
 ## Documentação relacionada
 
-[O que é o Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/about)
+[O que é o Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/start/about)

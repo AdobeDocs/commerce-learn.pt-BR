@@ -49,7 +49,7 @@ topic_v2:
     internal-label: Insights
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
     internal-label: Customer profiles
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '230'
 ht-degree: 0%
@@ -72,4 +72,4 @@ As ferramentas de extensibilidade, como a malha de API e o gerenciamento unifica
 * A Adobe Commerce oferece serviços combináveis, como pesquisa ao vivo, recomendações de IA e soluções de pagamento flexíveis.
 * Integração avançada, incluindo API Mesh, gerenciamento unificado de eventos e integração perfeita do Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433440?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433435?learn=on)

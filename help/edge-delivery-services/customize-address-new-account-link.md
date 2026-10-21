@@ -45,7 +45,7 @@ topic_v2:
     internal-label: Customer experience
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 0%
@@ -72,8 +72,8 @@ As funções que se beneficiam da leitura desta transcrição incluem:
 * Validação e tratamento de erros para os campos de entrada de endereço, garantindo que os usuários recebam feedback imediato sobre entradas incorretas ou incompletas, melhorando a experiência do usuário.
 * Extensão do Painel da conta do usuário que adiciona um novo item de menu da barra lateral ao painel da conta do usuário.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442911?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442787?learn=on)
 
 ## Documentação adicional
 
-* [Conta de usuário](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account?lang=pt-BR)
+* [Conta de usuário](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/user-account)

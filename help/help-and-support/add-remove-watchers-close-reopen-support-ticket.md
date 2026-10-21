@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -49,8 +49,8 @@ Saiba como adicionar e remover observadores, bem como fechar e reabrir um tíque
 * Saiba como fechar um tíquete de suporte
 * Saiba como reabrir um tíquete de suporte
 
->[!VIDEO](https://video.tv.adobe.com/v/3441357?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433082?learn=on)
 
 ## Guia da Central de ajuda da Adobe da Base de conhecimento Commerce
 
-[Enviar um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Enviar um caso de suporte](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

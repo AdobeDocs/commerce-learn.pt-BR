@@ -42,7 +42,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -62,10 +62,10 @@ Saiba mais sobre os fluxos de trabalho do GitHub incluídos no kit inicial da AP
 * O workflow deployMesh que implanta ou atualiza automaticamente uma malha
 * Teste de carga com o fluxo de trabalho de teste de carga do K6
 
->[!VIDEO](https://video.tv.adobe.com/v/3464529?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464524?learn=on)
 
 ## Documentação relacionada
 
 * [Repo GitHub do kit inicial da malha da API](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [Guia de implementação do servidor para servidor do Adobe Developer OAuth](https://developer.adobe.com/developer-console/docs/guides/authentication/ServerToServerAuthentication/implementation)
-* [Lista de reprodução de vídeos da API Mesh](https://experienceleague.adobe.com/pt-br/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Lista de reprodução de vídeos da API Mesh](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

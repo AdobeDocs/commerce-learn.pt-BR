@@ -37,7 +37,7 @@ topic_v2:
     internal-label: Troubleshooting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -58,7 +58,7 @@ Saiba como a Telemetria aberta padroniza a observabilidade em logs, rastreamento
 * Correlacionar logs, rastreamentos e métricas para agilizar a análise da causa principal
 * Manter ferramentas de monitoramento existentes ao unificar fluxos de dados
 
->[!VIDEO](https://video.tv.adobe.com/v/3478328?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3478287?learn=on)
 
 {{$include /help/_includes/app-builder-observability-related-links.md}}
 

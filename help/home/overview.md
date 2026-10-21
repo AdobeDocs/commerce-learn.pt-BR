@@ -54,14 +54,14 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
 ---
 # Tutoriais do Commerce {#videos}
 
-Bem-vindo à coleção de vídeos e tutoriais do [!DNL Commerce]. O uso desses recursos, juntamente com a [documentação](https://experienceleague.adobe.com/docs/commerce.html?lang=pt-BR), oferece uma oportunidade de aprender a usar o Adobe Commerce e o Magento Open Source para apoiar seus negócios de comércio eletrônico. A coleção foi projetada para fornecer conteúdo útil para desenvolvedores de back-end e front-end, administradores de sistema, comerciantes e outras funções na organização.
+Bem-vindo à coleção de vídeos e tutoriais do [!DNL Commerce]. O uso desses recursos, juntamente com a [documentação](https://experienceleague.adobe.com/docs/commerce.html), oferece uma oportunidade de aprender a usar o Adobe Commerce e o Magento Open Source para apoiar seus negócios de comércio eletrônico. A coleção foi projetada para fornecer conteúdo útil para desenvolvedores de back-end e front-end, administradores de sistema, comerciantes e outras funções na organização.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -72,11 +72,11 @@ Bem-vindo à coleção de vídeos e tutoriais do [!DNL Commerce]. O uso desses r
 
 >[!TIP]
 >
->O espaço [Eventos Commerce](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html?lang=pt-BR) fornece acesso ao conteúdo de eventos gravados que você pode assistir sob demanda.
+>O espaço [Eventos Commerce](https://experienceleague.adobe.com/docs/commerce-events/events/overview.html) fornece acesso ao conteúdo de eventos gravados que você pode assistir sob demanda.
 
 ## Recursos adicionais
 
-* [Documentação do comerciante](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=pt-BR)
+* [Documentação do comerciante](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
 * [Documentação do desenvolvedor](https://developer.adobe.com/commerce)
 * [Serviços de aprendizado digital da Adobe - Catálogo de cursos da Adobe Commerce](https://learning.adobe.com/catalog.html?solution=Adobe%20Commerce)
 

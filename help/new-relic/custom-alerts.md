@@ -35,7 +35,7 @@ topic_v2:
     internal-label: Reporting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -56,4 +56,4 @@ Saiba como criar alertas personalizados no New Relic para monitorar o tráfego d
 * Entender como os limites para alertas podem ser definidos com base na agregação de dados.
 * Configure alertas com níveis de severidade e atribuídos a políticas existentes para controlar workflows e destinos de notificação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3440776?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3440771?learn=on)

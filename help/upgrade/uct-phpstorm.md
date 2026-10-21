@@ -37,7 +37,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -63,10 +63,10 @@ Neste vídeo:
 * Instale e execute o UCT do PhpStorm.
 * Revise relatórios do HTML e priorize correções.
 
->[!VIDEO](https://video.tv.adobe.com/v/344409?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340150?learn=on)
 
 ## Recursos adicionais
 
-* [Ferramenta de compatibilidade de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html?lang=pt-BR){target="_blank"}
+* [Ferramenta de compatibilidade de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/upgrade-compatibility-tool/overview.html){target="_blank"}
 * [Plug- in Magento PhpStorm](https://plugins.jetbrains.com/plugin/8024-magento-phpstorm){target="_blank"}
-* [Versões lançadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=pt-BR){target="_blank"}
+* [Versões lançadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html){target="_blank"}
