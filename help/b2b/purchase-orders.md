@@ -10,9 +10,6 @@ role: User
 level: Intermediate
 jira: KT-10683
 exl-id: 3384e6df-5f42-470e-825c-4645d7c7c4a2
-subFeature_v2:
-  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
-    internal-label: B2B
 autotag-review: '2026-08-11T19:20:38.275Z'
 TQID: 'https://experienceleague.adobe.com/IEoKp3qmLkFH-CZcCab7t7aMWjfBXd2hGHLXaZjYz-8'
 product_v2:
@@ -34,6 +31,8 @@ subfeature_v2:
     internal-label: Purchase Orders
   - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
     internal-label: B2B
+  - id: f56d26ed-050b-4fb7-b29b-8e6e994e80a2
+    internal-label: B2B
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -47,7 +46,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 1%
