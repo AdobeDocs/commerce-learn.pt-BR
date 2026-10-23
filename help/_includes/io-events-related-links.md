@@ -3,11 +3,9 @@ title: Páginas relacionadas a eventos de E/S
 description: Links para páginas relacionadas em eventos do IO
 source-git-commit: bc425e44acbd8cf726a7f947065cc59daa785b62
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '63'
 ht-degree: 0%
-
 ---
-
 # Links relacionados a eventos de E/S
 
 ## Tutoriais adicionais relacionados
@@ -22,4 +20,4 @@ ht-degree: 0%
 
 ## Documentação do Adobe Developer
 
-* [Visão Geral de Eventos Adobe I/O para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
+* [Visão geral do Adobe I/O Events para Adobe Commerce](https://developer.adobe.com/commerce/events/get-started/){target="_blank"}
