@@ -13,13 +13,19 @@ badgePaas: label="Somente PaaS" type="Informative" url="https://experienceleague
 TQID: https://experienceleague.adobe.com/9yoa98zpynf9EoG1Plzead9I4v-X-0dSBhNPkdqW-38
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 source-git-commit: fbed285653d7ed0daa8f6ac947c75e4a03647a23
 workflow-type: tm+mt
 source-wordcount: 157
