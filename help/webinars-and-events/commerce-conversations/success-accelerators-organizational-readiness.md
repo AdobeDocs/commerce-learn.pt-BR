@@ -57,4 +57,4 @@ Saiba mais sobre os aceleradores de sucesso da Adobe para disponibilidade organi
 * Gerenciamento de alterações e estratégias de comunicação
 * Análise digital e avaliação de desempenho
 
->[!VIDEO](https://video.tv.adobe.com/v/3457892?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505734?captions=por_br&learn=on)

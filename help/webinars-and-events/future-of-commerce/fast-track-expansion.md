@@ -58,7 +58,7 @@ Descubra como a Adobe Commerce capacita as empresas a acelerar sua expansão dig
 * Integração contínua de sortimentos de produtos originais e de terceiros
 * Desenvolvimento acelerado de vitrines com Drop-ins e temas
 
->[!VIDEO](https://video.tv.adobe.com/v/3458518?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505304?captions=por_br&learn=on)
 
 ## Vídeos adicionais nesta série
 

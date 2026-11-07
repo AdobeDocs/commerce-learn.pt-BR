@@ -66,7 +66,7 @@ Saiba como desenvolver um módulo simples do JavaScript que mostre a saudação 
 * Conecte o script por meio de uma atualização de layout e modelo.
 * Verifique a saudação na página.
 
->[!VIDEO](https://video.tv.adobe.com/v/35790?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507647?captions=por_br&learn=on)
 
 ## Recursos úteis
 

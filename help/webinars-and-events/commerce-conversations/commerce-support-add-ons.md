@@ -54,4 +54,4 @@ A Adobe Commerce oferece suporte abrangente ao cliente por meio de vários plano
 * Saiba quais são os complementos disponíveis.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457545?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505276?captions=por_br&learn=on)
