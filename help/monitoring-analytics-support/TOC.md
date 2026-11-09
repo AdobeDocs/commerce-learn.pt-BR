@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Monitoramento, análise e suporte {#monitoring-analytics-support}
 
-+ [Página inicial dos tutoriais do Commerce](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/overview)
++ [Página inicial dos tutoriais do Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/overview)
 + Ajuda e suporte {#help-and-support}
   + [Criar um tíquete de suporte](help-and-support/create-a-support-ticket.md)
   + [Pesquisar, rastrear, comentar e encaminhar tíquete de suporte](help-and-support/search-track-comment-escalate-support-ticket.md)
