@@ -69,7 +69,7 @@ Neste vídeo:
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/342407?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/346399?captions=por_br&learn=on)
 
 ## Recursos úteis
 
