@@ -3,10 +3,10 @@ title: Commerce Intelligence - Report Builder de coorte
 description: Saiba como usar o Commerce Intelligence Cohort Report Builder para criar relatórios e análises otimizados que sejam relevantes para sua empresa.
 landing-page-description: Assista a este vídeo para saber como usar o Commerce Intelligence Cohort Report Builder para criar relatórios e análises otimizados que sejam relevantes para sua empresa.
 short-description: Assista a este vídeo para saber como usar o Commerce Intelligence Cohort Report Builder para criar relatórios e análises otimizados que sejam relevantes para sua empresa.
-kt: 10288
-doc-type: feature video
+jira: KT-10288
+doc-type: Technical Video
 duration: 103
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 audience: all
 activity: use
 last-substantial-update: 2023-2-10
@@ -43,13 +43,11 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
-source-wordcount: 262
+source-wordcount: '262'
 ht-degree: 0%
-
 ---
-
 # Commerce Intelligence - Report Builder de coorte
 
 Você já quis estudar como diferentes subconjuntos de usuários se comportam ao longo do tempo? Por exemplo, você já se perguntou se os usuários que se registram durante um período promocional têm uma receita média por vida maior do que os usuários que não têm? Se a resposta for _Sim_, o Report Builder de coorte é a ferramenta perfeita para você. O Commerce Intelligence é otimizado para realizar essa análise e torná-la relevante para sua empresa.

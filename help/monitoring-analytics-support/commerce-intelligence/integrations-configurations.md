@@ -1,9 +1,9 @@
 ---
-title: Integrações do Adobe Commerce Intelligence e algumas configurações básicas
+title: Integrações e configuração do Adobe Commerce Intelligence
 description: Saiba mais sobre as integrações do Adobe Commerce Intelligence e algumas configurações que ajudam a criar relatórios e painéis
 feature: Cloud
 topic: Commerce, Administration
-solution: Commerce,Commerce Intelligence
+solution: Adobe Commerce
 old-role: Architect, Developer
 role: Developer
 level: Intermediate
@@ -11,7 +11,6 @@ doc-type: Technical Video
 duration: 543
 last-substantial-update: 2024-04-03T00:00:00.000Z
 jira: KT-15213
-kt: 15213
 exl-id: 56ee5ec9-803c-4ec3-a620-d4e5185ca707
 TQID: 'https://experienceleague.adobe.com/cb4QUFyIgYlMHdF7uMdg420zfbryRJl4aD2mSKxYdBc'
 product_v2:
@@ -45,9 +44,9 @@ topic_v2:
     internal-label: Data integration
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '114'
 ht-degree: 0%
 ---
 # Integrações e configurações do Adobe Commerce Intelligence
