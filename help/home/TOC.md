@@ -4,9 +4,9 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
+source-git-commit: 0109e556addb09b7f930793feadc8ed245757f5a
 workflow-type: tm+mt
-source-wordcount: '1003'
+source-wordcount: '1007'
 ht-degree: 3%
 ---
 
@@ -112,7 +112,7 @@ ht-degree: 3%
     + [Conclusão](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [simulação do App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Desenvolvimento de back-end {#backend-development}
-    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Criar um módulo](../backend-development/create-module.md)
     + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
     + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
@@ -210,18 +210,22 @@ ht-degree: 3%
     + [Criar malha de API do GraphQL de origem única](../api-mesh/graphql-single-source.md)
     + [Criar várias malhas de API do GraphQL de origem](../api-mesh/graphql-multiple-source.md)
 
-+ Observabilidade {#observability}
-  + [Visão geral da capacidade de observação](../observability/overview.md)
-  + [Abrir Telemetria](../observability/open-telemetry.md)
-  + [Instalação e configuração da demonstração](../observability/demo-setup-configuration.md)
-  + [Demonstração](../observability/demo.md)
 + Arquitetura de referência global {#global-reference-architecture-implementation-techniques}
   + [Visão geral](../global-reference-architecture/overview.md)
   + [Dividir Git](../global-reference-architecture/split-git.md)
   + [Pacotes em massa](../global-reference-architecture/bulk-packages.md)
   + [Pacotes separados](../global-reference-architecture/separate-packages.md)
   + [Monorepo](../global-reference-architecture/monorepo.md)
-+ [Monitoramento, análise e suporte](https://experienceleague.adobe.com/en/docs/commerce-learn/monitoring-analytics-support/help-and-support/create-a-support-ticket)
++ Monitoramento, análise e suporte {#monitoring-analytics-support}
+  + Observabilidade {#observability}
+    + [Visão geral da capacidade de observação](../monitoring-analytics-support/observability/overview.md)
+    + [OpenTelemetry](../monitoring-analytics-support/observability/open-telemetry.md)
+    + [Instalação e configuração da demonstração](../monitoring-analytics-support/observability/demo-setup-configuration.md)
+    + [Demonstração](../monitoring-analytics-support/observability/demo.md)
+  + Ajuda e suporte {#help-and-support}
+    + [Criar um tíquete de suporte](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
+    + [Pesquisar, revisar, comentar e escalonar tíquetes de suporte](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
+    + [Gerenciar observadores e status de tíquetes de suporte](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
 + Administração de armazenamento {#admin}
   + [Gerenciar funções e permissões de usuário](../site-management/users-roles-permissions.md)
