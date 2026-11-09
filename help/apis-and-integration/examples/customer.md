@@ -1,0 +1,281 @@
+---
+title: Explorar novas APIs REST do cliente
+description: Descubra como usar as novas APIs REST do cliente no Adobe Commerce Cloud Service. Ideal para arquitetos e desenvolvedores.
+feature: REST, Customers, Saas
+topic: Development, Integrations
+role: Developer
+level: Beginner
+doc-type: Tutorial
+duration: 457
+last-substantial-update: 2026-01-27T00:00:00.000Z
+jira: KT-20160
+exl-id: f40d9b21-1f41-4c76-84a9-161168dbfb1a
+TQID: 'https://experienceleague.adobe.com/DiP21e4T-iLM-IuOVDVkJIvHOJ6y-q4IIdSKVplxcX0'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: bd989d82-1e15-4534-88db-f1f51dd77ffa
+    internal-label: Accounts
+  - id: c32adafa-ed01-4b31-997e-2413013911b0
+    internal-label: Integrations
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
+    internal-label: Architecture
+  - id: 22bad240-8308-569b-a9d5-578f1ff890ca
+    internal-label: Customers
+  - id: d3b92bef-63fa-5031-a925-d04d9362d616
+    internal-label: Saas
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: f8ddfd3b-6194-46e8-a176-0e918039be56
+    internal-label: Cloud architecture
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
+source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
+workflow-type: tm+mt
+source-wordcount: '509'
+ht-degree: 0%
+---
+# API REST do cliente
+
+Saiba como usar as novas APIs REST do cliente no Adobe Commerce as a Cloud Service. Este tutorial é perfeito para arquitetos e desenvolvedores que buscam integrar e otimizar as soluções de API de maneira eficaz.
+
+## Para quem é este vídeo?
+
+* Desenvolvedores de back-end responsáveis por criar integrações com o Adobe Commerce
+* Arquitetos técnicos projetando workflows de gerenciamento de clientes para implementações de comércio headless
+
+## Conteúdo de vídeo
+
+* Autentique com o Adobe IMS usando credenciais de servidor para servidor para obter um token de acesso para solicitações de API
+* Use o formato correto de endpoint da API REST para o Commerce as a Cloud Service
+* Criar e atualizar contas de cliente de forma programática usando solicitações POST e PUT com cargas JSON adequadas
+
+>[!VIDEO](https://video.tv.adobe.com/v/3479361?learn=on)
+
+## Amostras de código
+
+Antes de iniciar, colete todos os valores necessários da [Experience Cloud](https://experience.adobe.com) e da [Adobe Developer Console](https://developer.adobe.com/console). Ter esses valores prontos garante um processo de configuração tranquilo.
+
+>[!NOTE]
+>
+>Verifique se você está trabalhando na organização correta. A seleção de sua organização afeta quais instâncias e ambientes estão visíveis na Experience Cloud e na Developer Console.
+
+### Detalhes da instância - experience.adobe.com
+
+Os detalhes da instância contêm informações como ID da instância, endpoints do GraphQL e credenciais.
+
+### Detalhes do desenvolvedor - developer.adobe.com/console
+
+[developer.adobe.com/console](https://developer.adobe.com/console/)
+
+O Developer Console é onde você gerencia as credenciais da API, incluindo IDs do cliente, segredos do cliente e tokens de acesso. Você também pode criar novos tipos de credenciais, como autenticação de Servidor para Servidor ou de Aplicativo Nativo.
+
+## Pré-requisitos
+
+| Item | Valor | Onde é este valor |
+|--- |--- |--- |
+| ID da instância | `<instance_id>` | experience.adobe.com |
+| Endpoint REST | `<rest_endpoint>` | experience.adobe.com |
+| ID do cliente | `<client_id>` | developer.adobe.com/console |
+| Segredo do cliente | `<client_secret>` | developer.adobe.com/console |
+
+## Etapa 1: Obter Token de Acesso (Autenticação de Servidor para Servidor)
+
+>[!IMPORTANT]
+>
+> As variáveis mostradas neste exemplo não são válidas. Use o &lt;client_id> e o &lt;client_secret> das credenciais do projeto.
+
+```bash
+curl -X POST 'https://ims-na1.adobelogin.com/ims/token/v3' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -d 'grant_type=client_credentials&client_id=<client_id>&client_secret=<client_secret>&scope=openid,AdobeID,email,additional_info.projectedProductContext,profile,commerce.aco.ingestion,commerce.accs,org.read,additional_info.roles'
+```
+
+**Exemplo de resposta:**
+
+```json
+{
+  "access_token": "eyJhbGciOiJSUzI1NiIs...",
+  "token_type": "bearer",
+  "expires_in": 86399
+}
+```
+
+## Etapa 2: Criar um Cliente
+
+>[!IMPORTANT]
+>
+> O URL fornecido nesta amostra não é válido. Use seu URL base REST. Troque &#39;&lt;rest_endpoint>&#39; por seu URL. É semelhante a este `https://na1-sandbox.api.commerce.adobe.com/AbCYab34cdEfGHiJ27123`.
+>
+> Esse endpoint não tem /rest/ como parte do URL. Incluir isso leva a um erro.
+
+**Ponto de extremidade:** `POST /V1/customers`
+
+```bash
+curl -X POST \
+  "<rest_endpoint>/V1/customers" \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer <ACCESS_TOKEN>" \
+  -d '{
+    "customer": {
+      "email": "john.doe@example.com",
+      "firstname": "John",
+      "lastname": "Doe",
+      "store_id": 1,
+      "website_id": 1
+    },
+    "password": "TempPa55word!"
+  }'
+```
+
+**Resposta:**
+
+```json
+{
+  "id": 5,
+  "group_id": 1,
+  "created_at": "2026-01-23 20:40:15",
+  "updated_at": "2026-01-23 20:40:15",
+  "created_in": "Default Store View",
+  "email": "john.doe@example.com",
+  "firstname": "John",
+  "lastname": "Doe",
+  "store_id": 1,
+  "website_id": 1,
+  "addresses": [],
+  "disable_auto_group_change": 0
+}
+```
+
+## Etapa 3: Atualizar um Cliente
+
+>[!IMPORTANT]
+>
+> O URL fornecido nesta amostra não é válido. Use seu URL base REST. Troque &#39;&lt;rest_endpoint>&#39; por seu URL. É semelhante a este `https://na1-sandbox.api.commerce.adobe.com/AbCYab34cdEfGHiJ27123`.
+
+O número `5` no exemplo a seguir é a ID do cliente criado anteriormente usando o POST `"id": 5,`. Certifique-se de alterar `5` para qualquer ID retornada em sua solicitação.
+
+**Ponto de extremidade:** `PUT /V1/customers/{customerId}`
+
+```bash
+curl -X PUT \
+  "<rest_endpoint>/V1/customers/5" \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer <ACCESS_TOKEN>" \
+  -d '{
+    "customer": {
+      "id": 5,
+      "email": "john.doe@example.com",
+      "firstname": "John",
+      "lastname": "Doe-Updated"
+    }
+  }'
+```
+
+**Resposta:**
+
+```json
+{
+  "id": 5,
+  "group_id": 1,
+  "created_at": "2026-01-23 20:40:15",
+  "updated_at": "2026-01-23 20:40:30",
+  "created_in": "Default Store View",
+  "email": "john.doe@example.com",
+  "firstname": "John",
+  "lastname": "Doe-Updated",
+  "store_id": 1,
+  "website_id": 1,
+  "addresses": []
+}
+```
+
+## Script completo (all-in-one)
+
+>[!IMPORTANT]
+>
+> As variáveis mostradas neste exemplo não são válidas. Use a ID do cliente e o segredo do cliente das credenciais do projeto. Use seu URL base REST. Troque &#39;&lt;rest_endpoint>&#39; pela URL do ponto de extremidade REST de experience.adobe.com. É semelhante a este `https://na1-sandbox.api.commerce.adobe.com/AbCDefGHiJ1234567`.
+
+```bash
+#!/bin/bash
+
+# Configuration be sure to update these with your projects unique values
+CLIENT_ID="<client_id>"
+CLIENT_SECRET="<client_secret>"
+REST_ENDPOINT="<rest_endpoint>"
+
+# Step 1: Get Access Token
+echo "Getting access token..."
+ACCESS_TOKEN=$(curl -s -X POST 'https://ims-na1.adobelogin.com/ims/token/v3' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -d "grant_type=client_credentials&client_id=${CLIENT_ID}&client_secret=${CLIENT_SECRET}&scope=openid,AdobeID,email,additional_info.projectedProductContext,profile,commerce.aco.ingestion,commerce.accs,org.read,additional_info.roles" | jq -r '.access_token')
+
+echo "Token obtained: ${ACCESS_TOKEN:0:50}..."
+
+# Step 2: Create Customer
+echo ""
+echo "Creating customer..."
+CREATE_RESPONSE=$(curl -s -X POST \
+  "${REST_ENDPOINT}/V1/customers" \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer ${ACCESS_TOKEN}" \
+  -d '{
+    "customer": {
+      "email": "john.doe@example.com",
+      "firstname": "John",
+      "lastname": "Doe",
+      "store_id": 1,
+      "website_id": 1
+    },
+    "password": "TempPa55word!"
+  }')
+
+echo "Create Response:"
+echo "$CREATE_RESPONSE" | jq .
+
+# Extract customer ID
+CUSTOMER_ID=$(echo "$CREATE_RESPONSE" | jq -r '.id')
+echo "Customer ID: $CUSTOMER_ID"
+
+# Step 3: Update Customer
+echo ""
+echo "Updating customer..."
+curl -s -X PUT \
+  "${REST_ENDPOINT}/V1/customers/${CUSTOMER_ID}" \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer ${ACCESS_TOKEN}" \
+  -d "{
+    \"customer\": {
+      \"id\": ${CUSTOMER_ID},
+      \"email\": \"john.doe@example.com\",
+      \"firstname\": \"john\",
+      \"lastname\": \"Doe-Updated\"
+    }
+  }" | jq .
+```
+
+## Observações importantes sobre este tutorial
+
+1. **Caminho da URL**: Usar `https://<server>.api.commerce.adobe.com/<tenant-id>/V1/customers` — **NÃO** `https://<host>/rest/<store-view-code>/V1/customers`
+1. **Autenticação**: este tutorial usou Servidor a Servidor (tipo de concessão `client_credentials`)
+1. **Escopo Necessário**: `commerce.accs`
+1. **Expiração do token**: 86.400 segundos (24 horas)
+
+## Referências
+
+* [Notas de versão do Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/release-notes)
+* [Referência da API REST SaaS](https://developer.adobe.com/commerce/webapi/reference/rest/saas/)
+* [Guia de autenticação do usuário](https://developer.adobe.com/commerce/webapi/rest/authentication/user/)

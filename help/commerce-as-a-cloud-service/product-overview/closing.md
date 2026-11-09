@@ -6,6 +6,7 @@ topic: Commerce, Performance
 role: Developer, User
 level: Beginner
 doc-type: Technical Video
+jira: KT-20096
 duration: 47
 last-substantial-update: 2026-01-12T00:00:00.000Z
 exl-id: ed5829aa-7407-47cc-bf39-de6c7e31a10f
@@ -31,7 +32,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
