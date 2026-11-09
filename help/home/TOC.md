@@ -4,9 +4,9 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 43c67e910e10d5db0f8c14ea24ba97ba89bd35d2
+source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
 workflow-type: tm+mt
-source-wordcount: '1006'
+source-wordcount: '1003'
 ht-degree: 3%
 ---
 
@@ -112,7 +112,7 @@ ht-degree: 3%
     + [Conclusão](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [simulação do App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Desenvolvimento de back-end {#backend-development}
-    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Criar um módulo](../backend-development/create-module.md)
     + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
     + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
@@ -221,10 +221,7 @@ ht-degree: 3%
   + [Pacotes em massa](../global-reference-architecture/bulk-packages.md)
   + [Pacotes separados](../global-reference-architecture/separate-packages.md)
   + [Monorepo](../global-reference-architecture/monorepo.md)
-+ Ajuda e suporte {#help-and-support}
-  + [Criar um tíquete de suporte](../help-and-support/create-a-support-ticket.md)
-  + [Pesquisar, rastrear, comentar e encaminhar tíquete de suporte](../help-and-support/search-track-comment-escalate-support-ticket.md)
-  + [Adicionar e remover observadores, fechar e reabrir um tíquete](../help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
++ [Monitoramento, análise e suporte](https://experienceleague.adobe.com/en/docs/commerce-learn/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 + Administração de armazenamento {#admin}
   + [Gerenciar funções e permissões de usuário](../site-management/users-roles-permissions.md)
