@@ -4,9 +4,9 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -77,13 +77,22 @@ ht-degree: 3%
     + Práticas recomendadas {#commerce-cloud-best-practices}
       + [Solicitação de suporte](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
       + [Lista de verificação de pré-lançamento](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
+    + Ferramentas de operações {#tools}
+      + [Painel da ferramenta de análise do site](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/site-wide-analysis-tool.md)
+      + [Serviço de patch de automação na nuvem](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/cloud-automation-patching-service.md)
+      + [Observação para Adobe Commerce](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/observation-tool.md)
+      + [Visão geral da ferramenta Correção de qualidade](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool-overview.md)
+      + [Ferramenta de correção de qualidade](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool.md)
+      + New Relic {#new-relic}
+        + [Localizar um IP mal-intencionado](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
+        + [Configuração de notificação de alerta](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
+        + [Alertas personalizados](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
 + Introdução {#getting-started}
   + Recursos do Commerce {#capabilities}
     + [Opções de comércio disponíveis](../capabilities/adobes-available-commerce-options.md)
     + [Conexão de dados](../capabilities/data-connection.md)
     + [Demonstração completa do Live Search](../capabilities/live-search-full-demonstration.md)
     + [Commerce combinável](../capabilities/what-is-composable-commerce.md)
-    + [Ferramenta Correção de qualidade](../capabilities/quality-patch-tool.md)
   + Criar produtos {#create-products}
     + [Produto simples](../site-management/create-simple-product.md)
     + [Produto virtual](../site-management/create-virtual-product.md)
@@ -115,7 +124,7 @@ ht-degree: 3%
     + [Conclusão](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [simulação do App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Desenvolvimento de back-end {#backend-development}
-    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Criar um módulo](../backend-development/create-module.md)
     + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
     + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
@@ -299,12 +308,3 @@ ht-degree: 3%
     + [Anotações de item de linha de cotação](../b2b/quote-line-item-notes.md)
     + [GraphQL de desconto do item de linha da cotação](../b2b/quote-graphql-line-item-discount.md)
     + [API REST do desconto do item de linha da cotação](../b2b/quote-rest-api-line-item-notes.md)
-+ Ferramentas e serviços externos {#tools}
-  + [Painel da ferramenta de análise do site](../tools/site-wide-analysis-tool.md)
-  + [Serviço de patch de automação na nuvem](../tools/cloud-automation-patching-service.md)
-  + [Observação para Adobe Commerce](../tools/observation-tool.md)
-  + [Ferramenta de correção de qualidade](../tools/quality-patch-tool.md)
-  + New Relic {#new-relic}
-    + [Localizar um IP mal-intencionado](../new-relic/malicious-ip.md)
-    + [Configuração de notificação de alerta](../new-relic/new-relic-alert-notification-setup.md)
-    + [Alertas personalizados](../new-relic/custom-alerts.md)
