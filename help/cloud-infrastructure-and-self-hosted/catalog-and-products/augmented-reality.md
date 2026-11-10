@@ -87,9 +87,9 @@ Depois que o visitante digitaliza o código QR com seu dispositivo, o item é so
 
 ## Recursos úteis
 
-Visualizador de [AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html){target="_blank"}
-[Gerenciar modelos 3D de produto com o Visualizador de AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html){target="_blank"}
+Visualizador de [AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-overview.html?lang=pt-BR){target="_blank"}
+[Gerenciar modelos 3D de produto com o Visualizador de AR para Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup.html?lang=pt-BR){target="_blank"}
 
 ## Extensão do Adobe Commerce Marketplace
 
-[Instruções de instalação do Visualizador AR](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup#install-the-extension){target="_blank"}
+[Instruções de instalação do Visualizador AR](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/catalog/products/digital-assets/product-3d-model/ar-viewer-setup#install-the-extension){target="_blank"}
