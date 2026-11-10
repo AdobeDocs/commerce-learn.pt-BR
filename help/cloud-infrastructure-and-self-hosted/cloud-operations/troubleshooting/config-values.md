@@ -54,7 +54,7 @@ Este guia fornece uma visão geral abrangente de como localizar, validar e geren
 * Entenda como editar e substituir valores de configuração por meio do painel de administração, do repositório de código e de arquivos específicos do ambiente.
 * Descubra as práticas recomendadas para manter definições de configuração consistentes em diferentes ambientes usando ferramentas como o despejo do aplicativo :config: e a interface do administrador da Adobe Commerce Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/3436458?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505787?captions=por_br&learn=on)
 
 ## Documentação relacionada do Experience League
 
