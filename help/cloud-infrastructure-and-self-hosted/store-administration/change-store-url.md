@@ -59,11 +59,11 @@ Cada site em uma instalação do Adobe Commerce ou do Magento Open Source tem um
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.1.0. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
+>O conteúdo do vídeo reflete a versão 2.1.0. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/notes/overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
 
 ## Recursos adicionais
 
-* [Armazenar URLs - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls)
-* [Usar uma URL de Administrador personalizada - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)
+* [Armazenar URLs - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/stores-sales/site-store/store-urls)
+* [Usar uma URL de Administrador personalizada - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)
