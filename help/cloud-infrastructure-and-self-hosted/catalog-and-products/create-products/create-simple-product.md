@@ -1,0 +1,91 @@
+---
+title: Criar um produto simples
+description: Saiba como criar um produto simples usando a REST API e o administrador do Commerce.
+jira: KT-14446
+doc-type: Technical Video
+duration: 197
+audience: all
+activity: use
+last-substantial-update: 2023-11-14T00:00:00.000Z
+feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
+topic: Commerce, Integrations, Content Management
+role: Developer, User
+level: Beginner
+exl-id: 62ba8e71-dcff-4c72-8850-029be2c42620
+TQID: 'https://experienceleague.adobe.com/LaJ36-CuEiOAzS4VzeONwI6HCfdOFExwuKusXFmqzns'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: c18ed297-2187-4aec-affb-9d9654eca6fc
+    internal-label: Catalog management
+  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
+    internal-label: Backend Development
+  - id: cc04bd17-78d5-5120-8c3d-1b8a57e49280
+    internal-label: Integration
+  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
+    internal-label: Admin tools and workspace
+  - id: c4f010fa-1478-4300-a88d-706fbc036a7a
+    internal-label: APIs and SDKs
+subfeature_v2:
+  - id: bb2df8be-afdd-4818-b6b5-95ca1dd3bc3a
+    internal-label: Admin workspace
+  - id: e0ca0e7a-9738-48d1-b98b-615468ab4aaf
+    internal-label: REST API
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+workflow-type: tm+mt
+source-wordcount: '106'
+ht-degree: 0%
+---
+# Criar um produto simples
+
+Saiba como criar um produto simples usando a REST API e o administrador do Adobe Commerce.
+
+## Para quem é este vídeo?
+
+* Gerentes de sites
+* Merchandisers de comércio eletrônico
+* Novos desenvolvedores do Adobe Commerce que desejam aprender como criar produtos no Adobe Commerce usando a REST API.
+
+## Conteúdo de vídeo
+
+>[!VIDEO](https://video.tv.adobe.com/v/3443907?captions=por_br&learn=on)
+
+## Criar um produto usando o curl
+
+```bash
+curl --location '{{your.url.here}}/rest/default/V1/products' \
+--header 'Content-Type: application/json' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: PHPSESSID=a42da0096288718c9556f77549c6305f; private_content_version=564dde2976849891583a9a649073f01e' \
+--data '{
+  "product": {
+    "sku": "some-product-sku",
+    "name": "My curl created product test",
+    "attribute_set_id": 4,
+    "price": 222,
+    "type_id": "simple"
+  }
+}
+```
+
+## Obter um produto usando o curl
+
+```bash
+curl --location '{{your.url.here}}rest/default/V1/products/some-product-sku' \
+--header 'Authorization: Bearer {{Your Bearer Token}}' \
+--header 'Cookie: private_content_version=3b797a6cc3c5c71f2193109fb9838b12'
+```
+
+## Recursos adicionais
+
+* [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
+* [ReDoc Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}
