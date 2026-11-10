@@ -4,9 +4,9 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
+source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
 workflow-type: tm+mt
-source-wordcount: '1016'
+source-wordcount: '1022'
 ht-degree: 3%
 ---
 
@@ -37,52 +37,62 @@ ht-degree: 3%
     + [Credenciais do Target](../commerce-as-a-cloud-service/bulk-data-migration-tool/target-credentials.md)
     + [Migração monofásica](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-single-phase-migration.md)
     + [Migração de várias fases](../commerce-as-a-cloud-service/bulk-data-migration-tool/bulk-data-migration-tool-multi-phase-migration.md)
-+ Adobe Commerce Cloud {#adobe-commerce-cloud}
-  + Solução de problemas {#troubleshooting}
-    + [SSL inválido](../cloud/troubleshooting/invalid-ssl.md)
-    + [Triagem e resolução de 2 erros comuns do site](../cloud/troubleshooting/triage-two-common-site-errors.md)
-    + [Valores de configuração](../cloud/troubleshooting/config-values.md)
-    + [Truncar logs](../cloud/troubleshooting/truncate-logs.md)
-  + [Gerenciamento de projetos e ambientes](../cloud/project-environment-management.md)
-  + [Como a Adobe Commerce Cloud é dimensionada](../cloud/how-adobe-commerce-cloud-scales.md)
-  + [Hospedagem pronta para HIPAA](../cloud/hippa-ready-hosting.md)
-  + [Detectar endereço IP](../cloud/detect-ip-address.md)
-  + [Marketecture](../cloud/marketecture.md)
-  + [Modelo de entrega global](../cloud/global-delivery-model.md)
-  + [Funções do administrador](../cloud/admin-roles.md)
-  + [Fluxos de marketing](../cloud/marketing-flows.md)
-  + [Opções da vitrine eletrônica](../cloud/storefront-options.md)
-  + [Compartilhamento de dados](../cloud/data-sharing.md)
-  + [Vários sites](../cloud/multiple-websites.md)
-  + [Dados e promoções de clientes potenciais de experiência](../cloud/experience-lead-data-promoitions.md)
-  + [AEM Assets](../cloud/aem-assets.md)
-  + [Migrar de uma solução auto-hospedada](../cloud/overview.md)
-  + [Limitar o acesso usando o Fastly](../cloud/limit-website-access-using-fastly.md)
-  + Integração técnica e transferência de hardware {#technical-onboarding-hardware-handoff}
-    + [Práticas recomendadas de infraestrutura e desenvolvimento](../cloud/infrastructure-development-best-practices.md)
-    + [Fastly](../cloud/fastly.md)
-    + [Configuração e depuração](../cloud/configuration-and-debugging.md)
-    + [Implantações, testes, monitoramento e segurança](../cloud/deployments-testing-monitoring-security.md)
-    + [Ofertas, suporte e comunicações SaaS e próximas etapas](../cloud/saas-offerings-support-communications-next-steps.md)
-  + Práticas recomendadas {#commerce-cloud-best-practices}
-    + [Solicitação de suporte](../cloud/best-practices/support-request.md)
-    + [Lista de verificação de pré-lançamento](../cloud/best-practices/pre-launch-checklist.md)
++ Infraestrutura em nuvem e auto-hospedagem {#cloud-infrastructure-and-self-hosted}
+  + Plataforma e migração {#platform-and-migration}
+    + [Marketecture](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketecture.md)
+    + [Modelo de entrega global](../cloud-infrastructure-and-self-hosted/platform-and-migration/global-delivery-model.md)
+    + [Funções do administrador](../cloud-infrastructure-and-self-hosted/platform-and-migration/admin-roles.md)
+    + [Fluxos de marketing](../cloud-infrastructure-and-self-hosted/platform-and-migration/marketing-flows.md)
+    + [Opções da vitrine eletrônica](../cloud-infrastructure-and-self-hosted/platform-and-migration/storefront-options.md)
+    + [Compartilhamento de dados](../cloud-infrastructure-and-self-hosted/platform-and-migration/data-sharing.md)
+    + [Vários sites](../cloud-infrastructure-and-self-hosted/platform-and-migration/multiple-websites.md)
+    + [Dados e promoções de clientes potenciais de experiência](../cloud-infrastructure-and-self-hosted/platform-and-migration/experience-lead-data-promoitions.md)
+    + [AEM Assets](../cloud-infrastructure-and-self-hosted/platform-and-migration/aem-assets.md)
+    + [Migrar de uma solução auto-hospedada](../cloud-infrastructure-and-self-hosted/platform-and-migration/overview.md)
+    + Migração para o Adobe Commerce {#migrating-to-adobe-commerce}
+      + [Visão geral](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/overview.md)
+      + Preparação {#preparation}
+        + [Avaliar a equipe e o projeto](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
+      + Personalizações {#customizations}
+        + [Padrões de código em andamento](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
+      + QA {#qa}
+        + [Congelamento de código](../cloud-infrastructure-and-self-hosted/platform-and-migration/migrating-to-adobe-commerce/qa/code-freeze.md)
+  + Operações em nuvem {#cloud-operations}
+    + Solução de problemas {#troubleshooting}
+      + [SSL inválido](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/invalid-ssl.md)
+      + [Triagem e resolução de 2 erros comuns do site](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/triage-two-common-site-errors.md)
+      + [Valores de configuração](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/config-values.md)
+      + [Truncar logs](../cloud-infrastructure-and-self-hosted/cloud-operations/troubleshooting/truncate-logs.md)
+    + [Gerenciamento de projetos e ambientes](../cloud-infrastructure-and-self-hosted/cloud-operations/project-environment-management.md)
+    + [Como a Adobe Commerce Cloud é dimensionada](../cloud-infrastructure-and-self-hosted/cloud-operations/how-adobe-commerce-cloud-scales.md)
+    + [Hospedagem pronta para HIPAA](../cloud-infrastructure-and-self-hosted/cloud-operations/hippa-ready-hosting.md)
+    + [Detectar endereço IP](../cloud-infrastructure-and-self-hosted/cloud-operations/detect-ip-address.md)
+    + [Limitar o acesso usando o Fastly](../cloud-infrastructure-and-self-hosted/cloud-operations/limit-website-access-using-fastly.md)
+    + Integração técnica e transferência de hardware {#technical-onboarding-hardware-handoff}
+      + [Práticas recomendadas de infraestrutura e desenvolvimento](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/infrastructure-development-best-practices.md)
+      + [Fastly](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/fastly.md)
+      + [Configuração e depuração](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/configuration-and-debugging.md)
+      + [Implantações, testes, monitoramento e segurança](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security.md)
+      + [Ofertas, suporte e comunicações SaaS e próximas etapas](../cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/saas-offerings-support-communications-next-steps.md)
+    + Práticas recomendadas {#commerce-cloud-best-practices}
+      + [Solicitação de suporte](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/support-request.md)
+      + [Lista de verificação de pré-lançamento](../cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist.md)
+    + Ferramentas de operações {#tools}
+      + [Painel da ferramenta de análise do site](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/site-wide-analysis-tool.md)
+      + [Serviço de patch de automação na nuvem](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/cloud-automation-patching-service.md)
+      + [Observação para Adobe Commerce](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/observation-tool.md)
+      + [Visão geral da ferramenta Correção de qualidade](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool-overview.md)
+      + [Ferramenta de correção de qualidade](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/quality-patch-tool.md)
+      + New Relic {#new-relic}
+        + [Localizar um IP mal-intencionado](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/malicious-ip.md)
+        + [Configuração de notificação de alerta](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup.md)
+        + [Alertas personalizados](../cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/custom-alerts.md)
 + Introdução {#getting-started}
-  + Migração para o Adobe Commerce{#migrating-to-adobe-commerce}
-    + [Visão geral](../migrating-to-adobe-commerce/overview.md)
-    + Preparação{#preparation}
-      + [Avaliar a equipe e o projeto](../migrating-to-adobe-commerce/preparation/evaluate-team-and-project.md)
-    + Personalizações{#customizations}
-      + [Padrões de código em andamento](../migrating-to-adobe-commerce/customizations/in-process-code-standards.md)
-    + QA{#qa}
-      + [Congelamento de código](../migrating-to-adobe-commerce/qa/code-freeze.md)
-
   + Recursos do Commerce {#capabilities}
     + [Opções de comércio disponíveis](../capabilities/adobes-available-commerce-options.md)
     + [Conexão de dados](../capabilities/data-connection.md)
     + [Demonstração completa do Live Search](../capabilities/live-search-full-demonstration.md)
     + [Commerce combinável](../capabilities/what-is-composable-commerce.md)
-    + [Ferramenta Correção de qualidade](../capabilities/quality-patch-tool.md)
   + Criar produtos {#create-products}
     + [Produto simples](../site-management/create-simple-product.md)
     + [Produto virtual](../site-management/create-virtual-product.md)
@@ -298,12 +308,3 @@ ht-degree: 3%
     + [Anotações de item de linha de cotação](../b2b/quote-line-item-notes.md)
     + [GraphQL de desconto do item de linha da cotação](../b2b/quote-graphql-line-item-discount.md)
     + [API REST do desconto do item de linha da cotação](../b2b/quote-rest-api-line-item-notes.md)
-+ Ferramentas e serviços externos {#tools}
-  + [Painel da ferramenta de análise do site](../tools/site-wide-analysis-tool.md)
-  + [Serviço de patch de automação na nuvem](../tools/cloud-automation-patching-service.md)
-  + [Observação para Adobe Commerce](../tools/observation-tool.md)
-  + [Ferramenta de correção de qualidade](../tools/quality-patch-tool.md)
-  + New Relic {#new-relic}
-    + [Localizar um IP mal-intencionado](../new-relic/malicious-ip.md)
-    + [Configuração de notificação de alerta](../new-relic/new-relic-alert-notification-setup.md)
-    + [Alertas personalizados](../new-relic/custom-alerts.md)
