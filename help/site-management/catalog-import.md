@@ -1,8 +1,8 @@
 ---
-title: Saiba mais sobre as opções de importação de catálogo que vêm nativas com o Adobe Commerce
+title: Opções de importação do catálogo nativo no Adobe Commerce
 description: Saiba mais sobre algumas das opções nativas para importar seu catálogo para a loja da Adobe Commerce.
 kt: 13634
-doc-type: tutorial
+doc-type: Tutorial
 duration: 211
 audience: all
 activity: use
@@ -45,9 +45,9 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
 workflow-type: tm+mt
-source-wordcount: '907'
+source-wordcount: '846'
 ht-degree: 0%
 ---
 # Opções de importação de um catálogo
@@ -58,15 +58,15 @@ Escolha uma das opções abaixo para saber mais.
 
 >[!BEGINTABS]
 
->[!TAB Manual 1]
+>Manual[!TAB 1]
 
 ## Criação manual dos produtos {#manual-import}
 
-Se você tiver um catálogo limitado e as atualizações forem pouco frequentes, criá-las manualmente pode ser a melhor opção. É necessário tempo para entrar em cada produto e algum treinamento limitado sobre como usar o administrador do Commerce. O gerenciamento manual de catálogos não é a opção correta para a maioria das lojas, mas, em determinadas situações, pode fazer sentido. Para ver a documentação adicional deste processo, visite [Criar um produto](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/product-create.html?lang=pt-BR){target="_blank"}. Não se esqueça: você pode usar mais de um método para gerenciar o catálogo. No entanto, uma vez que a automação for usada, as edições manuais deverão ser limitadas. As atualizações automatizadas têm a oportunidade de substituir qualquer alteração executada manualmente e, portanto, causar confusão. Quando a integração com o Adobe Commerce para gerenciar o catálogo estiver usando automação e APIs, é recomendável restringir o gerenciamento do catálogo do administrador por meio de [funções e permissões de usuário](https://experienceleague.adobe.com/docs/commerce-admin/systems/user-accounts/permissions-user-roles.html?lang=pt-BR){target="_blank"}.
+Considere a criação manual de produtos para um pequeno catálogo com atualizações pouco frequentes. A entrada de cada produto leva tempo e requer treinamento básico do Administrador do Commerce. O gerenciamento manual de catálogos atende a situações específicas e não à maioria das lojas. Para obter instruções, consulte [Criar um produto](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/product-create){target="_blank"}. Se você combinar métodos de gerenciamento de catálogo, limite as edições manuais depois de introduzir a automação. As atualizações automatizadas correm o risco de substituir alterações manuais e causar confusão. Quando uma integração gerencia o catálogo por meio de automação e APIs, restrinja o gerenciamento de catálogos no Administrador através de [funções e permissões de usuário](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}.
 
 ### Quando considerar esta abordagem
 
-* Catálogo muito pequeno, por exemplo, menos de 50 produtos
+* Catálogo muito pequeno, menos de 50 produtos
 * Atualizações pouco frequentes
 * Você tem todos os detalhes do produto, imagens, vídeos e não quer dedicar tempo para saber como converter os dados em CSV
 * Você deseja incluir a adição de imagens e vídeos ao criar os produtos
@@ -77,7 +77,7 @@ Se você tiver um catálogo limitado e as atualizações forem pouco frequentes,
 ## Ferramenta de importação de CSV do administrador {#admin-csv}
 
 Essa ferramenta permite que o proprietário de uma loja importe um catálogo usando um direito CSV do administrador de comércio.
-[Importar dados do administrador do Commerce](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=pt-BR){target="_blank"}
+[Importar dados do administrador do Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 
 Vantagens:
 Fazer upload de um CSV do administrador é uma abordagem direta para o gerenciamento de catálogos. Ele permite atualizações mais rápidas de produtos de catálogo para um catálogo de tamanho moderado.
@@ -85,7 +85,7 @@ Fazer upload de um CSV do administrador é uma abordagem direta para o gerenciam
 Desvantagens:
 
 * Lento
-* O tamanho máximo do arquivo para upload está definido no servidor e pode não ser facilmente ajustado pelo proprietário da loja.
+* O servidor define o tamanho máximo do arquivo de upload, e os proprietários de lojas nem sempre têm uma maneira fácil de ajustá-lo.
 * Requer acesso de administrador e alguém para executar a ação, a automação é limitada
 * As importações programadas são limitadas a no máximo 1x por dia
 * As imagens e os vídeos associados devem ser carregados separadamente
@@ -94,7 +94,7 @@ Desvantagens:
 
 * O tamanho do catálogo é moderado
 * As atualizações não são feitas mais de uma vez ao dia
-* você tem acesso às configurações do servidor caso precise aumentar o tamanho máximo de upload de arquivo
+* Você tem acesso à configuração do servidor se precisar aumentar o tamanho máximo do arquivo de upload
 * Sua equipe `not` está familiarizada com APIs e como o OAUTH funciona
 
 >[!TAB API REST em massa]
@@ -102,7 +102,7 @@ Desvantagens:
 ## API REST em massa {#bulk-rest-api}
 
 A API REST em massa permite automação e atualizações mais frequentes. Essa API é mais rápida do que usar o upload de administrador do CSV.
-[Documentação de pontos de extremidade em massa](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints/){target="_blank"}
+[Documentação de pontos de extremidade em massa](https://developer.adobe.com/commerce/webapi/rest/use-rest/bulk-endpoints){target="_blank"}
 
 Vantagens:
 A capacidade de importar grandes conjuntos de dados que não estejam no formato CSV.
@@ -110,7 +110,7 @@ A capacidade de importar grandes conjuntos de dados que não estejam no formato 
 Desvantagens:
 
 * As imagens e os vídeos associados devem ser carregados separadamente
-* Pode ser limitado por restrições de largura de banda no provedor de hospedagem
+* Restrições de largura de banda no provedor de hospedagem limitam a taxa de transferência de importação
 
 ### Quando considerar esta abordagem
 
@@ -124,7 +124,7 @@ Desvantagens:
 ## API REST ASSÍNCRONA {#async-rest-api}
 
 Um ponto de extremidade da Web assíncrono intercepta mensagens em uma API da Web e as grava na fila de mensagens. Cada vez que o sistema aceita essa solicitação de API, ele gera um identificador UUID. O Adobe Commerce inclui essa UUID quando adiciona a mensagem à fila. Em seguida, um consumidor lê as mensagens da fila e as executa uma a uma.
-[Documentação assíncrona de pontos de extremidade da Web](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints/){target="_blank"}
+[Documentação assíncrona de pontos de extremidade da Web](https://developer.adobe.com/commerce/webapi/rest/use-rest/asynchronous-web-endpoints){target="_blank"}
 
 Vantagens:
 
@@ -145,7 +145,7 @@ Desvantagens:
 
 ## API REST CSV {#csv-rest-api}
 
-Essa opção de API permite importações extremamente rápidas em comparação a todas as outras opções nativas.
+Essa API importa dados mais rapidamente do que as outras opções nativas.
 
 [Importar API CSV de dados REST](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
 Vantagens:
@@ -157,7 +157,7 @@ Vantagens:
 Desvantagens:
 
 * As imagens e os vídeos associados devem ser carregados separadamente
-* Os dados precisam estar em um formato CSV
+* Os dados precisam estar no formato CSV
 
 ### Quando considerar esta abordagem
 
@@ -171,6 +171,6 @@ Desvantagens:
 ## Recursos adicionais
 
 * [Importar dados usando o novo CSV REST](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [Importar documentação principal de dados](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/import/data-import.html?lang=pt-BR){target="_blank"}
-* [Notas de versão do Adobe Commerce versão 2.4.6](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/adobe-commerce/2-4-6.html?lang=pt-BR){target="_blank"}
-* [Usuários, funções e permissões](../site-management/users-roles-permissions.md){target="_blank"}
+* [Importar documentação principal de dados](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+* [Notas de versão do Adobe Commerce versão 2.4.6](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
+* [Usuários, funções e permissões](../cloud-infrastructure-and-self-hosted/store-administration/users-roles-permissions.md){target="_blank"}
