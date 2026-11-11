@@ -1,6 +1,6 @@
 ---
 title: A pasta de ações
-description: Saiba mais sobre os arquivos e pastas do JavaScript na pasta de ações do App Builder, incluindo a autenticação OAuth e os padrões de conexão do Commerce para seu aplicativo de amostra.
+description: Explore a pasta de ações do App Builder e seus arquivos JavaScript, incluindo a autenticação OAuth e os padrões de conexão do Commerce no aplicativo de amostra.
 jira: KT-21680
 doc-type: Tutorial
 duration: 465
@@ -28,13 +28,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:13.310Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 199
+source-wordcount: '196'
 ht-degree: 0%
-
 ---
-
 # Saiba mais sobre a pasta de ações {#actions-folder}
 
 A pasta `actions` para este aplicativo de exemplo contém alguns arquivos JavaScript e uma pasta chamada `commerce`. O JavaScript mostrado é um arquivo de exemplo útil que pode ser reutilizado se for relevante para o seu trabalho. Esta pasta pode economizar seu tempo em esforços de desenvolvimento ao se conectar ao aplicativo do Adobe Commerce usando OAuth e REST.

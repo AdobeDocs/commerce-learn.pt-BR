@@ -1,6 +1,6 @@
 ---
 title: A pasta de teste
-description: Saiba mais sobre o arquivo de teste de unidade do JavaScript na pasta de teste do App Builder e como ele pode ser expandido para testes abrangentes do seu aplicativo de amostra do Adobe Commerce.
+description: Explore os testes de unidade do JavaScript do aplicativo de amostra do App Builder e saiba como expandi-los em testes abrangentes para integrações do Adobe Commerce.
 jira: KT-21682
 doc-type: Tutorial
 duration: 233
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:25.321Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 122
+source-wordcount: '116'
 ht-degree: 0%
-
 ---
-
 # Saiba mais sobre a pasta de teste {#test-folder}
 
 A pasta `test` para este aplicativo de amostra contém um único arquivo JavaScript, que é usado ao executar testes de unidade no aplicativo.

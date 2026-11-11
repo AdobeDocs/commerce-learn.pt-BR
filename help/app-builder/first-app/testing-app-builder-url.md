@@ -1,6 +1,6 @@
 ---
 title: Teste usando o URL do Adobe Developer App Builder
-description: Saiba como implantar e testar seu primeiro aplicativo do Adobe Developer App Builder usando o URL do projeto, incluindo onde encontrar o URL após uma implantação bem-sucedida.
+description: Saiba como implantar e testar seu aplicativo do Adobe Developer App Builder usando o URL do projeto, incluindo onde encontrar o URL após a implantação.
 jira: KT-21684
 doc-type: Tutorial
 duration: 78
@@ -23,13 +23,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:26.961Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 100
+source-wordcount: '96'
 ht-degree: 0%
-
 ---
-
 # Teste usando o URL do App Builder {#testing-app-builder-url}
 
 Saiba como testar seu novo aplicativo do Adobe Developer App Builder usando o URL do seu projeto.

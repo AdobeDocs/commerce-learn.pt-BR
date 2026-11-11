@@ -1,6 +1,6 @@
 ---
 title: Criar seu primeiro aplicativo App Builder
-description: Saiba mais sobre o Adobe Developer App Builder com o Adobe Commerce, incluindo pré-requisitos, expectativas e padrões reutilizáveis para criar seu primeiro aplicativo fora do processo.
+description: Crie seu primeiro aplicativo Adobe Developer App Builder para Adobe Commerce, abrangendo pré-requisitos, expectativas e padrões reutilizáveis fora do processo.
 jira: KT-21679
 doc-type: Tutorial
 duration: 197
@@ -28,13 +28,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-08-11T19:18:23.176Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 332
+source-wordcount: '329'
 ht-degree: 0%
-
 ---
-
 # Visão geral {#overview}
 
 Este tutorial tem os seguintes pré-requisitos:

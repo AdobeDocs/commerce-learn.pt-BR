@@ -48,9 +48,9 @@ topic_v2:
     internal-label: Machine learning
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: '441'
+source-wordcount: '417'
 ht-degree: 0%
 ---
 # Integração técnica - ofertas de SaaS
@@ -65,7 +65,7 @@ Saiba mais sobre as ofertas, o suporte e outras comunicações do SaaS da Adobe 
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432841?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427902?learn=on)
 
 ## Acrônicos
 
@@ -108,22 +108,21 @@ Saiba mais sobre as ofertas, o suporte e outras comunicações do SaaS da Adobe 
 
 ## Documentação do Experience League mencionada no vídeo
 
-* [Abrir pesquisa](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/opensearch.html?lang=pt-BR)
-* [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=pt-BR)
-* [Recomendações de produto](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=pt-BR)
-* [Live Search e Serviço de Catálogo](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html?lang=pt-BR)
-* [Indexação de Preço do Serviço de Catálogo](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html?lang=pt-BR)
-* [App Builder](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/extensibility/adobe-developer-app-builder/introduction-to-app-builder)
-* [Responsabilidade compartilhada](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html?lang=pt-BR)
-* [Acesso aos dados e privacidade do cliente](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/announcements/commerce-announcements/adobe-support-customer-data-access-and-privacy.html)
-* [Certificações Commerce](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html?lang=pt-BR)
+* [Abrir pesquisa](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/service/opensearch.html)
+* [Live Search](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+* [Recomendações de produto](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)
+* [Live Search e Serviço de Catálogo](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html)
+* [Indexação de Preço do Serviço de Catálogo](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html)
+* [App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Responsabilidade compartilhada](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html)
+* [Certificações Commerce](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html)
 * [Cursos de aprendizado do Commerce](https://learning.adobe.com/catalog.html?products=Commerce)
 * [Fórum da comunidade do Commerce](https://community.magento.com/)
-* [Configurar o Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html?lang=pt-BR)
-* [Teste de desempenho](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
-* [Ferramenta de análise do site - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?lang=pt-BR&)
-* [Observação da new Relic para o Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html?lang=pt-BR)
-* [Patches de segurança](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html?lang=pt-BR)
-* [Lista de verificação do Launch](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html?lang=pt-BR)
+* [Configurar o Fastly](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/setup-fastly/fastly-configuration.html)
+* [Teste de desempenho](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/maintenance/backend-performance)
+* [Ferramenta de análise do site - SWAT](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/support-tools/site-wide-analysis-tool/swat-tool-overview.html?)
+* [Observação da new Relic para o Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-operations/tools/observation-for-adobe-commerce/intro.html)
+* [Patches de segurança](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/security-patches/overview.html)
+* [Lista de verificação do Launch](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

@@ -4,9 +4,9 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: '1028'
+source-wordcount: '1035'
 ht-degree: 3%
 ---
 
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [Descontos de item de linha da cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Anotações de item de linha de cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Desenvolvimento e atualizações de aplicativos {#application-development-and-upgrades}
-    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Criar um módulo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Adicionar um atributo de produto](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Exemplo de injeção de dependência](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -173,6 +173,23 @@ ht-degree: 3%
       + [Pacotes em massa](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [Pacotes separados](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ App Builder {#app-builder}
+  + Fundamentos {#foundations}
+    + [Introdução ao App Builder](../app-builder/foundations/introduction-to-app-builder.md)
+    + [Estrutura de extensibilidade e eventos do Commerce](../app-builder/foundations/extensibility-framework-commerce-eventing.md)
+    + [Instalar aplicativos do App Builder a partir do Adobe Exchange](../app-builder/foundations/install-app-builder-app.md)
+  + Crie seu primeiro aplicativo {#first-app}
+    + [Visão geral](../app-builder/first-app/overview.md)
+    + [Gerar e configurar o arquivo .env](../app-builder/first-app/env-file.md)
+    + [Descrição e uso do arquivo app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
+    + [Saiba mais sobre a pasta de ações](../app-builder/first-app/actions-folder.md)
+    + [Saiba mais sobre a pasta de teste](../app-builder/first-app/test-folder.md)
+    + [Descubra a finalidade da pasta web-src](../app-builder/first-app/web-src-folder.md)
+    + [Testes locais](../app-builder/first-app/testing-locally.md)
+    + [Teste usando o URL do App Builder](../app-builder/first-app/testing-app-builder-url.md)
+    + [Conclusão](../app-builder/first-app/conclusion.md)
+    + [Código-fonte do módulo de amostra](https://github.com/magento/app-builder-samples){target="_blank"}
+
 + Introdução {#getting-started}
   + Recursos do Commerce {#capabilities}
     + [Opções de comércio disponíveis](../capabilities/adobes-available-commerce-options.md)
@@ -240,10 +257,7 @@ ht-degree: 3%
     + [Consultas](../graphql-rest/graphql-queries.md)
     + [Mutações](../graphql-rest/graphql-mutations.md)
     + [Esquema](../graphql-rest/graphql-schema.md)
-  + Adobe Developer App Builder {#adobe-developer-app-builder}
-    + [Instalação de aplicativos do Adobe Exchange](../app-builder/install-app-builder-app.md)
-    + [Introdução ao App Builder](../app-builder/introduction-to-app-builder.md)
-    + [Estrutura de extensibilidade do App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
+  + Mais tutoriais do App Builder e eventos de E/S {#adobe-developer-app-builder}
     + Use as ferramentas de IA para criar POC de pagamento dividido {#create-a-split-payment-poc}
       + [Ferramentas do App Builder e AI](../app-builder/split-payment-ai-tools/overview.md)
       + [Demonstração completa](../app-builder/split-payment-ai-tools/full-demo.md)
@@ -262,17 +276,6 @@ ht-degree: 3%
       + [Ferramentas de IA e kit inicial do Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
       + [Implementação e teste](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
       + [Fornecer feedback à Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-    + Crie seu primeiro aplicativo App Builder {#first-app}
-      + [Visão geral](../app-builder/first-app/overview.md)
-      + [Gerar e configurar o arquivo .env](../app-builder/first-app/env-file.md)
-      + [Descrição e uso do arquivo app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
-      + [Saiba mais sobre a pasta de ações](../app-builder/first-app/actions-folder.md)
-      + [Saiba mais sobre a pasta de teste](../app-builder/first-app/test-folder.md)
-      + [Descubra a finalidade da pasta web-src](../app-builder/first-app/web-src-folder.md)
-      + [Testes locais](../app-builder/first-app/testing-locally.md)
-      + [Teste usando o URL do App Builder](../app-builder/first-app/testing-app-builder-url.md)
-      + [Conclusão](../app-builder/first-app/conclusion.md)
-      + [Código-fonte do módulo de amostra](https://github.com/magento/app-builder-samples){target="_blank"}
     + Eventos de E/S para Adobe Commerce {#io-events}
       + [Introdução a eventos de E/S](../io-events/getting-started-io-events.md)
       + [Instalação do Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
