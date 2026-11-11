@@ -3,8 +3,8 @@ title: Workshop de atualização do Adobe Commerce 2.4
 description: Assista a este webinário gravado para saber mais sobre as etapas de atualização e as práticas recomendadas do Adobe Commerce 2.4.4 ou superior.
 landing-page-description: Assista a este webinário gravado para saber mais sobre as etapas de atualização e as práticas recomendadas do Adobe Commerce 2.4.
 short-description: Assista a este webinário gravado para saber mais sobre as etapas de atualização e as práticas recomendadas do Adobe Commerce 2.4.
-kt: 9620
-doc-type: technical video
+jira: KT-9620
+doc-type: Technical Video
 duration: 4306
 audience: all
 activity: use
@@ -24,10 +24,6 @@ feature_v2:
     internal-label: Security
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
-  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
-    internal-label: System
-  - id: a8ae7a5a-6cdc-5922-bd0d-6feb44b04984
-    internal-label: Upgrade
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
@@ -47,7 +43,8 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+autotag-review: '2026-11-11T17:29:20.960Z'
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 30%

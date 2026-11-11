@@ -4,9 +4,9 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
 workflow-type: tm+mt
-source-wordcount: '1025'
+source-wordcount: '1035'
 ht-degree: 3%
 ---
 
@@ -154,6 +154,62 @@ ht-degree: 3%
       + [Validação de cotação do administrador](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
       + [Descontos de item de linha da cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Anotações de item de linha de cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
+  + Desenvolvimento e atualizações de aplicativos {#application-development-and-upgrades}
+    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+    + [Criar um módulo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
+    + [Adicionar um atributo de produto](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
+    + [Exemplo de injeção de dependência](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
+    + [Replicação lenta do Galera Cluster](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication.md)
+    + [Cache de consulta MySQL](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/mysql-query-cache.md)
+    + [Resumo da consulta PT](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/pt-query-digest.md)
+    + [Conectar e executar consultas no banco de dados do Adobe Commerce](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/remote-db-connection-execute-queries.md)
+    + Atualizações do Commerce {#upgrades}
+      + [Workshop de atualização do Adobe Commerce 2.4](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/2-4-upgrade-workshop.md)
+      + [Visão geral da Ferramenta de compatibilidade de atualização](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/upgrade-compatibility-tool-overview.md)
+      + [Usar a ferramenta de compatibilidade de atualização no PhpStorm](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/upgrades/uct-phpstorm.md)
+    + Técnicas de implementação da arquitetura de referência global {#global-reference-architecture-implementation-techniques}
+      + [Visão geral](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/overview.md)
+      + [Dividir Git](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/split-git.md)
+      + [Pacotes em massa](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
+      + [Pacotes separados](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
+      + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ App Builder {#app-builder}
+  + Fundamentos {#foundations}
+    + [Introdução ao App Builder](../app-builder/foundations/introduction-to-app-builder.md)
+    + [Estrutura de extensibilidade e eventos do Commerce](../app-builder/foundations/extensibility-framework-commerce-eventing.md)
+    + [Instalar aplicativos do App Builder a partir do Adobe Exchange](../app-builder/foundations/install-app-builder-app.md)
+  + Crie seu primeiro aplicativo {#first-app}
+    + [Visão geral](../app-builder/first-app/overview.md)
+    + [Gerar e configurar o arquivo .env](../app-builder/first-app/env-file.md)
+    + [Descrição e uso do arquivo app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
+    + [Saiba mais sobre a pasta de ações](../app-builder/first-app/actions-folder.md)
+    + [Saiba mais sobre a pasta de teste](../app-builder/first-app/test-folder.md)
+    + [Descubra a finalidade da pasta web-src](../app-builder/first-app/web-src-folder.md)
+    + [Testes locais](../app-builder/first-app/testing-locally.md)
+    + [Teste usando o URL do App Builder](../app-builder/first-app/testing-app-builder-url.md)
+    + [Conclusão](../app-builder/first-app/conclusion.md)
+    + [Código-fonte do módulo de amostra](https://github.com/magento/app-builder-samples){target="_blank"}
+
+  + Use as ferramentas de IA para criar POC de pagamento dividido {#create-a-split-payment-poc}
+    + [Ferramentas do App Builder e AI](../app-builder/split-payment-ai-tools/overview.md)
+    + [Demonstração completa](../app-builder/split-payment-ai-tools/full-demo.md)
+    + [Guia de implementação passo a passo](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
+    + [Decisões de arquitetura e design](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
+    + [Pré-requisitos e configuração do ambiente](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
+    + [Teste e verificação](../app-builder/split-payment-ai-tools/testing-and-verification.md)
+    + [Próximas etapas](../app-builder/split-payment-ai-tools/next-steps.md)
+    + Recursos de referência {#split-payment-resources}
+      + [Referência de variáveis de ambiente](../app-builder/split-payment-ai-tools/env-reference.md)
+      + [Prompt do Commerce Module AI](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
+      + [prompt do App Builder orchestrator AI](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
+      + [Prompt da IA de extensão da interface do usuário da Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
+
+  + Criar taxas de envio personalizadas usando as Ferramentas de IA {#custom-shipping-rates-ai-tools}
+    + [Introdução e configuração](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
+    + [Ferramentas de IA e kit inicial do Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
+    + [Implementação e teste](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
+    + [Fornecer feedback à Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
+
 + Introdução {#getting-started}
   + Recursos do Commerce {#capabilities}
     + [Opções de comércio disponíveis](../capabilities/adobes-available-commerce-options.md)
@@ -185,19 +241,6 @@ ht-degree: 3%
     + [Migrar código existente](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [Conclusão](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [simulação do App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + Desenvolvimento de back-end {#backend-development}
-    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
-    + [Criar um módulo](../backend-development/create-module.md)
-    + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
-    + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
-    + [Replicação lenta do Galera Cluster](../backend-development/galera-db-slow-replication.md)
-    + [Cache de consulta MySQL](../backend-development/mysql-query-cache.md)
-    + [Resumo da consulta PT](../backend-development/pt-query-digest.md)
-    + [Conectar e executar consultas no banco de dados do Adobe Commerce](../backend-development/remote-db-connection-execute-queries.md)
-    + Atualizações do Commerce {#upgrade}
-      + [Workshop de atualização do Adobe Commerce 2.4](../upgrade/2-4-upgrade-workshop.md)
-      + [Visão geral da Ferramenta de compatibilidade de atualização](../upgrade/upgrade-compatibility-tool-overview.md)
-      + [Usar a ferramenta de compatibilidade de atualização no PhpStorm](../upgrade/uct-phpstorm.md)
   + Desenvolvimento de front-end do Luma {#frontend-development}
     + Page Builder PaaS/SaaS para desenvolvedores {#page-builder}
       + [1 - Introdução](../frontend-development/page-builder/1-intro-case-studies.md)
@@ -234,39 +277,7 @@ ht-degree: 3%
     + [Consultas](../graphql-rest/graphql-queries.md)
     + [Mutações](../graphql-rest/graphql-mutations.md)
     + [Esquema](../graphql-rest/graphql-schema.md)
-  + Adobe Developer App Builder {#adobe-developer-app-builder}
-    + [Instalação de aplicativos do Adobe Exchange](../app-builder/install-app-builder-app.md)
-    + [Introdução ao App Builder](../app-builder/introduction-to-app-builder.md)
-    + [Estrutura de extensibilidade do App Builder](../app-builder/extensibility-framework-commerce-eventing.md)
-    + Use as ferramentas de IA para criar POC de pagamento dividido {#create-a-split-payment-poc}
-      + [Ferramentas do App Builder e AI](../app-builder/split-payment-ai-tools/overview.md)
-      + [Demonstração completa](../app-builder/split-payment-ai-tools/full-demo.md)
-      + [Guia de implementação passo a passo](../app-builder/split-payment-ai-tools/step-by-step-guide.md)
-      + [Decisões de arquitetura e design](../app-builder/split-payment-ai-tools/architecture-and-decisions.md)
-      + [Pré-requisitos e configuração do ambiente](../app-builder/split-payment-ai-tools/prerequisites-and-setup.md)
-      + [Teste e verificação](../app-builder/split-payment-ai-tools/testing-and-verification.md)
-      + [Próximas etapas](../app-builder/split-payment-ai-tools/next-steps.md)
-      + Recursos de referência {#split-payment-resources}
-        + [Referência de variáveis de ambiente](../app-builder/split-payment-ai-tools/env-reference.md)
-        + [Prompt do Commerce Module AI](../app-builder/split-payment-ai-tools/commerce-module-prompt.md)
-        + [prompt do App Builder orchestrator AI](../app-builder/split-payment-ai-tools/orchestrator-prompt.md)
-        + [Prompt da IA de extensão da interface do usuário da Experience Cloud](../app-builder/split-payment-ai-tools/experience-cloud-ui-prompt.md)
-    + Criar taxas de envio personalizadas usando as Ferramentas de IA {#custom-shipping-rates-ai-tools}
-      + [Introdução e configuração](../app-builder/custom-shipping-rates-ai-tools/introduction-setup.md)
-      + [Ferramentas de IA e kit inicial do Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
-      + [Implementação e teste](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
-      + [Fornecer feedback à Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-    + Crie seu primeiro aplicativo App Builder {#first-app}
-      + [Visão geral](../app-builder/first-app/overview.md)
-      + [Gerar e configurar o arquivo .env](../app-builder/first-app/env-file.md)
-      + [Descrição e uso do arquivo app.config.yaml](../app-builder/first-app/app-config-yaml-file.md)
-      + [Saiba mais sobre a pasta de ações](../app-builder/first-app/actions-folder.md)
-      + [Saiba mais sobre a pasta de teste](../app-builder/first-app/test-folder.md)
-      + [Descubra a finalidade da pasta web-src](../app-builder/first-app/web-src-folder.md)
-      + [Testes locais](../app-builder/first-app/testing-locally.md)
-      + [Teste usando o URL do App Builder](../app-builder/first-app/testing-app-builder-url.md)
-      + [Conclusão](../app-builder/first-app/conclusion.md)
-      + [Código-fonte do módulo de amostra](https://github.com/magento/app-builder-samples){target="_blank"}
+  + Mais tutoriais do App Builder e eventos de E/S {#adobe-developer-app-builder}
     + Eventos de E/S para Adobe Commerce {#io-events}
       + [Introdução a eventos de E/S](../io-events/getting-started-io-events.md)
       + [Instalação do Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
@@ -284,12 +295,6 @@ ht-degree: 3%
     + [Criar malha de API do GraphQL de origem única](../api-mesh/graphql-single-source.md)
     + [Criar várias malhas de API do GraphQL de origem](../api-mesh/graphql-multiple-source.md)
 
-+ Arquitetura de referência global {#global-reference-architecture-implementation-techniques}
-  + [Visão geral](../global-reference-architecture/overview.md)
-  + [Dividir Git](../global-reference-architecture/split-git.md)
-  + [Pacotes em massa](../global-reference-architecture/bulk-packages.md)
-  + [Pacotes separados](../global-reference-architecture/separate-packages.md)
-  + [Monorepo](../global-reference-architecture/monorepo.md)
 + Monitoramento, análise e suporte {#monitoring-analytics-support}
   + Observabilidade {#observability}
     + [Visão geral da capacidade de observação](../monitoring-analytics-support/observability/overview.md)

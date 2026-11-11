@@ -1,10 +1,10 @@
 ---
 title: Estrutura de extensibilidade e eventos de comércio
-description: Saiba mais sobre a estrutura de extensibilidade do Adobe Developer App Builder, seus principais recursos e como os eventos comerciais permitem integrações em tempo real com o Adobe Commerce.
+description: Explore a estrutura de extensibilidade do Adobe Developer App Builder, seus recursos e como os eventos do Commerce oferecem suporte às integrações da Adobe Commerce em tempo real.
 jira: KT-11740
 doc-type: Tutorial
 duration: 228
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Eventing, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -37,13 +37,11 @@ topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
 autotag-review: '2026-08-11T19:18:10.558Z'
-source-git-commit: 3010e288b409fa4eeed20aa532a3c96f649891fb
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 65
+source-wordcount: '62'
 ht-degree: 0%
-
 ---
-
 # Estrutura de extensibilidade do App Builder
 
 Esta demonstração funcional descreve o App Builder e suas possíveis aplicações para o Adobe Commerce. Este vídeo fornece uma introdução à estrutura de extensibilidade, aos principais benefícios para o cliente e aos recursos.

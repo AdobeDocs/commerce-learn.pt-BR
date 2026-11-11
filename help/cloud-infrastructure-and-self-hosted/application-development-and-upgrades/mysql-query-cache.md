@@ -17,10 +17,6 @@ product_v2:
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
-  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
-    internal-label: Backend Development
-  - id: e7dae43f-215c-4cdf-90d3-c5a461a6e669
-    internal-label: Admin tools and workspace
 subfeature_v2:
   - id: b673188e-f9fa-492a-b470-c8f949bf7827
     internal-label: Cache
@@ -32,9 +28,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+autotag-review: '2026-11-11T17:29:20.954Z'
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '161'
 ht-degree: 0%
 ---
 # Saiba mais sobre o armazenamento em cache de consultas do MySQL
@@ -59,4 +56,4 @@ Saiba o que é o cache de consultas do MySQL e conheça basicamente como ele fun
 ## Recursos úteis
 
 * [Diretrizes gerais do MySQL](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
-* [Replicação de galera e consultas lentas](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"}
+* [Replicação de galera e consultas lentas](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"}

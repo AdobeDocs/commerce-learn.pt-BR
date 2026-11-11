@@ -49,9 +49,9 @@ topic_v2:
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
-source-wordcount: '2365'
+source-wordcount: '2371'
 ht-degree: 0%
 ---
 # Lista de verificação de pré-lançamento
@@ -120,7 +120,7 @@ A Adobe Commerce Cloud emprega um cluster MariaDB Galera como banco de dados par
 * [Práticas recomendadas de configurações do MySQL](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration){target="_blank"}
 * Alertas gerenciados no Adobe Commerce: [alertas do MariaDB](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/tools/managed-alerts-for-adobe-commerce/managed-alerts-on-magento-commerce-mariadb-alerts){target="_blank"}
 * Práticas recomendadas para [configuração de banco de dados](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/implementation-playbook/best-practices/planning/database-on-cloud){target="_blank"}
-* [Replicação de cluster de galera e controle de fluxo](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/extensibility/backend-development/galera-db-slow-replication){target="_blank"} (análise mais profunda)
+* [Replicação de cluster de galera e controle de fluxo](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"} (análise mais profunda)
 
 1. [Conexão subordinada do MySQL](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/implementation-playbook/best-practices/planning/mysql-configuration#slave-connections){target="_blank"} recomendada para melhor desempenho durante cargas altas de banco de dados.
 2. Verifique se o formato de linha de todas as tabelas do banco de dados está definido como [DYNAMIC em vez de COMPACT](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/implementation-playbook/best-practices/maintenance/mariadb-upgrade#convert-database-table-storage-format){target="_blank"} (isso é especialmente verdadeiro para migrações no local para a nuvem).

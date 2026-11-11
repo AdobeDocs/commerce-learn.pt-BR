@@ -17,10 +17,6 @@ product_v2:
 feature_v2:
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
-  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
-    internal-label: System
-  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
-    internal-label: Backend Development
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
@@ -31,12 +27,17 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+autotag-review: '2026-11-11T17:28:59.029Z'
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '305'
 ht-degree: 0%
 ---
 # Criar um módulo
+
+>[!NOTE]
+>
+>Esses tutoriais abordam o desenvolvimento e as atualizações em andamento existentes para o Adobe Commerce em infraestrutura em nuvem e implantações auto-hospedadas. Para desenvolvimento de novos recursos ou migração de personalização adequada, comece com [Introdução ao App Builder](../../app-builder/foundations/introduction-to-app-builder.md).
 
 Um módulo é um elemento estrutural de [!DNL Commerce]—módulos formam a base do sistema. Normalmente, você inicia uma personalização criando um módulo.
 
@@ -304,4 +305,4 @@ class RestAddLoggingAfterOrderPlacePlugin
 ## Recursos úteis
 
 * [Guia de referência de módulo](https://developer.adobe.com/commerce/php/module-reference/){target="_blank"}
-* [Plug-ins](https://developer.adobe.com/commerce/php/development/components/plugins/){target="_blank"}
+* [Plug-ins](https://developer.adobe.com/commerce/php/development/components/plugins){target="_blank"}

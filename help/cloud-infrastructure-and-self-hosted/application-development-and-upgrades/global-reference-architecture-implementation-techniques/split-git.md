@@ -20,10 +20,6 @@ feature_v2:
     internal-label: Configuration
   - id: e8818fe6-9c8b-4bc0-9ef8-377a10b7bc75
     internal-label: Architecture
-  - id: cdfd3bc1-dc23-5cf0-b965-d3c0c55cde67
-    internal-label: Best Practices
-  - id: 6388cf7b-8a81-5248-a1e4-7bb57bbe250f
-    internal-label: Install
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -41,7 +37,8 @@ topic_v2:
     internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+autotag-review: '2026-11-11T17:29:20.968Z'
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
 source-wordcount: '1529'
 ht-degree: 0%

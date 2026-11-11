@@ -1,22 +1,20 @@
 ---
 title: Introdução e configuração para taxas de envio orientadas por IA
-description: Saiba como configurar ferramentas de IA para criar taxas de envio personalizadas, incluindo a clonagem do kit inicial, a análise das estruturas do projeto e a preparação do ambiente.
+description: Saiba como configurar ferramentas de IA para taxas de envio personalizadas, clonar o kit inicial de check-out, revisar estruturas de projeto e preparar seu ambiente de desenvolvimento.
 feature: Install
 topic: Development
 role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 180
-last-substantial-update: 2026-03-11T00:00:00Z
+last-substantial-update: 2026-03-11
 jira: KT-20428
 exl-id: 1766f908-e0cb-4618-bee7-165e7dc54c2f
-source-git-commit: 282072f1e29b836d19dee2e1b6498f75150fe3a5
+source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
-
 ---
-
 # Criar taxas de envio personalizadas com ferramentas de IA - Introdução e configuração
 
 Descubra como configurar ferramentas de IA para criar taxas de envio personalizadas. Este tutorial aborda a clonagem do kit inicial de check-out, a revisão de sua estrutura e a preparação do ambiente local. Essa base garante uma integração perfeita das taxas de envio externo ao seu fluxo de trabalho. Para começar, assista ao vídeo abaixo.

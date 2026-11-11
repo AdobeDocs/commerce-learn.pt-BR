@@ -1,10 +1,10 @@
 ---
 title: Extensibilidade fora do processo para o Adobe Commerce
-description: Saiba mais sobre o Adobe Developer App Builder e como a extensibilidade fora do processo permite criar extensões seguras e escaláveis do Commerce sem preocupações de compatibilidade no processo.
+description: Saiba como o Adobe Developer App Builder habilita extensões Commerce seguras e escalonáveis fora do processo, ao mesmo tempo que reduz as preocupações com a compatibilidade no processo.
 jira: KT-11433
 doc-type: Tutorial
 duration: 300
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -34,13 +34,11 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 63ac13d8c5a97ee81dcdd1f3785a9875aaf2a4db
+source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
 workflow-type: tm+mt
-source-wordcount: 761
+source-wordcount: '757'
 ht-degree: 0%
-
 ---
-
 # Introdução ao App Builder
 
 Historicamente, o desenvolvimento do Adobe Commerce tem usado extensibilidade no processo. O modelo em andamento requer que qualquer novo código seja compatível com as atualizações, a versão PHP do servidor e muitos outros aplicativos e serviços essenciais do servidor que o Commerce usa. O Adobe Developer App Builder usa extensibilidade fora do processo para evitar esses problemas de compatibilidade.

@@ -19,10 +19,6 @@ feature_v2:
     internal-label: Order Management System
   - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
     internal-label: Configuration
-  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
-    internal-label: System
-  - id: b48dbafb-4193-5648-b9d9-bf96e9c9a411
-    internal-label: Backend Development
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -33,7 +29,8 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+autotag-review: '2026-11-11T17:28:59.031Z'
+source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
 workflow-type: tm+mt
 source-wordcount: '337'
 ht-degree: 0%
@@ -85,7 +82,7 @@ ComponentRegistrar::register(
 
 >[!NOTE]
 >
->Se seu módulo estiver usando o Esquema Declarativo, e a maioria tem desde a versão 2.3.0, você deve omitir setup_version. No entanto, se você tiver alguns projetos herdados, poderá ver esse método usado.  Consulte [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name/#add-a-modulexml-file){target="_blank"} para obter mais informações.\
+>Se seu módulo estiver usando o Esquema Declarativo, e a maioria tem desde a versão 2.3.0, você deve omitir setup_version. No entanto, se você tiver alguns projetos herdados, poderá ver esse método usado.  Consulte [developer.adobe.com](https://developer.adobe.com/commerce/php/development/build/component-name#add-a-modulexml-file){target="_blank"} para obter mais informações.\
 >OBSERVAÇÃO: para que este código de exemplo funcione, você precisa incluir setup_version, caso contrário o InstallData.php não será executado.
 
 
@@ -256,4 +253,4 @@ class InstallData implements InstallDataInterface
 
 ## Recursos úteis
 
-[Adicionar um atributo de campo de texto personalizado](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute/)
+[Adicionar um atributo de campo de texto personalizado](https://developer.adobe.com/commerce/php/tutorials/admin/custom-text-field-attribute)
