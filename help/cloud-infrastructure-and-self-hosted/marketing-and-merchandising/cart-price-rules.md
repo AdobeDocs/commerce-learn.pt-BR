@@ -1,0 +1,158 @@
+---
+title: Criar regras de preço do carrinho
+description: Saiba como criar regras de preço do carrinho que aplicam descontos no carrinho de compras quando as condições definidas são atendidas.
+doc-type: Tutorial
+last-substantial-update: 2022-12-28T00:00:00.000Z
+feature: Configuration, System, Customers, Shopping Cart
+topic: Commerce, Administration
+role: User
+level: Beginner
+duration: 353
+jira: KT-17148
+exl-id: ae8cab73-8a8b-4266-8205-b7397633e9bf
+TQID: 'https://experienceleague.adobe.com/2gmoGQBVz2foQwnGJRlXzWF-OkNGZtiJkQWy0F-0utg'
+product_v2:
+  - id: eadea719-cf89-469b-a6fd-a236a7138047
+    internal-label: Commerce
+feature_v2:
+  - id: d1e21356-0064-4f48-9089-16e3f0dbd2a6
+    internal-label: Storefront
+  - id: dac87252-6066-4d6e-a9d2-f6d84c323de7
+    internal-label: Configuration
+  - id: 8d0b446f-5b16-5a10-b272-01143504a11c
+    internal-label: System
+  - id: 22bad240-8308-569b-a9d5-578f1ff890ca
+    internal-label: Customers
+  - id: df8eaa0e-dd74-553a-8ad5-28129f8e8d3d
+    internal-label: Shopping Cart
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+workflow-type: tm+mt
+source-wordcount: '680'
+ht-degree: 0%
+---
+# Criar regras de preço do carrinho
+
+As regras de preço do carrinho aplicam descontos aos itens do carrinho de compras com base nas condições definidas. Os descontos são aplicados quando as condições são atendidas ou um cliente insere um código de cupom válido. O desconto aparece no carrinho sob o subtotal. Ative ou desative uma regra para uma temporada ou promoção alterando seu status e intervalo de datas.
+
+## Para quem é este vídeo?
+
+* Profissionais de marketing de comércio eletrônico
+* Gerentes de sites
+
+## Conteúdo de vídeo
+
+* Crie regras de preço do carrinho e códigos de cupom opcionais.
+* Veja como os descontos são exibidos no carrinho e para promoções.
+
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
+
+## Problemas de exibição de preços
+
+Os descontos de item de linha exibidos às vezes diferem devido ao arredondamento. Essa diferença ocorre quando uma regra de preço do carrinho aplica um desconto em vários produtos e a divisão produz valores com mais de duas casas decimais.
+
+>[!BEGINSHADEBOX]
+
+Regra de preço do carrinho = desconto de 10% aplicado a 2 produtos no carrinho
+Condição para a regra de preço entrar em vigor: o total de itens no carrinho é 2
+As ações aplicam o percentual de desconto do preço do produto e esse valor de desconto é 10
+
+Dois itens são adicionados ao carrinho, cada um custa US$ 19,95
+
+Para obter o valor do desconto, multiplique o preço do produto vezes 0,1
+
+19,95 x 0,1 = 1,995
+
+Essa é a questão, temos 3 casas decimais, em vez de duas. Converter isso em dólares agora é um problema
+
+>[!ENDSHADEBOX]
+
+### A solução
+
+Para o comerciante no Administrador, a abordagem mais clara é mostrar cada linha solicitada com seu desconto em dólares. Para manter o total do pedido correto, arredonde o primeiro item de linha para cima e solte o terceiro decimal nos itens de linha restantes. Analise este cenário:
+
+>[!BEGINSHADEBOX]
+
+Mesmo desconto de 10% como acima da regra do carrinho em vigor
+Adicione 2 produtos ao carrinho com 19,95
+
+Cada produto deve receber US$ 1.995 em descontos
+Produto 1 - 19,95 x 0,1 = 1,995
+2 - 19,95 x 0,1 = 1,995
+
+Um total geral de 3,99 é fornecido como um desconto para o cliente
+
+Ao exibir os itens de linha para o proprietário da loja no administrador,
+precisamos ajustar o primeiro item e arredondá-lo para 2.000. Para o segundo item, solte o terceiro decimal.
+Produto 1 = 2,00
+Produto 2 = 1,99
+
+O desconto total dos dois produtos agora quando somados corresponde ao desconto real fornecido a um cliente.
+>[!ENDSHADEBOX]
+
+A captura de tela de Administrador abaixo mostra os descontos de item de linha para este exemplo:
+
+![Modo de exibição de administrador mostrando itens ordenados com valores diferentes](../../assets/commerce-admin-cart-price-rule-values-different.png)
+
+### Outras soluções possíveis e por que elas não foram usadas
+
+>[!BEGINSHADEBOX]
+
+Mesmo desconto de 10% como acima da regra do carrinho em vigor
+Adicione 2 produtos ao carrinho com 19,95
+
+Cada produto deve receber US$ 1.995 em descontos,
+no entanto, se os juntarmos, isso mostra desconto demais.
+
+Produto 1 - 19,95 x 0,1 = 1,995
+Produto 2 - 19,95 x 0,1 = 1,995
+
+Converter para arredondar todos os itens
+Produto 1 O novo valor é 2,00
+O novo valor do Produto 2 é 2,00
+
+Um total geral de 3,99 foi efetivamente fornecido como um desconto para o cliente,
+no entanto, se juntarmos tudo, isso mostraria que foram dados US$ 4,00, e isso é incorreto.
+
+2.00 + 2.00 = $4.00
+
+>[!ENDSHADEBOX]
+
+Descartar a terceira casa decimal para todos os itens produz um desconto total muito pequeno.
+
+>[!BEGINSHADEBOX]
+
+Mesmo desconto de 10% como acima da regra do carrinho em vigor
+Adicione 2 produtos ao carrinho com 19,95
+
+Cada produto deve receber US$ 1.995 em descontos. No entanto, se apenas descermos o terceiro decimal, isso acontece:
+Produto 1 - 19,95 x 0,1 = 1,995
+Produto 2 - 19,95 x 0,1 = 1,995
+
+Converter para eliminar o terceiro decimal para todos os itens
+Produto 1 O novo valor é 1,99
+O novo valor do Produto 2 é 1,99
+
+Um total geral de 3,99 foi efetivamente fornecido como um desconto para o cliente,
+no entanto, se descermos o terceiro decimal, isso mostraria que $3,98 foi dado, e isso está incorreto.
+
+1.99 + 1.99 = $3.98
+
+>[!ENDSHADEBOX]
+
+## Recursos adicionais
+
+* [Criar uma regra de preço do carrinho - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [Códigos de cupom - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
