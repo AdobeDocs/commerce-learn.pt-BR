@@ -63,6 +63,6 @@ Para o fluxo de trabalho da API, consulte [Citar notas de item de linha com REST
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420417?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3423696?captions=por_br&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
