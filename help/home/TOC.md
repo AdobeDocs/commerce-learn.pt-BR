@@ -4,9 +4,9 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '1023'
+source-wordcount: '1025'
 ht-degree: 3%
 ---
 
@@ -144,6 +144,16 @@ ht-degree: 3%
     + [Live Search para recomendações](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
     + [Demonstração completa do Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
     + [Integrar o Commerce com o AJO](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
+  + B2B para Adobe Commerce {#b2b}
+    + [Gerenciar contas da empresa](../cloud-infrastructure-and-self-hosted/b2b/company-accounts.md)
+    + [Gerenciar catálogos compartilhados](../cloud-infrastructure-and-self-hosted/b2b/shared-catalogs.md)
+    + [Gerenciar Crédito da Empresa](../cloud-infrastructure-and-self-hosted/b2b/company-credit.md)
+    + [Ordens de Compra e Aprovações](../cloud-infrastructure-and-self-hosted/b2b/purchase-orders.md)
+    + Aspas {#quotes}
+      + [O Representante de Vendas inicia a cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/sales-rep-initiates-quote.md)
+      + [Validação de cotação do administrador](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
+      + [Descontos de item de linha da cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
+      + [Anotações de item de linha de cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
 + Introdução {#getting-started}
   + Recursos do Commerce {#capabilities}
     + [Opções de comércio disponíveis](../capabilities/adobes-available-commerce-options.md)
@@ -160,6 +170,10 @@ ht-degree: 3%
 + APIs e integração {#apis-and-integration}
   + Exemplos práticos de REST e GraphQL {#examples}
     + [Clientes com REST](../apis-and-integration/examples/customer.md)
+    + Cotações B2B {#b2b-quotes}
+      + [O Representante de Vendas inicia a API REST da cotação](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+      + [GraphQL de desconto do item de linha da cotação](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+      + [API REST de notas de item de linha de cotação](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
 
 + Extensibilidade {#extensibility}
   + Agente de desenvolvedor do Commerce {#commerce-developer-agent}
@@ -172,7 +186,7 @@ ht-degree: 3%
     + [Conclusão](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [simulação do App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
   + Desenvolvimento de back-end {#backend-development}
-    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Criar um módulo](../backend-development/create-module.md)
     + [Adicionar um atributo de produto](../backend-development/add-product-attribute.md)
     + [Exemplo de injeção de dependência](../backend-development/dependency-injection.md)
@@ -294,17 +308,3 @@ ht-degree: 3%
     + [Criar um tíquete de suporte](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [Pesquisar, revisar, comentar e escalonar tíquetes de suporte](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gerenciar observadores e status de tíquetes de suporte](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-
-+ B2B para Adobe Commerce {#b2b}
-  + [Gerenciar contas da empresa](../b2b/company-accounts.md)
-  + [Gerenciar catálogos compartilhados](../b2b/shared-catalogs.md)
-  + [Gerenciar Crédito da Empresa](../b2b/company-credit.md)
-  + [Ordens de Compra e Aprovações](../b2b/purchase-orders.md)
-  + Aspas {#b2b-quote}
-    + [O Representante de Vendas inicia a cotação](../b2b/sales-rep-initiates-quote.md)
-    + [Validação de cotação do administrador](../b2b/quote-validation-admin-panel.md)
-    + [O Representante de Vendas inicia a API REST da cotação](../b2b/sales-rep-initiates-quote-api.md)
-    + [Descontos de item de linha da cotação](../b2b/quote-line-item-discount.md)
-    + [Anotações de item de linha de cotação](../b2b/quote-line-item-notes.md)
-    + [GraphQL de desconto do item de linha da cotação](../b2b/quote-graphql-line-item-discount.md)
-    + [API REST do desconto do item de linha da cotação](../b2b/quote-rest-api-line-item-notes.md)
