@@ -1,13 +1,11 @@
 ---
 title: Páginas relacionadas às Ferramentas de IA POC para pagamento dividido
-description: Links para páginas relacionadas em Extensibilidade - Adobe Developer App Builder - Use as ferramentas de IA para criar POC de pagamento dividido
-source-git-commit: dfb2e7146ddb881646a3d219282e36056f246824
+description: Links para os tutoriais de prova de conceito e recursos de referência do App Builder split payment.
+source-git-commit: 24f9e04b5b41765f855476ff2e1be648b6634d1f
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '76'
 ht-degree: 0%
-
 ---
-
 # Dividir links relacionados ao POC de pagamento
 
 ## Todos os recursos desta série
