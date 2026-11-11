@@ -1,8 +1,8 @@
 ---
 title: Demonstração completa do Live Search
 description: Assista a uma demonstração completa sobre os recursos e a flexibilidade do Live Search
-kt: 13168
-doc-type: tutorial
+jira: KT-13168
+doc-type: Tutorial
 duration: 935
 audience: all
 last-substantial-update: 2023-04-27T00:00:00.000Z
@@ -50,7 +50,7 @@ topic_v2:
     internal-label: Administration
   - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
     internal-label: Taxonomy
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

@@ -38,14 +38,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: '680'
 ht-degree: 0%
 ---
 # Criar regras de preço do carrinho
 
-As regras de preço do carrinho aplicam descontos aos itens do carrinho de compras com base nas condições definidas. O desconto pode ser aplicado automaticamente quando as condições forem atendidas ou quando o cliente inserir um código de cupom válido. O desconto aparece no carrinho sob o subtotal. Você pode ativar ou desativar uma regra para uma temporada ou promoção alterando seu status e intervalo de datas.
+As regras de preço do carrinho aplicam descontos aos itens do carrinho de compras com base nas condições definidas. Os descontos são aplicados quando as condições são atendidas ou um cliente insere um código de cupom válido. O desconto aparece no carrinho sob o subtotal. Ative ou desative uma regra para uma temporada ou promoção alterando seu status e intervalo de datas.
 
 ## Para quem é este vídeo?
 
@@ -61,7 +61,7 @@ As regras de preço do carrinho aplicam descontos aos itens do carrinho de compr
 
 ## Problemas de exibição de preços
 
-Em alguns casos, cada item de linha deve mostrar o desconto aplicado, mas os valores exibidos podem não corresponder exatamente. Isso acontece quando uma regra de preço do carrinho aplica um desconto em vários produtos e a divisão não é dividida uniformemente em duas casas decimais.
+Os descontos de item de linha exibidos às vezes diferem devido ao arredondamento. Essa diferença ocorre quando uma regra de preço do carrinho aplica um desconto em vários produtos e a divisão produz valores com mais de duas casas decimais.
 
 >[!BEGINSHADEBOX]
 
@@ -102,9 +102,9 @@ Produto 2 = 1,99
 O desconto total dos dois produtos agora quando somados corresponde ao desconto real fornecido a um cliente.
 >[!ENDSHADEBOX]
 
-Esta é uma captura de tela, como mostraria o administrador para um pedido que tem este cenário:
+A captura de tela de Administrador abaixo mostra os descontos de item de linha para este exemplo:
 
-![Modo de exibição de administrador mostrando itens ordenados com valores diferentes](../assets/commerce-admin-cart-price-rule-values-different.png)
+![Modo de exibição de administrador mostrando itens ordenados com valores diferentes](../../assets/commerce-admin-cart-price-rule-values-different.png)
 
 ### Outras soluções possíveis e por que elas não foram usadas
 
@@ -130,7 +130,7 @@ no entanto, se juntarmos tudo, isso mostraria que foram dados US$ 4,00, e isso �
 
 >[!ENDSHADEBOX]
 
-Problema semelhante se a terceira casa decimal fosse descartada para todos os itens, mostraria muito pouco desconto fornecido.
+Descartar a terceira casa decimal para todos os itens produz um desconto total muito pequeno.
 
 >[!BEGINSHADEBOX]
 
@@ -154,5 +154,5 @@ no entanto, se descermos o terceiro decimal, isso mostraria que $3,98 foi dado, 
 
 ## Recursos adicionais
 
-* [Criar uma regra de preço do carrinho - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create.html?lang=pt-BR){target="_blank"}
-* [Códigos de cupom - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon.html?lang=pt-BR){target="_blank"}
+* [Criar uma regra de preço do carrinho - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [Códigos de cupom - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}

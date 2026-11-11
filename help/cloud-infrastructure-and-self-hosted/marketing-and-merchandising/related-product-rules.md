@@ -1,7 +1,8 @@
 ---
 title: Gerenciar Regras de Produto Relacionadas
 description: Saiba como apresentar uma seleção direcionada de produtos para armazenar clientes como produtos relacionados, vendas adicionais e vendas cruzadas.
-doc-type: feature video
+doc-type: Feature Video
+jira: KT-10648
 duration: 160
 audience: all
 activity: use
@@ -37,7 +38,7 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

@@ -4,9 +4,9 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 7ab25e3d8d992a8aa9c11b31d95a70d543b29a35
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1025'
 ht-degree: 3%
 ---
 
@@ -135,11 +135,29 @@ ht-degree: 3%
     + [Usar modelos de conteúdo](../cloud-infrastructure-and-self-hosted/content-management/content-templates.md)
     + [Preparo de conteúdo](../cloud-infrastructure-and-self-hosted/content-management/content-staging.md)
     + [Gerenciar a galeria de mídia](../cloud-infrastructure-and-self-hosted/content-management/media-gallery.md)
+  + Marketing e merchandising {#marketing-and-merchandising}
+    + [Criar Regras de Preço de Catálogo](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/catalog-price-rules.md)
+    + [Criar regras de preço do carrinho](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/cart-price-rules.md)
+    + [Gerenciar Regras de Produto Relacionadas](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/related-product-rules.md)
+    + [Configurar recomendações de produtos](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/product-recommendations.md)
+    + [Introdução ao Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search.md)
+    + [Live Search para recomendações](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-recommendations.md)
+    + [Demonstração completa do Live Search](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/live-search-full-demonstration.md)
+    + [Integrar o Commerce com o AJO](../cloud-infrastructure-and-self-hosted/marketing-and-merchandising/integrate-commerce-ajo.md)
+  + B2B para Adobe Commerce {#b2b}
+    + [Gerenciar contas da empresa](../cloud-infrastructure-and-self-hosted/b2b/company-accounts.md)
+    + [Gerenciar catálogos compartilhados](../cloud-infrastructure-and-self-hosted/b2b/shared-catalogs.md)
+    + [Gerenciar Crédito da Empresa](../cloud-infrastructure-and-self-hosted/b2b/company-credit.md)
+    + [Ordens de Compra e Aprovações](../cloud-infrastructure-and-self-hosted/b2b/purchase-orders.md)
+    + Aspas {#quotes}
+      + [O Representante de Vendas inicia a cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/sales-rep-initiates-quote.md)
+      + [Validação de cotação do administrador](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-validation-admin-panel.md)
+      + [Descontos de item de linha da cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
+      + [Anotações de item de linha de cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
 + Introdução {#getting-started}
   + Recursos do Commerce {#capabilities}
     + [Opções de comércio disponíveis](../capabilities/adobes-available-commerce-options.md)
     + [Conexão de dados](../capabilities/data-connection.md)
-    + [Demonstração completa do Live Search](../capabilities/live-search-full-demonstration.md)
     + [Commerce combinável](../capabilities/what-is-composable-commerce.md)
   + Kit inicial de integração back office {#back-office-integration-starter-kit}
     + [Demonstração do kit inicial](../back-office-integrations/starter-kit-demo.md)
@@ -152,6 +170,10 @@ ht-degree: 3%
 + APIs e integração {#apis-and-integration}
   + Exemplos práticos de REST e GraphQL {#examples}
     + [Clientes com REST](../apis-and-integration/examples/customer.md)
+    + Cotações B2B {#b2b-quotes}
+      + [O Representante de Vendas inicia a API REST da cotação](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
+      + [GraphQL de desconto do item de linha da cotação](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
+      + [API REST de notas de item de linha de cotação](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
 
 + Extensibilidade {#extensibility}
   + Agente de desenvolvedor do Commerce {#commerce-developer-agent}
@@ -286,25 +308,3 @@ ht-degree: 3%
     + [Criar um tíquete de suporte](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [Pesquisar, revisar, comentar e escalonar tíquetes de suporte](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gerenciar observadores e status de tíquetes de suporte](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
-
-+ Ferramentas de marketing {#marketing}
-  + [Criar Regras de Preço de Catálogo](../site-management/catalog-price-rules.md)
-  + [Criar regras de preço do carrinho](../site-management/cart-price-rules.md)
-  + [Gerenciar Regras de Produto Relacionadas](../site-management/related-product-rules.md)
-  + [Configurar recomendações de produtos](../site-management/product-recommendations.md)
-  + [Introdução ao Live Search](../site-management/live-search.md)
-  + [Live Search para recomendações](../site-management/live-search-recommendations.md)
-  + [Integrar o Commerce com o AJO](../site-management/integrate-commerce-ajo.md)
-+ B2B para Adobe Commerce {#b2b}
-  + [Gerenciar contas da empresa](../b2b/company-accounts.md)
-  + [Gerenciar catálogos compartilhados](../b2b/shared-catalogs.md)
-  + [Gerenciar Crédito da Empresa](../b2b/company-credit.md)
-  + [Ordens de Compra e Aprovações](../b2b/purchase-orders.md)
-  + Aspas {#b2b-quote}
-    + [O Representante de Vendas inicia a cotação](../b2b/sales-rep-initiates-quote.md)
-    + [Validação de cotação do administrador](../b2b/quote-validation-admin-panel.md)
-    + [O Representante de Vendas inicia a API REST da cotação](../b2b/sales-rep-initiates-quote-api.md)
-    + [Descontos de item de linha da cotação](../b2b/quote-line-item-discount.md)
-    + [Anotações de item de linha de cotação](../b2b/quote-line-item-notes.md)
-    + [GraphQL de desconto do item de linha da cotação](../b2b/quote-graphql-line-item-discount.md)
-    + [API REST do desconto do item de linha da cotação](../b2b/quote-rest-api-line-item-notes.md)

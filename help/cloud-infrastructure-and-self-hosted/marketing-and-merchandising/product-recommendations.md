@@ -1,11 +1,11 @@
 ---
 title: Configurar recomendações de produtos
 description: Saiba como usar as recomendações de produto na loja do Adobe Commerce.
-doc-type: feature video
+doc-type: Feature Video
 duration: 395
 audience: all
 activity: use
-kt: 13790
+jira: KT-13790
 last-substantial-update: 2023-04-27T00:00:00.000Z
 feature: Configuration, System
 topic: Commerce, Administration
@@ -50,7 +50,7 @@ topic_v2:
     internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%

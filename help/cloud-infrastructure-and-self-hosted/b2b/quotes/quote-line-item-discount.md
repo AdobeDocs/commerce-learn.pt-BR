@@ -44,14 +44,16 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '83'
 ht-degree: 0%
 ---
 # Desconto de item de linha de cotação de venda B2B
 
 Saiba como usar o desconto de item de linha e ver os valores usando o administrador do Adobe Commerce.
+
+Para o fluxo de trabalho da API, consulte [Citar descontos de item de linha com o GraphQL](../../../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md).
 
 {{b2b-feature}}
 

@@ -1,7 +1,7 @@
 ---
 title: Criar uma Regra de Preço de Catálogo
 description: Saiba como criar regras de preço de catálogo que oferecem produtos a compradores a um preço com desconto com base em um conjunto de condições definidas.
-doc-type: feature video
+doc-type: Feature Video
 audience: all
 activity: use
 last-substantial-update: 2022-12-28T00:00:00.000Z
@@ -42,7 +42,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
