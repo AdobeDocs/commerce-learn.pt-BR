@@ -4,9 +4,9 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 2438933afca636cd633375ece98e15c57c1d9ead
+source-git-commit: de9e426dad620ff9f242454e069e44919be39884
 workflow-type: tm+mt
-source-wordcount: '1035'
+source-wordcount: '1034'
 ht-degree: 3%
 ---
 
@@ -224,12 +224,26 @@ ht-degree: 3%
     + [Mecanismo de repetição](../back-office-integrations/retry-mechanism.md)
 
 + APIs e integração {#apis-and-integration}
+  + GraphQL foundation {#graphql-rest}
+    + [Noções básicas do GraphQL](../graphql-rest/intro-graphql.md)
+    + [Consultas](../graphql-rest/graphql-queries.md)
+    + [Mutações](../graphql-rest/graphql-mutations.md)
+    + [Esquema](../graphql-rest/graphql-schema.md)
   + Exemplos práticos de REST e GraphQL {#examples}
     + [Clientes com REST](../apis-and-integration/examples/customer.md)
     + Cotações B2B {#b2b-quotes}
       + [O Representante de Vendas inicia a API REST da cotação](../apis-and-integration/examples/b2b-quotes/sales-rep-initiates-quote-api.md)
       + [GraphQL de desconto do item de linha da cotação](../apis-and-integration/examples/b2b-quotes/quote-graphql-line-item-discount.md)
       + [API REST de notas de item de linha de cotação](../apis-and-integration/examples/b2b-quotes/quote-rest-api-line-item-notes.md)
+
+  + API Mesh {#api-mesh}
+    + [Kit inicial da malha de API usando códigos GitHub](../api-mesh/starter-kit-github-codespaces.md)
+    + [Fluxos de trabalho do kit inicial da malha de API](../api-mesh/starter-kit-workflows.md)
+    + [Introdução à API Mesh](../api-mesh/getting-started-api-mesh.md)
+    + [Instalação do plug-in do Adobe IO e malha](../api-mesh/installing-aio-mesh-plugin.md)
+    + [Trabalhar com projetos e espaços de trabalho](../api-mesh/aio-projects-workspaces.md)
+    + [Criar malha de API do GraphQL de origem única](../api-mesh/graphql-single-source.md)
+    + [Criar várias malhas de API do GraphQL de origem](../api-mesh/graphql-multiple-source.md)
 
 + Extensibilidade {#extensibility}
   + Agente de desenvolvedor do Commerce {#commerce-developer-agent}
@@ -272,11 +286,6 @@ ht-degree: 3%
         + [Peregrine](../pwa/introduction/6-peregrine.md)
       + [Desenvolvimento do PWA Docker](../pwa/pwa-docker-development.md)
       + [Configurar Venia para desenvolvimento](../pwa/set-up-venia-for-dev.md)
-  + GRAPHQL e REST {#graphql-rest}
-    + [Noções básicas do GraphQL](../graphql-rest/intro-graphql.md)
-    + [Consultas](../graphql-rest/graphql-queries.md)
-    + [Mutações](../graphql-rest/graphql-mutations.md)
-    + [Esquema](../graphql-rest/graphql-schema.md)
   + Mais tutoriais do App Builder e eventos de E/S {#adobe-developer-app-builder}
     + Eventos de E/S para Adobe Commerce {#io-events}
       + [Introdução a eventos de E/S](../io-events/getting-started-io-events.md)
@@ -286,14 +295,6 @@ ht-degree: 3%
       + [Configurar Adobe Commerce](../io-events/configure-commerce.md)
       + [Desenvolvimento do módulo Adobe Commerce](../io-events/commerce-module-development.md)
       + [Eventos condicionais do Adobe Commerce](../io-events/conditional-events.md)
-  + API Mesh {#api-mesh}
-    + [Kit inicial da malha de API usando códigos GitHub](../api-mesh/starter-kit-github-codespaces.md)
-    + [Fluxos de trabalho do kit inicial da malha de API](../api-mesh/starter-kit-workflows.md)
-    + [Introdução à API Mesh](../api-mesh/getting-started-api-mesh.md)
-    + [Instalação do plug-in do Adobe IO e malha](../api-mesh/installing-aio-mesh-plugin.md)
-    + [Trabalhar com projetos e espaços de trabalho](../api-mesh/aio-projects-workspaces.md)
-    + [Criar malha de API do GraphQL de origem única](../api-mesh/graphql-single-source.md)
-    + [Criar várias malhas de API do GraphQL de origem](../api-mesh/graphql-multiple-source.md)
 
 + Monitoramento, análise e suporte {#monitoring-analytics-support}
   + Observabilidade {#observability}
