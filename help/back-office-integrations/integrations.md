@@ -3,7 +3,7 @@ title: Práticas recomendadas do Commerce Integration Starter Kit
 description: Conheça as práticas recomendadas para integrações do Adobe Commerce usando o kit inicial, desde a configuração e integração do GitHub até a implantação, validação e ativação.
 doc-type: Technical Video
 duration: 602
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -36,7 +36,7 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Saiba como integrar o Adobe Commerce a sistemas externos, oferecendo insights pr
 * Para criar e configurar provedores de eventos e assinaturas, execute scripts.
 * Atualização de eventos no Commerce e no App Builder para sincronização.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452774?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3431690?learn=on)
 
 {{$include /help/_includes/starter-kit-related-links.md}}
 

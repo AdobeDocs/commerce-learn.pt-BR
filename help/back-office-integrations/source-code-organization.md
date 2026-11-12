@@ -1,9 +1,9 @@
 ---
 title: Organização do código Source no kit inicial do Commerce
-description: Saiba mais sobre a organização do código-fonte no kit inicial de integração do Commerce, incluindo pastas principais como ações e scripts, scripts de automação e manipulação de eventos.
+description: Saiba mais sobre a organização do código-fonte no kit inicial de integração do Commerce, incluindo ações e pastas de scripts, scripts de automação e manipulação de eventos.
 doc-type: Technical Video
 duration: 534
-last-substantial-update: 2024-07-30T00:00:00.000Z
+last-substantial-update: 2024-07-30
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '367'
 ht-degree: 0%
 ---
 # Organização do código Source para o Adobe Starter Kit
