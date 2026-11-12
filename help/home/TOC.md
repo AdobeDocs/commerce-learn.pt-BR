@@ -4,10 +4,10 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 0e7e27e92c07b0d809668489e267749311fd2285
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
-source-wordcount: '1031'
-ht-degree: 3%
+source-wordcount: '1039'
+ht-degree: 2%
 ---
 
 # Vídeos e tutoriais do Adobe Commerce {#tutorials}
@@ -155,7 +155,7 @@ ht-degree: 3%
       + [Descontos de item de linha da cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Anotações de item de linha de cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Desenvolvimento e atualizações de aplicativos {#application-development-and-upgrades}
-    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Criar um módulo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Adicionar um atributo de produto](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Exemplo de injeção de dependência](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -268,8 +268,19 @@ ht-degree: 3%
     + [Migrar código existente](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [Conclusão](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [simulação do App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + Desenvolvimento de front-end do Luma {#frontend-development}
-    + Page Builder PaaS/SaaS para desenvolvedores {#page-builder}
+
++ Desenvolvimento de vitrine {#storefront-development}
+  + Loja do Commerce no Edge Delivery Services {#edge-delivery-services}
+    + Introdução {#getting-started}
+      + [Alteração do fluxo transacional](../edge-delivery-services/transactional-flow.md)
+      + [Usar atributos de produto para itens de carrinho](../edge-delivery-services/product-attributes-cart-items.md)
+      + [Atualizar o resumo do pedido no check-out](../edge-delivery-services/update-order-summary.md)
+      + [Adicionar BOPIS ao check-out](../edge-delivery-services/add-bopis-to-checkout.md)
+      + [Personalizar check-out](../edge-delivery-services/customize-checkout.md)
+      + [Personalizar um layout de endereço](../edge-delivery-services/customize-address-new-account-link.md)
+      + [Experiência do comprador](../edge-delivery-services/shopper-experience.md)
+  + Desenvolvimento de vitrine com base em Luma e PHP {#frontend-development}
+    + Page Builder para desenvolvedores {#page-builder}
       + [1 - Introdução](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - Configuração e conteúdo](../frontend-development/page-builder/2-config-create-content.md)
       + [3 - Temas](../frontend-development/page-builder/3-themes.md)
@@ -278,27 +289,18 @@ ht-degree: 3%
       + [6 - Tipos de conteúdo personalizado](../frontend-development/page-builder/6-custom-content-types.md)
     + [Adicionar um módulo JavaScript](../frontend-development/add-javascript-module.md)
     + [Criar uma página](../frontend-development/create-page.md)
-    + Edge Delivery Services {#edge-delivery-services}
-      + Introdução {#getting-started}
-        + [Alteração do fluxo transacional](../edge-delivery-services/transactional-flow.md)
-        + [Usar atributos de produto para itens de carrinho](../edge-delivery-services/product-attributes-cart-items.md)
-        + [Atualizar o resumo do pedido no check-out](../edge-delivery-services/update-order-summary.md)
-        + [Adicionar BOPIS ao check-out](../edge-delivery-services/add-bopis-to-checkout.md)
-        + [Personalizar check-out](../edge-delivery-services/customize-checkout.md)
-        + [Personalizar um layout de endereço](../edge-delivery-services/customize-address-new-account-link.md)
-        + [Experiência do comprador](../edge-delivery-services/shopper-experience.md)
-    + Arquitetura headless {#headless-architecture}
-      + Introdução ao headless {#introduction-to-headless}
-        + [Arquitetura headless - sessão 1](../headless/session-1.md)
-      + Introdução ao PWA Studio {#introduction}
-        + [Visão geral](../pwa/introduction/1-overview.md)
-        + [Ferramentas do PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
-        + [Launch](../pwa/introduction/3-launch.md)
-        + [PARA CIMA](../pwa/introduction/4-upward.md)
-        + [Introdução](../pwa/introduction/5-getting-started.md)
-        + [Peregrine](../pwa/introduction/6-peregrine.md)
-      + [Desenvolvimento do PWA Docker](../pwa/pwa-docker-development.md)
-      + [Configurar Venia para desenvolvimento](../pwa/set-up-venia-for-dev.md)
+  + Arquitetura headless e PWA Studio {#headless-architecture}
+    + Introdução ao headless {#introduction-to-headless}
+      + [Arquitetura headless - sessão 1](../headless/session-1.md)
+    + Introdução ao PWA Studio {#introduction}
+      + [Visão geral](../pwa/introduction/1-overview.md)
+      + [Ferramentas do PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
+      + [Launch](../pwa/introduction/3-launch.md)
+      + [PARA CIMA](../pwa/introduction/4-upward.md)
+      + [Introdução](../pwa/introduction/5-getting-started.md)
+      + [Peregrine](../pwa/introduction/6-peregrine.md)
+    + [Desenvolvimento do PWA Docker](../pwa/pwa-docker-development.md)
+    + [Configurar Venia para desenvolvimento](../pwa/set-up-venia-for-dev.md)
 
 + Monitoramento, análise e suporte {#monitoring-analytics-support}
   + Observabilidade {#observability}

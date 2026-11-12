@@ -1,8 +1,8 @@
 ---
 title: PWA Studio para desenvolvedores - ASCENDENTE
 description: Saiba mais sobre o UPWARD (Definição de resposta unificada progressiva do aplicativo Web).
-kt: 5647
-doc-type: video
+jira: KT-5647
+doc-type: Technical Video
 duration: 159
 activity: use
 last-substantial-update: 2023-5-28
@@ -42,7 +42,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -60,4 +60,4 @@ Neste vídeo:
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3507756?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35718?learn=on)
