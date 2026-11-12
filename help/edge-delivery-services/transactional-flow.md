@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -67,4 +67,4 @@ Saiba como usar o menu suspenso de carrinho do Adobe Commerce e ajustar o fluxo 
 
 ## Documentação adicional
 
-* [Configurar resumo do carrinho](https://experienceleague.adobe.com/developer/commerce/storefront/dropins/cart/tutorials/configure-cart-summary/?lang=pt-BR)
+* [Configurar resumo do carrinho](https://experienceleague.adobe.com/en/tools/commerce-storefront/how-tos/configure-cart-summary)

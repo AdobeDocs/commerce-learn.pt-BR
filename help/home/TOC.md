@@ -4,10 +4,10 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: de9e426dad620ff9f242454e069e44919be39884
+source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
 workflow-type: tm+mt
-source-wordcount: '1034'
-ht-degree: 3%
+source-wordcount: '1039'
+ht-degree: 2%
 ---
 
 # Vídeos e tutoriais do Adobe Commerce {#tutorials}
@@ -213,15 +213,7 @@ ht-degree: 3%
 + Introdução {#getting-started}
   + Recursos do Commerce {#capabilities}
     + [Opções de comércio disponíveis](../capabilities/adobes-available-commerce-options.md)
-    + [Conexão de dados](../capabilities/data-connection.md)
     + [Commerce combinável](../capabilities/what-is-composable-commerce.md)
-  + Kit inicial de integração back office {#back-office-integration-starter-kit}
-    + [Demonstração do kit inicial](../back-office-integrations/starter-kit-demo.md)
-    + [Integrações](../back-office-integrations/integrations.md)
-    + [Organização do código Source](../back-office-integrations/source-code-organization.md)
-    + [Integração da última milha](../back-office-integrations/last-mile-integration.md)
-    + [Assimilação de Webhook](../back-office-integrations/webhook-ingestion.md)
-    + [Mecanismo de repetição](../back-office-integrations/retry-mechanism.md)
 
 + APIs e integração {#apis-and-integration}
   + GraphQL foundation {#graphql-rest}
@@ -245,6 +237,27 @@ ht-degree: 3%
     + [Criar malha de API do GraphQL de origem única](../api-mesh/graphql-single-source.md)
     + [Criar várias malhas de API do GraphQL de origem](../api-mesh/graphql-multiple-source.md)
 
+  + Eventos e webhooks {#events-and-webhooks}
+    + Eventos de E/S para Adobe Commerce {#io-events}
+      + [Introdução a eventos de E/S](../io-events/getting-started-io-events.md)
+      + [Instalação do Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
+      + [Instalação do Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
+      + [Criar um projeto do App Builder](../io-events/create-app-builder-project.md)
+      + [Configurar Adobe Commerce](../io-events/configure-commerce.md)
+      + [Desenvolvimento do módulo Adobe Commerce](../io-events/commerce-module-development.md)
+      + [Eventos condicionais do Adobe Commerce](../io-events/conditional-events.md)
+
+  + Kit inicial de integração back office {#back-office-integration-starter-kit}
+    + [Demonstração do kit inicial](../back-office-integrations/starter-kit-demo.md)
+    + [Integrações](../back-office-integrations/integrations.md)
+    + [Organização do código Source](../back-office-integrations/source-code-organization.md)
+    + [Integração da última milha](../back-office-integrations/last-mile-integration.md)
+    + [Assimilação de Webhook](../back-office-integrations/webhook-ingestion.md)
+    + [Mecanismo de repetição](../back-office-integrations/retry-mechanism.md)
+
+  + Integrações de dados {#data-integrations}
+    + [Conexão de dados](../capabilities/data-connection.md)
+
 + Extensibilidade {#extensibility}
   + Agente de desenvolvedor do Commerce {#commerce-developer-agent}
     + [Visão geral](../commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video.md)
@@ -255,8 +268,19 @@ ht-degree: 3%
     + [Migrar código existente](../commerce-developer-agent/adobe-commerce-developer-agent-migrate-existing-code-technical-video.md)
     + [Conclusão](../commerce-developer-agent/adobe-commerce-developer-agent-conclusion-technical-video.md)
     + [simulação do App Builder](../commerce-developer-agent/adobe-commerce-developer-agent-app-builder-dry-run.md)
-  + Desenvolvimento de front-end do Luma {#frontend-development}
-    + Page Builder PaaS/SaaS para desenvolvedores {#page-builder}
+
++ Desenvolvimento de vitrine {#storefront-development}
+  + Loja do Commerce no Edge Delivery Services {#edge-delivery-services}
+    + Introdução {#getting-started}
+      + [Alteração do fluxo transacional](../edge-delivery-services/transactional-flow.md)
+      + [Usar atributos de produto para itens de carrinho](../edge-delivery-services/product-attributes-cart-items.md)
+      + [Atualizar o resumo do pedido no check-out](../edge-delivery-services/update-order-summary.md)
+      + [Adicionar BOPIS ao check-out](../edge-delivery-services/add-bopis-to-checkout.md)
+      + [Personalizar check-out](../edge-delivery-services/customize-checkout.md)
+      + [Personalizar um layout de endereço](../edge-delivery-services/customize-address-new-account-link.md)
+      + [Experiência do comprador](../edge-delivery-services/shopper-experience.md)
+  + Desenvolvimento de vitrine com base em Luma e PHP {#frontend-development}
+    + Page Builder para desenvolvedores {#page-builder}
       + [1 - Introdução](../frontend-development/page-builder/1-intro-case-studies.md)
       + [2 - Configuração e conteúdo](../frontend-development/page-builder/2-config-create-content.md)
       + [3 - Temas](../frontend-development/page-builder/3-themes.md)
@@ -265,36 +289,18 @@ ht-degree: 3%
       + [6 - Tipos de conteúdo personalizado](../frontend-development/page-builder/6-custom-content-types.md)
     + [Adicionar um módulo JavaScript](../frontend-development/add-javascript-module.md)
     + [Criar uma página](../frontend-development/create-page.md)
-    + Edge Delivery Services {#edge-delivery-services}
-      + Introdução {#getting-started}
-        + [Alteração do fluxo transacional](../edge-delivery-services/transactional-flow.md)
-        + [Usar atributos de produto para itens de carrinho](../edge-delivery-services/product-attributes-cart-items.md)
-        + [Atualizar o resumo do pedido no check-out](../edge-delivery-services/update-order-summary.md)
-        + [Adicionar BOPIS ao check-out](../edge-delivery-services/add-bopis-to-checkout.md)
-        + [Personalizar check-out](../edge-delivery-services/customize-checkout.md)
-        + [Personalizar um layout de endereço](../edge-delivery-services/customize-address-new-account-link.md)
-        + [Experiência do comprador](../edge-delivery-services/shopper-experience.md)
-    + Arquitetura headless {#headless-architecture}
-      + Introdução ao headless {#introduction-to-headless}
-        + [Arquitetura headless - sessão 1](../headless/session-1.md)
-      + Introdução ao PWA Studio {#introduction}
-        + [Visão geral](../pwa/introduction/1-overview.md)
-        + [Ferramentas do PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
-        + [Launch](../pwa/introduction/3-launch.md)
-        + [PARA CIMA](../pwa/introduction/4-upward.md)
-        + [Introdução](../pwa/introduction/5-getting-started.md)
-        + [Peregrine](../pwa/introduction/6-peregrine.md)
-      + [Desenvolvimento do PWA Docker](../pwa/pwa-docker-development.md)
-      + [Configurar Venia para desenvolvimento](../pwa/set-up-venia-for-dev.md)
-  + Mais tutoriais do App Builder e eventos de E/S {#adobe-developer-app-builder}
-    + Eventos de E/S para Adobe Commerce {#io-events}
-      + [Introdução a eventos de E/S](../io-events/getting-started-io-events.md)
-      + [Instalação do Adobe Commerce 2.4.5](../io-events/2-4-5-installation.md)
-      + [Instalação do Adobe Commerce 2.4.6](../io-events/2-4-6-installation.md)
-      + [Criar um projeto do App Builder](../io-events/create-app-builder-project.md)
-      + [Configurar Adobe Commerce](../io-events/configure-commerce.md)
-      + [Desenvolvimento do módulo Adobe Commerce](../io-events/commerce-module-development.md)
-      + [Eventos condicionais do Adobe Commerce](../io-events/conditional-events.md)
+  + Arquitetura headless e PWA Studio {#headless-architecture}
+    + Introdução ao headless {#introduction-to-headless}
+      + [Arquitetura headless - sessão 1](../headless/session-1.md)
+    + Introdução ao PWA Studio {#introduction}
+      + [Visão geral](../pwa/introduction/1-overview.md)
+      + [Ferramentas do PWA Studio](../pwa/introduction/2-pwa-studio-tools.md)
+      + [Launch](../pwa/introduction/3-launch.md)
+      + [PARA CIMA](../pwa/introduction/4-upward.md)
+      + [Introdução](../pwa/introduction/5-getting-started.md)
+      + [Peregrine](../pwa/introduction/6-peregrine.md)
+    + [Desenvolvimento do PWA Docker](../pwa/pwa-docker-development.md)
+    + [Configurar Venia para desenvolvimento](../pwa/set-up-venia-for-dev.md)
 
 + Monitoramento, análise e suporte {#monitoring-analytics-support}
   + Observabilidade {#observability}

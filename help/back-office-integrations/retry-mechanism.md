@@ -3,7 +3,7 @@ title: Usar a funcionalidade nativa de um mecanismo de repetição
 description: Saiba como usar o mecanismo de repetição do Adobe I/O Events para criar aplicativos resilientes, cobrindo condições de repetição, estratégias de retirada e indicadores visuais.
 doc-type: Technical Video
 duration: 402
-last-substantial-update: 2024-07-31T00:00:00.000Z
+last-substantial-update: 2024-07-31
 feature: Best Practices, Backend Development, Integration
 topic: Architecture, Commerce, Development
 role: Developer
@@ -29,9 +29,9 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: f3df485d32ae7c6af30d711096d8d903c5f1e545
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '377'
 ht-degree: 0%
 ---
 # Usar o mecanismo de repetição do Adobe I/O Events para resiliência de aplicativos
@@ -59,5 +59,5 @@ Saiba como o mecanismo de repetição funciona no contexto das ações de tempo 
 
 ## Documentação relacionada
 
-* [O Webhook não pode manipular um evento](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-unable-to-handle-a-specific-event-but-handles-all-other-events-gracefully)
-* [Webhook inativo e marcado como instável](https://developer.adobe.com/events/docs/support/faq/#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstable)
+* [O Webhook não pode manipular um evento](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-cannot-handle-a-specific-event-but-handles-others)
+* [Webhook inativo e marcado como instável](https://developer.adobe.com/events/docs/support/faq#what-happens-if-my-webhook-is-down-why-is-my-event-registration-marked-as-unstabledisabled)
