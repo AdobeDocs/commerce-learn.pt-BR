@@ -86,8 +86,8 @@ Visão geral do Adobe Commerce e sua série de quatro partes sobre planejamento,
 
 ## Tutoriais relacionados
 
-* [vitrine da Commerce no Edge Delivery Services: experiência do comprador](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Conexão de dados](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [Introdução ao App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [vitrine da Commerce no Edge Delivery Services: experiência do comprador](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Conexão de dados](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Introdução ao App Builder](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

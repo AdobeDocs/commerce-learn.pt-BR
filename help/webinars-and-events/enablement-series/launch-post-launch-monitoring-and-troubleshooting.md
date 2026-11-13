@@ -69,8 +69,8 @@ Este webinário fornece várias práticas recomendadas e dicas para preparar e i
 
 ## Tutoriais relacionados
 
-* [Infraestrutura em nuvem e auto-hospedagem: lista de verificação de pré-lançamento](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
-* [Infraestrutura em nuvem e auto-hospedagem: alertas do New Relic](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
-* [Criar um tíquete de suporte](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
+* [Infraestrutura em nuvem e auto-hospedagem: lista de verificação de pré-lançamento](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Infraestrutura em nuvem e auto-hospedagem: alertas do New Relic](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/tools/new-relic/new-relic-alert-notification-setup)
+* [Criar um tíquete de suporte](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

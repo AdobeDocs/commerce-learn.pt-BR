@@ -54,6 +54,6 @@ Os Adobe Commerce Success Accelerators incluem serviços como prontidão técnic
 
 ## Tutoriais relacionados
 
-* [Infraestrutura em nuvem e auto-hospedagem: lista de verificação de pré-lançamento](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
-* [Visão geral da capacidade de observação](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [Criar um tíquete de suporte](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)
+* [Infraestrutura em nuvem e auto-hospedagem: lista de verificação de pré-lançamento](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Visão geral da capacidade de observação](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Criar um tíquete de suporte](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)

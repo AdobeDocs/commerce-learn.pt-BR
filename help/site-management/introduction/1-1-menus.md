@@ -54,10 +54,10 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=pt-BR).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35942?learn=on)
 
 ## Recursos adicionais
 
-[Documentação do comerciante [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
+[Documentação do comerciante [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=pt-BR)

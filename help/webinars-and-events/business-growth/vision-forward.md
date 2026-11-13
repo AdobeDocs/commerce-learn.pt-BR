@@ -89,6 +89,6 @@ O roteiro da Adobe Commerce para 2026 descreve uma estratégia abrangente para a
 
 ## Tutoriais relacionados
 
-* [Conexão de dados](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [Visão geral da capacidade de observação](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [Introdução ao App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Conexão de dados](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Visão geral da capacidade de observação](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Introdução ao App Builder](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)

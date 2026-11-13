@@ -55,9 +55,9 @@ A plataforma nativa em nuvem da Adobe Commerce permite que as empresas reduzam o
 
 ## Tutoriais relacionados
 
-* [Visão geral do Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
-* [Introdução ao App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
-* [Introdução à API Mesh](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
+* [Visão geral do Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/overview)
+* [Introdução ao App Builder](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Introdução à API Mesh](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/apis-and-integration/api-mesh/getting-started-api-mesh)
 
 ## Vídeos adicionais nesta série
 

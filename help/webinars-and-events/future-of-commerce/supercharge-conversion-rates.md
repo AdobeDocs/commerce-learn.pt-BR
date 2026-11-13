@@ -56,9 +56,9 @@ Descubra como a Adobe Commerce está transformando vitrines digitais com ferrame
 
 ## Tutoriais relacionados
 
-* [vitrine da Commerce no Edge Delivery Services: experiência do comprador](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Adobe Commerce as a Cloud Service: criação de conteúdo de IA gerativa](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
-* [Adobe Commerce as a Cloud Service: experimentação de vitrine](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
+* [vitrine da Commerce no Edge Delivery Services: experiência do comprador](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Adobe Commerce as a Cloud Service: criação de conteúdo de IA gerativa](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/genai-powered-content-creation)
+* [Adobe Commerce as a Cloud Service: experimentação de vitrine](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/commerce-storefront-experimentation)
 
 ## Vídeos adicionais nesta série
 
