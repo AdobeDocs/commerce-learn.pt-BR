@@ -68,9 +68,9 @@ Comece com a oferta que se adapta ao seu projeto: Adobe Commerce as a Cloud Serv
 * **Planeje e modernize:** compare as opções do Commerce, explore as abordagens de arquitetura e implantação e conheça as práticas recomendadas de migração, planejamento de projetos e implementação.
 * **Criar e integrar:** Desenvolver com App Builder, GraphQL, REST, API Mesh, eventos e webhooks. Explore integrações de back-office e desenvolvimento de loja, incluindo o Edge Delivery Services.
 * **Gerenciar e operar:** saiba mais sobre administração de loja, catálogos, conteúdo, marketing, merchandising, fluxos de trabalho B2B e pagamentos. Encontre orientações sobre operações em nuvem, monitoramento, análise, desempenho e solução de problemas.
-* **Explore o Otimizer e a IA** Explore os tutoriais do [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview) para obter recursos de catálogo e vitrine. Siga o [guia de IA e comércio agênico](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview) para pesquisa semântica, Commerce MCP e fluxos de trabalho de desenvolvedor.
+* **Explore o Otimizer e a IA** Explore os tutoriais do [Adobe Commerce Optimizer](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview) para obter recursos de catálogo e vitrine. Siga o [guia de IA e comércio agênico](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview) para pesquisa semântica, Commerce MCP e fluxos de trabalho de desenvolvedor.
 
-Para aprofundar as perspectivas de implementação, atualizações de produtos e discussões comerciais, explore o [Guia de webinários e eventos](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation). Use os vídeos e tutoriais junto com a [documentação do Commerce](https://experienceleague.adobe.com/en/docs/commerce) para obter informações detalhadas sobre requisitos e referências.
+Para aprofundar as perspectivas de implementação, atualizações de produtos e discussões comerciais, explore o [Guia de webinários e eventos](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation). Use os vídeos e tutoriais junto com a [documentação do Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce) para obter informações detalhadas sobre requisitos e referências.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -81,12 +81,12 @@ Para aprofundar as perspectivas de implementação, atualizações de produtos e
 
 >[!TIP]
 >
->O espaço [Eventos Commerce](https://experienceleague.adobe.com/en/events) fornece acesso ao conteúdo de eventos gravados que você pode assistir sob demanda.
+>O espaço [Eventos Commerce](https://experienceleague.adobe.com/pt-br/events) fornece acesso ao conteúdo de eventos gravados que você pode assistir sob demanda.
 
 ## Recursos adicionais
 
-* [Documentação do Commerce](https://experienceleague.adobe.com/en/docs/commerce) - Guias de produtos e informações de referência para ofertas da Commerce.
-* [Documentação do comerciante](https://experienceleague.adobe.com/en/docs/commerce-admin/user-guides/home) - Armazene a configuração e a administração da infraestrutura em nuvem e de implantações auto-hospedadas.
+* [Documentação do Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce) - Guias de produtos e informações de referência para ofertas da Commerce.
+* [Documentação do comerciante](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/user-guides/home) - Armazene a configuração e a administração da infraestrutura em nuvem e de implantações auto-hospedadas.
 * [Documentação do desenvolvedor](https://developer.adobe.com/commerce/) - APIs, SDKs, integrações e recursos de extensibilidade.
-* [Base de Dados de Conhecimento Commerce](https://experienceleague.adobe.com/en/docs/commerce-knowledge-base/kb/overview) - Artigos de solução de problemas, problemas conhecidos e orientações de suporte.
-* [Cursos do Experience League](https://experienceleague.adobe.com/en/courses?product=Commerce) - Aprendizado estruturado no Experience League.
+* [Base de Dados de Conhecimento Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-knowledge-base/kb/overview) - Artigos de solução de problemas, problemas conhecidos e orientações de suporte.
+* [Cursos do Experience League](https://experienceleague.adobe.com/pt-br/courses?product=Commerce) - Aprendizado estruturado no Experience League.
