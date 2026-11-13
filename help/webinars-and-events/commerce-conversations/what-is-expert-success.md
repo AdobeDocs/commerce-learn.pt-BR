@@ -52,4 +52,4 @@ Saiba mais sobre a success plan de especialistas da Adobe Commerce. Saiba mais s
 * Três canais de suporte.
 * Alvos de nível de serviço.
 
->[!VIDEO](https://video.tv.adobe.com/v/3457508?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505671?captions=por_br&learn=on)
