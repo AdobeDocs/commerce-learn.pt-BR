@@ -4,15 +4,20 @@ user-guide-description: Saiba mais sobre o Adobe Commerce e o Magento Open Sourc
 breadcrumb-title: Vídeos e tutoriais
 auto-video-transcripts: true
 author: Russell A.
-source-git-commit: 1e3b88ec32913a3f7c47490b0140d86eb3be4f18
+source-git-commit: ed6305c5f9feda262b5985886b1889c6eae55108
 workflow-type: tm+mt
-source-wordcount: '1042'
+source-wordcount: '1090'
 ht-degree: 2%
 ---
 
 # Vídeos e tutoriais do Adobe Commerce {#tutorials}
 
 + [Tutoriais do [!DNL Commerce]](overview.md)
++ Introdução {#getting-started}
+  + Recursos do Commerce {#capabilities}
+    + [Opções de comércio disponíveis](../capabilities/adobes-available-commerce-options.md)
+    + [Commerce combinável](../capabilities/what-is-composable-commerce.md)
+
 + Adobe Commerce as a Cloud Service {#commerce-as-a-cloud-service}
   + [Visão geral](../commerce-as-a-cloud-service/overview.md)
   + [Arquitetura](../commerce-as-a-cloud-service/architecture.md)
@@ -155,7 +160,7 @@ ht-degree: 2%
       + [Descontos de item de linha da cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Anotações de item de linha de cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Desenvolvimento e atualizações de aplicativos {#application-development-and-upgrades}
-    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
+    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
     + [Criar um módulo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Adicionar um atributo de produto](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Exemplo de injeção de dependência](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -173,6 +178,8 @@ ht-degree: 2%
       + [Pacotes em massa](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [Pacotes separados](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
++ [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview)
+
 + App Builder {#app-builder}
   + Fundamentos {#foundations}
     + [Introdução ao App Builder](../app-builder/foundations/introduction-to-app-builder.md)
@@ -209,11 +216,6 @@ ht-degree: 2%
     + [Ferramentas de IA e kit inicial do Adobe](../app-builder/custom-shipping-rates-ai-tools/ai-tools-starter-kit.md)
     + [Implementação e teste](../app-builder/custom-shipping-rates-ai-tools/implementation-testing.md)
     + [Fornecer feedback à Adobe](../app-builder/custom-shipping-rates-ai-tools/feedback.md)
-
-+ Introdução {#getting-started}
-  + Recursos do Commerce {#capabilities}
-    + [Opções de comércio disponíveis](../capabilities/adobes-available-commerce-options.md)
-    + [Commerce combinável](../capabilities/what-is-composable-commerce.md)
 
 + APIs e integração {#apis-and-integration}
   + GraphQL foundation {#graphql-rest}
@@ -295,6 +297,8 @@ ht-degree: 2%
     + [Desenvolvimento do PWA Docker](../pwa/pwa-docker-development.md)
     + [Configurar Venia para desenvolvimento](../pwa/set-up-venia-for-dev.md)
 
++ [IA e comércio agênico](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
+
 + Monitoramento, análise e suporte {#monitoring-analytics-support}
   + Observabilidade {#observability}
     + [Visão geral da capacidade de observação](../monitoring-analytics-support/observability/overview.md)
@@ -313,3 +317,5 @@ ht-degree: 2%
     + [Criar um tíquete de suporte](../monitoring-analytics-support/help-and-support/create-a-support-ticket.md)
     + [Pesquisar, revisar, comentar e escalonar tíquetes de suporte](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gerenciar observadores e status de tíquetes de suporte](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
+
++ [Webinários e eventos](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
