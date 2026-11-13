@@ -60,6 +60,6 @@ Gerencie métodos de envio e entrega para entregar produtos aos seus clientes. N
 
 ## Recursos adicionais
 
-* [Configurações de envio - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-settings)
-* [Métodos básicos de entrega - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
-* [Configuração de transportadora de remessa - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)
+* [Configurações de envio - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/stores-sales/delivery/shipping-settings)
+* [Métodos básicos de entrega - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
+* [Configuração de transportadora de remessa - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)
