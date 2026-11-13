@@ -65,6 +65,6 @@ Para o fluxo de trabalho da API, consulte [Citar descontos de item de linha com 
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3420415?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445590?captions=por_br&learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}
