@@ -160,7 +160,7 @@ ht-degree: 2%
       + [Descontos de item de linha da cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-discount.md)
       + [Anotações de item de linha de cotação](../cloud-infrastructure-and-self-hosted/b2b/quotes/quote-line-item-notes.md)
   + Desenvolvimento e atualizações de aplicativos {#application-development-and-upgrades}
-    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html)
+    + [Práticas recomendadas para modificar tabelas de banco de dados](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/modifying-core-and-third-party-tables.html?lang=pt-BR)
     + [Criar um módulo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/create-module.md)
     + [Adicionar um atributo de produto](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/add-product-attribute.md)
     + [Exemplo de injeção de dependência](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/dependency-injection.md)
@@ -178,7 +178,7 @@ ht-degree: 2%
       + [Pacotes em massa](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/bulk-packages.md)
       + [Pacotes separados](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/separate-packages.md)
       + [Monorepo](../cloud-infrastructure-and-self-hosted/application-development-and-upgrades/global-reference-architecture-implementation-techniques/monorepo.md)
-+ [Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/adobe-commerce-optimizer/overview)
++ [Adobe Commerce Optimizer](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/adobe-commerce-optimizer/overview)
 
 + App Builder {#app-builder}
   + Fundamentos {#foundations}
@@ -262,7 +262,7 @@ ht-degree: 2%
 
 + Extensibilidade {#extensibility}
   + Agente de desenvolvedor do Commerce {#commerce-developer-agent}
-    + [Caminho de aprendizagem do Agente de desenvolvedor](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
+    + [Caminho de aprendizagem do Agente de desenvolvedor](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/ai-and-agentic-commerce/commerce-developer-agent/adobe-commerce-developer-agent-overview-technical-video)
 
 + Desenvolvimento de vitrine {#storefront-development}
   + Loja do Commerce no Edge Delivery Services {#edge-delivery-services}
@@ -297,7 +297,7 @@ ht-degree: 2%
     + [Desenvolvimento do PWA Docker](../pwa/pwa-docker-development.md)
     + [Configurar Venia para desenvolvimento](../pwa/set-up-venia-for-dev.md)
 
-+ [IA e comércio agênico](https://experienceleague.adobe.com/en/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
++ [IA e comércio agênico](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/ai-and-agentic-commerce/commerce-mcp/commerce-mcp-overview)
 
 + Monitoramento, análise e suporte {#monitoring-analytics-support}
   + Observabilidade {#observability}
@@ -318,4 +318,4 @@ ht-degree: 2%
     + [Pesquisar, revisar, comentar e escalonar tíquetes de suporte](../monitoring-analytics-support/help-and-support/search-track-comment-escalate-support-ticket.md)
     + [Gerenciar observadores e status de tíquetes de suporte](../monitoring-analytics-support/help-and-support/add-remove-watchers-close-reopen-support-ticket.md)
 
-+ [Webinários e eventos](https://experienceleague.adobe.com/en/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
++ [Webinários e eventos](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/webinars-and-events/business-growth/ai-innovation)
