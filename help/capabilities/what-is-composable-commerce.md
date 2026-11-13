@@ -7,7 +7,7 @@ role: Admin, Developer, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 323
-last-substantial-update: 2024-07-6
+last-substantial-update: 2024-07-06
 jira: KT-15730
 exl-id: 4d811a2f-8488-4de7-babd-449aced42e3a
 TQID: 'https://experienceleague.adobe.com/NG-US7zLBgzV425mheo3oQ9Z6gnzAr6aRCLNjHVU0aM'
@@ -51,7 +51,7 @@ topic_v2:
     internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '1305'
 ht-degree: 0%

@@ -4,7 +4,7 @@ description: Saiba como começar a usar a API em malha do Adobe Commerce usando 
 jira: KT-18367
 doc-type: Tutorial
 duration: 253
-last-substantial-update: 2025-06-17T00:00:00.000Z
+last-substantial-update: 2025-06-17
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
@@ -41,7 +41,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 0%
@@ -62,10 +62,10 @@ Esta sessão apresenta o Adobe Commerce API Mesh Starter Kit. Ele foi projetado 
 * Ferramentas integradas para teste: inclui um servidor GraphQL pré-configurado (Yoga) e reinicializações automáticas do servidor para desenvolvimento contínuo.
 * Aprendizado prático: clone o kit inicial, configure endpoints e teste as respostas da API diretamente no navegador.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464022?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3464017?learn=on)
 
 ## Documentação relacionada
 
 * [Repo GitHub do kit inicial da malha da API](https://github.com/adobe-commerce/api-mesh-starter-kit)
 * [graphql-mesh-gateway de documentos do Adobe Developer](https://developer.adobe.com/graphql-mesh-gateway/)
-* [Lista de reprodução de vídeos da API Mesh](https://experienceleague.adobe.com/pt-br/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Lista de reprodução de vídeos da API Mesh](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)

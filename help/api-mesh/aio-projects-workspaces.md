@@ -4,7 +4,7 @@ description: Saiba como usar o Adobe Developer Console para trabalhar com projet
 jira: KT-11803
 doc-type: Tutorial
 duration: 572
-last-substantial-update: 2026-08-03T00:00:00.000Z
+last-substantial-update: 2026-08-03
 feature: API Mesh, App Builder, Extensibility, Tools and External Services, Backend Development
 topic: App Builder, I/O Events, Developer Console, Commerce, Development, Integrations
 role: Developer
@@ -37,7 +37,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '280'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Este tutorial discute a criação de um projeto e um espaço de trabalho para co
 * Alterando a organização, o projeto ou o espaço de trabalho selecionado na CLI
 * Teste de comandos simples do API Mesh
 
->[!VIDEO](https://video.tv.adobe.com/v/3430778?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3414123?learn=on)
 
 ## Saiba mais sobre a Adobe Developer Console
 

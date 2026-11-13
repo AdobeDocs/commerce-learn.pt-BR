@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 131
-last-substantial-update: 2025-07-25T00:00:00.000Z
+last-substantial-update: 2025-07-25
 jira: KT-18610
 exl-id: 7136b0d6-a29f-42f4-8363-5bd4a2d828fc
 autotag-review: '2026-08-11T18:59:19.947Z'
@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -51,9 +51,9 @@ Saiba como criar sua primeira instância do Adobe Commerce Optimizer do início 
 * Escolha o ambiente e a região corretos para sua instância.
 * Implante rapidamente e prepare-se para a configuração de catálogos em tutoriais futuros.
 
->[!VIDEO](https://video.tv.adobe.com/v/3469883?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3469877?learn=on)
 
 ## Conteúdo relacionado
 
-* [Guia do [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/overview){target="_blank"}
-* [Visão geral do Adobe Commerce Optimizer](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}
+* [Guia do [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
+* [Visão geral do Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/overview){target="_blank"}

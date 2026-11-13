@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Tutorial
 duration: 259
-last-substantial-update: 2026-05-15T00:00:00.000Z
+last-substantial-update: 2026-05-15
 jira: KT-18624
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '597'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Equipes de comércio modernas geralmente vendem em **marcas**, **regiões**, **c
 * Como as exibições de catálogo atuam como as &quot;lentes&quot; entre um catálogo base compartilhado e uma loja ou público-alvo específico
 * Como as APIs de serviços de merchandising consomem essas visualizações para que as experiências headless permaneçam alinhadas ao catálogo configurado
 
->[!VIDEO](https://video.tv.adobe.com/v/3491290?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3491285?learn=on)
 
 ## O desafio com catálogos em silos
 
@@ -65,15 +65,15 @@ Essa separação—**de onde os dados vêm** (origem do catálogo) versus **como
 
 ## Exibições de catálogo como lentes de vitrine
 
-Conforme descrito em [Exibições de Catálogo para Serviços de Merchandising](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, uma exibição de catálogo se comporta como uma **lente**: os compradores só veem os produtos, os preços e as regras permitidos pela exibição, enquanto o **catálogo base** permanece o sistema compartilhado de registro. Esse modelo é emparelhado diretamente com os **Serviços de merchandising** para que os clientes da API passem a exibição correta (e os cabeçalhos relacionados) e recebam uma resposta consistente e orientada por políticas para cada experiência.
+Conforme descrito em [Exibições de Catálogo para Serviços de Merchandising](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}, uma exibição de catálogo se comporta como uma **lente**: os compradores só veem os produtos, os preços e as regras permitidos pela exibição, enquanto o **catálogo base** permanece o sistema compartilhado de registro. Esse modelo é emparelhado diretamente com os **Serviços de merchandising** para que os clientes da API passem a exibição correta (e os cabeçalhos relacionados) e recebam uma resposta consistente e orientada por políticas para cada experiência.
 
 Para obter uma apresentação mais detalhada de como essas partes se encaixam em um fluxo de ponta a ponta, consulte a apresentação do desenvolvedor [Criar um catálogo combinável para sua loja](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}.
 
 ## Conteúdo relacionado
 
 * [Saiba mais sobre Exibições de catálogo](./learn-about-the-ccdm-feature-catalog-views.md)
-* [Exibições de catálogo para serviços de merchandising](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
+* [Exibições de catálogo para serviços de merchandising](https://experienceleague.adobe.com/en/docs/commerce/optimizer/setup/catalog-view){target="_blank"}
 * [Criar um catálogo combinável para sua loja](https://developer.adobe.com/commerce/services/optimizer/ccdm-use-case){target="_blank"}
-* [Guia do [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/overview){target="_blank"}
+* [Guia do [!DNL Adobe Commerce Optimizer]](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview){target="_blank"}
 * [Introdução à API de merchandising](https://developer.adobe.com/commerce/services/optimizer/merchandising-services/using-the-api#make-your-first-request){target="_blank"}
 

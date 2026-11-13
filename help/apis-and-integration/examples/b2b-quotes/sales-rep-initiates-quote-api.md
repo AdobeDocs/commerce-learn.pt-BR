@@ -4,7 +4,7 @@ description: Saiba como um representante de vendas usa a API REST do Adobe Comme
 doc-type: Technical Video
 duration: 232
 jira: KT-13797
-last-substantial-update: 2023-06-13T00:00:00.000Z
+last-substantial-update: 2023-06-13
 feature: Configuration, System, Quotes, B2B, Companies
 topic: Commerce, Administration
 role: Admin, User
@@ -44,7 +44,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -63,6 +63,6 @@ Saiba como o representante de vendas pode iniciar a cotação da API REST do Ado
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3423714?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3420414?learn=on)
 
 {{$include /help/_includes/b2b-quote-additional-resources.md}}

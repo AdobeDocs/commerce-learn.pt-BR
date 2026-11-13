@@ -5,7 +5,7 @@ jira: KT-14364
 doc-type: Feature Video
 duration: 783
 audience: all
-last-substantial-update: 2023-11-08T00:00:00.000Z
+last-substantial-update: 2023-11-08
 feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
@@ -42,9 +42,9 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-11-12T20:16:22.359Z'
-source-git-commit: 0e7e27e92c07b0d809668489e267749311fd2285
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '177'
 ht-degree: 0%
 ---
 # Demonstração completa da Conexão de dados do Adobe Commerce
@@ -65,4 +65,4 @@ Saiba como usar a Conexão de dados do Adobe Commerce juntamente com algumas con
 * Públicos-alvo da Real-Time CDP que atualizam e modificam a segmentação em tempo real com base em dados do navegador, dados do lado do servidor (incluindo o histórico de pedidos) e dados de outras fontes (ou seja, dados de fidelidade).
 * Utilização de públicos da Real-Time CDP para personalizar regras de preço do carrinho e blocos dinâmicos no Adobe Commerce.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453823?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3425591?learn=on)
