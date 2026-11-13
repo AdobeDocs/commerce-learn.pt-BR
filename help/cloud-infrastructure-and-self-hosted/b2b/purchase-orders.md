@@ -3,7 +3,7 @@ title: Ordens de compra e aprovações B2B
 description: Saiba como habilitar ordens de compra B2B e regras de aprovação para contas da empresa, incluindo limites de gastos, aprovadores designados e políticas de compra.
 doc-type: Feature Video
 duration: 257
-last-substantial-update: 2026-03-25T00:00:00.000Z
+last-substantial-update: 2026-03-25
 feature: Purchase Orders, B2B
 topic: Commerce, Administration
 role: User
@@ -46,7 +46,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 1%
@@ -71,9 +71,9 @@ Com as permissões necessárias para sua função, os clientes B2B podem configu
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412496?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344450?learn=on)
 
 ## Recursos adicionais
 
-* [Ordens de Compra para Empresas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow){target="_blank"}
-* [Regras de Aprovação de Ordem de Compra](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules){target="_blank"}
+* [Ordens de Compra para Empresas](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/purchase-order-flow){target="_blank"}
+* [Regras de Aprovação de Ordem de Compra](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/purchase-orders/account-dashboard-approval-rules){target="_blank"}

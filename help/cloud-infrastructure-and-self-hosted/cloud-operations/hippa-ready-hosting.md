@@ -7,7 +7,7 @@ role: Admin, Developer, Leader, User
 level: Beginner, Intermediate
 doc-type: Tutorial
 duration: 324
-last-substantial-update: 2025-05-30T00:00:00.000Z
+last-substantial-update: 2025-05-30
 jira: KT-14593
 exl-id: 60314a97-1922-490f-be18-e5e5998075e2
 TQID: 'https://experienceleague.adobe.com/m1MKUwzUn4qsOhqnFYo94qaO9o9jA5tsrTyEHxtPlno'
@@ -50,7 +50,7 @@ topic_v2:
     internal-label: Security
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
@@ -71,10 +71,10 @@ A Adobe Commerce oferece uma solução pronta para HIPAA projetada para ajudar a
 * A solução inclui mecanismos aprimorados de registro para PHI e oferece recursos de integração com produtos internos da Adobe e serviços externos de terceiros.
 * A Adobe Commerce oferece um ambiente de preparo especial para suporte e solução de problemas, garantindo que os dados confidenciais sejam protegidos e que o ambiente espelhe a produção.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463182?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3463177?learn=on)
 
 ## Documentação adicional
 
-* [Disponibilidade para HIPAA - Conexão de dados](https://experienceleague.adobe.com/pt-br/docs/commerce/data-connection/hipaa-readiness)
-* [Disponibilidade para a HIPAA - Conformidade](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
-* [Instalar Conexão de Dados](https://experienceleague.adobe.com/pt-br/docs/commerce/data-connection/fundamentals/install)
+* [Disponibilidade para HIPAA - Conexão de dados](https://experienceleague.adobe.com/en/docs/commerce/data-connection/hipaa-readiness)
+* [Disponibilidade para a HIPAA - Conformidade](https://experienceleague.adobe.com/en/docs/commerce-admin/start/compliance/hipaa-ready-service/overview)
+* [Instalar Conexão de Dados](https://experienceleague.adobe.com/en/docs/commerce/data-connection/fundamentals/install)

@@ -6,7 +6,7 @@ doc-type: Tutorial
 duration: 211
 audience: all
 activity: use
-last-substantial-update: 2023-8-15
+last-substantial-update: 2023-08-15
 feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
@@ -45,7 +45,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '846'
 ht-degree: 0%
@@ -58,11 +58,11 @@ Escolha uma das opções abaixo para saber mais.
 
 >[!BEGINTABS]
 
->[!TAB Manual 1]
+>Manual[!TAB 1]
 
 ## Criação manual dos produtos {#manual-import}
 
-Considere a criação manual de produtos para um pequeno catálogo com atualizações pouco frequentes. A entrada de cada produto leva tempo e requer treinamento básico do Administrador do Commerce. O gerenciamento manual de catálogos atende a situações específicas e não à maioria das lojas. Para obter instruções, consulte [Criar um produto](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/catalog/products/product-create){target="_blank"}. Se você combinar métodos de gerenciamento de catálogo, limite as edições manuais depois de introduzir a automação. As atualizações automatizadas correm o risco de substituir alterações manuais e causar confusão. Quando uma integração gerencia o catálogo por meio de automação e APIs, restrinja o gerenciamento de catálogos no Administrador através de [funções e permissões de usuário](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}.
+Considere a criação manual de produtos para um pequeno catálogo com atualizações pouco frequentes. A entrada de cada produto leva tempo e requer treinamento básico do Administrador do Commerce. O gerenciamento manual de catálogos atende a situações específicas e não à maioria das lojas. Para obter instruções, consulte [Criar um produto](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/products/product-create){target="_blank"}. Se você combinar métodos de gerenciamento de catálogo, limite as edições manuais depois de introduzir a automação. As atualizações automatizadas correm o risco de substituir alterações manuais e causar confusão. Quando uma integração gerencia o catálogo por meio de automação e APIs, restrinja o gerenciamento de catálogos no Administrador através de [funções e permissões de usuário](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/user-accounts/permissions-user-roles){target="_blank"}.
 
 ### Quando considerar esta abordagem
 
@@ -77,7 +77,7 @@ Considere a criação manual de produtos para um pequeno catálogo com atualiza�
 ## Ferramenta de importação de CSV do administrador {#admin-csv}
 
 Essa ferramenta permite que o proprietário de uma loja importe um catálogo usando um direito CSV do administrador de comércio.
-[Importar dados do administrador do Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+[Importar dados do administrador do Commerce](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
 
 Vantagens:
 Fazer upload de um CSV do administrador é uma abordagem direta para o gerenciamento de catálogos. Ele permite atualizações mais rápidas de produtos de catálogo para um catálogo de tamanho moderado.
@@ -171,6 +171,6 @@ Desvantagens:
 ## Recursos adicionais
 
 * [Importar dados usando o novo CSV REST](https://developer.adobe.com/commerce/webapi/rest/modules/import/){target="_blank"}
-* [Importar documentação principal de dados](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
-* [Notas de versão do Adobe Commerce versão 2.4.6](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
+* [Importar documentação principal de dados](https://experienceleague.adobe.com/en/docs/commerce-admin/systems/data-transfer/import/data-import){target="_blank"}
+* [Notas de versão do Adobe Commerce versão 2.4.6](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/adobe-commerce/2-4-6){target="_blank"}
 * [Usuários, funções e permissões](../store-administration/users-roles-permissions.md){target="_blank"}

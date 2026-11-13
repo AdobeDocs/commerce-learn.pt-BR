@@ -8,7 +8,7 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 811
-last-substantial-update: 2024-03-05T00:00:00.000Z
+last-substantial-update: 2024-03-05
 jira: KT-15018
 exl-id: e5b82073-0905-4e25-8e15-5b66672c3e79
 TQID: 'https://experienceleague.adobe.com/Ql9caCQL2FgifzXtT4pIp1Og8PXRBEz4KzPN1SrmoC4'
@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -57,13 +57,13 @@ Saiba mais sobre o uso da nuvem do Fastly para Adobe Commerce.
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432801?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427695?learn=on)
 
 ## Documentação do Experience League e do Fastly Adobe Commerce checker mencionados no vídeo
 
 * [Fastly Checker](https://adobe-commerce-tester.freetls.fastly.net/adobe-commerce-tester/)
-* [Serviços Fastly no Experience League](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html?lang=pt-BR)
-* [Perguntas frequentes sobre o Fastly WAF](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html?lang=pt-BR)
-* [Otimização de imagem](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html?lang=pt-BR)
+* [Serviços Fastly no Experience League](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/cdn/fastly.html)
+* [Perguntas frequentes sobre o Fastly WAF](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/faq/web-application-firewall-waf-powered-by-fastly-the-faq.html)
+* [Otimização de imagem](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/image-optimization.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

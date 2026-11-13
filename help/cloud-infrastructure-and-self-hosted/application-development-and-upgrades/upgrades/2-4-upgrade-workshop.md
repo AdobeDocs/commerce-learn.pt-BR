@@ -8,7 +8,7 @@ doc-type: Technical Video
 duration: 4306
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Upgrade
 topic: Commerce, Administration
 old-role: Architect, Developer
@@ -44,7 +44,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-11-11T17:29:20.960Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 30%
@@ -69,10 +69,10 @@ Neste workshop, a Adobe Commerce fez parceria com a Merkle para compartilhar:
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432515?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340038?learn=on)
 
 ## Recursos adicionais
 
-* [Guia de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html?lang=pt-BR)
-* [Versões lançadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html?lang=pt-BR)
-* [Programação de lançamento](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html?lang=pt-BR)
+* [Guia de atualização](https://experienceleague.adobe.com/docs/commerce-operations/upgrade-guide/overview.html)
+* [Versões lançadas](https://experienceleague.adobe.com/docs/commerce-operations/release/versions.html)
+* [Programação de lançamento](https://experienceleague.adobe.com/docs/commerce-operations/release/planning/schedule.html)

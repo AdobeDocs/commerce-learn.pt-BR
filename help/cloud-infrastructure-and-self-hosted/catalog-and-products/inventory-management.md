@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 383
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -38,7 +38,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -54,9 +54,9 @@ Comerciantes com uma única loja para vários depósitos, lojas, locais de retir
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411977?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343748?learn=on)
 
 ## Recursos adicionais
 
-* [Guia do Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html?lang=pt-BR)
+* [Guia do Inventory management](https://experienceleague.adobe.com/docs/commerce-admin/inventory/introduction.html)
 * [Inventory management - Documentação REST do desenvolvedor](https://developer.adobe.com/commerce/webapi/rest/inventory/)

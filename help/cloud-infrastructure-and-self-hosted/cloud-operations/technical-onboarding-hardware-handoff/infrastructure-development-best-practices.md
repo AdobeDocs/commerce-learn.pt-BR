@@ -8,7 +8,7 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 781
-last-substantial-update: 2024-03-04T00:00:00.000Z
+last-substantial-update: 2024-03-04
 jira: KT-15017
 exl-id: 097561c7-5198-4544-985d-255c80a9648b
 TQID: 'https://experienceleague.adobe.com/u4qsJEDOyDOduZMPQTWNuybWGiRn-cnt3hfbPiW1jVk'
@@ -38,7 +38,7 @@ topic_v2:
     internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -55,15 +55,15 @@ Saiba mais sobre a infraestrutura em nuvem e algumas práticas recomendadas de d
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3432797?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427679?learn=on)
 
 ## Documentação do Experience League mencionada no vídeo
 
-* [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html?lang=pt-BR#migrate-files-using-rsync)
-* [SFTP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html?lang=pt-BR#sftp)
-* [CLI do Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html?lang=pt-BR)
-* [Atualização do Adobe Commerce e aplicação de patches](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html?lang=pt-BR)
-* [Lista de verificação de pré-lançamento do Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html?lang=pt-BR)
-* [Criação de tíquetes de suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html?lang=pt-BR)
+* [Rsync](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/deploy/staging-production.html#migrate-files-using-rsync)
+* [SFTP](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/secure-connections.html#sftp)
+* [CLI do Commerce Cloud](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/cloud-cli/cloud-cli-overview.html)
+* [Atualização do Adobe Commerce e aplicação de patches](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/upgrade/apply-patches.html)
+* [Lista de verificação de pré-lançamento do Adobe Commerce](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/launch/checklist.html)
+* [Criação de tíquetes de suporte](https://experienceleague.adobe.com/docs/commerce-knowledge-base/kb/help-center-guide/magento-help-center-user-guide.html)
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}

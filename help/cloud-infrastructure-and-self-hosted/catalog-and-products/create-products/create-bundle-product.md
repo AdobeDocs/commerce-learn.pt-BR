@@ -6,7 +6,7 @@ doc-type: Technical Video
 duration: 1335
 audience: all
 activity: use
-last-substantial-update: 2024-1-8
+last-substantial-update: 2024-01-08
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
@@ -45,7 +45,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '673'
 ht-degree: 0%
@@ -93,7 +93,7 @@ Ao criar pacotes de produtos do administrador do Adobe Commerce, você pode cria
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3454504?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426797?learn=on)
 
 ## Criar produtos com REST
 
@@ -462,6 +462,6 @@ curl --location '{{your.url.here}}/rest/default/V1/bundle-products/options/add' 
 ## Recursos adicionais
 
 * [Tutorial de criação de um pacote de produtos](https://developer.adobe.com/commerce/webapi/rest/tutorials/bundle-product/){target="_blank"}
-* [Produto do pacote](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html?lang=pt-BR){target="_blank"}
+* [Produto do pacote](https://experienceleague.adobe.com/docs/commerce-admin/catalog/products/types/product-create-bundle.html){target="_blank"}
 * [Tutoriais do Adobe Developer REST](https://developer.adobe.com/commerce/webapi/rest/tutorials/prerequisite-tasks/){target="_blank"}
 * [ReDoc Adobe Commerce REST](https://adobe-commerce.redoc.ly/2.4.6-admin/tag/products#operation/PostV1Products){target="_blank"}

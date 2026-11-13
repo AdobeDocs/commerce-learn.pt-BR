@@ -4,7 +4,7 @@ description: Saiba como os usuários da conta de empresa B2B podem comprar em co
 doc-type: Technical Video
 duration: 230
 jira: KT-13910
-last-substantial-update: 2023-02-16T00:00:00.000Z
+last-substantial-update: 2023-02-16
 feature: Configuration, System, B2B, Companies
 topic: Commerce, Administration
 role: User
@@ -44,14 +44,14 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 99725eaac5f58955a7e6639c09db678b34520cc6
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 ---
 # Gerenciar Crédito da Empresa
 
-As empresas que têm _[!UICONTROL Payment on Account]_&#x200B;habilitado e o crédito da empresa disponível podem fazer compras em sua conta até o limite de crédito concedido. Com esse recurso, os clientes podem verificar o status do crédito da empresa no painel de conta.
+As empresas que têm _[!UICONTROL Payment on Account]_habilitado e o crédito da empresa disponível podem fazer compras em sua conta até o limite de crédito concedido. Com esse recurso, os clientes podem verificar o status do crédito da empresa no painel de conta.
 
 Você pode definir os seguintes parâmetros relacionados a crédito para cada perfil de empresa:
 
@@ -70,9 +70,9 @@ Você pode definir os seguintes parâmetros relacionados a crédito para cada pe
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3412495?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/344445?learn=on)
 
 ## Recursos adicionais
 
-* [Configurar pagamento por conta](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
-* [Gerenciar Crédito da Empresa](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/b2b/companies/credit-company)
+* [Configurar pagamento por conta](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/enable-basic-features#configure-payment-on-account)
+* [Gerenciar Crédito da Empresa](https://experienceleague.adobe.com/en/docs/commerce-admin/b2b/companies/credit-company)

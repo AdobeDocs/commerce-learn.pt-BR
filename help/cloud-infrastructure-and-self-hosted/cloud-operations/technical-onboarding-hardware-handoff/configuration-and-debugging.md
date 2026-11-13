@@ -7,7 +7,7 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 553
-last-substantial-update: 2024-03-06T00:00:00.000Z
+last-substantial-update: 2024-03-06
 jira: KT-15019
 exl-id: 8f5895bb-b402-4187-abf7-d7b2ac3f3c93
 TQID: 'https://experienceleague.adobe.com/OY4JXDu6LE86ApgMaPIjj4DobJBAJZlHpJDdHIACWlw'
@@ -39,7 +39,7 @@ topic_v2:
     internal-label: Security
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '309'
 ht-degree: 0%
@@ -60,20 +60,20 @@ Este vídeo faz parte da série de integração técnica da Adobe Commerce Cloud
 * Workflows de validação, otimização e depuração.
 * Ferramentas ECE, Ferramenta de correções de qualidade, New Relic, Xdebug e gerenciamento de registros.
 
->[!VIDEO](https://video.tv.adobe.com/v/3432818?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427709?learn=on)
 
 ## Documentação do Experience League mencionada no vídeo
 
-* [Configurar Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html?lang=pt-BR){target="_blank"}
+* [Configurar Xdebug](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/debug.html){target="_blank"}
 * [Cloud Docker: configurar Xdebug](https://developer.adobe.com/commerce/cloud-tools/docker/test/configure-xdebug/){target="_blank"}
-* [Práticas recomendadas de depuração](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html?lang=pt-BR){target="_blank"}
-* [Visão geral dos arquivos de configuração](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html?lang=pt-BR){target="_blank"}
-* [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html?lang=pt-BR){target="_blank"}
-* [Atualize o pacote ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html?lang=pt-BR){target="_blank"}
-* [Visão geral do New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html?lang=pt-BR){target="_blank"}
-* [Exibir e gerenciar arquivos de log](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html?lang=pt-BR){target="_blank"}
-* [Gerenciamento de logs do New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html?lang=pt-BR){target="_blank"}
-* [Ferramenta Correções de qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html?lang=pt-BR){target="_blank"}
-* [Uso da Ferramenta de correções de qualidade](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html?lang=pt-BR){target="_blank"}
+* [Práticas recomendadas de depuração](https://experienceleague.adobe.com/docs/commerce-operations/implementation-playbook/best-practices/development/debugging.html){target="_blank"}
+* [Visão geral dos arquivos de configuração](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/configure/overview.html){target="_blank"}
+* [ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/package-overview.html){target="_blank"}
+* [Atualize o pacote ECE-Tools](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/dev-tools/ece-tools/update-package.html){target="_blank"}
+* [Visão geral do New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/new-relic-service.html){target="_blank"}
+* [Exibir e gerenciar arquivos de log](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/develop/test/log-locations.html){target="_blank"}
+* [Gerenciamento de logs do New Relic](https://experienceleague.adobe.com/docs/commerce-cloud-service/user-guide/monitor/new-relic/log-management.html){target="_blank"}
+* [Ferramenta Correções de qualidade](https://experienceleague.adobe.com/tools/commerce-quality-patches/index.html){target="_blank"}
+* [Uso da Ferramenta de correções de qualidade](https://experienceleague.adobe.com/docs/commerce-operations/tools/quality-patches-tool/usage.html){target="_blank"}
 
 {{$include /help/_includes/cloud-technical-onboarding-related-links.md}}
