@@ -52,7 +52,7 @@ Descubra como a Adobe Commerce está transformando vitrines digitais com ferrame
 * Componentes prontos para o desenvolvedor e SDK
 * Ferramentas de edição visual integradas
 
->[!VIDEO](https://video.tv.adobe.com/v/3458517?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3505713?captions=por_br&learn=on)
 
 ## Tutoriais relacionados
 
