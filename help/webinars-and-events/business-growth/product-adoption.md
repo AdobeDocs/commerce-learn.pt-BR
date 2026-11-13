@@ -2,7 +2,7 @@
 title: Simplifique a migração do Adobe Commerce com as ferramentas de IA
 description: Saiba como o Adobe Commerce simplifica a migração em nuvem com ferramentas de IA, adoção modular e desenvolvimento mais rápido para um crescimento escalável dos negócios.
 feature: App Builder, Storefront, Extensions, Merchandising
-topic: Artificial Intelligence, Migration, Commerce
+topic: Migration, Commerce
 old-role: Data Engineer, Developer
 role: Developer
 level: Beginner
@@ -40,9 +40,9 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '283'
 ht-degree: 0%
 ---
 # Crescimento dos negócios ao simplificar a adoção de novos produtos
@@ -63,4 +63,10 @@ A Adobe Commerce está facilitando o crescimento das empresas, ajudando-as a mig
 * A extensibilidade do App Builder permite que a lógica personalizada seja dissociada em funções sem servidor para facilitar a manutenção.
 * As melhorias nas vitrines melhoram o desempenho e a criação de conteúdo com componentes integrados e entrega de borda.
 
->[!VIDEO](https://video.tv.adobe.com/v/3475753?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475737?learn=on)
+
+## Tutoriais relacionados
+
+* [Migrar para o Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/commerce-as-a-cloud-service/product-overview/modernization-and-migration)
+* [Introdução ao App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [vitrine da Commerce no Edge Delivery Services: experiência do comprador](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
