@@ -47,7 +47,7 @@ Saiba mais sobre o Commerce Optimizer Salesforce Commerce Cloud Connector, uma f
 * saiba mais sobre a finalidade do kit inicial de integração do Salesforce Commerce Cloud.
 * Saiba onde instalar o kit inicial
 
->[!VIDEO](https://video.tv.adobe.com/v/3473977?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473983?captions=por_br&learn=on)
 
 
 ## Continuar a série de kits iniciais
