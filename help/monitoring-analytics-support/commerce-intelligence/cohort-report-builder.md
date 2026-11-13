@@ -9,7 +9,7 @@ duration: 103
 solution: Adobe Commerce
 audience: all
 activity: use
-last-substantial-update: 2023-2-10
+last-substantial-update: 2023-02-10
 feature: Commerce Intelligence
 topic: Commerce, Administration
 role: Admin, User
@@ -43,7 +43,7 @@ topic_v2:
     internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -60,7 +60,7 @@ Neste vídeo:
 
 >[!TIP]
 >
->Se você é novo no Commerce Intelligence, o [Guia do Usuário do Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html?lang=pt-BR){target="_blank"} fornece uma visão geral completa para fornecer melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
+>Se você é novo no Commerce Intelligence, o [Guia do Usuário do Adobe Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/guide-overview.html){target="_blank"} fornece uma visão geral completa para fornecer melhores insights e resultados de negócios por meio da agregação, análise e visualização de dados.
 
 ## Para quem é este vídeo?
 
@@ -69,10 +69,10 @@ Neste vídeo:
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/346399?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342407?learn=on)
 
 ## Recursos úteis
 
-[Uso do Guia do usuário do Cohort Report Builder - Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html?lang=pt-BR)
+[Uso do Guia do usuário do Cohort Report Builder - Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/cohort-rpt-bldr.html)
 
-[Criar uma análise de coorte qualitativa - Guia do usuário do Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html?lang=pt-BR)
+[Criar uma análise de coorte qualitativa - Guia do usuário do Commerce Intelligence](https://experienceleague.adobe.com/docs/commerce-business-intelligence/mbi/analyze/sql/create-qual-cohort-analysis.html)

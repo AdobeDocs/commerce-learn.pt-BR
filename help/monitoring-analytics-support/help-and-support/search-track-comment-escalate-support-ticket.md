@@ -7,7 +7,7 @@ role: Admin
 level: Beginner
 doc-type: Tutorial
 duration: 209
-last-substantial-update: 2024-08-23T00:00:00.000Z
+last-substantial-update: 2024-08-23
 jira: KT-16049
 exl-id: 15b560bd-29f7-4866-86a4-ef548a5ac953
 TQID: 'https://experienceleague.adobe.com/-ATvMO7lsgqxCIZpBJTYLFeDrWYKRKgZPaZMk-aSsoQ'
@@ -30,7 +30,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -49,8 +49,8 @@ Saiba como pesquisar, revisar, comentar e escalonar um tíquete de suporte no Ad
 * Saiba como adicionar um comentário a um tíquete de suporte aberto
 * Saiba como e alguns motivos para escalonar um tíquete de suporte
 
->[!VIDEO](https://video.tv.adobe.com/v/3445316?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433076?learn=on)
 
 ## Guia da Central de ajuda da Adobe da Base de conhecimento Commerce
 
-[Enviar um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Enviar um caso de suporte](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

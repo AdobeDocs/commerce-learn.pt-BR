@@ -4,7 +4,7 @@ description: Saiba como arquitetar a Arquitetura de referência global para o Ad
 jira: KT-14041
 doc-type: Value Video
 duration: 3108
-last-substantial-update: 2023-10-03T00:00:00.000Z
+last-substantial-update: 2023-10-03
 feature: Best Practices, Configuration, Install
 topic: Architecture, Commerce, Development
 role: Developer, User, Leader
@@ -42,7 +42,7 @@ topic_v2:
     internal-label: Implementation
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%

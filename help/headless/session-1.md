@@ -4,7 +4,7 @@ description: Saiba mais sobre arquitetura headless, comércio combinável e expe
 jira: KT-13144
 doc-type: Value Video
 duration: 1951
-last-substantial-update: 2023-04-25T00:00:00.000Z
+last-substantial-update: 2023-04-25
 feature: GraphQL, REST
 topic: Commerce, Architecture, Headless
 role: Admin, Developer
@@ -53,7 +53,7 @@ topic_v2:
     internal-label: Security
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%

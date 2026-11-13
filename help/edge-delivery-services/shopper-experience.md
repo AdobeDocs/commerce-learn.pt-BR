@@ -7,7 +7,7 @@ role: User
 level: Beginner
 doc-type: Technical Video
 duration: 588
-last-substantial-update: 2024-02-21T00:00:00.000Z
+last-substantial-update: 2024-02-21
 jira: KT-17259
 exl-id: 27a2aaa6-7748-4ec2-919f-9e5dc07e94e7
 TQID: 'https://experienceleague.adobe.com/3AYupbUJJncbDDt6wnSXU0MO2Em-6gOeCbzwgxMzpBQ'
@@ -45,7 +45,7 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -77,4 +77,4 @@ Você aprende a navegar na loja da Adobe Commerce no Edge Delivery Services, inc
 * Trabalhar com o carrinho e as ordens: adicionar itens, fazer check-out como convidado, cancelar ordens, reordenar e processar devoluções.
 * Atualize as informações da conta, mescle carrinhos de convidados e clientes e mantenha a consistência de check-out.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446767?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446762?learn=on)

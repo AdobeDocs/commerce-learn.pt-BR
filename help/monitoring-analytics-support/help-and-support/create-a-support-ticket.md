@@ -7,7 +7,7 @@ role: Admin, Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 355
-last-substantial-update: 2024-08-23T00:00:00.000Z
+last-substantial-update: 2024-08-23
 jira: KT-15165
 exl-id: f1ade4e9-f6c3-4498-afad-27c0120242be
 TQID: 'https://experienceleague.adobe.com/S2bl2x6FNq0bvaWUlTMoCHWSYaxmwLliNVewsDxKNh4'
@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 5c0f4dcbf6ba5b317d27e911624f3175cebc5662
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -61,8 +61,8 @@ Saiba como criar um tíquete de suporte no Adobe Experience League para o Adobe 
 * Saiba como os artigos recomendados mudam, dependendo de quais informações foram usadas no formulário
 * Como o texto de espaço reservado encontrado nos campos de formulário ajuda a entender o tipo de informações necessárias para uma boa solicitação de suporte
 
->[!VIDEO](https://video.tv.adobe.com/v/3449558?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433065?learn=on)
 
 ## Guia da Central de ajuda da Adobe da Base de conhecimento Commerce
 
-[Enviar um caso de suporte](https://experienceleague.adobe.com/pt-br/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)
+[Enviar um caso de suporte](https://experienceleague.adobe.com/en/docs/support-resources/adobe-support-tools-guide/adobe-commerce-support/adobe-commerce-help-center-user-guide#support-case)

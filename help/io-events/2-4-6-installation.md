@@ -4,7 +4,7 @@ description: Saiba como instalar módulos necessários para eventos de E/S no Ad
 jira: KT-11887
 doc-type: Tutorial
 duration: 136
-last-substantial-update: 2023-02-22T00:00:00.000Z
+last-substantial-update: 2023-02-22
 badge: Adobe Commerce 2.4.6
 feature: App Builder, Eventing
 topic: Commerce, Architecture
@@ -35,7 +35,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -54,7 +54,7 @@ Saiba como instalar vários módulos novos no Adobe Commerce usando o Composer p
 * Comandos a serem executados para a Adobe Commerce Cloud
 * Edição do yaml da Adobe Commerce Cloud necessária
 
->[!VIDEO](https://video.tv.adobe.com/v/3430640?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415795?learn=on)
 
 ## Comandos úteis {#useful-commands}
 
