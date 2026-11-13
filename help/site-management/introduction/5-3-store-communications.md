@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Commerce] para usuários empresariais - Comunicações por email'
-description: Comunique-se com seus clientes usando emails transacionais acionados por suas ações na loja. Personalize e configure os modelos de email para sua loja.
+description: Use emails transacionais acionados pelas ações da loja para se comunicar com os clientes. Personalize e configure modelos de email para sua loja da Commerce.
 kt: 5780
-doc-type: video
+doc-type: Technical Video
 duration: 257
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Personalization
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -35,9 +35,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '110'
 ht-degree: 0%
 ---
 # [!DNL Commerce] para usuários empresariais - Comunicações por email
@@ -55,12 +55,12 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=pt-BR).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330186?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/36190?learn=on)
 
 ## Recursos adicionais
 
-[Modelos de email - [!DNL Commerce] Guia de Sistemas de Administração](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html?lang=pt-BR)
+[Modelos de email - [!DNL Commerce] Guia de Sistemas de Administração](https://experienceleague.adobe.com/docs/commerce-admin/systems/communications/email-templates.html)
 
-[Variáveis e comunicação com o cliente - [!DNL Commerce] Guia de Sistemas de Administração](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html?lang=pt-BR#variables-and-customer-communications)
+[Variáveis e comunicação com o cliente - [!DNL Commerce] Guia de Sistemas de Administração](https://experienceleague.adobe.com/docs/commerce-admin/systems/introduction.html#variables-and-customer-communications)

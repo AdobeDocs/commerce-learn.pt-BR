@@ -8,7 +8,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 1016
-last-substantial-update: 2025-10-10T00:00:00.000Z
+last-substantial-update: 2025-10-10
 jira: KT-19377
 exl-id: a7f9ce6d-4bad-4fe2-8692-b8a02fc6dde6
 TQID: 'https://experienceleague.adobe.com/Uc0WgNAlg-n-9lZURJ1aYosIq-m1SI8hNXxsJoKPcL0'
@@ -62,7 +62,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '221'
 ht-degree: 0%
@@ -85,10 +85,10 @@ O roteiro da Adobe Commerce para 2026 descreve uma estratégia abrangente para a
 * Centro de comerciantes e experiência de administração
 * Melhorias na experiência do desenvolvedor e na capacidade de observação
 
->[!VIDEO](https://video.tv.adobe.com/v/3475711?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475695?learn=on)
 
 ## Tutoriais relacionados
 
-* [Conexão de dados](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
-* [Visão geral da capacidade de observação](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
-* [Introdução ao App Builder](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [Conexão de dados](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Visão geral da capacidade de observação](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Introdução ao App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)

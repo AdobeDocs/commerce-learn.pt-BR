@@ -1,11 +1,11 @@
 ---
-title: '[!DNL Commerce] para usuários empresariais - Importar e exportar produtos'
+title: '[!DNL Commerce] usuários empresariais - Importar e exportar produtos'
 description: Saiba como importar e exportar seus produtos de catálogo.
 kt: 5773
-doc-type: video
+doc-type: Technical Video
 duration: 239
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 topic: Commerce, Administration
 role: Admin, Leader, User
 level: Beginner, Intermediate
@@ -25,9 +25,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '96'
 ht-degree: 0%
 ---
 # [!DNL Commerce] para usuários empresariais - Importar e exportar produtos
@@ -50,12 +50,12 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=pt-BR).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/329972?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35958?learn=on)
 
 ## Recursos adicionais
 
-[Importar - [!DNL Commerce] Guia de Sistemas de Administração](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html?lang=pt-BR)
+[Importar - [!DNL Commerce] Guia de Sistemas de Administração](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-import.html)
 
-[Exportar - [!DNL Commerce] Guia de Sistemas do Administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html?lang=pt-BR)
+[Exportar - [!DNL Commerce] Guia de Sistemas do Administrador](https://experienceleague.adobe.com/docs/commerce-admin/systems/data-transfer/data-export.html)

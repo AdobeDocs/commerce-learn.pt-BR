@@ -4,10 +4,10 @@ description: Visão geral dos menus funcionais no [!DNL Commerce] v2.3 [!DNL Adm
 landing-page-description: Assista a esta série de vídeos para obter uma introdução dos conceitos básicos do Adobe Commerce e do trabalho como Administrador.
 short-description: Assista a esta série de vídeos para obter uma introdução dos conceitos básicos do Adobe Commerce e do trabalho como Administrador.
 kt: 5758
-doc-type: video
+doc-type: Technical Video
 duration: 52
 activity: use
-last-substantial-update: 2023-5-28
+last-substantial-update: 2023-05-28
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -33,7 +33,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 26%
@@ -54,10 +54,10 @@ Neste vídeo:
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html?lang=pt-BR).
+>O conteúdo do vídeo reflete a versão 2.3.1. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/docs/commerce-operations/release/notes/overview.html).
 
->[!VIDEO](https://video.tv.adobe.com/v/330092?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35942?learn=on)
 
 ## Recursos adicionais
 
-[Documentação do comerciante [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html?lang=pt-BR)
+[Documentação do comerciante [!DNL Commerce]](https://experienceleague.adobe.com/docs/commerce-admin/user-guides/home.html)
