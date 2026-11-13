@@ -32,9 +32,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '213'
 ht-degree: 0%
 ---
 # Visão geral do Adobe Commerce Optimizer
@@ -54,6 +54,16 @@ O Adobe Commerce Optimizer aprimora as plataformas de comércio existentes forne
 * Dimensiona operações digitais
 
 >[!VIDEO](https://video.tv.adobe.com/v/3450468?captions=por_br&learn=on)
+
+## Continuar aprendendo
+
+* [Comparar opções do Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/getting-started/capabilities/adobes-available-commerce-options)
+* [Criar sua primeira instância do Adobe Commerce Optimizer](./create-first-instance.md)
+* [Gerenciar instâncias do Adobe Commerce Optimizer](./managing-instances.md)
+* [Assimilar dados de amostra](./ingest-sample-data.md)
+* [Executar a primeira consulta do GraphQL](./first-query.md)
+* [Kit inicial do Salesforce Commerce Cloud](./sfcc-starter-kit/overview.md)
+* [Modelo de dados de catálogo combinável](./composable-catalog-data-model/why-ccdm-exists.md)
 
 ## Recursos adicionais
 

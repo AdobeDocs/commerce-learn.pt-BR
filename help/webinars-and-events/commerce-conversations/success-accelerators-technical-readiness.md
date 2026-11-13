@@ -26,13 +26,11 @@ topic_v2:
     internal-label: Troubleshooting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: b599f79ad41b9552cea6ff41062eb4ef75f183bb
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: 151
+source-wordcount: '217'
 ht-degree: 0%
-
 ---
-
 # Disponibilidade técnica dos Aceleradores de sucesso
 
 Os Adobe Commerce Success Accelerators incluem serviços como prontidão técnica, que abrangem consultoria para lançamento, prontidão para atualização/migração, análise do ambiente e solução de problemas. Além disso, oferecem análises de soluções e adoção para aprimorar o uso e o desempenho do produto. Os serviços de planejamento e monitoramento de eventos fornecem orientação e suporte 24 horas por dia, 7 dias por semana, para campanhas críticas e lançamentos de produtos, garantindo desempenho ideal e identificação proativa de problemas. Esses aceleradores visam maximizar a eficácia e a adoção dos produtos da Adobe Commerce
@@ -53,3 +51,9 @@ Os Adobe Commerce Success Accelerators incluem serviços como prontidão técnic
 * Orientação e suporte 24 horas por dia, 7 dias por semana para campanhas críticas e lançamentos de produtos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3457655?learn=on)
+
+## Tutoriais relacionados
+
+* [Infraestrutura em nuvem e auto-hospedagem: lista de verificação de pré-lançamento](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Visão geral da capacidade de observação](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/monitoring-analytics-support/observability/overview)
+* [Criar um tíquete de suporte](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/monitoring-analytics-support/help-and-support/create-a-support-ticket)

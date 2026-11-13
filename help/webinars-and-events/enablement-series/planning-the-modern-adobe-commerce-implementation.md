@@ -1,6 +1,6 @@
 ---
 title: Planejamento da implementação moderna do Adobe Commerce
-description: Este webinário trata do planejamento da implementação de um sistema de comércio moderno, especificamente o Adobe Commerce, e inclui discussões sobre a fase de descoberta, serviços, arquitetura de referência global, práticas de desenvolvimento front-end e práticas recomendadas.
+description: Saiba como planejar uma implementação do Adobe Commerce, abrangendo detecção, serviços, arquitetura de referência global, desenvolvimento de front-end e práticas recomendadas.
 feature: API Mesh, App Builder, Best Practices, Extensibility, Integration
 topic: Architecture, Commerce, Integrations, Performance
 old-role: Architect, Data Architect, Leader
@@ -52,9 +52,9 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '457'
 ht-degree: 0%
 ---
 # Planejamento da implementação moderna do Adobe Commerce
@@ -83,5 +83,11 @@ Visão geral do Adobe Commerce e sua série de quatro partes sobre planejamento,
 * Importância de um planejamento, organização e priorização adequados das tarefas, incluindo começar com as partes mais difíceis do projeto e considerar o uso de GRA para componentes reutilizáveis.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428987?learn=on)
+
+## Tutoriais relacionados
+
+* [vitrine da Commerce no Edge Delivery Services: experiência do comprador](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Conexão de dados](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/apis-and-integration/data-integrations/data-connection)
+* [Introdução ao App Builder](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 
 {{$include /help/_includes/enablement-series-related-links.md}}
