@@ -3,7 +3,7 @@ title: Criar segmentos de clientes
 description: Saiba como criar segmentos de clientes para poder direcionar conteúdo e promoções usando endereço, histórico de pedidos, dados do carrinho e muito mais.
 doc-type: Technical Video
 duration: 221
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Price Rules
 topic: Commerce, Administration, Content Management
 role: Admin, User
@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -61,9 +61,9 @@ Os segmentos de clientes permitem exibir dinamicamente conteúdo e promoções p
 * Crie segmentos a partir de atributos do cliente, pedidos e dados do carrinho.
 * Conecte segmentos a promoções e regras de preço do carrinho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3411975?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343659?learn=on)
 
 ## Recursos adicionais
 
-* [Segmentos de clientes - [!DNL Commerce] Guia de gerenciamento de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html?lang=pt-BR){target="_blank"}
-* [Segmentos do cliente em regras de preço - [!DNL Commerce] Guia de gerenciamento do cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html?lang=pt-BR){target="_blank"}
+* [Segmentos de clientes - [!DNL Commerce] Guia de gerenciamento de clientes](https://experienceleague.adobe.com/docs/commerce-admin/customers/customers-menu/customer-segments.html){target="_blank"}
+* [Segmentos do cliente em regras de preço - [!DNL Commerce] Guia de gerenciamento do cliente](https://experienceleague.adobe.com/docs/commerce-admin/customers/segments/customer-segment-price-rule.html){target="_blank"}

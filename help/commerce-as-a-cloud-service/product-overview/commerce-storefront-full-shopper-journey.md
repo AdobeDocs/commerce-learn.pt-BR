@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 327
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20091
 exl-id: 00697a95-139d-4032-bc72-66173a9e1675
 TQID: 'https://experienceleague.adobe.com/UJxBFAVhkD6Hr8aWkVEaEg7PGc7naBffZHBNsfBe41Q'
@@ -43,7 +43,7 @@ topic_v2:
     internal-label: Customer experience
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 0%

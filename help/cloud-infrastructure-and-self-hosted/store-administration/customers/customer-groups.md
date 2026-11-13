@@ -4,7 +4,7 @@ description: Saiba mais sobre os grupos de clientes da Adobe Commerce e como ele
 jira: KT-19057
 doc-type: Feature Video
 duration: 97
-last-substantial-update: 2026-10-07T00:00:00.000Z
+last-substantial-update: 2026-10-07
 feature: Configuration, System, Personalization, Taxes, Price Rules
 topic: Commerce, Administration
 role: Admin, Developer, User
@@ -46,7 +46,7 @@ topic_v2:
     internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -62,8 +62,8 @@ Os grupos de clientes no Adobe Commerce permitem oferecer promoções direcionad
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3473325?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473262?learn=on)
 
 ## Recursos adicionais
 
-* [Grupos de Clientes - [!DNL Commerce] Guia de Gerenciamento de Clientes](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/customers/customer-groups)
+* [Grupos de Clientes - [!DNL Commerce] Guia de Gerenciamento de Clientes](https://experienceleague.adobe.com/en/docs/commerce-admin/customers/customer-groups)

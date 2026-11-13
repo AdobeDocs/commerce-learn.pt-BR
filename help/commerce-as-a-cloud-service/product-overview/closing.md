@@ -8,7 +8,7 @@ level: Beginner
 doc-type: Technical Video
 jira: KT-20096
 duration: 47
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 exl-id: ed5829aa-7407-47cc-bf39-de6c7e31a10f
 TQID: 'https://experienceleague.adobe.com/bkwjq4kzrKjse47yn51hfQbdhkVFwZxf-Hw8s4QUlV4'
 product_v2:
@@ -32,7 +32,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3be42a811f2532f46071612ec5d930ef711dc8d8
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%

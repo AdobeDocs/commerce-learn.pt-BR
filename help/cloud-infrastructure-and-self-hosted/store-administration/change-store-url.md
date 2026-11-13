@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 136
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Native Luma Frontend Development
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -41,7 +41,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '143'
 ht-degree: 0%
@@ -59,11 +59,11 @@ Cada site em uma instalação do Adobe Commerce ou do Magento Open Source tem um
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.1.0. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/notes/overview).
+>O conteúdo do vídeo reflete a versão 2.1.0. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3507855?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35488?learn=on)
 
 ## Recursos adicionais
 
-* [Armazenar URLs - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/stores-sales/site-store/store-urls)
-* [Usar uma URL de Administrador personalizada - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)
+* [Armazenar URLs - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls)
+* [Usar uma URL de Administrador personalizada - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/site-store/store-urls#use-a-custom-admin-url)

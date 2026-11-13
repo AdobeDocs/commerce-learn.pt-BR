@@ -7,7 +7,7 @@ doc-type: Technical Video
 topic: Migration
 feature: Data Import/Export
 duration: 161
-last-substantial-update: 2026-07-21T00:00:00.000Z
+last-substantial-update: 2026-07-21
 jira: KT-22105
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Configure a conexão de banco de dados de origem no arquivo `.my.cnf` antes de e
 
 * Copie `.my.cnf.example` para `.my.cnf` e crie uma nova seção chamada para sua conexão de origem.
 * Defina a ID do projeto em `.my.cnf` se a origem for Adobe Commerce as a Cloud Service (PaaS).
-* Use os comandos de túnel da CLI do Magento Cloud para obter os valores de host, usuário, senha, porta e banco de dados.
+* Use os comandos de túnel da CLI da Magento Cloud para obter os valores de host, usuário, senha, porta e banco de dados.
 * Confirme a conectividade de host e porta antes de executar a ferramenta, se a origem estiver no local.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496161?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496152?learn=on)

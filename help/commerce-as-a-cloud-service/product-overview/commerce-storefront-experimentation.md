@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 292
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20089
 exl-id: 7881097f-38b3-450f-b7d1-06eede755bca
 TQID: 'https://experienceleague.adobe.com/9DrRRAPjTyRJ8pb7ss-oytdMDNXGKXVui9x0oTyPG8k'
@@ -47,7 +47,7 @@ topic_v2:
     internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%

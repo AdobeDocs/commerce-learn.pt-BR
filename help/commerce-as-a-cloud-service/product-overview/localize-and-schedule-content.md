@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 365
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20086
 exl-id: 2b0ff49b-0703-43c2-8127-b4b395c17971
 TQID: 'https://experienceleague.adobe.com/hhm-NOOVVOvCshnj5lZx3J0p5-rwJmb4SZNSFjldcsI'
@@ -35,7 +35,7 @@ level_v2:
 topic_v2:
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%

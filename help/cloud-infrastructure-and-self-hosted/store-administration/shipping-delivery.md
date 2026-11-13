@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 155
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Shipping/Delivery
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -40,7 +40,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -56,10 +56,10 @@ Gerencie métodos de envio e entrega para entregar produtos aos seus clientes. N
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3411981?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343658?learn=on)
 
 ## Recursos adicionais
 
-* [Configurações de envio - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/stores-sales/delivery/shipping-settings)
-* [Métodos básicos de entrega - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
-* [Configuração de transportadora de remessa - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)
+* [Configurações de envio - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-settings)
+* [Métodos básicos de entrega - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/delivery#basic-delivery-methods)
+* [Configuração de transportadora de remessa - [!DNL Commerce] Guia de Experiência de Compras e Lojas](https://experienceleague.adobe.com/en/docs/commerce-admin/stores-sales/delivery/shipping-carriers/carriers)

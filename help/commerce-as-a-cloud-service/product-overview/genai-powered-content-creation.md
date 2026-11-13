@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 285
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20087
 exl-id: ed0e1d8f-794f-4bc5-9b7b-7cf8faf36e7f
 TQID: 'https://experienceleague.adobe.com/fVYmYtMrI1SGfApMfvYDrNkgQf6D2uX1Ps-qqpDVWCk'
@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%

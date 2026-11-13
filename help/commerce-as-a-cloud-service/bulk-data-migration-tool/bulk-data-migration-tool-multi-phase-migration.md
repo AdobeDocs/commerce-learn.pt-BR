@@ -6,7 +6,7 @@ topic: Migration
 role: Developer
 doc-type: Technical Video
 duration: 211
-last-substantial-update: 2026-07-27T00:00:00.000Z
+last-substantial-update: 2026-07-27
 jira: KT-22157
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -17,7 +17,7 @@ feature_v2:
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -39,4 +39,4 @@ Execute uma migração de várias fases quando o ambiente de origem precisar ser
 * A fase um é executada enquanto a origem ainda está ativa — o `bin console migration:before-maintenance` verifica a configuração, inicializa o ambiente, conecta-se ao CDMS, registra a migração, executa testes funcionais e cria dados de teste sintético. Não ative o modo de manutenção até que esta fase seja concluída.
 * A fase três é a extração de um ambiente congelado — `bin/console migration:during-maintenance` reabre túneis PaaS, se necessário, extrai da origem, limpa exibições de preparo, carrega no destino ACCS, executa a verificação e limpa dados de teste no destino.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496417?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496413?learn=on)

@@ -11,7 +11,7 @@ role: Admin, Developer, User
 level: Beginner
 doc-type: Feature Video
 duration: 427
-last-substantial-update: 2026-10-07T00:00:00.000Z
+last-substantial-update: 2026-10-07
 jira: KT-19031
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -34,7 +34,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '287'
 ht-degree: 0%
@@ -56,7 +56,7 @@ Explore o espaço de trabalho do Administrador do Adobe Commerce, desde a filtra
 * Alternar entre a exibição padrão e as salvas, além de atualizar uma exibição existente.
 * Navegue até a configuração da loja e explore as configurações gerais, de catálogo, de segurança, de cliente e de vendas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3473176?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3473115?learn=on)
 
 ## Exibições de grade salvas
 
@@ -70,6 +70,6 @@ O menu [!UICONTROL Stores] fornece acesso às configurações de armazenamento. 
 
 * [Filtros de grade de administração](admin-grids-and-filters.md)
 * [Exibir e definir configurações de Administrador usando a linha de comando](view-update-store-configuration-cli.md)
-* [As ferramentas e o espaço de trabalho do administrador](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/admin/tools/admin-workspace)
-* [Controles de grade de administração](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/admin/tools/admin-grid-controls)
-* [Site, loja e escopo de exibição](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/setup/websites-stores-views)
+* [As ferramentas e o espaço de trabalho do administrador](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-workspace)
+* [Controles de grade de administração](https://experienceleague.adobe.com/en/docs/commerce-admin/start/admin/tools/admin-grid-controls)
+* [Site, loja e escopo de exibição](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
