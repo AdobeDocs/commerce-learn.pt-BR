@@ -44,12 +44,16 @@ topic_v2:
     internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
     internal-label: Governance
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d54f05ec4dfe57397e112697d52b04b034c12a8
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '125'
 ht-degree: 0%
 ---
 # Aproveitando a arquitetura de referência global
+
+>[!NOTE]
+>
+>Esta série aborda o Adobe Commerce na infraestrutura em nuvem e implantações auto-hospedadas.
 
 Saiba como aproveitar a Global Reference Architecture ou GRA. Para preparar melhor uma GRA para uma implementação bem-sucedida, os especialistas da Adobe discutem as diferentes fases do projeto e entram em detalhes para a fase de descoberta. Os recursos de controle de qualidade são discutidos e o motivo de serem um recurso valioso para uma implementação de GRA.
 
@@ -65,6 +69,6 @@ Saiba como aproveitar a Global Reference Architecture ou GRA. Para preparar melh
 * Coleta de requisitos
 * Quando você envolve a equipe de controle de qualidade?
 
->[!VIDEO](https://video.tv.adobe.com/v/3456005?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424604?learn=on)
 
 {{$include /help/_includes/gra-related-links.md}}
