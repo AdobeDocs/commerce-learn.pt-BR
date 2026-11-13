@@ -86,7 +86,7 @@ O Adobe Commerce as a Cloud Service é uma plataforma de comércio SaaS gerencia
 
 Use essa opção ao avaliar uma base de comércio gerenciado com pontos de extensão compatíveis. Para uma lógica de negócios personalizada, planeje a extensibilidade fora do processo suportada, em vez de assumir que as extensões existentes do PHP possam ser implantadas inalteradas. O ACCS não é compatível com vitrines Luma; inclua a migração de vitrines no seu plano de implementação, quando aplicável.
 
-Consulte a [visão geral do Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/overview).
+Consulte a [visão geral do Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/pt-br/docs/commerce/cloud-service/overview).
 
 ### Adobe Commerce Optimizer
 
@@ -94,13 +94,13 @@ O Adobe Commerce Optimizer oferece suporte ao gerenciamento de catálogos, à de
 
 Use essa opção quando a meta for a modernização voltada para o cliente e a substituição do back-end transacional não for necessária. Planeje explicitamente a assimilação de catálogos e as integrações de carrinho e check-out. ACCS e ACO são opções de arquitetura separadas, não uma pilha combinada necessária. Verifique o suporte de integração atual antes de selecionar os serviços para a implementação.
 
-Consulte a [visão geral do Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/overview).
+Consulte a [visão geral do Adobe Commerce Optimizer](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/overview).
 
 ### Implantações existentes do Adobe Commerce
 
 O Adobe Commerce na infraestrutura em nuvem e em implantações locais também pode adotar vitrines headless e integrações compatíveis baseadas em API de forma incremental. Dependendo da implantação, você pode manter uma loja existente ou adotar uma loja headless compatível. Manter os recursos de comércio existentes juntos pode reduzir o trabalho de integração e, ao mesmo tempo, permitir que serviços selecionados evoluam separadamente.
 
-A disponibilidade de recursos, a compatibilidade de extensões, o licenciamento e os requisitos de configuração variam de acordo com a oferta e a versão. Compare as [plataformas e os serviços da Adobe Commerce](https://experienceleague.adobe.com/en/docs/commerce/information-center/explore-platforms-and-services/platform-and-services) antes de escolher uma arquitetura.
+A disponibilidade de recursos, a compatibilidade de extensões, o licenciamento e os requisitos de configuração variam de acordo com a oferta e a versão. Compare as [plataformas e os serviços da Adobe Commerce](https://experienceleague.adobe.com/pt-br/docs/commerce/information-center/explore-platforms-and-services/platform-and-services) antes de escolher uma arquitetura.
 
 ## Commerce Storefront ativado por Edge Delivery Services
 
@@ -172,11 +172,11 @@ Explore estes tutoriais, vídeos, guias de implementação e a lista de reprodu�
 
 ### Documentação de arquitetura e desenvolvimento
 
-* [Migrar para o Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/en/docs/commerce/cloud-service/migration/overview)
-* [Integrações do Adobe Commerce Optimizer](https://experienceleague.adobe.com/en/docs/commerce/optimizer/integrations-overview)
+* [Migrar para o Adobe Commerce as a Cloud Service](https://experienceleague.adobe.com/pt-br/docs/commerce/cloud-service/migration/overview)
+* [Integrações do Adobe Commerce Optimizer](https://experienceleague.adobe.com/pt-br/docs/commerce/optimizer/integrations-overview)
 * [Introdução ao desenvolvimento da Commerce Storefront](https://experienceleague.adobe.com/en/tools/commerce-storefront/get-started/)
 * [Práticas recomendadas para MCPs e habilidades de desenvolvimento do Commerce](https://developer.adobe.com/commerce/extensibility/developer-agent/best-practices)
 
 ### Lista de reprodução
 
-* [Introdução à API Mesh usando o Adobe App Builder e o Adobe Commerce](https://experienceleague.adobe.com/en/playlists/commerce-get-started-app-builder-and-api-mesh)
+* [Introdução à API Mesh usando o Adobe App Builder e o Adobe Commerce](https://experienceleague.adobe.com/pt-br/playlists/commerce-get-started-app-builder-and-api-mesh)
