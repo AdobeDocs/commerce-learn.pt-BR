@@ -85,7 +85,7 @@ Além disso, o webinário discute a flexibilidade e a inovação que a Edge Deli
 
 ## Tutoriais relacionados
 
-* [vitrine da Commerce no Edge Delivery Services: experiência do comprador](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
-* [Personalizar check-out no Edge Delivery Services](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
+* [vitrine da Commerce no Edge Delivery Services: experiência do comprador](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/shopper-experience)
+* [Personalizar check-out no Edge Delivery Services](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/storefront-development/edge-delivery-services/getting-started/customize-checkout)
 
 {{$include /help/_includes/enablement-series-related-links.md}}

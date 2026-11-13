@@ -61,12 +61,12 @@ Saiba como a Adobe e os comerciantes compartilham a responsabilidade de manter a
 
 ## Documentação adicional
 
-* [Notas de versão de correção de segurança](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/security-patches/overview)
+* [Notas de versão de correção de segurança](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/notes/security-patches/overview)
 * [Canais de notificação](https://business.adobe.com/blog/introducing-enhanced-security-patch-deployment-and-communications-in-adobe-commerce#proactive-communication--keeping-customers-informed)
-* [Boletins de segurança do Adobe](https://helpx.adobe.com/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
-* [Proteger seu site e sua infraestrutura de comércio](https://experienceleague.adobe.com/en/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
+* [Boletins de segurança do Adobe](https://helpx.adobe.com/br/search.html?q=security%2520updates%2520commerce&context=https%253A%252F%252Fhelpx.adobe.com%252Fsupport.html)
+* [Proteger seu site e sua infraestrutura de comércio](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/implementation-playbook/best-practices/launch/security-best-practices)
 
 ## Tutoriais relacionados
 
-* [Infraestrutura em nuvem e auto-hospedagem: implantações, testes, monitoramento e segurança](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
-* [Infraestrutura em nuvem e auto-hospedagem: lista de verificação de pré-lançamento](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
+* [Infraestrutura em nuvem e auto-hospedagem: implantações, testes, monitoramento e segurança](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/technical-onboarding-hardware-handoff/deployments-testing-monitoring-security)
+* [Infraestrutura em nuvem e auto-hospedagem: lista de verificação de pré-lançamento](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/cloud-operations/commerce-cloud-best-practices/pre-launch-checklist)
