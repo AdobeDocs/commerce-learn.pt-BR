@@ -34,9 +34,9 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: ea6c6c730ab472c96e5395b9353af953192763d5
+source-git-commit: 72e671ee84a7e1d4b7fef63a2a26c2706d5b3398
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '809'
 ht-degree: 0%
 ---
 # Introdução ao App Builder
@@ -45,7 +45,7 @@ Historicamente, o desenvolvimento do Adobe Commerce tem usado extensibilidade no
 
 ## App Builder para Adobe Commerce {#app-builder}
 
->[!VIDEO](https://video.tv.adobe.com/v/3432200?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412839?learn=on)
 
 O Adobe Developer App Builder é uma plataforma de extensibilidade sem servidor para integrar e criar experiências personalizadas para estender as soluções da Adobe, e agora está disponível para o Adobe Commerce. Com o App Builder, você pode criar aplicativos seguros e escalonáveis que estendem a funcionalidade nativa da Commerce e se integram a soluções de terceiros. Como desenvolvedor, agora você pode aproveitar a extensibilidade fora do processo com o Adobe Commerce, o que, por sua vez, fornece benefícios imediatos e de longo prazo.
 
@@ -109,6 +109,6 @@ Pronto para começar a desenvolver? O link a seguir contém aplicativos de exemp
 
 ## Exemplo específico de oferta
 
-Para uma integração do Adobe Commerce Optimizer criada no App Builder, siga o [kit inicial do Salesforce Commerce Cloud](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/adobe-commerce-optimizer/sfcc-starter-kit/overview). A série abrange a arquitetura do, a instalação de cartuchos Salesforce, o kit inicial do App Builder e uma demonstração completa.
+Para uma integração do Adobe Commerce Optimizer criada no App Builder, siga o [kit inicial do Salesforce Commerce Cloud](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/adobe-commerce-optimizer/sfcc-starter-kit/overview). A série abrange a arquitetura do, a instalação de cartuchos Salesforce, o kit inicial do App Builder e uma demonstração completa.
 
 {{$include /help/_includes/app-builder-related-links.md}}
