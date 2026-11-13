@@ -8,7 +8,7 @@ role: Developer, Leader
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 3770
-last-substantial-update: 2024-05-08T00:00:00.000Z
+last-substantial-update: 2024-05-08
 jira: KT-15388
 exl-id: deebb9ba-f975-4cf9-bf63-59cb4ff360eb
 TQID: 'https://experienceleague.adobe.com/8mKB3-vCyc3wOad-hoxkap5VOD-5DHo7JG3HS4xxars'
@@ -52,7 +52,7 @@ topic_v2:
     internal-label: Accessibility
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 0%

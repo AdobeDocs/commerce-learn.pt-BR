@@ -4,7 +4,7 @@ description: Saiba como usar fluxos de trabalho do GitHub no kit inicial da API 
 jira: KT-18388
 doc-type: Tutorial
 duration: 351
-last-substantial-update: 2025-06-27T00:00:00.000Z
+last-substantial-update: 2025-06-27
 feature: API Mesh, Tools and External Services, Backend Development, GraphQL, Storefront
 topic: App Builder, Commerce, Development, Integrations
 role: Developer
@@ -42,7 +42,7 @@ level_v2:
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation
-source-git-commit: 7516911fc14bc80f327310b99a00f9cbff7c65c7
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%

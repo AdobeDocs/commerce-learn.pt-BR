@@ -7,7 +7,7 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 208
-last-substantial-update: 2025-12-18T00:00:00.000Z
+last-substantial-update: 2025-12-18
 jira: KT-19992
 exl-id: b81f83de-782c-42ae-ae27-96d78caab4f5
 TQID: 'https://experienceleague.adobe.com/qJtjFlX4HqMgwlJkv8wXllSgdvqgEmSiO89Jg6i93zU'
@@ -34,7 +34,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 53888e376f3532b8b32e938d562d73703b061685
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

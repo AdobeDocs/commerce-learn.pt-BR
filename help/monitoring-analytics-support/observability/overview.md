@@ -7,7 +7,7 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 205
-last-substantial-update: 2025-12-18T00:00:00.000Z
+last-substantial-update: 2025-12-18
 jira: KT-19965
 exl-id: 619e7ac0-4415-4bea-829b-2211a3bf7d21
 TQID: 'https://experienceleague.adobe.com/4qNs0qCI0qqoOaIVv6m355YlBaetRoPQMQ5ynKdR-i4'
@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Troubleshooting
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 53888e376f3532b8b32e938d562d73703b061685
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%

@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Feature Video
 duration: 235
-last-substantial-update: 2026-08-11T00:00:00.000Z
+last-substantial-update: 2026-08-11
 nudge-edit:
   - 2026-08-12T00:00:00.000Z
 jira: KT-20981
@@ -25,7 +25,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%

@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Commerce] para usuários empresariais - Configurações de loja'
-description: Saiba mais sobre configurações de local, informações de loja, URLs seguros e não seguros, título do site, logotipo, informações de direitos autorais, logotipos de email de comunicação, endereços de email de loja, opções de moeda e taxas de moeda.
+description: Conheça o local, armazene informações, URLs seguros/não seguros, título do site, logotipos, direitos autorais, logotipos e endereços de email, opções de moeda e taxas de câmbio.
 kt: 5764
-doc-type: video
+doc-type: Technical Video
 duration: 390
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -31,9 +31,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '117'
 ht-degree: 0%
 ---
 # [!DNL Commerce] para usuários empresariais - Configurações de loja

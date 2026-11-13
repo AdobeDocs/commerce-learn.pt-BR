@@ -7,7 +7,7 @@ role: Developer
 level: Beginner
 doc-type: Technical Video
 duration: 360
-last-substantial-update: 2024-12-19T00:00:00.000Z
+last-substantial-update: 2024-12-19
 jira: KT-16699
 exl-id: a9c316ec-a06e-4de1-92c7-241b60efef74
 TQID: 'https://experienceleague.adobe.com/gXlfla76KLbdX1GZc4YqWno2OGQI4gn5kbup4s9YPC4'
@@ -38,7 +38,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%

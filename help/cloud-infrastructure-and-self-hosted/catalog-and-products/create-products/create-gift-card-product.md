@@ -5,7 +5,7 @@ jira: KT-14587
 doc-type: Tutorial
 audience: all
 activity: use
-last-substantial-update: 2024-2-1
+last-substantial-update: 2024-02-01
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
@@ -49,7 +49,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%

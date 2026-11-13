@@ -7,7 +7,7 @@ role: Developer, User
 level: Beginner
 doc-type: Technical Video
 duration: 326
-last-substantial-update: 2026-01-12T00:00:00.000Z
+last-substantial-update: 2026-01-12
 jira: KT-20088
 exl-id: a410f40d-01b4-4cc6-a965-08f2b0e77038
 TQID: 'https://experienceleague.adobe.com/BN6-F6iL9ydAQWk8g3fKLNpMbocpxqdevUq1MsT3qJA'
@@ -36,7 +36,7 @@ topic_v2:
     internal-label: Experimentation
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 71835f0240311d4b26ec8e0d9bbdf005f9887579
+source-git-commit: 8d1fc3f2db752369487199175fb99a4e9db34b19
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%

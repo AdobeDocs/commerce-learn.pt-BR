@@ -5,7 +5,7 @@ jira: KT-5564
 doc-type: Technical Video
 duration: 1122
 activity: use
-last-substantial-update: 2023-5-28
+last-substantial-update: 2023-05-28
 feature: GraphQL, REST, Tools and External Services
 topic: Commerce, Headless, Development
 old-role: Architect, Developer
@@ -44,7 +44,7 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 2a05d192340de0cc5fa51f791c891b6a1b9f086a
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%

@@ -6,7 +6,7 @@ doc-type: Technical Video
 duration: 946
 audience: all
 activity: use
-last-substantial-update: 2023-11-16T00:00:00.000Z
+last-substantial-update: 2023-11-16
 feature: Catalog Management, Admin Workspace, Backend Development, Integration, REST
 topic: Commerce, Integrations, Content Management
 role: Developer, User
@@ -47,7 +47,7 @@ level_v2:
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 8d29942509b7ec6ad6411889789a9661c9c8fb91
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '664'
 ht-degree: 4%

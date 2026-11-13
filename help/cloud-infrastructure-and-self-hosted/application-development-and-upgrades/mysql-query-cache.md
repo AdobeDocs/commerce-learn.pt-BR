@@ -3,7 +3,7 @@ title: Saiba como funciona o armazenamento em cache de consultas do MySQL
 description: Saiba como o armazenamento em cache de consultas do MySQL funciona, como detectar problemas de armazenamento em cache localizando "aguardando bloqueio do cache de consultas" em logs de consultas lentas e dicas de configuração.
 doc-type: Technical Video
 duration: 444
-last-substantial-update: 2023-07-27T00:00:00.000Z
+last-substantial-update: 2023-07-27
 feature: Backend Development, Cache, Logs
 topic: Commerce, Development
 role: Developer
@@ -29,7 +29,7 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-11-11T17:29:20.954Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -56,4 +56,4 @@ Saiba o que é o cache de consultas do MySQL e conheça basicamente como ele fun
 ## Recursos úteis
 
 * [Diretrizes gerais do MySQL](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/installation-guide/prerequisites/database-server/mysql){target="_blank"}
-* [Replicação de galera e consultas lentas](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"}
+* [Replicação de galera e consultas lentas](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/cloud-infrastructure-and-self-hosted/application-development-and-upgrades/galera-db-slow-replication){target="_blank"}

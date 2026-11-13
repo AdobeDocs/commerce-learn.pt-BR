@@ -7,7 +7,7 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 508
-last-substantial-update: 2025-12-12T00:00:00.000Z
+last-substantial-update: 2025-12-12
 jira: KT-20000
 exl-id: 3ebb1778-5e15-4bcf-8efc-037d3f51c0a4
 TQID: 'https://experienceleague.adobe.com/nwg7TTIX4TxifdJgIZq2Z1CY2hW-Kpr-hVaBi-wXnpE'
@@ -41,7 +41,7 @@ topic_v2:
     internal-label: Implementation
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 53888e376f3532b8b32e938d562d73703b061685
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 0%

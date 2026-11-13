@@ -3,7 +3,7 @@ title: Usar a ferramenta de compatibilidade de atualização no PhpStorm
 description: Saiba como usar a ferramenta de compatibilidade de atualização com o plug-in PhpStorm para localizar e corrigir incompatibilidades antes de atualizar.
 doc-type: Technical Video
 duration: 416
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Upgrade, Tools and External Services
 topic: Commerce, Administration
 role: Developer
@@ -32,7 +32,7 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-11-11T17:29:20.964Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%

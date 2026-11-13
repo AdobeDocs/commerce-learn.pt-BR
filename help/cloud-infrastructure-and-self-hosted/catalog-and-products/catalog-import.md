@@ -6,7 +6,7 @@ doc-type: Tutorial
 duration: 211
 audience: all
 activity: use
-last-substantial-update: 2023-8-15
+last-substantial-update: 2023-08-15
 feature: Backend Development, Data Import/Export, REST
 topic: Commerce, Administration, Content Management
 role: Admin, User
@@ -45,7 +45,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 6cea5e57261352c845a9f5fc21a11860f23116a1
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '846'
 ht-degree: 0%

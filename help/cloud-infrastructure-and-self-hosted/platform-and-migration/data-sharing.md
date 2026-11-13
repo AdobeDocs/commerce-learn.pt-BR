@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 575
-last-substantial-update: 2024-11-09T00:00:00.000Z
+last-substantial-update: 2024-11-09
 jira: KT-16194
 exl-id: ad6df83c-2b71-457f-9e0b-616f3b875ccd
 TQID: 'https://experienceleague.adobe.com/eQLGf3Bh8TYcnXGeoww-Z8t-lMhRQBSzzl5YONNUcNE'
@@ -50,7 +50,7 @@ topic_v2:
     internal-label: Privacy
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
     internal-label: Customer profiles
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '169'
 ht-degree: 0%

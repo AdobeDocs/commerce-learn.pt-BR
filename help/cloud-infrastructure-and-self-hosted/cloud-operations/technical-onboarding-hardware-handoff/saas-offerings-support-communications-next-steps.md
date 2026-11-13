@@ -8,7 +8,7 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 1349
-last-substantial-update: 2024-03-14T00:00:00.000Z
+last-substantial-update: 2024-03-14
 jira: KT-15022
 exl-id: f8394eec-4579-4adb-abf3-ae2679683fe2
 TQID: 'https://experienceleague.adobe.com/DMnfxBNDgGc50xHZtATfXxweMOfgs3zlxKsFmdbMTOs'
@@ -48,7 +48,7 @@ topic_v2:
     internal-label: Machine learning
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
     internal-label: Privacy
-source-git-commit: fde7a0e2880f8e5a692f6d11ca9d3c6a6f6b4c2f
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 0%
@@ -113,7 +113,7 @@ Saiba mais sobre as ofertas, o suporte e outras comunicações do SaaS da Adobe 
 * [Recomendações de produto](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=pt-BR)
 * [Live Search e Serviço de Catálogo](https://experienceleague.adobe.com/docs/events/adobe-developers-live-recordings/2023/nov2023/nov-commerce/commerce-search-and-catalog-service.html?lang=pt-BR)
 * [Indexação de Preço do Serviço de Catálogo](https://experienceleague.adobe.com/docs/commerce-merchant-services/price-indexer/price-indexing.html?lang=pt-BR)
-* [App Builder](https://experienceleague.adobe.com/en/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
+* [App Builder](https://experienceleague.adobe.com/pt-br/docs/commerce-learn/tutorials/app-builder/foundations/introduction-to-app-builder)
 * [Responsabilidade compartilhada](https://experienceleague.adobe.com/docs/commerce-operations/security-and-compliance/shared-responsibility.html?lang=pt-BR)
 * [Certificações Commerce](https://experienceleague.adobe.com/docs/certification/program/technical-certifications/ac/ac-overview.html?lang=pt-BR)
 * [Cursos de aprendizado do Commerce](https://learning.adobe.com/catalog.html?products=Commerce)

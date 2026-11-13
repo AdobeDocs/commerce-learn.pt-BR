@@ -4,7 +4,7 @@ description: Saiba como otimizar a reutilização de código no Adobe Commerce c
 jira: KT-15773
 doc-type: Tutorial
 duration: 284
-last-substantial-update: 2025-01-06T00:00:00.000Z
+last-substantial-update: 2025-01-06
 feature: Best Practices, Configuration, Install
 badge: label="Contribuição de Tony Evers, arquiteto técnico sênior, Adobe" type="Informative" url="https://www.linkedin.com/in/evers-tony" tooltip="Contribuição de Tony Evers"
 topic: Architecture, Commerce, Development
@@ -40,7 +40,7 @@ topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
 autotag-review: '2026-11-11T17:29:20.965Z'
-source-git-commit: 169243ff1dda03b06b8b014a1ce17b725671e169
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
 source-wordcount: '1116'
 ht-degree: 0%

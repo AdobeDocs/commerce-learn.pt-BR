@@ -7,7 +7,7 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 175
-last-substantial-update: 2025-12-18T00:00:00.000Z
+last-substantial-update: 2025-12-18
 jira: KT-19975
 exl-id: 697d4290-1181-4fde-b8a8-132de9057264
 TQID: 'https://experienceleague.adobe.com/CduOz--PAPFhQOOfM-cEfmvUCKTk4A7C8dO5DyJ51ik'
@@ -37,7 +37,7 @@ topic_v2:
     internal-label: Troubleshooting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 53888e376f3532b8b32e938d562d73703b061685
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%

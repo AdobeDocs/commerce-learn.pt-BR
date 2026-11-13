@@ -5,7 +5,7 @@ jira: KT-14364
 doc-type: Feature Video
 duration: 783
 audience: all
-last-substantial-update: 2023-11-08T00:00:00.000Z
+last-substantial-update: 2023-11-08
 feature: Configuration, System, Personalization
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
@@ -42,9 +42,9 @@ topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
 autotag-review: '2026-11-12T20:16:22.359Z'
-source-git-commit: 0e7e27e92c07b0d809668489e267749311fd2285
+source-git-commit: 3d7c98821c2ea524f6eb09505431c9d98c8ab432
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '177'
 ht-degree: 0%
 ---
 # Demonstração completa da Conexão de dados do Adobe Commerce

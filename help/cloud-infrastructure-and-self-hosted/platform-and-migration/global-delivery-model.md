@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 340
-last-substantial-update: 2024-10-09T00:00:00.000Z
+last-substantial-update: 2024-10-09
 jira: KT-16185
 exl-id: b8636a20-4e1e-479a-9e86-9e43efd3c5db
 TQID: 'https://experienceleague.adobe.com/UsYDjLhPMDrZBX6g5InoFcYiIS6DL8Qp03fIiY6Gs1U'
@@ -67,7 +67,7 @@ topic_v2:
     internal-label: Optimization
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '269'
 ht-degree: 0%

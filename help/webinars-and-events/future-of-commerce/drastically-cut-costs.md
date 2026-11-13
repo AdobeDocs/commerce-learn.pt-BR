@@ -7,7 +7,7 @@ role: User
 level: Beginner
 doc-type: Value Video
 duration: 705
-last-substantial-update: 2025-05-15T00:00:00.000Z
+last-substantial-update: 2025-05-15
 jira: KT-18110
 exl-id: 87b6200e-79e0-48ed-8926-eaa7bfea36d4
 TQID: 'https://experienceleague.adobe.com/4k3ud1yDq2WicgWgNkHEn8LiWMznsLZb66bFBgTIPG4'
@@ -29,7 +29,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 60c28d9adc71c664ed9178d724bc4abefb588ab7
+source-git-commit: 7ac0cbe05d658701f20137fdea7b9c0b4423d57b
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%

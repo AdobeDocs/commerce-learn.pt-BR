@@ -8,7 +8,7 @@ doc-type: Technical Video
 duration: 153
 audience: all
 activity: use
-last-substantial-update: 2022-12-9
+last-substantial-update: 2022-12-09
 feature: Tools and External Services, Security
 topic: Security
 old-role: Architect, Developer
@@ -36,7 +36,7 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 36f5d4ba374d54d6590c65947f893918eb50074e
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%

@@ -9,7 +9,7 @@ role: Developer
 level: Intermediate
 doc-type: Technical Video
 duration: 543
-last-substantial-update: 2024-04-03T00:00:00.000Z
+last-substantial-update: 2024-04-03
 jira: KT-15213
 exl-id: 56ee5ec9-803c-4ec3-a620-d4e5185ca707
 TQID: 'https://experienceleague.adobe.com/cb4QUFyIgYlMHdF7uMdg420zfbryRJl4aD2mSKxYdBc'
@@ -44,7 +44,7 @@ topic_v2:
     internal-label: Data integration
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: d943f9c761a4f22d1a457703d1bfb7b339584305
+source-git-commit: 79be299b78188d60d6137e968d722dae39db7e2e
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%

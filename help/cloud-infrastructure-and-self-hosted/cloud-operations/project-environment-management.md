@@ -6,7 +6,7 @@ role: User
 level: Beginner
 doc-type: Technical Video
 duration: 461
-last-substantial-update: 2025-09-16T00:00:00.000Z
+last-substantial-update: 2025-09-16
 jira: KT-19185
 exl-id: 5e92894a-dc12-4ca6-ac04-d1d584551f8f
 TQID: https://experienceleague.adobe.com/7tHjRrHZ68B7UGAa-uXvNU-MjyqUYz8Ix9NHwVpZzsk
@@ -29,7 +29,7 @@ topic_v2:
     internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: f56065aac7f0888edb163a6c41da3481c166cc06
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%

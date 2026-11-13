@@ -7,7 +7,7 @@ role: Admin, User
 level: Beginner
 doc-type: Technical Video
 duration: 637
-last-substantial-update: 2024-10-09T00:00:00.000Z
+last-substantial-update: 2024-10-09
 jira: KT-16188
 exl-id: b5a9a043-0420-4096-b915-565eaf37a288
 TQID: 'https://experienceleague.adobe.com/HnxOSOfyjXHEW-DIvyHo-G6p1-bRCScWYBdlc7jWg1Q'
@@ -40,7 +40,7 @@ topic_v2:
     internal-label: Experimentation
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5a6f6ae98433b30290cadd75dde499e6bc3fb253
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%

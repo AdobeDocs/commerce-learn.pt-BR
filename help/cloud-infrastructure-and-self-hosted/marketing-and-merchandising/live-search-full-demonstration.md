@@ -5,7 +5,7 @@ jira: KT-13168
 doc-type: Tutorial
 duration: 935
 audience: all
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration, Content Management
 role: Admin, Leader, User
@@ -50,7 +50,7 @@ topic_v2:
     internal-label: Administration
   - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
     internal-label: Taxonomy
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
