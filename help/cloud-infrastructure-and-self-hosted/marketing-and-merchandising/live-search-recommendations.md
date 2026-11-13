@@ -6,7 +6,7 @@ duration: 1897
 audience: all
 activity: use
 jira: KT-13792
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System, Personalization, Search
 topic: Commerce, Administration
 role: Admin, User
@@ -55,7 +55,7 @@ topic_v2:
     internal-label: Machine learning
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -73,12 +73,12 @@ O [!DNL Live Search] da Adobe Commerce oferece uma experiência de pesquisa ráp
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3430761?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412586?learn=on)
 
 
 ## Recursos adicionais
 
 * [Introdução a  [!DNL Live Search]](live-search.md)
-* [Visão geral das [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html?lang=pt-BR)
-* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html?lang=pt-BR)
-* [Introdução às recomendações de produto](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html?lang=pt-BR)
+* [Visão geral das [!DNL Live Search]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/overview.html)
+* [Commerce Services Connector](https://experienceleague.adobe.com/docs/commerce-merchant-services/user-guides/integration-services/saas.html)
+* [Introdução às recomendações de produto](https://experienceleague.adobe.com/docs/commerce-merchant-services/product-recommendations/overview.html)

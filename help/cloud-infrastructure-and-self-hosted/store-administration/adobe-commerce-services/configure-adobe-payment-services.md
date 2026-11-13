@@ -6,13 +6,13 @@ duration: 310
 jira: KT-14748
 audience: all
 activity: use
-last-substantial-update: 2024-01-09T00:00:00.000Z
+last-substantial-update: 2024-01-09
 feature: Configuration, System
 topic: Commerce, Administration
 role: Admin, User
 level: Beginner, Intermediate
 exl-id: 96877db6-54a3-4a89-ad84-c4559806b7fb
-badgePaas: label="Somente PaaS" type="Informative" url="https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/product-solutions" tooltip="Aplica-se somente a projetos do Adobe Commerce na nuvem (infraestrutura do PaaS gerenciada pela Adobe) e a projetos locais."
+badgePaas: label="Somente PaaS" type="Informative" url="https://experienceleague.adobe.com/en/docs/commerce/user-guides/product-solutions" tooltip="Aplica-se somente a projetos do Adobe Commerce na nuvem (infraestrutura do PaaS gerenciada pela Adobe) e a projetos locais."
 TQID: 'https://experienceleague.adobe.com/vMIy5Eo6UlUoqbF25L38zoRjEJYX6qTtifIfd8R44RU'
 product_v2:
   - id: eadea719-cf89-469b-a6fd-a236a7138047
@@ -35,7 +35,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -55,6 +55,6 @@ Para usar Serviços de pagamento para o Adobe Commerce e o Magento Open Source, 
 
 ## Recursos adicionais
 
-* [Serviços de pagamento integrados](https://experienceleague.adobe.com/pt-br/docs/commerce/payment-services/get-started/onboard){target="_blank"}
-* [Guia dos serviços de pagamento](https://experienceleague.adobe.com/pt-br/docs/commerce/payment-services/guide-overview){target="_blank"}
-* [Commerce Services Connector](https://experienceleague.adobe.com/pt-br/docs/commerce/user-guides/integration-services/saas){target="_blank"}
+* [Serviços de pagamento integrados](https://experienceleague.adobe.com/en/docs/commerce/payment-services/get-started/onboard){target="_blank"}
+* [Guia dos serviços de pagamento](https://experienceleague.adobe.com/en/docs/commerce/payment-services/guide-overview){target="_blank"}
+* [Commerce Services Connector](https://experienceleague.adobe.com/en/docs/commerce/user-guides/integration-services/saas){target="_blank"}

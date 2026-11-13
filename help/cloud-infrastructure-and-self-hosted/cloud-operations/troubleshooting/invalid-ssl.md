@@ -8,7 +8,7 @@ role: Developer
 level: Beginner, Intermediate
 doc-type: Technical Video
 duration: 141
-last-substantial-update: 2024-10-29T00:00:00.000Z
+last-substantial-update: 2024-10-29
 jira: KT-16406
 exl-id: 48d22302-b2ab-415a-a83c-a28eea45d87e
 TQID: 'https://experienceleague.adobe.com/V20IOaVF7WKSngYsUq2eGZG29iJvz1igCplGq6PuGOQ'
@@ -39,7 +39,7 @@ topic_v2:
     internal-label: Troubleshooting
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security
-source-git-commit: 75bc52b62261883eb98f22c112aaa7bd42b6382d
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -59,4 +59,4 @@ Saiba como identificar um certificado ssl expirado e, em seguida, como gerar nov
 * Identifique quando durante o processo um novo certificado está sendo criado.
 * Valide se o novo certificado está funcionando como esperado. &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3439756?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3435751?learn=on)

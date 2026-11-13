@@ -2,7 +2,7 @@
 title: Criar regras de preço do carrinho
 description: Saiba como criar regras de preço do carrinho que aplicam descontos no carrinho de compras quando as condições definidas são atendidas.
 doc-type: Tutorial
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers, Shopping Cart
 topic: Commerce, Administration
 role: User
@@ -38,7 +38,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '680'
 ht-degree: 0%
@@ -57,7 +57,7 @@ As regras de preço do carrinho aplicam descontos aos itens do carrinho de compr
 * Crie regras de preço do carrinho e códigos de cupom opcionais.
 * Veja como os descontos são exibidos no carrinho e para promoções.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412502?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343835?learn=on)
 
 ## Problemas de exibição de preços
 
@@ -154,5 +154,5 @@ no entanto, se descermos o terceiro decimal, isso mostraria que $3,98 foi dado, 
 
 ## Recursos adicionais
 
-* [Criar uma regra de preço do carrinho - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
-* [Códigos de cupom - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}
+* [Criar uma regra de preço do carrinho - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-create){target="_blank"}
+* [Códigos de cupom - [!DNL Commerce] Guia de merchandising e promoções](https://experienceleague.adobe.com/en/docs/commerce-admin/marketing/promotions/cart-rules/price-rules-cart-coupon){target="_blank"}

@@ -6,7 +6,7 @@ jira: KT-10648
 duration: 160
 audience: all
 activity: use
-last-substantial-update: 2023-04-27T00:00:00.000Z
+last-substantial-update: 2023-04-27
 feature: Configuration, System
 topic: Commerce, Administration, Content Management
 role: Admin, User
@@ -38,7 +38,7 @@ topic_v2:
     internal-label: Metadata
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 4c8284ddf9ad9c6ed6bae53e9b251c81dd3a2e33
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -56,8 +56,8 @@ As regras de produtos relacionados permitem direcionar a seleção de produtos a
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3417363?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/343837?learn=on)
 
 ## Recursos adicionais
 
-[Regras de Produto Relacionadas - [!DNL Commerce] Guia de Merchandising e Promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html?lang=pt-BR)
+[Regras de Produto Relacionadas - [!DNL Commerce] Guia de Merchandising e Promoções](https://experienceleague.adobe.com/docs/commerce-admin/marketing/promotions/product-relationships/product-related-rules.html)

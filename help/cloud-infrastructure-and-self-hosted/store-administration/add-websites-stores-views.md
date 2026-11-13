@@ -6,7 +6,7 @@ doc-type: Feature Video
 duration: 464
 audience: all
 activity: use
-last-substantial-update: 2022-12-28T00:00:00.000Z
+last-substantial-update: 2022-12-28
 feature: Configuration, System, Customers
 topic: Commerce, Administration
 role: Admin, Leader, User
@@ -43,7 +43,7 @@ level_v2:
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
     internal-label: Administration
-source-git-commit: 1ca7a530f5f685af907ad1d161ee73e45de6b667
+source-git-commit: 7cacb44c7b3d21b14d368b4387abde4df51f09ac
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -61,11 +61,11 @@ Cada instalação do Adobe Commerce e do Magento Open Source suporta uma hierarq
 
 >[!NOTE]
 >
->O conteúdo do vídeo reflete a versão 2.1.0. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/pt-br/docs/commerce-operations/release/notes/overview).
+>O conteúdo do vídeo reflete a versão 2.1.0. Para obter informações sobre atualizações em versões posteriores, consulte as [notas de versão](https://experienceleague.adobe.com/en/docs/commerce-operations/release/notes/overview).
 
->[!VIDEO](https://video.tv.adobe.com/v/3507657?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/35787?learn=on)
 
 ## Recursos adicionais
 
-* [Sites, Lojas e Exibições - [!DNL Commerce] Guia de Introdução](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/start/setup/websites-stores-views)
-* [Categoria raiz e hierarquia -  [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/pt-br/docs/commerce-admin/catalog/categories/category-root)
+* [Sites, Lojas e Exibições - [!DNL Commerce] Guia de Introdução](https://experienceleague.adobe.com/en/docs/commerce-admin/start/setup/websites-stores-views)
+* [Categoria raiz e hierarquia -  [!DNL Commerce] Guia de Gerenciamento de Catálogo](https://experienceleague.adobe.com/en/docs/commerce-admin/catalog/categories/category-root)
