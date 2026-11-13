@@ -56,7 +56,7 @@ Gerencie métodos de envio e entrega para entregar produtos aos seus clientes. N
 
 ## Conteúdo de vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/343658?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3411981?captions=por_br&learn=on)
 
 ## Recursos adicionais
 
